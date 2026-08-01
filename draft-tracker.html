@@ -201,6 +201,11 @@
   <button class="toggle-btn" id="restoreBtn" style="flex:1;">📥 Restore picks</button>
   <button class="toggle-btn" id="resetBtnTop" style="flex:0 0 auto; color:#FF8A8A; border-color:#5A2323;">↺ Reset</button>
 </div>
+<div class="search-row" style="padding-top:0;">
+  <button class="toggle-btn" id="liveSyncBtn" style="flex:1; border-color:var(--amber); color:var(--amber);">🔄 Live Sync: OFF</button>
+  <button class="toggle-btn" id="syncNowBtn" style="flex:0 0 auto;">Test now</button>
+</div>
+<div id="syncStatus" style="padding:2px 16px 8px; font-size:11px; color:var(--muted);"></div>
 <div id="storageWarning" style="display:none; margin:0 14px 8px; padding:8px 12px; background:#3A1414; border:1px solid #5A2323; border-radius:8px; font-size:11px; color:#FF8A8A; line-height:1.5;">
   Auto-save isn't working in this environment. Tap <b>Backup picks</b> every so often during the draft — it shows your progress as text to copy. If the page reloads, paste it back with <b>Restore picks</b>.
 </div>
@@ -508,6 +513,90 @@ let sortMode = 'MARKET'; // MARKET | ADJ | STEALS
 let hideDrafted = true; // default on — shrinks the list as the draft progresses
 let lastAction = null; // {name, prev} — for the Undo button
 
+// ---- Live Sync (Sleeper API) ----
+// Real, verified draft ID for The Hog Market. Read-only public endpoint — cannot
+// affect the actual draft, submit picks, or touch your Sleeper account in any way.
+const DRAFT_ID = '1311306096442343424';
+const PICKS_URL = `https://api.sleeper.app/v1/draft/${DRAFT_ID}/picks`;
+let syncEnabled = false;
+let syncTimer = null;
+
+function normalizeName(s){
+  return (s || '')
+    .toLowerCase()
+    .normalize('NFKD').replace(/[\u0300-\u036f]/g, '') // strip accents
+    .replace(/[^a-z0-9 ]/g, '') // strip punctuation (apostrophes, periods, hyphens)
+    .replace(/\b(jr|sr|ii|iii|iv|v)\b/g, '') // strip suffixes
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// Build a lookup from normalized name -> real name in our own player data, once.
+const nameLookup = {};
+all.forEach(p => { nameLookup[normalizeName(p[1])] = p[1]; });
+
+function resolvePlayerName(pick){
+  const meta = pick.metadata || {};
+  const raw = meta.first_name && meta.last_name
+    ? `${meta.first_name} ${meta.last_name}`
+    : (meta.player_id || pick.player_id || '');
+  const norm = normalizeName(raw);
+  if(nameLookup[norm]) return nameLookup[norm];
+
+  // DEF picks format differently in Sleeper (e.g. "Seattle Seahawks" vs our stored "Seahawks") —
+  // fall back to matching by team code, which Sleeper includes on every pick regardless of position.
+  const teamCode = (meta.team || '').toUpperCase();
+  if(teamCode){
+    const defMatch = defenses.find(d => d[2] === teamCode);
+    if(defMatch) return defMatch[1];
+  }
+  return null; // genuinely unmatched — will show up as a count in the sync status
+}
+
+async function pollDraft(manual){
+  const statusEl = document.getElementById('syncStatus');
+  try{
+    const res = await fetch(PICKS_URL, { cache: 'no-store' });
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const picks = await res.json();
+    if(!Array.isArray(picks)) throw new Error('unexpected response shape');
+
+    let applied = 0, unmatched = 0;
+    picks.forEach(pick => {
+      const name = resolvePlayerName(pick);
+      if(!name){ unmatched++; return; }
+      const status = (pick.draft_slot === MY_SLOT) ? 'mine' : 'other';
+      if(state[name] !== status){ state[name] = status; applied++; }
+    });
+    if(applied > 0){ saveState(); render(); }
+
+    const now = new Date().toLocaleTimeString();
+    statusEl.style.color = 'var(--mine)';
+    statusEl.textContent = `✓ Synced ${now} — ${picks.length} picks live` + (unmatched ? `, ${unmatched} unmatched (check manually)` : '');
+  }catch(e){
+    statusEl.style.color = '#FF8A8A';
+    statusEl.textContent = `✗ Sync failed (${e.message}). Likely CORS or network — fall back to screenshots/manual taps.`;
+    if(manual) console.error('Sync error', e);
+  }
+}
+
+function setSyncEnabled(on){
+  syncEnabled = on;
+  const btn = document.getElementById('liveSyncBtn');
+  if(on){
+    btn.textContent = '🔄 Live Sync: ON';
+    btn.style.background = 'var(--mine)';
+    btn.style.color = '#0A0E1A';
+    pollDraft(false);
+    syncTimer = setInterval(() => pollDraft(false), 6000);
+  } else {
+    btn.textContent = '🔄 Live Sync: OFF';
+    btn.style.background = '';
+    btn.style.color = 'var(--amber)';
+    if(syncTimer){ clearInterval(syncTimer); syncTimer = null; }
+  }
+}
+
 function posColor(pos){
   return {QB:'var(--qb)',RB:'var(--rb)',WR:'var(--wr)',TE:'var(--te)',DEF:'var(--def)',K:'var(--k)'}[pos] || 'var(--muted)';
 }
@@ -749,6 +838,13 @@ function hideAllUtilityPanels(){
     document.getElementById(id).style.display = 'none';
   });
 }
+
+document.getElementById('liveSyncBtn').addEventListener('click', ()=>{
+  setSyncEnabled(!syncEnabled);
+});
+document.getElementById('syncNowBtn').addEventListener('click', ()=>{
+  pollDraft(true);
+});
 
 document.getElementById('backupBtn').addEventListener('click', ()=>{
   hideAllUtilityPanels();
