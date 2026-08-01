@@ -580,14 +580,25 @@ async function pollDraft(manual){
   }
 }
 
+const SYNC_PREF_KEY = 'hogmarket_sync_pref_v1';
+
+async function saveSyncPref(on){
+  try{ localStorage.setItem(SYNC_PREF_KEY, on ? 'on' : 'off'); }catch(e){ /* best-effort, not critical */ }
+}
+async function loadSyncPref(){
+  try{ return localStorage.getItem(SYNC_PREF_KEY) === 'on'; }catch(e){ return false; }
+}
+
 function setSyncEnabled(on){
   syncEnabled = on;
+  saveSyncPref(on);
   const btn = document.getElementById('liveSyncBtn');
   if(on){
     btn.textContent = '🔄 Live Sync: ON';
     btn.style.background = 'var(--mine)';
     btn.style.color = '#0A0E1A';
     pollDraft(false);
+    if(syncTimer) clearInterval(syncTimer);
     syncTimer = setInterval(() => pollDraft(false), 6000);
   } else {
     btn.textContent = '🔄 Live Sync: OFF';
@@ -596,6 +607,15 @@ function setSyncEnabled(on){
     if(syncTimer){ clearInterval(syncTimer); syncTimer = null; }
   }
 }
+
+// Force an immediate re-sync whenever you switch back to this tab from Sleeper (or anywhere else) —
+// don't wait for the next 6s tick, which may have been paused while backgrounded.
+document.addEventListener('visibilitychange', () => {
+  if(!document.hidden && syncEnabled){ pollDraft(false); }
+});
+window.addEventListener('pageshow', () => {
+  if(syncEnabled){ pollDraft(false); }
+});
 
 function posColor(pos){
   return {QB:'var(--qb)',RB:'var(--rb)',WR:'var(--wr)',TE:'var(--te)',DEF:'var(--def)',K:'var(--k)'}[pos] || 'var(--muted)';
@@ -947,6 +967,8 @@ jumpBtn.addEventListener('click', ()=>{
 (async function init(){
   await loadState();
   render();
+  const wasSyncing = await loadSyncPref();
+  if(wasSyncing){ setSyncEnabled(true); }
 })();
 </script>
 </body>
