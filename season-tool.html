@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Hog Market Season Tool</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0A0E1A;
+    --surface:#121829;
+    --surface2:#182036;
+    --border:#232D48;
+    --text:#E8ECF4;
+    --muted:#7C8AA8;
+    --amber:#F2B84B;
+    --qb:#FF6B6B;
+    --rb:#4ADE80;
+    --wr:#5DADE2;
+    --te:#F5A623;
+    --def:#B48EF0;
+    --k:#94A3B8;
+    --mine:#2FD07A;
+    --warn:#FF8A8A;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color: transparent;}
+  body{margin:0; background:var(--bg); color:var(--text); font-family:'Inter',system-ui,sans-serif; padding-bottom:40px;}
+  h1,h2,.display{font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:0.02em;}
+  .mono{font-family:'JetBrains Mono',monospace;}
+
+  .topbar{position:sticky; top:0; z-index:20; background:linear-gradient(180deg,#10162A 0%,#0D1220 100%); border-bottom:1px solid var(--border); padding:12px 14px 10px;}
+  .topbar .title{font-size:13px; font-weight:600; color:var(--muted); letter-spacing:0.08em;}
+  .topbar .title b{color:var(--text);}
+  .refreshRow{display:flex; align-items:center; gap:8px; margin-top:8px;}
+  .refreshBtn{background:var(--surface2); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:8px 14px; font-size:12px; font-weight:600; cursor:pointer;}
+  .statusLine{font-size:11px; color:var(--muted);}
+
+  .tabs{display:flex; gap:6px; overflow-x:auto; padding:10px 14px; background:var(--bg); position:sticky; top:66px; z-index:19; border-bottom:1px solid var(--border);}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab{flex:0 0 auto; padding:8px 14px; border-radius:999px; font-size:12px; font-weight:700; font-family:'Oswald',sans-serif; letter-spacing:0.03em; border:1px solid var(--border); background:var(--surface); color:var(--muted); cursor:pointer;}
+  .tab.active{background:var(--text); color:var(--bg); border-color:var(--text);}
+
+  .searchRow{padding:10px 14px 0;}
+  .searchRow input{width:100%; background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:10px 12px; color:var(--text); font-size:14px; font-family:'Inter',sans-serif;}
+  .searchRow input:focus{outline:none; border-color:var(--amber);}
+
+  .content{padding:12px 14px 30px;}
+  .sectionTitle{font-size:12px; font-weight:700; color:var(--muted); letter-spacing:0.08em; margin:16px 0 8px; text-transform:uppercase;}
+  .sectionTitle:first-child{margin-top:0;}
+
+  .row{display:flex; align-items:center; gap:10px; background:var(--surface); border:1px solid var(--border); border-radius:10px; padding:10px 12px; margin-bottom:6px;}
+  .pos-pill{flex:0 0 40px; text-align:center; font-size:11px; font-weight:700; border-radius:6px; padding:4px 0; font-family:'Oswald',sans-serif;}
+  .pinfo{flex:1; min-width:0;}
+  .pname{font-size:14px; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .pmeta{font-size:11px; color:var(--muted); margin-top:1px;}
+  .flag{font-size:9px; font-weight:700; padding:2px 6px; border-radius:5px; margin-left:6px; letter-spacing:0.03em;}
+  .flag.rush{background:#3A2E12; color:var(--amber);}
+  .flag.def1{background:#241a3a; color:var(--def);}
+  .flag.trend{background:#123822; color:var(--mine);}
+  .flag.drop{background:#3A1414; color:var(--warn);}
+  .countBadge{flex:0 0 auto; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--muted); background:var(--surface2); border-radius:6px; padding:3px 8px;}
+
+  .emptyNote{padding:20px 14px; text-align:center; color:var(--muted); font-size:13px; line-height:1.5;}
+  .loadingNote{padding:16px 14px; text-align:center; color:var(--amber); font-size:13px;}
+  .errorNote{margin:10px 14px; padding:10px 12px; background:#3A1414; border:1px solid #5A2323; border-radius:8px; font-size:12px; color:var(--warn); line-height:1.5;}
+
+  .rosterGroup{margin-bottom:18px;}
+  .rosterGroupHeader{display:flex; align-items:center; gap:8px; margin-bottom:8px;}
+  .rosterGroupHeader .name{font-family:'Oswald',sans-serif; font-weight:700; font-size:14px;}
+  .rosterGroupHeader.mine .name{color:var(--mine);}
+
+  .footer-note{padding:16px; font-size:11px; color:var(--muted); border-top:1px solid var(--border); margin-top:20px; line-height:1.6;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="title">THE HOG MARKET <b>· SEASON TOOL</b></div>
+  <div class="refreshRow">
+    <button class="refreshBtn" id="refreshBtn">🔄 Refresh live data</button>
+    <span class="statusLine" id="statusLine">Loading…</span>
+  </div>
+</div>
+
+<div class="tabs" id="tabRow">
+  <div class="tab active" data-t="MINE">MY ROSTER</div>
+  <div class="tab" data-t="AVAILABLE">AVAILABLE (TRENDING)</div>
+  <div class="tab" data-t="SEARCH">SEARCH</div>
+  <div class="tab" data-t="LEAGUE">LEAGUE ROSTERS</div>
+</div>
+
+<div class="searchRow" id="searchRow" style="display:none;">
+  <input type="text" id="searchBox" placeholder="Search any player or team…">
+</div>
+
+<div class="content" id="content">
+  <div class="loadingNote">Loading league data…</div>
+</div>
+
+<div class="footer-note">
+  Live from Sleeper's public API — rosters, ownership, and trending add/drop are real-time. This tool does not have access to fantasy point projections or rankings (Sleeper's API doesn't expose those), so "Available" is sorted by real trending-add volume across Sleeper, not a value model. QB rushing-tier and DEF-tier flags reuse the same researched lists from the draft tracker. For deeper "who's actually good" analysis on a given week, bring the available list back to chat.
+</div>
+
+<script>
+// ---- Config ----
+const LEAGUE_ID = '1311306094580080640';
+const MY_USER_ID = '1276817022382010368'; // purpatron, verified against real roster data
+
+// Same researched lists as the draft tracker, for consistent flagging
+const QB_ELITE_RUSH = new Set(["Josh Allen","Lamar Jackson","Jayden Daniels","Jalen Hurts","Kyler Murray"]);
+const QB_MOD_RUSH = new Set(["Caleb Williams","Trevor Lawrence","Jaxson Dart","Daniel Jones","Bo Nix","Cam Ward"]);
+const DEF_TIER1 = new Set(["HOU","LAR","MIN"]); // Texans, Rams, Vikings
+const DEF_TIER1B = new Set(["SEA"]); // Seahawks
+const DEF_TIER2 = new Set(["DEN","PHI"]); // Broncos, Eagles
+
+const FANTASY_POS = new Set(['QB','RB','WR','TE','K','DEF']);
+
+// ---- State ----
+let players = {};       // player_id -> player object (or synthetic DEF object)
+let rosters = [];        // array from /rosters
+let users = [];          // array from /users
+let trendAdd = [];        // array of {player_id, count}
+let trendDrop = [];
+let rosteredIds = new Set();
+let myRoster = null;
+let rosterOwnerName = {}; // roster_id -> display_name
+let playersLoaded = false;
+
+function setStatus(msg, isError){
+  const el = document.getElementById('statusLine');
+  el.textContent = msg;
+  el.style.color = isError ? 'var(--warn)' : 'var(--muted)';
+}
+
+function posColor(pos){
+  return {QB:'var(--qb)',RB:'var(--rb)',WR:'var(--wr)',TE:'var(--te)',DEF:'var(--def)',K:'var(--k)'}[pos] || 'var(--muted)';
+}
+
+// Resolve a player_id to a display object {name, pos, team}. Handles DEF (team-abbrev IDs) specially.
+function resolvePlayer(id){
+  const p = players[id];
+  if(p){
+    if(p.position === 'DEF'){
+      return { name: p.full_name || p.team || id, pos: 'DEF', team: p.team || id };
+    }
+    const name = p.full_name || `${p.first_name || ''} ${p.last_name || ''}`.trim() || id;
+    return { name, pos: p.position || '?', team: p.team || '' };
+  }
+  // Fallback: bare team-code IDs that aren't in the players dict for some reason
+  if(/^[A-Z]{2,4}$/.test(id)){
+    return { name: id, pos: 'DEF', team: id };
+  }
+  return { name: id, pos: '?', team: '' };
+}
+
+function rushFlag(name){
+  if(QB_ELITE_RUSH.has(name)) return '<span class="flag rush">RUSH FLOOR</span>';
+  if(QB_MOD_RUSH.has(name)) return '<span class="flag rush">RUSH UPSIDE</span>';
+  return '';
+}
+function defFlag(team){
+  if(DEF_TIER1.has(team)) return '<span class="flag def1">TIER 1</span>';
+  if(DEF_TIER1B.has(team)) return '<span class="flag def1">TIER 1</span>';
+  if(DEF_TIER2.has(team)) return '<span class="flag def1">TIER 2</span>';
+  return '';
+}
+
+// ---- Fetching ----
+async function fetchJSON(url){
+  const res = await fetch(url, { cache: 'no-store' });
+  if(!res.ok) throw new Error('HTTP ' + res.status);
+  return res.json();
+}
+
+async function loadCore(){
+  // Small, fast calls first — rosters + users — so "My Roster" and "League Rosters" can render immediately.
+  const [rostersData, usersData] = await Promise.all([
+    fetchJSON(`https://api.sleeper.app/v1/league/${LEAGUE_ID}/rosters`),
+    fetchJSON(`https://api.sleeper.app/v1/league/${LEAGUE_ID}/users`)
+  ]);
+  rosters = rostersData;
+  users = usersData;
+
+  rosteredIds = new Set();
+  rosters.forEach(r => (r.players || []).forEach(id => rosteredIds.add(id)));
+
+  const userMap = {};
+  users.forEach(u => { userMap[u.user_id] = u.display_name; });
+  rosterOwnerName = {};
+  rosters.forEach(r => { rosterOwnerName[r.roster_id] = userMap[r.owner_id] || ('Roster ' + r.roster_id); });
+
+  myRoster = rosters.find(r => r.owner_id === MY_USER_ID) || null;
+}
+
+async function loadPlayers(){
+  const data = await fetchJSON('https://api.sleeper.app/v1/players/nfl');
+  // This is a huge object keyed by player_id — keep only fantasy-relevant, active entries to stay light in memory.
+  const filtered = {};
+  Object.keys(data).forEach(id => {
+    const p = data[id];
+    if(p && FANTASY_POS.has(p.position)){
+      filtered[id] = p;
+    }
+  });
+  players = filtered;
+  playersLoaded = true;
+}
+
+async function loadTrending(){
+  const [add, drop] = await Promise.all([
+    fetchJSON('https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=24&limit=50'),
+    fetchJSON('https://api.sleeper.app/v1/players/nfl/trending/drop?lookback_hours=24&limit=50')
+  ]);
+  trendAdd = add;
+  trendDrop = drop;
+}
+
+async function loadAll(){
+  setStatus('Loading rosters…');
+  try{
+    await loadCore();
+    renderTab(); // render My Roster / League Rosters as soon as we have this, even before players/trending finish
+  }catch(e){
+    setStatus('Failed to load rosters/users: ' + e.message, true);
+    return;
+  }
+
+  setStatus('Loading player database (this one\'s big, may take a few seconds)…');
+  try{
+    await loadPlayers();
+    renderTab();
+  }catch(e){
+    setStatus('Failed to load player database: ' + e.message, true);
+    return;
+  }
+
+  setStatus('Loading trending data…');
+  try{
+    await loadTrending();
+    renderTab();
+    setStatus('✓ Live — updated ' + new Date().toLocaleTimeString());
+  }catch(e){
+    setStatus('Rosters/players loaded, but trending data failed: ' + e.message, true);
+  }
+}
+
+// ---- Rendering ----
+let currentTab = 'MINE';
+let searchTerm = '';
+
+function playerRowHTML(id, extraFlags){
+  const p = resolvePlayer(id);
+  const flags = (extraFlags || '') + rushFlag(p.name) + (p.pos === 'DEF' ? defFlag(p.team) : '');
+  return `
+    <div class="row">
+      <div class="pos-pill" style="background:${posColor(p.pos)}22; color:${posColor(p.pos)};">${p.pos}</div>
+      <div class="pinfo">
+        <div class="pname">${p.name}${flags}</div>
+        <div class="pmeta">${p.team || ''}</div>
+      </div>
+    </div>`;
+}
+
+function renderMine(container){
+  if(!myRoster){
+    container.innerHTML = '<div class="emptyNote">Could not find your roster in this league\'s data.</div>';
+    return;
+  }
+  const starters = new Set(myRoster.starters || []);
+  const startersHTML = (myRoster.starters || []).map(id => playerRowHTML(id)).join('');
+  const benchIds = (myRoster.players || []).filter(id => !starters.has(id));
+  const benchHTML = benchIds.map(id => playerRowHTML(id)).join('');
+  container.innerHTML = `
+    <div class="sectionTitle">Starters</div>
+    ${startersHTML || '<div class="emptyNote">No starters set yet.</div>'}
+    <div class="sectionTitle">Bench</div>
+    ${benchHTML || '<div class="emptyNote">Empty.</div>'}
+  `;
+}
+
+function renderAvailable(container){
+  if(!playersLoaded){
+    container.innerHTML = '<div class="loadingNote">Waiting on player database to finish loading…</div>';
+    return;
+  }
+  const available = trendAdd.filter(t => !rosteredIds.has(t.player_id));
+  const myDrops = trendDrop.filter(t => myRoster && (myRoster.players || []).includes(t.player_id));
+
+  let html = '';
+  if(myDrops.length){
+    html += '<div class="sectionTitle">⚠ Trending down — on your roster</div>';
+    html += myDrops.map(t => playerRowHTML(t.player_id, '<span class="flag drop">▼ TRENDING</span>')).join('');
+  }
+  html += '<div class="sectionTitle">🔥 Trending adds — still available in Hog Market</div>';
+  if(available.length === 0){
+    html += '<div class="emptyNote">Nothing trending right now that isn\'t already rostered somewhere in this league.</div>';
+  } else {
+    html += available.map(t => playerRowHTML(t.player_id, '<span class="flag trend">▲ TRENDING</span>')).join('');
+  }
+  container.innerHTML = html;
+}
+
+function renderSearch(container){
+  if(!playersLoaded){
+    container.innerHTML = '<div class="loadingNote">Waiting on player database to finish loading…</div>';
+    return;
+  }
+  if(!searchTerm){
+    container.innerHTML = '<div class="emptyNote">Type a player or team name above.</div>';
+    return;
+  }
+  const t = searchTerm.toLowerCase();
+  const matches = Object.keys(players).filter(id => {
+    const p = resolvePlayer(id);
+    return p.name.toLowerCase().includes(t) || (p.team || '').toLowerCase().includes(t);
+  }).slice(0, 40);
+
+  if(matches.length === 0){
+    container.innerHTML = '<div class="emptyNote">No matches.</div>';
+    return;
+  }
+  container.innerHTML = matches.map(id => {
+    const ownerRoster = rosters.find(r => (r.players || []).includes(id));
+    const status = ownerRoster
+      ? `<span class="countBadge">${ownerRoster.roster_id === (myRoster && myRoster.roster_id) ? 'YOURS' : rosterOwnerName[ownerRoster.roster_id]}</span>`
+      : `<span class="countBadge" style="color:var(--mine);">AVAILABLE</span>`;
+    const p = resolvePlayer(id);
+    return `
+      <div class="row">
+        <div class="pos-pill" style="background:${posColor(p.pos)}22; color:${posColor(p.pos)};">${p.pos}</div>
+        <div class="pinfo">
+          <div class="pname">${p.name}${rushFlag(p.name)}${p.pos==='DEF'?defFlag(p.team):''}</div>
+          <div class="pmeta">${p.team || ''}</div>
+        </div>
+        ${status}
+      </div>`;
+  }).join('');
+}
+
+function renderLeague(container){
+  let html = '';
+  rosters.slice().sort((a,b) => a.roster_id - b.roster_id).forEach(r => {
+    const isMine = myRoster && r.roster_id === myRoster.roster_id;
+    html += `<div class="rosterGroup">
+      <div class="rosterGroupHeader ${isMine ? 'mine' : ''}"><span class="name">${rosterOwnerName[r.roster_id] || ('Roster ' + r.roster_id)}${isMine ? ' (you)' : ''}</span></div>
+      ${(r.players || []).map(id => playerRowHTML(id)).join('')}
+    </div>`;
+  });
+  container.innerHTML = html;
+}
+
+function renderTab(){
+  const container = document.getElementById('content');
+  document.getElementById('searchRow').style.display = currentTab === 'SEARCH' ? 'block' : 'none';
+  if(currentTab === 'MINE') renderMine(container);
+  else if(currentTab === 'AVAILABLE') renderAvailable(container);
+  else if(currentTab === 'SEARCH') renderSearch(container);
+  else if(currentTab === 'LEAGUE') renderLeague(container);
+}
+
+document.getElementById('tabRow').addEventListener('click', (e) => {
+  const tab = e.target.closest('.tab');
+  if(!tab) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  currentTab = tab.dataset.t;
+  renderTab();
+});
+
+document.getElementById('searchBox').addEventListener('input', (e) => {
+  searchTerm = e.target.value;
+  renderTab();
+});
+
+document.getElementById('refreshBtn').addEventListener('click', () => {
+  loadAll();
+});
+
+loadAll();
+</script>
+</body>
+</html>
