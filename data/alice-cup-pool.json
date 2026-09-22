@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-22T09:25:07.891Z",
+  "generated_at": "2026-09-22T15:54:33.844Z",
   "free_agent_count": 737,
   "free_agents": [
     {
@@ -31,12 +31,6 @@
       "name": "Adam Trautman",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Adonai Mitchell",
-      "position": "WR",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -86,6 +80,12 @@
       "position": "FB",
       "team": "LAC",
       "injury_status": null
+    },
+    {
+      "name": "Alec Pierce",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": "Out"
     },
     {
       "name": "Alex Bachman",
@@ -1138,12 +1138,6 @@
       "injury_status": null
     },
     {
-      "name": "Denzel Boston",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Derius Davis",
       "position": "WR",
       "team": "LAC",
@@ -1675,6 +1669,12 @@
       "name": "Hendon Hooker",
       "position": "QB",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2314,6 +2314,12 @@
       "injury_status": null
     },
     {
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
+    },
+    {
       "name": "Jordan Hudson",
       "position": "WR",
       "team": "DAL",
@@ -2785,12 +2791,6 @@
       "name": "Laquon Treadwell",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
-    },
-    {
-      "name": "Las Vegas Raiders",
-      "position": "DEF",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -4453,6 +4453,11 @@
           "team": "NE"
         },
         {
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE"
+        },
+        {
           "name": "Dak Prescott",
           "position": "QB",
           "team": "DAL"
@@ -4483,19 +4488,14 @@
           "team": "LAR"
         },
         {
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL"
         },
         {
-          "name": "Houston Texans",
+          "name": "Las Vegas Raiders",
           "position": "DEF",
-          "team": "HOU"
+          "team": "LV"
         }
       ]
     },
@@ -4659,6 +4659,11 @@
           "team": "GB"
         },
         {
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
@@ -4697,11 +4702,6 @@
           "name": "Amon-Ra St. Brown",
           "position": "WR",
           "team": "DET"
-        },
-        {
-          "name": "Alec Pierce",
-          "position": "WR",
-          "team": "IND"
         },
         {
           "name": "Chase Brown",
