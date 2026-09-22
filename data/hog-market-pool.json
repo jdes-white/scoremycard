@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-22T15:50:20.164Z",
-  "free_agent_count": 706,
+  "generated_at": "2026-09-22T20:34:44.739Z",
+  "free_agent_count": 707,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -199,7 +199,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Arizona Cardinals",
@@ -4057,7 +4057,7 @@
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Van Jefferson",
@@ -4111,6 +4111,12 @@
       "name": "Will Kacmarek",
       "position": "TE",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Will Levis",
+      "position": "QB",
+      "team": "NYJ",
       "injury_status": null
     },
     {
