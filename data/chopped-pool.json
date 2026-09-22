@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-22T16:08:50.597Z",
-  "free_agent_count": 711,
+  "generated_at": "2026-09-22T20:48:00.248Z",
+  "free_agent_count": 712,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -199,7 +199,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ashton Dulin",
@@ -3403,7 +3403,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Riley Leonard",
@@ -4105,7 +4105,7 @@
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Van Jefferson",
@@ -4147,6 +4147,12 @@
       "name": "Will Kacmarek",
       "position": "TE",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Will Levis",
+      "position": "QB",
+      "team": "NYJ",
       "injury_status": null
     },
     {
