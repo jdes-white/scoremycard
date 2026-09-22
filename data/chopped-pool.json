@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-22T09:04:06.250Z",
+  "generated_at": "2026-09-22T16:08:50.597Z",
   "free_agent_count": 711,
   "free_agents": [
     {
@@ -860,12 +860,6 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
-    },
-    {
-      "name": "Dak Prescott",
-      "position": "QB",
-      "team": "DAL",
-      "injury_status": null
     },
     {
       "name": "Dalen Cambre",
@@ -2020,6 +2014,12 @@
       "injury_status": null
     },
     {
+      "name": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS",
+      "injury_status": "Out"
+    },
+    {
       "name": "Jayden Higgins",
       "position": "WR",
       "team": "HOU",
@@ -2893,12 +2893,6 @@
       "name": "Marshall Lang",
       "position": "TE",
       "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "MarShawn Lloyd",
-      "position": "RB",
-      "team": "GB",
       "injury_status": null
     },
     {
@@ -4036,6 +4030,12 @@
       "injury_status": null
     },
     {
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
@@ -4478,11 +4478,6 @@
           "team": "BUF"
         },
         {
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS"
-        },
-        {
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
@@ -4491,6 +4486,11 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "name": "Dak Prescott",
+          "position": "QB",
+          "team": "DAL"
         },
         {
           "name": "DJ Moore",
@@ -4607,6 +4607,11 @@
       "owner": "purpatron",
       "players": [
         {
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
@@ -4650,11 +4655,6 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "name": "Christian Watson",
