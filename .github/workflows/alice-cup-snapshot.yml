@@ -1,0 +1,30 @@
+name: Alice Cup Player Pool Snapshot
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # every 3 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Sleeper data and build snapshot
+        run: node scripts/alice-cup-snapshot.js
+
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "alice-cup-snapshot-bot"
+          git config user.email "actions@github.com"
+          git add data/alice-cup-pool.json
+          git diff --cached --quiet || git commit -m "Update Alice Cup player pool snapshot"
+          git push
