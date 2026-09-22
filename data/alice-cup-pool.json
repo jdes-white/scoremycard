@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-22T20:37:50.625Z",
-  "free_agent_count": 738,
+  "generated_at": "2026-09-22T23:22:04.318Z",
+  "free_agent_count": 746,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -205,7 +205,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Arizona Cardinals",
@@ -370,6 +370,12 @@
       "injury_status": null
     },
     {
+      "name": "Brandin Cooks",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Brandon Aiyuk",
       "position": "WR",
       "team": "SF",
@@ -403,6 +409,12 @@
       "name": "Brayden Willis",
       "position": "TE",
       "team": "SF",
+      "injury_status": null
+    },
+    {
+      "name": "Brenden Bates",
+      "position": "TE",
+      "team": "JAX",
       "injury_status": null
     },
     {
@@ -823,6 +835,12 @@
       "name": "Cleveland Browns",
       "position": "DEF",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Cody Hardy",
+      "position": "TE",
+      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -1656,7 +1674,7 @@
     {
       "name": "Hayden Rucci",
       "position": "TE",
-      "team": "JAX",
+      "team": "LAC",
       "injury_status": null
     },
     {
@@ -1699,6 +1717,12 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
+      "injury_status": null
+    },
+    {
+      "name": "Ihmir Smith-Marsette",
+      "position": "WR",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -1747,6 +1771,12 @@
       "name": "Isaiah Davis",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Isaiah Hodgins",
+      "position": "WR",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -2084,6 +2114,12 @@
       "position": "TE",
       "team": "TEN",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jaret Patterson",
+      "position": "RB",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Jarquez Hunter",
@@ -3718,6 +3754,12 @@
       "injury_status": null
     },
     {
+      "name": "Shedrick Jackson",
+      "position": "WR",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Simi Fehoko",
       "position": "WR",
       "team": "ARI",
@@ -3836,6 +3878,12 @@
       "position": "TE",
       "team": "NE",
       "injury_status": "Out"
+    },
+    {
+      "name": "Tanner Conner",
+      "position": "TE",
+      "team": "NE",
+      "injury_status": null
     },
     {
       "name": "Tanner Hudson",
