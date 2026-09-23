@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-22T23:20:18.525Z",
+  "generated_at": "2026-09-23T02:03:48.416Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -199,7 +199,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Arizona Cardinals",
