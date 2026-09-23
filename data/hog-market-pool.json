@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-23T08:01:31.905Z",
-  "free_agent_count": 714,
+  "generated_at": "2026-09-23T13:54:53.433Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -4024,6 +4024,12 @@
       "injury_status": null
     },
     {
+      "name": "Ty Simpson",
+      "position": "QB",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
@@ -5188,11 +5194,6 @@
           "name": "Tyler Loop",
           "position": "K",
           "team": "BAL"
-        },
-        {
-          "name": "Ty Simpson",
-          "position": "QB",
-          "team": "LAR"
         },
         {
           "name": "Marcus Mariota",
