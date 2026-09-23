@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-22T23:22:04.318Z",
+  "generated_at": "2026-09-23T02:18:56.581Z",
   "free_agent_count": 746,
   "free_agents": [
     {
@@ -205,7 +205,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Arizona Cardinals",
@@ -790,6 +790,12 @@
       "injury_status": null
     },
     {
+      "name": "Chris Rodriguez",
+      "position": "RB",
+      "team": "JAX",
+      "injury_status": null
+    },
+    {
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
@@ -1262,12 +1268,6 @@
       "position": "WR",
       "team": "MIN",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Dontayvion Wicks",
-      "position": "WR",
-      "team": "PHI",
-      "injury_status": null
     },
     {
       "name": "Drake Dabney",
@@ -2560,6 +2560,12 @@
       "injury_status": null
     },
     {
+      "name": "Kansas City Chiefs",
+      "position": "DEF",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Kansei Matsuzawa",
       "position": "K",
       "team": "LV",
@@ -3403,12 +3409,6 @@
       "name": "Omari Evans",
       "position": "WR",
       "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "Oronde Gadsden",
-      "position": "TE",
-      "team": "LAC",
       "injury_status": null
     },
     {
@@ -4703,11 +4703,6 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "Chris Rodriguez",
-          "position": "RB",
-          "team": "JAX"
-        },
-        {
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
@@ -4763,6 +4758,11 @@
           "team": "CIN"
         },
         {
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "name": "Baltimore Ravens",
           "position": "DEF",
           "team": "BAL"
@@ -4788,6 +4788,11 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "name": "Oronde Gadsden",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "name": "Ka'imi Fairbairn",
@@ -4833,11 +4838,6 @@
           "name": "Bijan Robinson",
           "position": "RB",
           "team": "ATL"
-        },
-        {
-          "name": "Kansas City Chiefs",
-          "position": "DEF",
-          "team": "KC"
         },
         {
           "name": "Seattle Seahawks",
