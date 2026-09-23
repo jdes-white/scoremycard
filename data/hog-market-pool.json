@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-23T13:54:53.433Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-09-23T18:42:27.520Z",
+  "free_agent_count": 710,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -85,7 +85,7 @@
       "name": "Alec Pierce",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Alex Bachman",
@@ -124,12 +124,6 @@
       "injury_status": null
     },
     {
-      "name": "Anderson Castle",
-      "position": "RB",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Andre Szmyt",
       "position": "K",
       "team": "CLE",
@@ -139,7 +133,7 @@
       "name": "Andrei Iosivas",
       "position": "WR",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Andrew Armstrong",
@@ -232,12 +226,6 @@
       "injury_status": null
     },
     {
-      "name": "Audric Estime",
-      "position": "RB",
-      "team": "NO",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
@@ -247,12 +235,6 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
-    },
-    {
-      "name": "Bailey Zappe",
-      "position": "QB",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -1105,7 +1087,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "Doubtful"
     },
     {
       "name": "DeMario Douglas",
@@ -1306,12 +1288,6 @@
       "injury_status": null
     },
     {
-      "name": "E.J. Williams",
-      "position": "WR",
-      "team": "CAR",
-      "injury_status": null
-    },
-    {
       "name": "Easton Stick",
       "position": "QB",
       "team": "TB",
@@ -1339,6 +1315,12 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Eli Pancol",
+      "position": "WR",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -1507,12 +1489,6 @@
       "name": "Garrett Scantling",
       "position": "WR",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Gary Jennings",
-      "position": "WR",
-      "team": "LAC",
       "injury_status": null
     },
     {
@@ -3910,12 +3886,6 @@
       "injury_status": null
     },
     {
-      "name": "Trayvon Rudolph",
-      "position": "WR",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Tre Tucker",
       "position": "WR",
       "team": "LV",
@@ -4033,7 +4003,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tylan Wallace",
