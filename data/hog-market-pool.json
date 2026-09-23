@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-23T18:42:27.520Z",
-  "free_agent_count": 710,
+  "generated_at": "2026-09-23T23:15:59.584Z",
+  "free_agent_count": 711,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -241,7 +241,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Barrett Burns",
@@ -397,7 +397,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brennan Presley",
@@ -685,7 +685,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Blair",
@@ -721,7 +721,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Myarick",
@@ -811,7 +811,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -1003,7 +1003,7 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "David Sills",
@@ -1075,7 +1075,7 @@
       "name": "DeeJay Dallas",
       "position": "RB",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Deion Burks",
@@ -1153,7 +1153,7 @@
       "name": "DJ Giddens",
       "position": "RB",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "DJ Rogers",
@@ -1501,7 +1501,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Germie Bernard",
@@ -1891,7 +1891,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaleel McLaughlin",
@@ -2047,7 +2047,7 @@
       "name": "Jauan Jennings",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jawhar Jordan",
@@ -2059,7 +2059,7 @@
       "name": "Jayden Reed",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Jaydn Ott",
@@ -2557,7 +2557,7 @@
       "name": "Keon Coleman",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kerrith Whyte",
@@ -2719,7 +2719,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -2815,6 +2815,12 @@
       "name": "Malachi Fields",
       "position": "WR",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Malick Meiga",
+      "position": "WR",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -3367,7 +3373,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -3451,7 +3457,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Roschon Johnson",
@@ -3475,7 +3481,7 @@
       "name": "Ryan Miller",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Salvon Ahmed",
@@ -3985,7 +3991,7 @@
       "name": "Ty Johnson",
       "position": "RB",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ty Pezza",
