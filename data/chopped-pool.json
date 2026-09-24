@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-24T13:58:38.889Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-09-24T18:47:53.791Z",
+  "free_agent_count": 716,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -73,6 +73,12 @@
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "AJ Henning",
+      "position": "WR",
+      "team": "MIA",
       "injury_status": null
     },
     {
@@ -481,6 +487,12 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2221,12 +2233,6 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Jordan Love",
-      "position": "QB",
-      "team": "GB",
       "injury_status": null
     },
     {
@@ -4821,6 +4827,11 @@
           "team": "ARI"
         },
         {
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB"
+        },
+        {
           "name": "Jake Ferguson",
           "position": "TE",
           "team": "DAL"
@@ -4829,11 +4840,6 @@
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         }
       ]
     },
