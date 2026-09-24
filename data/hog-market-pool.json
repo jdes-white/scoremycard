@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-24T01:52:50.832Z",
-  "free_agent_count": 711,
+  "generated_at": "2026-09-24T07:52:18.885Z",
+  "free_agent_count": 710,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -25,12 +25,6 @@
       "name": "Adam Trautman",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Adonai Mitchell",
-      "position": "WR",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -1426,12 +1420,6 @@
       "injury_status": null
     },
     {
-      "name": "Evan McPherson",
-      "position": "K",
-      "team": "CIN",
-      "injury_status": null
-    },
-    {
       "name": "Evan Svoboda",
       "position": "TE",
       "team": "LAC",
@@ -2054,6 +2042,12 @@
       "position": "RB",
       "team": "HOU",
       "injury_status": null
+    },
+    {
+      "name": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": "Out"
     },
     {
       "name": "Jayden Reed",
@@ -2872,6 +2866,12 @@
       "injury_status": null
     },
     {
+      "name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Marvin Mims",
       "position": "WR",
       "team": "DEN",
@@ -2983,12 +2983,6 @@
       "name": "Michael Carter",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Michael Penix",
-      "position": "QB",
-      "team": "ATL",
       "injury_status": null
     },
     {
@@ -3488,12 +3482,6 @@
       "position": "RB",
       "team": "CHI",
       "injury_status": null
-    },
-    {
-      "name": "Sam Darnold",
-      "position": "QB",
-      "team": "SEA",
-      "injury_status": "Questionable"
     },
     {
       "name": "Sam Ehlinger",
@@ -4084,6 +4072,12 @@
       "injury_status": null
     },
     {
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "team": "CHI",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
@@ -4277,9 +4271,9 @@
       "owner": "DingoRen",
       "players": [
         {
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB"
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "name": "Jalen Coker",
@@ -4451,11 +4445,6 @@
       "owner": "jackbell96",
       "players": [
         {
-          "name": "Tyson Bagent",
-          "position": "QB",
-          "team": "CHI"
-        },
-        {
           "name": "Caleb Williams",
           "position": "QB",
           "team": "CHI"
@@ -4519,6 +4508,11 @@
           "name": "David Montgomery",
           "position": "RB",
           "team": "HOU"
+        },
+        {
+          "name": "Evan McPherson",
+          "position": "K",
+          "team": "CIN"
         },
         {
           "name": "James Cook",
@@ -4722,6 +4716,11 @@
           "team": "DAL"
         },
         {
+          "name": "Michael Penix",
+          "position": "QB",
+          "team": "ATL"
+        },
+        {
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
@@ -4729,11 +4728,6 @@
         {
           "name": "Cam Skattebo",
           "position": "RB",
-          "team": "NYG"
-        },
-        {
-          "name": "Jaxson Dart",
-          "position": "QB",
           "team": "NYG"
         },
         {
@@ -4765,6 +4759,11 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF"
+        },
+        {
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA"
         },
         {
           "name": "Jonathan Taylor",
