@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-24T13:53:33.003Z",
-  "free_agent_count": 743,
+  "generated_at": "2026-09-24T18:44:34.773Z",
+  "free_agent_count": 744,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -61,6 +61,12 @@
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "AJ Henning",
+      "position": "WR",
+      "team": "MIA",
       "injury_status": null
     },
     {
