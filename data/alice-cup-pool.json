@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-24T07:55:22.650Z",
+  "generated_at": "2026-09-24T13:53:33.003Z",
   "free_agent_count": 743,
   "free_agents": [
     {
@@ -103,12 +103,6 @@
       "name": "Allen Hurns",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
-    },
-    {
-      "name": "Alvin Kamara",
-      "position": "RB",
-      "team": "NO",
       "injury_status": null
     },
     {
@@ -3940,6 +3934,12 @@
       "injury_status": null
     },
     {
+      "name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
@@ -4767,11 +4767,6 @@
           "team": "CAR"
         },
         {
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "name": "Oronde Gadsden",
           "position": "TE",
           "team": "LAC"
@@ -4780,6 +4775,11 @@
           "name": "Ka'imi Fairbairn",
           "position": "K",
           "team": "HOU"
+        },
+        {
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "name": "DJ Moore",
