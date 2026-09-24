@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-24T18:43:29.163Z",
-  "free_agent_count": 711,
+  "generated_at": "2026-09-24T23:36:42.575Z",
+  "free_agent_count": 712,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -337,7 +337,7 @@
       "name": "Brady Russell",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Braelon Allen",
@@ -505,7 +505,7 @@
       "name": "Cairo Santos",
       "position": "K",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Caleb Lohner",
@@ -853,7 +853,7 @@
       "name": "Cooper Rush",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -925,7 +925,7 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Daniel Carlson",
@@ -949,7 +949,7 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Darius Cooper",
@@ -1486,6 +1486,12 @@
       "injury_status": null
     },
     {
+      "name": "Gary Jennings",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
@@ -1789,7 +1795,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Velling",
@@ -2053,7 +2059,7 @@
       "name": "Jaxson Dart",
       "position": "QB",
       "team": "NYG",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jayden Reed",
@@ -2515,7 +2521,7 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kendrick Bourne",
@@ -4171,7 +4177,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Wyatt Houston",
@@ -4201,7 +4207,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Xavier Restrepo",
