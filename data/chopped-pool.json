@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-24T18:47:53.791Z",
-  "free_agent_count": 716,
+  "generated_at": "2026-09-24T23:43:21.768Z",
+  "free_agent_count": 717,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -43,7 +43,7 @@
       "name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Adrian Killins",
@@ -331,7 +331,7 @@
       "name": "Brady Russell",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Braelon Allen",
@@ -841,7 +841,7 @@
       "name": "Cooper Rush",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -919,7 +919,7 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Daniel Jones",
@@ -943,7 +943,7 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Darius Cooper",
@@ -1486,6 +1486,12 @@
       "injury_status": null
     },
     {
+      "name": "Gary Jennings",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
@@ -1711,7 +1717,7 @@
       "name": "J.K. Dobbins",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "J'Mari Taylor",
@@ -1783,7 +1789,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Velling",
@@ -2527,7 +2533,7 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kendrick Bourne",
@@ -3433,7 +3439,7 @@
       "name": "RJ Harvey",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Robbie Ouzts",
@@ -3517,7 +3523,7 @@
       "name": "Sam Darnold",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Sam Ehlinger",
@@ -3715,7 +3721,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tank Dell",
@@ -4201,7 +4207,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Wyatt Houston",
@@ -4231,7 +4237,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Xavier Restrepo",
