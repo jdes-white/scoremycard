@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-23T23:18:23.992Z",
+  "generated_at": "2026-09-24T02:06:05.840Z",
   "free_agent_count": 742,
   "free_agents": [
     {
@@ -343,7 +343,7 @@
       "name": "Brady Russell",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Braelon Allen",
@@ -889,7 +889,7 @@
       "name": "Cooper Kupp",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cooper Rush",
@@ -2155,7 +2155,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylin Noel",
@@ -2563,7 +2563,7 @@
       "name": "Kaytron Allen",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ke'Shawn Williams",
