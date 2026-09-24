@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-24T02:51:12.721Z",
+  "generated_at": "2026-09-24T08:04:31.166Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -1696,6 +1696,12 @@
       "injury_status": null
     },
     {
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "J'Mari Taylor",
       "position": "RB",
       "team": "JAX",
@@ -2954,12 +2960,6 @@
       "position": "QB",
       "team": "LAR",
       "injury_status": "IR"
-    },
-    {
-      "name": "Matthew Golden",
-      "position": "WR",
-      "team": "GB",
-      "injury_status": null
     },
     {
       "name": "Matthew Stafford",
@@ -4853,6 +4853,11 @@
           "team": "NYG"
         },
         {
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB"
+        },
+        {
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC"
@@ -4871,11 +4876,6 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "name": "Ja'Marr Chase",
