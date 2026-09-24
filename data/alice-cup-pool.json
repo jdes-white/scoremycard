@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-24T02:06:05.840Z",
-  "free_agent_count": 742,
+  "generated_at": "2026-09-24T07:55:22.650Z",
+  "free_agent_count": 743,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -3592,6 +3592,12 @@
       "injury_status": null
     },
     {
+      "name": "Romeo Doubs",
+      "position": "WR",
+      "team": "NE",
+      "injury_status": null
+    },
+    {
       "name": "Ronnie Bell",
       "position": "WR",
       "team": "LV",
@@ -4650,11 +4656,6 @@
           "name": "Jonathan Taylor",
           "position": "RB",
           "team": "IND"
-        },
-        {
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "name": "George Pickens",
