@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-24T23:39:35.127Z",
+  "generated_at": "2026-09-25T02:23:48.701Z",
   "free_agent_count": 745,
   "free_agents": [
     {
@@ -889,7 +889,7 @@
       "name": "Cooper Kupp",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Cooper Rush",
@@ -1567,7 +1567,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -2569,7 +2569,7 @@
       "name": "Kaytron Allen",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ke'Shawn Williams",
@@ -3949,7 +3949,7 @@
       "name": "Terrance Ferguson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tez Johnson",
