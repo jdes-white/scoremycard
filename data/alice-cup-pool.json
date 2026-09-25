@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-25T19:01:13.344Z",
+  "generated_at": "2026-09-25T23:41:09.960Z",
   "free_agent_count": 744,
   "free_agents": [
     {
@@ -247,7 +247,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Barrett Burns",
@@ -703,7 +703,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Chimere Dike",
@@ -715,7 +715,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Blair",
@@ -763,7 +763,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Myarick",
@@ -973,7 +973,7 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Daniel Carlson",
@@ -1117,7 +1117,7 @@
       "name": "DeeJay Dallas",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Deion Burks",
@@ -1969,7 +1969,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -2161,7 +2161,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaylin Noel",
@@ -2377,7 +2377,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Josh Cameron",
@@ -2617,7 +2617,7 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kendrick Bourne",
@@ -2635,7 +2635,7 @@
       "name": "Kene Nwangwu",
       "position": "RB",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Kenny Fletcher",
@@ -2833,7 +2833,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Levine Toilolo",
@@ -3001,7 +3001,7 @@
       "name": "Marquise Brown",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Marshall Lang",
@@ -3523,7 +3523,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Virgil",
