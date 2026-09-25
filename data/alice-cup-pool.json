@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-25T14:17:09.039Z",
-  "free_agent_count": 745,
+  "generated_at": "2026-09-25T19:01:13.344Z",
+  "free_agent_count": 744,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -211,7 +211,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -403,7 +403,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brennan Presley",
@@ -529,7 +529,7 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Caleb Lohner",
@@ -703,7 +703,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Chimere Dike",
@@ -2155,7 +2155,7 @@
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Jaylin Lane",
@@ -3031,7 +3031,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Mason Tipton",
@@ -3688,12 +3688,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Scotty Miller",
-      "position": "WR",
-      "team": "CHI",
-      "injury_status": null
-    },
-    {
       "name": "Sean Clifford",
       "position": "QB",
       "team": "CIN",
@@ -4111,7 +4105,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trey Palmer",
