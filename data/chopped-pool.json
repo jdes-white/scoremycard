@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-25T16:22:52.844Z",
+  "generated_at": "2026-09-25T21:01:42.349Z",
   "free_agent_count": 716,
   "free_agents": [
     {
@@ -205,7 +205,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -235,7 +235,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Barrett Burns",
@@ -391,7 +391,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brennan Presley",
@@ -919,7 +919,7 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Daniel Jones",
@@ -1063,7 +1063,7 @@
       "name": "DeeJay Dallas",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Deion Burks",
@@ -2533,7 +2533,7 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kendrick Bourne",
@@ -2743,7 +2743,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Levine Toilolo",
@@ -3967,7 +3967,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trey Palmer",
