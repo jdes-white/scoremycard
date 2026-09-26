@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-26T18:10:14.906Z",
-  "free_agent_count": 743,
+  "generated_at": "2026-09-26T23:14:15.726Z",
+  "free_agent_count": 742,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -49,7 +49,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "AJ Barner",
@@ -133,7 +133,7 @@
       "name": "Andrei Iosivas",
       "position": "WR",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Andrew Armstrong",
@@ -523,7 +523,7 @@
       "name": "Cairo Santos",
       "position": "K",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Caleb Douglas",
@@ -2995,7 +2995,7 @@
       "name": "Marquise Brown",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Marshall Lang",
@@ -3847,7 +3847,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tank Dell",
@@ -3931,12 +3931,6 @@
       "name": "Tennessee Titans",
       "position": "DEF",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Terrance Ferguson",
-      "position": "TE",
-      "team": "LAR",
       "injury_status": null
     },
     {
@@ -4351,7 +4345,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Woody Marks",
@@ -5072,6 +5066,11 @@
         {
           "name": "Blake Corum",
           "position": "RB",
+          "team": "LAR"
+        },
+        {
+          "name": "Terrance Ferguson",
+          "position": "TE",
           "team": "LAR"
         },
         {
