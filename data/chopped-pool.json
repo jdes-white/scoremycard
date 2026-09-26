@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-25T21:01:42.349Z",
+  "generated_at": "2026-09-26T03:11:26.187Z",
   "free_agent_count": 716,
   "free_agents": [
     {
@@ -667,7 +667,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Chimere Dike",
@@ -679,7 +679,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Blair",
@@ -721,7 +721,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Myarick",
@@ -2065,7 +2065,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaylin Noel",
@@ -2275,7 +2275,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jordyn Tyson",
@@ -2551,7 +2551,7 @@
       "name": "Kene Nwangwu",
       "position": "RB",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Kenny Fletcher",
@@ -2911,7 +2911,7 @@
       "name": "Marquise Brown",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Marshall Lang",
@@ -3397,7 +3397,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Virgil",
