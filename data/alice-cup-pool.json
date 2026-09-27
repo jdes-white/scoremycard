@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-27T02:23:58.267Z",
+  "generated_at": "2026-09-27T08:41:06.722Z",
   "free_agent_count": 742,
   "free_agents": [
     {
@@ -1129,7 +1129,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Doubtful"
+      "injury_status": "IR"
     },
     {
       "name": "DeMario Douglas",
