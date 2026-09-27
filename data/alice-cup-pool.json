@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-27T08:41:06.722Z",
+  "generated_at": "2026-09-27T14:23:35.254Z",
   "free_agent_count": 742,
   "free_agents": [
     {
@@ -241,6 +241,12 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
+      "injury_status": null
+    },
+    {
+      "name": "Baltimore Ravens",
+      "position": "DEF",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -1213,6 +1219,12 @@
       "name": "DJ Uiagalelei",
       "position": "QB",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -2536,12 +2548,6 @@
       "injury_status": null
     },
     {
-      "name": "Kansas City Chiefs",
-      "position": "DEF",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
       "name": "Kansei Matsuzawa",
       "position": "K",
       "team": "LV",
@@ -3820,12 +3826,6 @@
       "injury_status": null
     },
     {
-      "name": "T.J. Hockenson",
-      "position": "TE",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Tahj Brooks",
       "position": "RB",
       "team": "CIN",
@@ -4709,9 +4709,9 @@
           "team": "SF"
         },
         {
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "name": "Josh Jacobs",
@@ -4739,9 +4739,9 @@
           "team": "PHI"
         },
         {
-          "name": "Baltimore Ravens",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "BAL"
+          "team": "KC"
         }
       ]
     },
