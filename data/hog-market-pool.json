@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-27T02:08:03.233Z",
-  "free_agent_count": 710,
+  "generated_at": "2026-09-27T08:38:31.176Z",
+  "free_agent_count": 708,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -103,12 +103,6 @@
       "name": "Allen Hurns",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
-    },
-    {
-      "name": "Alvin Kamara",
-      "position": "RB",
-      "team": "NO",
       "injury_status": null
     },
     {
@@ -235,6 +229,12 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Baltimore Ravens",
+      "position": "DEF",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -475,12 +475,6 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Buffalo Bills",
-      "position": "DEF",
-      "team": "BUF",
       "injury_status": null
     },
     {
@@ -742,12 +736,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Cincinnati Bengals",
-      "position": "DEF",
-      "team": "CIN",
-      "injury_status": null
-    },
-    {
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
@@ -889,6 +877,12 @@
       "name": "Dalen Cambre",
       "position": "WR",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Dallas Cowboys",
+      "position": "DEF",
+      "team": "DAL",
       "injury_status": null
     },
     {
@@ -1087,7 +1081,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Doubtful"
+      "injury_status": "IR"
     },
     {
       "name": "DeMario Douglas",
@@ -3106,15 +3100,15 @@
       "injury_status": null
     },
     {
-      "name": "New Orleans Saints",
+      "name": "New England Patriots",
       "position": "DEF",
-      "team": "NO",
+      "team": "NE",
       "injury_status": null
     },
     {
-      "name": "New York Giants",
+      "name": "New Orleans Saints",
       "position": "DEF",
-      "team": "NYG",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -3355,12 +3349,6 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
-    },
-    {
-      "name": "Rashod Bateman",
-      "position": "WR",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3874,15 +3862,15 @@
       "injury_status": null
     },
     {
-      "name": "Travis Vokolek",
-      "position": "TE",
-      "team": "ARI",
+      "name": "Travis Hunter",
+      "position": "DB",
+      "team": "JAX",
       "injury_status": null
     },
     {
-      "name": "Tre Tucker",
-      "position": "WR",
-      "team": "LV",
+      "name": "Travis Vokolek",
+      "position": "TE",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4276,9 +4264,9 @@
           "team": "NYJ"
         },
         {
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
+          "name": "Oronde Gadsden",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "name": "Matthew Golden",
@@ -4294,6 +4282,11 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
         },
         {
           "name": "Carnell Tate",
@@ -4316,9 +4309,14 @@
           "team": "SEA"
         },
         {
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB"
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "name": "Jalen Hurts",
@@ -4329,11 +4327,6 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "name": "Breece Hall",
@@ -4597,6 +4590,11 @@
           "team": "TB"
         },
         {
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL"
+        },
+        {
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI"
@@ -4624,24 +4622,14 @@
           "team": "TB"
         },
         {
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC"
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "name": "Harold Fannin",
           "position": "TE",
           "team": "CLE"
-        },
-        {
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
-        },
-        {
-          "name": "Travis Hunter",
-          "position": "DB",
-          "team": "JAX"
         },
         {
           "name": "Jacory Croskey-Merritt",
@@ -4664,19 +4652,24 @@
           "team": "NE"
         },
         {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
+        },
+        {
           "name": "Courtland Sutton",
           "position": "WR",
           "team": "DEN"
         },
         {
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "name": "Trevor Lawrence",
           "position": "QB",
           "team": "JAX"
+        },
+        {
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "name": "Jameson Williams",
@@ -4699,9 +4692,9 @@
           "team": "ATL"
         },
         {
-          "name": "Baltimore Ravens",
+          "name": "Cincinnati Bengals",
           "position": "DEF",
-          "team": "BAL"
+          "team": "CIN"
         }
       ]
     },
@@ -4883,9 +4876,9 @@
           "team": "SEA"
         },
         {
-          "name": "Dallas Cowboys",
+          "name": "Buffalo Bills",
           "position": "DEF",
-          "team": "DAL"
+          "team": "BUF"
         }
       ]
     },
@@ -5144,9 +5137,9 @@
           "team": "JAX"
         },
         {
-          "name": "New England Patriots",
+          "name": "New York Giants",
           "position": "DEF",
-          "team": "NE"
+          "team": "NYG"
         }
       ]
     },
@@ -5155,6 +5148,11 @@
       "team_name": "TheR3alMcCoy25",
       "owner": "TheR3alMcCoy25",
       "players": [
+        {
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV"
+        },
         {
           "name": "Woody Marks",
           "position": "RB",
