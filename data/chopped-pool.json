@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-27T16:16:24.644Z",
+  "generated_at": "2026-09-27T20:45:17.006Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -559,7 +559,7 @@
       "name": "Camden Brown",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cameron Dorner",
@@ -589,7 +589,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Carson Steele",
@@ -793,7 +793,7 @@
       "name": "Colbie Young",
       "position": "WR",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Colby Parkinson",
@@ -1345,7 +1345,7 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emanuel Wilson",
@@ -1357,7 +1357,7 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emmanuel Henderson",
@@ -1705,7 +1705,7 @@
       "name": "J.J. McCarthy",
       "position": "QB",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "J'Mari Taylor",
@@ -1879,7 +1879,7 @@
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jalen Milroe",
@@ -2125,7 +2125,7 @@
       "name": "Joe Fagnano",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Joe Flacco",
@@ -2653,7 +2653,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -3247,7 +3247,7 @@
       "name": "Ollie Gordon",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Omar Cooper",
@@ -3361,7 +3361,7 @@
       "name": "Rachaad White",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Raheim Sanders",
@@ -3397,7 +3397,7 @@
       "name": "Reggie Virgil",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Rhamondre Stevenson",
@@ -3985,7 +3985,7 @@
       "name": "Treyton Welch",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Troy Franklin",
@@ -4033,7 +4033,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tylan Wallace",
@@ -4117,7 +4117,7 @@
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Van Jefferson",
@@ -4255,7 +4255,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
