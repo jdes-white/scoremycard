@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-27T20:45:17.006Z",
+  "generated_at": "2026-09-27T23:33:42.064Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -745,7 +745,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -799,7 +799,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Cole Kmet",
@@ -889,7 +889,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dameon Pierce",
@@ -1753,7 +1753,7 @@
       "name": "Jack Bech",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Doyle",
@@ -2305,7 +2305,7 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Josh Whyle",
@@ -2761,7 +2761,7 @@
       "name": "Lil'Jordan Humphrey",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Lucas Krull",
@@ -2923,7 +2923,7 @@
       "name": "Marvin Mims",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Mason Rudolph",
@@ -3523,7 +3523,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -4003,7 +4003,7 @@
       "name": "Tutu Atwell",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ty Chandler",
@@ -4027,7 +4027,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
