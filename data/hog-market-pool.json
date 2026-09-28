@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-28T09:02:03.280Z",
+  "generated_at": "2026-09-28T18:50:39.439Z",
   "free_agent_count": 708,
   "free_agents": [
     {
@@ -1710,7 +1710,7 @@
     {
       "name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "injury_status": "Out"
     },
     {
@@ -2311,7 +2311,7 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Josh Whyle",
