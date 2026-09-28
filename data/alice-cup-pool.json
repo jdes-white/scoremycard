@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-27T23:28:27.057Z",
+  "generated_at": "2026-09-28T02:27:55.685Z",
   "free_agent_count": 742,
   "free_agents": [
     {
@@ -241,7 +241,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Baltimore Ravens",
@@ -859,7 +859,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
