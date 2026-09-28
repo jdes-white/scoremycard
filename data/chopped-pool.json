@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-28T12:44:07.629Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-09-28T21:02:00.012Z",
+  "free_agent_count": 717,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -229,7 +229,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Barion Brown",
@@ -1704,7 +1704,7 @@
     {
       "name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "injury_status": "Out"
     },
     {
@@ -2305,7 +2305,7 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Josh Whyle",
@@ -3061,6 +3061,12 @@
       "name": "Mike Gesicki",
       "position": "TE",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Miles Kitselman",
+      "position": "TE",
+      "team": "DET",
       "injury_status": null
     },
     {
@@ -4081,6 +4087,12 @@
       "name": "Tyler Johnson",
       "position": "WR",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team": "LV",
       "injury_status": null
     },
     {
