@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-27T23:33:42.064Z",
+  "generated_at": "2026-09-28T03:15:54.514Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -229,7 +229,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Barion Brown",
@@ -799,7 +799,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -3433,7 +3433,7 @@
       "name": "RJ Harvey",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Robbie Ouzts",
@@ -3793,7 +3793,7 @@
       "name": "Terrance Ferguson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tez Johnson",
