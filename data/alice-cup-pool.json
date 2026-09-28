@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-28T09:05:17.725Z",
+  "generated_at": "2026-09-28T18:54:57.138Z",
   "free_agent_count": 742,
   "free_agents": [
     {
@@ -241,7 +241,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Baltimore Ravens",
@@ -1806,7 +1806,7 @@
     {
       "name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "injury_status": "Out"
     },
     {
@@ -2413,7 +2413,7 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Josh Whyle",
