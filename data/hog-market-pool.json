@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-29T09:10:29.140Z",
-  "free_agent_count": 710,
+  "generated_at": "2026-09-29T17:07:51.310Z",
+  "free_agent_count": 709,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1864,12 +1864,6 @@
       "injury_status": null
     },
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
@@ -2986,6 +2980,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Michael Trigg",
       "position": "TE",
       "team": "DAL",
@@ -3036,7 +3036,7 @@
     {
       "name": "Mitchell Tinsley",
       "position": "WR",
-      "team": "HOU",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -3439,12 +3439,6 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Ronnie Bell",
-      "position": "WR",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -4426,11 +4420,6 @@
           "name": "Bryce Young",
           "position": "QB",
           "team": "CAR"
-        },
-        {
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
         },
         {
           "name": "Jordan Addison",
