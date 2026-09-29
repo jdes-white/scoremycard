@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-29T17:13:05.043Z",
-  "free_agent_count": 742,
+  "generated_at": "2026-09-29T21:37:45.302Z",
+  "free_agent_count": 747,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -223,6 +223,12 @@
       "name": "Atlanta Falcons",
       "position": "DEF",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -1002,7 +1008,7 @@
     {
       "name": "Dare Ogunbowale",
       "position": "RB",
-      "team": "LV",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1178,6 +1184,12 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
+    },
+    {
+      "name": "Devin Neal",
+      "position": "RB",
+      "team": "MIN",
+      "injury_status": "Questionable"
     },
     {
       "name": "Devin Singletary",
@@ -1855,7 +1867,7 @@
       "name": "Jack Bech",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jack Doyle",
@@ -2281,6 +2293,12 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "John FitzPatrick",
+      "position": "TE",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -3448,6 +3466,12 @@
       "injury_status": null
     },
     {
+      "name": "Phillip Dorsett",
+      "position": "WR",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Pierre Strong",
       "position": "RB",
       "team": "GB",
@@ -4118,6 +4142,12 @@
       "position": "TE",
       "team": "NO",
       "injury_status": "Out"
+    },
+    {
+      "name": "Treyvhon Saunders",
+      "position": "WR",
+      "team": "HOU",
+      "injury_status": null
     },
     {
       "name": "Troy Franklin",
