@@ -1,0 +1,13 @@
+{
+  "name": "sleeper-live-proxy",
+  "version": "1.0.0",
+  "description": "On-demand live proxy for Sleeper fantasy football league data - computes fresh on every request, no caching.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
