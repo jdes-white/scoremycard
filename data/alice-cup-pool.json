@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-28T18:54:57.138Z",
-  "free_agent_count": 742,
+  "generated_at": "2026-09-29T00:43:37.600Z",
+  "free_agent_count": 744,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -871,7 +871,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -1993,7 +1993,7 @@
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Milroe",
@@ -3172,6 +3172,12 @@
       "injury_status": null
     },
     {
+      "name": "Miles Kitselman",
+      "position": "TE",
+      "team": "DET",
+      "injury_status": null
+    },
+    {
       "name": "Miller Moss",
       "position": "QB",
       "team": "CHI",
@@ -3883,7 +3889,7 @@
       "name": "Tanner McKee",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Taquan Mizzell",
@@ -4177,7 +4183,7 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Allgeier",
@@ -4225,6 +4231,12 @@
       "name": "Tyler Johnson",
       "position": "WR",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team": "LV",
       "injury_status": null
     },
     {
