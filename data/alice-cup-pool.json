@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-29T09:14:13.253Z",
-  "free_agent_count": 744,
+  "generated_at": "2026-09-29T17:13:05.043Z",
+  "free_agent_count": 742,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1960,12 +1960,6 @@
       "injury_status": null
     },
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
@@ -3192,7 +3186,7 @@
     {
       "name": "Mitchell Tinsley",
       "position": "WR",
-      "team": "HOU",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -3607,12 +3601,6 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "Ronnie Bell",
-      "position": "WR",
-      "team": "LV",
       "injury_status": null
     },
     {
