@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-09-29T12:00:24.454Z",
+  "generated_at": "2026-09-29T19:45:15.440Z",
   "free_agent_count": 730,
   "free_agents": [
     {
@@ -1888,12 +1888,6 @@
       "injury_status": null
     },
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
@@ -2209,6 +2203,12 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "John FitzPatrick",
+      "position": "TE",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -3156,7 +3156,7 @@
     {
       "name": "Mitchell Tinsley",
       "position": "WR",
-      "team": "HOU",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -3553,12 +3553,6 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "Ronnie Bell",
-      "position": "WR",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -4064,6 +4058,12 @@
       "position": "TE",
       "team": "NO",
       "injury_status": "Out"
+    },
+    {
+      "name": "Treyvhon Saunders",
+      "position": "WR",
+      "team": "HOU",
+      "injury_status": null
     },
     {
       "name": "Troy Franklin",
