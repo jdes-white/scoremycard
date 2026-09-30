@@ -150,6 +150,15 @@ const server = http.createServer(async (req, res) => {
       return;
     }
 
+    if (routePath === 'robots.txt') {
+      res.writeHead(200, {
+        'Content-Type': 'text/plain; charset=utf-8',
+        'Cache-Control': 'no-store',
+      });
+      res.end('User-agent: *\nAllow: /\n');
+      return;
+    }
+
     if (LEAGUES[routePath]) {
       const snapshot = await buildSnapshot(routePath);
       sendJSON(res, 200, snapshot);
