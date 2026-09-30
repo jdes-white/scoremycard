@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-30T09:07:32.169Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-09-30T17:11:14.036Z",
+  "free_agent_count": 746,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -226,6 +226,12 @@
       "injury_status": null
     },
     {
+      "name": "Audric Estime",
+      "position": "RB",
+      "team": "MIN",
+      "injury_status": null
+    },
+    {
       "name": "Austin Ekeler",
       "position": "RB",
       "team": "WAS",
@@ -319,12 +325,6 @@
       "name": "Blake Bortles",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Blake Grupe",
-      "position": "K",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -481,12 +481,6 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Bryce Oliver",
-      "position": "WR",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -961,12 +955,6 @@
       "name": "Dameon Pierce",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
-    },
-    {
-      "name": "Damon Bankston",
-      "position": "RB",
-      "team": "GB",
       "injury_status": null
     },
     {
@@ -2017,7 +2005,7 @@
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen Milroe",
@@ -2128,12 +2116,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Jaret Patterson",
-      "position": "RB",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Jarquez Hunter",
       "position": "RB",
       "team": "MIA",
@@ -2233,12 +2215,6 @@
       "name": "Jeremy Ruckert",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Jerome Ford",
-      "position": "RB",
-      "team": "MIN",
       "injury_status": null
     },
     {
@@ -2530,12 +2506,6 @@
       "injury_status": null
     },
     {
-      "name": "Justin Shorter",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "K.J. Osborn",
       "position": "WR",
       "team": "TEN",
@@ -2599,12 +2569,6 @@
       "name": "Kaytron Allen",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "Ke'Shawn Williams",
-      "position": "WR",
-      "team": "CIN",
       "injury_status": null
     },
     {
@@ -2836,6 +2800,12 @@
       "injury_status": null
     },
     {
+      "name": "Lawrence Keys",
+      "position": "WR",
+      "team": "DET",
+      "injury_status": null
+    },
+    {
       "name": "Lee Smith",
       "position": "TE",
       "team": "ATL",
@@ -3055,7 +3025,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Mason Tipton",
@@ -3109,12 +3079,6 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
-    },
-    {
-      "name": "Messiah Swinson",
-      "position": "TE",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -3394,12 +3358,6 @@
       "injury_status": null
     },
     {
-      "name": "Odell Beckham",
-      "position": "WR",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Olamide Zaccheaus",
       "position": "WR",
       "team": "ATL",
@@ -3427,6 +3385,12 @@
       "name": "Oscar Delp",
       "position": "TE",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Owen Wright",
+      "position": "RB",
+      "team": "LV",
       "injury_status": null
     },
     {
@@ -4219,7 +4183,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tylan Wallace",
