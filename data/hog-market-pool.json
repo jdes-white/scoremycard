@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-09-30T17:05:46.626Z",
-  "free_agent_count": 712,
+  "generated_at": "2026-09-30T21:35:24.166Z",
+  "free_agent_count": 713,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -289,7 +289,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ben Skowronek",
@@ -709,7 +709,7 @@
       "name": "Chris Godwin",
       "position": "WR",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Manhertz",
@@ -721,7 +721,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Myarick",
@@ -1261,7 +1261,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dwayne Haskins",
@@ -1900,6 +1900,12 @@
       "injury_status": null
     },
     {
+      "name": "Jake Haener",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
@@ -1909,7 +1915,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaleel McLaughlin",
@@ -1924,6 +1930,12 @@
       "injury_status": null
     },
     {
+      "name": "Jalen Cropper",
+      "position": "WR",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
@@ -1933,12 +1945,6 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
-    },
-    {
-      "name": "Jalen Moreno-Cropper",
-      "position": "WR",
-      "team": "NO",
       "injury_status": null
     },
     {
@@ -2077,7 +2083,7 @@
       "name": "Jayden Reed",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jaydn Ott",
@@ -2563,7 +2569,7 @@
       "name": "Keon Coleman",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kerrith Whyte",
@@ -2587,7 +2593,7 @@
       "name": "KhaDarel Hodge",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Khalil Dinkins",
@@ -2731,7 +2737,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -3046,15 +3052,15 @@
       "injury_status": null
     },
     {
-      "name": "Mitchell Evans",
-      "position": "TE",
-      "team": "CAR",
+      "name": "Mitch Tinsley",
+      "position": "WR",
+      "team": "CIN",
       "injury_status": null
     },
     {
-      "name": "Mitchell Tinsley",
-      "position": "WR",
-      "team": "CIN",
+      "name": "Mitchell Evans",
+      "position": "TE",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -3067,7 +3073,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Moliki Matavao",
@@ -3379,7 +3385,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -4009,7 +4015,7 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Badie",
@@ -4081,7 +4087,7 @@
       "name": "Tyrone Tracy",
       "position": "RB",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyson Bagent",
@@ -4207,7 +4213,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Xavier Restrepo",
@@ -4472,11 +4478,6 @@
           "team": "LAR"
         },
         {
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG"
-        },
-        {
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC"
@@ -4517,19 +4518,24 @@
           "team": "SF"
         },
         {
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "name": "Evan McPherson",
           "position": "K",
           "team": "CIN"
         },
         {
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
+        },
+        {
           "name": "James Cook",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "name": "New Orleans Saints",
@@ -4738,6 +4744,11 @@
           "team": "WAS"
         },
         {
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
@@ -4778,6 +4789,11 @@
           "team": "SEA"
         },
         {
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
           "name": "Jonathan Taylor",
           "position": "RB",
           "team": "IND"
@@ -4788,19 +4804,9 @@
           "team": "PHI"
         },
         {
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG"
-        },
-        {
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN"
-        },
-        {
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "name": "San Francisco 49ers",
