@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-30T17:11:14.036Z",
-  "free_agent_count": 746,
+  "generated_at": "2026-09-30T21:38:27.098Z",
+  "free_agent_count": 747,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -295,7 +295,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ben Skowronek",
@@ -751,7 +751,7 @@
       "name": "Chris Godwin",
       "position": "WR",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Manhertz",
@@ -763,7 +763,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Myarick",
@@ -1315,7 +1315,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dwayne Haskins",
@@ -1984,6 +1984,12 @@
       "injury_status": null
     },
     {
+      "name": "Jake Haener",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
@@ -2002,6 +2008,12 @@
       "injury_status": null
     },
     {
+      "name": "Jalen Cropper",
+      "position": "WR",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
@@ -2011,12 +2023,6 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
-    },
-    {
-      "name": "Jalen Moreno-Cropper",
-      "position": "WR",
-      "team": "NO",
       "injury_status": null
     },
     {
@@ -2647,7 +2653,7 @@
       "name": "Keon Coleman",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kerrith Whyte",
@@ -2671,7 +2677,7 @@
       "name": "KhaDarel Hodge",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Khalil Dinkins",
@@ -2821,7 +2827,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -3172,15 +3178,15 @@
       "injury_status": null
     },
     {
-      "name": "Mitchell Evans",
-      "position": "TE",
-      "team": "CAR",
+      "name": "Mitch Tinsley",
+      "position": "WR",
+      "team": "CIN",
       "injury_status": null
     },
     {
-      "name": "Mitchell Tinsley",
-      "position": "WR",
-      "team": "CIN",
+      "name": "Mitchell Evans",
+      "position": "TE",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -3193,7 +3199,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Moliki Matavao",
@@ -3523,7 +3529,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -4189,7 +4195,7 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Allgeier",
@@ -4273,7 +4279,7 @@
       "name": "Tyrone Tracy",
       "position": "RB",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyson Bagent",
@@ -4399,7 +4405,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Xavier Restrepo",
