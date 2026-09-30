@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-09-29T21:37:45.302Z",
-  "free_agent_count": 747,
+  "generated_at": "2026-09-30T02:53:18.075Z",
+  "free_agent_count": 750,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -427,6 +427,12 @@
       "name": "Brenton Strange",
       "position": "TE",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Brett Rypien",
+      "position": "QB",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -1006,6 +1012,12 @@
       "injury_status": null
     },
     {
+      "name": "Dante Pettis",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Dare Ogunbowale",
       "position": "RB",
       "team": "HOU",
@@ -1220,6 +1232,12 @@
       "position": "RB",
       "team": "IND",
       "injury_status": "Out"
+    },
+    {
+      "name": "DJ Herman",
+      "position": "RB",
+      "team": "MIA",
+      "injury_status": null
     },
     {
       "name": "DJ Rogers",
@@ -2425,7 +2443,7 @@
       "name": "Josh Oliver",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Josh Whyle",
