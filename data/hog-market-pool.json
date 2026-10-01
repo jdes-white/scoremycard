@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-01T02:44:15.837Z",
+  "generated_at": "2026-10-01T09:30:50.280Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -500,6 +500,12 @@
       "position": "K",
       "team": "CHI",
       "injury_status": null
+    },
+    {
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": "Questionable"
     },
     {
       "name": "Caleb Lohner",
@@ -1864,12 +1870,6 @@
       "injury_status": null
     },
     {
-      "name": "Jadarian Price",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Jaden Bradley",
       "position": "WR",
       "team": "WAS",
@@ -2008,12 +2008,6 @@
       "injury_status": null
     },
     {
-      "name": "Jameis Winston",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "James Conner",
       "position": "RB",
       "team": "ARI",
@@ -2083,6 +2077,12 @@
       "name": "Jaxson Dart",
       "position": "QB",
       "team": "NYG",
+      "injury_status": "IR"
+    },
+    {
+      "name": "Jayden Higgins",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": "IR"
     },
     {
@@ -2641,12 +2641,6 @@
       "name": "Kolbe Katsis",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Konata Mumpfield",
-      "position": "WR",
-      "team": "LAR",
       "injury_status": null
     },
     {
@@ -3790,6 +3784,12 @@
       "injury_status": null
     },
     {
+      "name": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": "Doubtful"
+    },
+    {
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
@@ -4495,11 +4495,6 @@
           "team": "LAC"
         },
         {
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
@@ -4518,6 +4513,11 @@
           "name": "Kaelon Black",
           "position": "RB",
           "team": "SF"
+        },
+        {
+          "name": "Jameis Winston",
+          "position": "QB",
+          "team": "NYG"
         },
         {
           "name": "Dallas Goedert",
@@ -4766,9 +4766,9 @@
           "team": "NYG"
         },
         {
-          "name": "Caleb Douglas",
-          "position": "WR",
-          "team": "MIA"
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "name": "Denzel Boston",
@@ -4940,14 +4940,14 @@
           "team": "JAX"
         },
         {
-          "name": "Jayden Higgins",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "name": "Jared Goff",
