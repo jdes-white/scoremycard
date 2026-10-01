@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-01T17:40:50.092Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-10-01T22:06:08.346Z",
+  "free_agent_count": 750,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -211,7 +211,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Athan Kaliakmanis",
@@ -751,7 +751,7 @@
       "name": "Chris Godwin",
       "position": "WR",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Manhertz",
@@ -1321,7 +1321,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Dwayne Haskins",
@@ -2191,7 +2191,7 @@
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaylin Lane",
@@ -2962,6 +2962,12 @@
       "injury_status": null
     },
     {
+      "name": "Malik Turner",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Malik Willis",
       "position": "QB",
       "team": "MIA",
@@ -3247,7 +3253,7 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Nate Carter",
@@ -3349,7 +3355,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Noah Gray",
@@ -3367,7 +3373,7 @@
       "name": "Noah Whittington",
       "position": "RB",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Olamide Zaccheaus",
@@ -4291,6 +4297,12 @@
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Ulysses Bentley",
+      "position": "RB",
+      "team": "NO",
       "injury_status": null
     },
     {
