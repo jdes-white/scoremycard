@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-01T12:18:24.596Z",
-  "free_agent_count": 733,
+  "generated_at": "2026-10-01T20:04:03.148Z",
+  "free_agent_count": 731,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -205,7 +205,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Athan Kaliakmanis",
@@ -2422,12 +2422,6 @@
       "injury_status": null
     },
     {
-      "name": "Julian Hicks",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Julian Hill",
       "position": "TE",
       "team": "NE",
@@ -2569,7 +2563,7 @@
       "name": "Keenan Allen",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Keleki Latu",
@@ -3697,12 +3691,6 @@
       "name": "Shedeur Sanders",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Shedrick Jackson",
-      "position": "WR",
-      "team": "BAL",
       "injury_status": null
     },
     {
