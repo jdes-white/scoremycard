@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-01T02:59:15.792Z",
+  "generated_at": "2026-10-01T09:49:42.230Z",
   "free_agent_count": 749,
   "free_agents": [
     {
@@ -691,12 +691,6 @@
       "name": "Charlie Woerner",
       "position": "TE",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Chicago Bears",
-      "position": "DEF",
-      "team": "CHI",
       "injury_status": null
     },
     {
@@ -2170,6 +2164,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Jayden Reed",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": "IR"
+    },
+    {
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
@@ -2413,12 +2413,6 @@
       "name": "Josh Cuevas",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Josh Downs",
-      "position": "WR",
-      "team": "IND",
       "injury_status": null
     },
     {
@@ -2968,12 +2962,6 @@
       "injury_status": null
     },
     {
-      "name": "Malik Washington",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null
-    },
-    {
       "name": "Malik Willis",
       "position": "QB",
       "team": "MIA",
@@ -3265,6 +3253,12 @@
       "name": "Nate Carter",
       "position": "RB",
       "team": "KC",
+      "injury_status": null
+    },
+    {
+      "name": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
       "injury_status": null
     },
     {
@@ -3619,6 +3613,12 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
       "injury_status": null
     },
     {
@@ -4577,11 +4577,6 @@
       "owner": "Daffballs",
       "players": [
         {
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
@@ -4635,6 +4630,11 @@
           "name": "Brock Purdy",
           "position": "QB",
           "team": "SF"
+        },
+        {
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "name": "Detroit Lions",
@@ -4930,9 +4930,9 @@
           "team": "NYJ"
         },
         {
-          "name": "New England Patriots",
+          "name": "Chicago Bears",
           "position": "DEF",
-          "team": "NE"
+          "team": "CHI"
         }
       ]
     },
@@ -4942,14 +4942,14 @@
       "owner": "Tiki50",
       "players": [
         {
-          "name": "Jayden Reed",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV"
+        },
+        {
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
         },
         {
           "name": "Luther Burden",
