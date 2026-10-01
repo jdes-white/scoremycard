@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-01T09:49:42.230Z",
-  "free_agent_count": 749,
+  "generated_at": "2026-10-01T17:40:50.092Z",
+  "free_agent_count": 748,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -325,6 +325,12 @@
       "name": "Blake Bortles",
       "position": "QB",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Blake Grupe",
+      "position": "K",
+      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -2476,12 +2482,6 @@
       "injury_status": null
     },
     {
-      "name": "Julian Hicks",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Julian Hill",
       "position": "TE",
       "team": "NE",
@@ -3751,12 +3751,6 @@
       "name": "Shedeur Sanders",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Shedrick Jackson",
-      "position": "WR",
-      "team": "BAL",
       "injury_status": null
     },
     {
