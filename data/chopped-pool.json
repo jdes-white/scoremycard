@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-01T20:04:03.148Z",
-  "free_agent_count": 731,
+  "generated_at": "2026-10-02T00:28:01.643Z",
+  "free_agent_count": 733,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -721,7 +721,7 @@
       "name": "Chris Godwin",
       "position": "WR",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Manhertz",
@@ -1249,7 +1249,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
@@ -1279,7 +1279,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Dwayne Haskins",
@@ -1339,7 +1339,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Pancol",
@@ -2119,7 +2119,7 @@
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaylin Lane",
@@ -2938,6 +2938,12 @@
       "injury_status": null
     },
     {
+      "name": "Malik Turner",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Malik Washington",
       "position": "WR",
       "team": "MIA",
@@ -3229,7 +3235,7 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Nate Carter",
@@ -3301,7 +3307,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Noah Gray",
@@ -3319,7 +3325,7 @@
       "name": "Noah Whittington",
       "position": "RB",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Olamide Zaccheaus",
@@ -3853,7 +3859,7 @@
       "name": "Taylen Green",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Teagan Quitoriano",
@@ -4216,6 +4222,12 @@
       "injury_status": null
     },
     {
+      "name": "Ulysses Bentley",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
@@ -4255,7 +4267,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
