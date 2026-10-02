@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-02T11:32:23.914Z",
-  "free_agent_count": 749,
+  "generated_at": "2026-10-02T16:59:41.763Z",
+  "free_agent_count": 748,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -457,7 +457,7 @@
       "name": "British Brooks",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brittain Brown",
@@ -535,7 +535,7 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Caleb Lohner",
@@ -2686,12 +2686,6 @@
       "injury_status": null
     },
     {
-      "name": "KhaDarel Hodge",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Khalil Dinkins",
       "position": "TE",
       "team": "SF",
@@ -2731,7 +2725,7 @@
       "name": "Ko Kieft",
       "position": "TE",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kolbe Katsis",
@@ -3043,7 +3037,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Mason Tipton",
@@ -4423,7 +4417,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Xavier Restrepo",
