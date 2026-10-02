@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-02T09:17:02.305Z",
-  "free_agent_count": 733,
+  "generated_at": "2026-10-02T17:19:33.314Z",
+  "free_agent_count": 732,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -43,7 +43,7 @@
       "name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Adrian Killins",
@@ -283,7 +283,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ben Skowronek",
@@ -451,7 +451,7 @@
       "name": "British Brooks",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brittain Brown",
@@ -529,7 +529,7 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Caleb Lohner",
@@ -679,7 +679,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chimere Dike",
@@ -2095,7 +2095,7 @@
       "name": "Jayden Daniels",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jayden Higgins",
@@ -2650,12 +2650,6 @@
       "injury_status": null
     },
     {
-      "name": "KhaDarel Hodge",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Khalil Dinkins",
       "position": "TE",
       "team": "SF",
@@ -2689,7 +2683,7 @@
       "name": "Ko Kieft",
       "position": "TE",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kolbe Katsis",
@@ -3025,7 +3019,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Mason Tipton",
@@ -3463,7 +3457,7 @@
       "name": "Rachaad White",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Raheim Sanders",
@@ -4333,7 +4327,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Xavier Restrepo",
