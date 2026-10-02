@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-01T22:04:16.547Z",
+  "generated_at": "2026-10-02T02:48:17.104Z",
   "free_agent_count": 716,
   "free_agents": [
     {
@@ -1243,7 +1243,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
@@ -1345,7 +1345,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Pancol",
@@ -3757,7 +3757,7 @@
       "name": "Taylen Green",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Teagan Quitoriano",
@@ -4159,7 +4159,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
