@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-01T22:06:08.346Z",
-  "free_agent_count": 750,
+  "generated_at": "2026-10-02T03:01:55.709Z",
+  "free_agent_count": 749,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1285,7 +1285,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
@@ -1387,7 +1387,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Pancol",
@@ -1945,6 +1945,12 @@
       "name": "Jacoby Brissett",
       "position": "QB",
       "team": "ARI",
+      "injury_status": null
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -3550,12 +3556,6 @@
       "injury_status": null
     },
     {
-      "name": "Rhamondre Stevenson",
-      "position": "RB",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Ricky Pearsall",
       "position": "WR",
       "team": "SF",
@@ -3925,7 +3925,7 @@
       "name": "Taylen Green",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Teagan Quitoriano",
@@ -4351,7 +4351,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
@@ -4442,12 +4442,6 @@
       "position": "WR",
       "team": "KC",
       "injury_status": null
-    },
-    {
-      "name": "Zach Charbonnet",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": "PUP"
     },
     {
       "name": "Zach Ertz",
@@ -4556,6 +4550,11 @@
           "team": "CIN"
         },
         {
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "name": "Trey McBride",
           "position": "TE",
           "team": "ARI"
@@ -4586,11 +4585,6 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "name": "Stefon Diggs",
@@ -4641,6 +4635,11 @@
           "name": "Josh Downs",
           "position": "WR",
           "team": "IND"
+        },
+        {
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "name": "Detroit Lions",
