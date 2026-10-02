@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-02T16:59:41.763Z",
+  "generated_at": "2026-10-02T21:33:15.100Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -295,7 +295,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ben Skowronek",
@@ -409,7 +409,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brennan Presley",
@@ -685,7 +685,7 @@
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Charlie Smyth",
@@ -703,7 +703,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chimere Dike",
@@ -715,7 +715,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Blair",
@@ -2239,7 +2239,7 @@
       "name": "Jeremy Ruckert",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jerry Jeudy",
@@ -2599,7 +2599,7 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kedon Slovis",
@@ -2665,7 +2665,7 @@
       "name": "Keon Coleman",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kerrith Whyte",
@@ -2833,7 +2833,7 @@
       "name": "LeQuint Allen",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Levine Toilolo",
@@ -3001,7 +3001,7 @@
       "name": "Marquise Brown",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Marshall Lang",
@@ -3253,7 +3253,7 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Nate Carter",
@@ -3535,7 +3535,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Gilliam",
@@ -3949,7 +3949,7 @@
       "name": "Terrance Ferguson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Doubtful"
+      "injury_status": "IR"
     },
     {
       "name": "Tez Johnson",
@@ -4381,7 +4381,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Woody Marks",
