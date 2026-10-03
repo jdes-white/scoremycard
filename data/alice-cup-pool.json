@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-03T18:25:24.138Z",
-  "free_agent_count": 745,
+  "generated_at": "2026-10-03T23:25:41.277Z",
+  "free_agent_count": 746,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -49,7 +49,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "AJ Barner",
@@ -259,7 +259,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Barrett Burns",
@@ -1945,7 +1945,7 @@
       "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jaden Bradley",
@@ -2602,6 +2602,12 @@
       "injury_status": null
     },
     {
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": "Out"
+    },
+    {
       "name": "Keleki Latu",
       "position": "TE",
       "team": "BUF",
@@ -2845,6 +2851,12 @@
       "name": "Lewis Bond",
       "position": "WR",
       "team": "HOU",
+      "injury_status": null
+    },
+    {
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DEN",
       "injury_status": null
     },
     {
@@ -3601,12 +3613,6 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Rome Odunze",
-      "position": "WR",
-      "team": "CHI",
       "injury_status": null
     },
     {
@@ -4405,7 +4411,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Xavier Restrepo",
@@ -4779,6 +4785,11 @@
       "owner": "farrows",
       "players": [
         {
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
+        },
+        {
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
@@ -4792,11 +4803,6 @@
           "name": "Ollie Gordon",
           "position": "RB",
           "team": "MIA"
-        },
-        {
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND"
         },
         {
           "name": "Ka'imi Fairbairn",
