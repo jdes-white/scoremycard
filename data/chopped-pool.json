@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-03T20:31:16.266Z",
-  "free_agent_count": 730,
+  "generated_at": "2026-10-03T23:28:49.726Z",
+  "free_agent_count": 731,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -1393,12 +1393,6 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Emanuel Wilson",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2824,6 +2818,12 @@
       "injury_status": null
     },
     {
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
@@ -3970,6 +3970,12 @@
       "injury_status": null
     },
     {
+      "name": "Travis Etienne",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": "IR"
+    },
+    {
       "name": "Travis Homer",
       "position": "RB",
       "team": "PIT",
@@ -4597,6 +4603,11 @@
           "team": "BUF"
         },
         {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "name": "Braelon Allen",
           "position": "RB",
           "team": "NYJ"
@@ -4635,11 +4646,6 @@
           "name": "Courtland Sutton",
           "position": "WR",
           "team": "DEN"
-        },
-        {
-          "name": "Travis Etienne",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "name": "Amon-Ra St. Brown",
