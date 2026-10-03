@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-02T21:33:15.100Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-10-03T02:48:19.241Z",
+  "free_agent_count": 747,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -457,7 +457,7 @@
       "name": "British Brooks",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Brittain Brown",
@@ -1444,12 +1444,6 @@
       "injury_status": null
     },
     {
-      "name": "Emanuel Wilson",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
@@ -1597,7 +1591,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -1948,10 +1942,10 @@
       "injury_status": null
     },
     {
-      "name": "Jacory Croskey-Merritt",
+      "name": "Jadarian Price",
       "position": "RB",
-      "team": "WAS",
-      "injury_status": null
+      "team": "SEA",
+      "injury_status": "Out"
     },
     {
       "name": "Jaden Bradley",
@@ -4285,7 +4279,7 @@
       "name": "Tyrone Tracy",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyson Bagent",
@@ -4581,6 +4575,11 @@
           "team": "JAX"
         },
         {
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
           "name": "Stefon Diggs",
           "position": "WR",
           "team": "WAS"
@@ -4869,6 +4868,11 @@
       "owner": "chungo9",
       "players": [
         {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
@@ -4887,11 +4891,6 @@
           "name": "Matthew Golden",
           "position": "WR",
           "team": "GB"
-        },
-        {
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "name": "Jared Goff",
