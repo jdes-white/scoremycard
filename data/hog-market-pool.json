@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-03T14:00:51.739Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-03T18:22:52.820Z",
+  "free_agent_count": 713,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2758,12 +2758,6 @@
       "injury_status": null
     },
     {
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null
-    },
-    {
       "name": "Los Angeles Chargers",
       "position": "DEF",
       "team": "LAC",
@@ -4231,12 +4225,6 @@
       "name": "Xavier Restrepo",
       "position": "WR",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Xavier Smith",
-      "position": "WR",
-      "team": "LAR",
       "injury_status": null
     },
     {
