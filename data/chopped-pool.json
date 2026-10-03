@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-03T11:00:14.193Z",
+  "generated_at": "2026-10-03T15:36:37.479Z",
   "free_agent_count": 732,
   "free_agents": [
     {
@@ -2563,7 +2563,7 @@
       "name": "Keenan Allen",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Keleki Latu",
