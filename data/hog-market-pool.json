@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-03T18:22:52.820Z",
-  "free_agent_count": 713,
+  "generated_at": "2026-10-03T23:24:59.325Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -43,7 +43,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "AJ Barner",
@@ -247,7 +247,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Barrett Burns",
@@ -2758,6 +2758,12 @@
       "injury_status": null
     },
     {
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Los Angeles Chargers",
       "position": "DEF",
       "team": "LAC",
@@ -4219,7 +4225,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Xavier Restrepo",
