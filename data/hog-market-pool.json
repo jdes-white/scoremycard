@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-02T21:29:58.643Z",
+  "generated_at": "2026-10-03T02:34:28.615Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -433,7 +433,7 @@
       "name": "British Brooks",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Brittain Brown",
@@ -1531,7 +1531,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -4093,7 +4093,7 @@
       "name": "Tyrone Tracy",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyson Bagent",
