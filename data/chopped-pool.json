@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-03T15:36:37.479Z",
-  "free_agent_count": 732,
+  "generated_at": "2026-10-03T20:31:16.266Z",
+  "free_agent_count": 730,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -61,7 +61,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "AJ Barner",
@@ -247,7 +247,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Barrett Burns",
@@ -2824,12 +2824,6 @@
       "injury_status": null
     },
     {
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null
-    },
-    {
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
@@ -4327,18 +4321,12 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Xavier Restrepo",
       "position": "WR",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Xavier Smith",
-      "position": "WR",
-      "team": "LAR",
       "injury_status": null
     },
     {
