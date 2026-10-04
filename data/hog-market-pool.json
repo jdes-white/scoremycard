@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-03T23:24:59.325Z",
-  "free_agent_count": 714,
+  "generated_at": "2026-10-04T03:06:03.337Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -421,6 +421,12 @@
       "name": "Brevyn Spann-Ford",
       "position": "TE",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
       "injury_status": null
     },
     {
@@ -4300,11 +4306,6 @@
           "team": "NYJ"
         },
         {
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
           "name": "Oronde Gadsden",
           "position": "TE",
           "team": "LAC"
@@ -4373,6 +4374,11 @@
           "name": "Malik Willis",
           "position": "QB",
           "team": "MIA"
+        },
+        {
+          "name": "Denver Broncos",
+          "position": "DEF",
+          "team": "DEN"
         },
         {
           "name": "Los Angeles Rams",
@@ -4924,9 +4930,9 @@
           "team": "BUF"
         },
         {
-          "name": "Brian Thomas",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "JAX"
+          "team": "NYJ"
         },
         {
           "name": "Cam Little",
@@ -4987,11 +4993,6 @@
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "name": "Denver Broncos",
-          "position": "DEF",
-          "team": "DEN"
         },
         {
           "name": "Pittsburgh Steelers",
