@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-04T11:28:54.794Z",
+  "generated_at": "2026-10-04T16:07:28.959Z",
   "free_agent_count": 746,
   "free_agents": [
     {
@@ -211,7 +211,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Athan Kaliakmanis",
@@ -283,7 +283,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Roethlisberger",
@@ -577,7 +577,7 @@
       "name": "Camden Brown",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cameron Dorner",
@@ -613,7 +613,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Carson Steele",
@@ -769,7 +769,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Chris Myarick",
@@ -799,7 +799,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -817,7 +817,7 @@
       "name": "CJ Williams",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Clayton Thorson",
@@ -859,7 +859,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Cole Kmet",
@@ -871,7 +871,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -1033,7 +1033,7 @@
       "name": "Darius Slayton",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Darnell Mooney",
@@ -1201,7 +1201,7 @@
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Devontez Walker",
@@ -1225,7 +1225,7 @@
       "name": "DJ Giddens",
       "position": "RB",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "DJ Herman",
@@ -1405,7 +1405,7 @@
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Eli Stowers",
@@ -1453,7 +1453,7 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emmanuel Henderson",
@@ -2197,7 +2197,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylin Noel",
@@ -2263,7 +2263,7 @@
       "name": "Joe Fagnano",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Joe Flacco",
@@ -2779,7 +2779,7 @@
       "name": "Kylen Granson",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyrese Rowan",
@@ -2893,7 +2893,7 @@
       "name": "Luke McCaffrey",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Luke Musgrave",
@@ -2977,7 +2977,7 @@
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Mark Redman",
@@ -2989,7 +2989,7 @@
       "name": "Marlin Klein",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Marquez Valdes-Scantling",
@@ -3127,7 +3127,7 @@
       "name": "Michael Carter",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Michael Mayer",
@@ -3535,19 +3535,19 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Virgil",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ricky Pearsall",
@@ -3565,7 +3565,7 @@
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Riley Nowakowski",
@@ -3775,7 +3775,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Skyler Howard",
@@ -3865,7 +3865,7 @@
       "name": "Tanner Arkin",
       "position": "TE",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tanner Conner",
@@ -3967,7 +3967,7 @@
       "name": "Thomas Fidone",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Thomas Gordon",
@@ -4183,13 +4183,13 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tylan Wallace",
