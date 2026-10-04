@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-04T03:18:25.875Z",
+  "generated_at": "2026-10-04T11:28:54.794Z",
   "free_agent_count": 746,
   "free_agents": [
     {
@@ -211,7 +211,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -697,6 +697,12 @@
       "name": "Charlie Woerner",
       "position": "TE",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Chicago Bears",
+      "position": "DEF",
+      "team": "CHI",
       "injury_status": null
     },
     {
@@ -1621,12 +1627,6 @@
       "name": "Grant Finley",
       "position": "FB",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Green Bay Packers",
-      "position": "DEF",
-      "team": "GB",
       "injury_status": null
     },
     {
@@ -3205,7 +3205,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Moliki Matavao",
@@ -4922,9 +4922,9 @@
           "team": "NYJ"
         },
         {
-          "name": "Chicago Bears",
+          "name": "Green Bay Packers",
           "position": "DEF",
-          "team": "CHI"
+          "team": "GB"
         }
       ]
     },
