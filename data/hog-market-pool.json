@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-04T03:06:03.337Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-04T11:25:09.025Z",
+  "free_agent_count": 712,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -205,7 +205,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -1570,12 +1570,6 @@
       "injury_status": null
     },
     {
-      "name": "Green Bay Packers",
-      "position": "DEF",
-      "team": "GB",
-      "injury_status": null
-    },
-    {
       "name": "Greg Dortch",
       "position": "WR",
       "team": "BUF",
@@ -1711,12 +1705,6 @@
       "name": "Isaiah Bond",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Isaiah Davis",
-      "position": "RB",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -1882,6 +1870,12 @@
       "injury_status": null
     },
     {
+      "name": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "IR"
+    },
+    {
       "name": "Jaden Bradley",
       "position": "WR",
       "team": "WAS",
@@ -1928,12 +1922,6 @@
       "position": "TE",
       "team": "SF",
       "injury_status": "IR"
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "team": "JAX",
-      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -2068,15 +2056,15 @@
       "injury_status": null
     },
     {
-      "name": "Jason Sanders",
+      "name": "Jason Myers",
       "position": "K",
-      "team": "NYJ",
+      "team": "SEA",
       "injury_status": null
     },
     {
-      "name": "Jauan Jennings",
-      "position": "WR",
-      "team": "MIN",
+      "name": "Jason Sanders",
+      "position": "K",
+      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -2113,12 +2101,6 @@
       "name": "Jaydon Blue",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
-    },
-    {
-      "name": "Jaylen Wright",
-      "position": "RB",
-      "team": "MIA",
       "injury_status": null
     },
     {
@@ -2476,6 +2458,12 @@
       "injury_status": null
     },
     {
+      "name": "Kansas City Chiefs",
+      "position": "DEF",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Kansei Matsuzawa",
       "position": "K",
       "team": "LV",
@@ -2824,12 +2812,6 @@
       "injury_status": null
     },
     {
-      "name": "Makai Lemon",
-      "position": "WR",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Malachi Corley",
       "position": "WR",
       "team": "CLE",
@@ -3085,7 +3067,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Moliki Matavao",
@@ -3259,6 +3241,12 @@
       "name": "Omari Evans",
       "position": "WR",
       "team": "KC",
+      "injury_status": null
+    },
+    {
+      "name": "Oronde Gadsden",
+      "position": "TE",
+      "team": "LAC",
       "injury_status": null
     },
     {
@@ -3637,12 +3625,6 @@
       "name": "Spencer Rattler",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Spencer Shrader",
-      "position": "K",
-      "team": "IND",
       "injury_status": null
     },
     {
@@ -4306,9 +4288,9 @@
           "team": "NYJ"
         },
         {
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC"
+          "name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND"
         },
         {
           "name": "Matthew Golden",
@@ -4336,14 +4318,14 @@
           "team": "TEN"
         },
         {
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "name": "Kenyon Sadiq",
           "position": "TE",
           "team": "NYJ"
-        },
-        {
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA"
         },
         {
           "name": "Alvin Kamara",
@@ -4761,14 +4743,14 @@
           "team": "NYG"
         },
         {
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
-        },
-        {
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "name": "Denzel Boston",
@@ -4968,6 +4950,11 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "name": "Tee Higgins",
@@ -5186,6 +5173,11 @@
           "team": "LV"
         },
         {
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
+        },
+        {
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU"
@@ -5313,6 +5305,11 @@
           "team": "DAL"
         },
         {
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
           "name": "Travis Etienne",
           "position": "RB",
           "team": "NO"
@@ -5338,9 +5335,9 @@
           "team": "BAL"
         },
         {
-          "name": "Kansas City Chiefs",
+          "name": "Green Bay Packers",
           "position": "DEF",
-          "team": "KC"
+          "team": "GB"
         }
       ]
     }
