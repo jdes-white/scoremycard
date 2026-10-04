@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-04T20:37:01.700Z",
+  "generated_at": "2026-10-04T23:42:09.567Z",
   "free_agent_count": 746,
   "free_agents": [
     {
@@ -1687,7 +1687,7 @@
       "name": "Haynes King",
       "position": "QB",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Hendon Hooker",
@@ -1855,7 +1855,7 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jabari Small",
@@ -2041,7 +2041,7 @@
       "name": "Jalen Nailor",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jalen Reagor",
@@ -2761,7 +2761,7 @@
       "name": "Kyle Juszczyk",
       "position": "FB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle McCord",
@@ -3415,7 +3415,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Pat Freiermuth",
@@ -4219,7 +4219,7 @@
       "name": "Tyler Conklin",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Goodson",
@@ -4255,7 +4255,7 @@
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyrell Shavers",
