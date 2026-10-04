@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-04T16:20:45.426Z",
+  "generated_at": "2026-10-04T20:47:48.875Z",
   "free_agent_count": 731,
   "free_agents": [
     {
@@ -61,7 +61,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Barner",
@@ -337,7 +337,7 @@
       "name": "Brady Cook",
       "position": "QB",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Brady Russell",
@@ -379,7 +379,7 @@
       "name": "Braxton Berrios",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brayden Willis",
@@ -709,7 +709,7 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Collier",
@@ -907,7 +907,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dalton Schultz",
@@ -1207,7 +1207,7 @@
       "name": "DJ Uiagalelei",
       "position": "QB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dohnte Meyers",
@@ -1279,7 +1279,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dwayne Haskins",
@@ -1351,7 +1351,7 @@
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Eli Stowers",
@@ -1513,7 +1513,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -1645,7 +1645,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Hunter Luepke",
@@ -1957,7 +1957,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Morton",
@@ -2053,7 +2053,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jaren Kanak",
@@ -2119,7 +2119,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jaylin Noel",
@@ -2299,7 +2299,7 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jordan Mason",
@@ -2449,7 +2449,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "K.J. Osborn",
@@ -2689,13 +2689,13 @@
       "name": "Konata Mumpfield",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -2725,7 +2725,7 @@
       "name": "Kyle Monangai",
       "position": "RB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kyle Pitts",
@@ -2875,7 +2875,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Makai Lemon",
@@ -3055,7 +3055,7 @@
       "name": "Max Brosmer",
       "position": "QB",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Max Klare",
@@ -3187,7 +3187,7 @@
       "name": "Montorie Foster",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Myles Montgomery",
@@ -3241,7 +3241,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Nick Mullens",
@@ -3487,7 +3487,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -3607,7 +3607,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -3787,7 +3787,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tank Dell",
@@ -4045,7 +4045,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Trey Palmer",
