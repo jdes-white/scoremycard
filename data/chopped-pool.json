@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-05T13:25:10.826Z",
+  "generated_at": "2026-10-05T21:47:10.883Z",
   "free_agent_count": 731,
   "free_agents": [
     {
@@ -379,7 +379,7 @@
       "name": "Braxton Berrios",
       "position": "WR",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brayden Willis",
@@ -3787,7 +3787,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tank Dell",
