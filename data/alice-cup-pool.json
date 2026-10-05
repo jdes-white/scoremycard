@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-04T23:42:09.567Z",
+  "generated_at": "2026-10-05T02:54:51.509Z",
   "free_agent_count": 746,
   "free_agents": [
     {
@@ -487,12 +487,6 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Brycen Tremayne",
-      "position": "WR",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -2012,6 +2006,12 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
+    },
+    {
+      "name": "Jalen Coker",
+      "position": "WR",
+      "team": "CAR",
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Cropper",
@@ -4785,6 +4785,11 @@
       "owner": "farrows",
       "players": [
         {
+          "name": "Brycen Tremayne",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI"
@@ -4793,11 +4798,6 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
         },
         {
           "name": "Ollie Gordon",
