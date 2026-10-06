@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-06T09:31:07.224Z",
-  "free_agent_count": 713,
+  "generated_at": "2026-10-06T17:29:47.539Z",
+  "free_agent_count": 711,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -565,12 +565,6 @@
       "name": "Cameron Latu",
       "position": "TE",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "Carlos Washington",
-      "position": "RB",
-      "team": "MIA",
       "injury_status": null
     },
     {
@@ -2149,12 +2143,6 @@
       "name": "Jerry Jeudy",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Jeshaun Jones",
-      "position": "WR",
-      "team": "MIN",
       "injury_status": null
     },
     {
