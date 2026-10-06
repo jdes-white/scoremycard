@@ -1,0 +1,32 @@
+name: Players Lookup (names)
+
+on:
+  schedule:
+    - cron: '17 19 * * *'   # daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/players-lite.js
+      - name: Commit if changed
+        run: |
+          git config user.name "players-lite-bot"
+          git config user.email "actions@github.com"
+          git add data/players-lite.txt
+          git diff --cached --quiet && exit 0
+          git commit -m "Update players lookup"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            git pull --rebase origin main
+            sleep $((RANDOM % 5 + 1))
+          done
+          exit 1
