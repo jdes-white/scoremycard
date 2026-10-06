@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-06T17:29:47.539Z",
-  "free_agent_count": 711,
+  "generated_at": "2026-10-06T21:56:49.399Z",
+  "free_agent_count": 717,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -673,7 +673,7 @@
       "name": "Chase McLaughlin",
       "position": "K",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chig Okonkwo",
@@ -928,6 +928,12 @@
       "injury_status": null
     },
     {
+      "name": "Damon Bankston",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Dan Villari",
       "position": "TE",
       "team": "LAR",
@@ -1138,6 +1144,12 @@
       "injury_status": null
     },
     {
+      "name": "Deuce Vaughn",
+      "position": "RB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Deven Thompkins",
       "position": "WR",
       "team": "LV",
@@ -1238,6 +1250,12 @@
       "position": "WR",
       "team": "LV",
       "injury_status": "IR"
+    },
+    {
+      "name": "Dontae McMillan",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Drake Dabney",
@@ -1645,7 +1663,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Hunter Luepke",
@@ -1795,7 +1813,7 @@
       "name": "Jacardia Wright",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Bech",
@@ -2014,6 +2032,12 @@
       "injury_status": null
     },
     {
+      "name": "James Proche",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Jameson Geers",
       "position": "TE",
       "team": "ARI",
@@ -2101,7 +2125,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jaylin Noel",
@@ -2180,12 +2204,6 @@
       "position": "QB",
       "team": "DAL",
       "injury_status": null
-    },
-    {
-      "name": "Joe Mixon",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": "Active"
     },
     {
       "name": "Joe Royer",
@@ -2557,6 +2575,12 @@
       "name": "Kenny Pickett",
       "position": "QB",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Kenny Yeboah",
+      "position": "TE",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -3334,6 +3358,12 @@
       "injury_status": null
     },
     {
+      "name": "Quez Watkins",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Quincy Skinner",
       "position": "WR",
       "team": "GB",
@@ -3524,6 +3554,12 @@
       "position": "WR",
       "team": "GB",
       "injury_status": "IR"
+    },
+    {
+      "name": "Scotty Miller",
+      "position": "WR",
+      "team": "CHI",
+      "injury_status": null
     },
     {
       "name": "Sean Clifford",
