@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-05T21:47:10.883Z",
-  "free_agent_count": 731,
+  "generated_at": "2026-10-06T04:31:34.603Z",
+  "free_agent_count": 732,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -859,7 +859,7 @@
       "name": "Cooper Rush",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -1837,7 +1837,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Velling",
@@ -2204,6 +2204,12 @@
       "position": "QB",
       "team": "DAL",
       "injury_status": null
+    },
+    {
+      "name": "Joe Mixon",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "Active"
     },
     {
       "name": "Joe Royer",
@@ -3295,7 +3301,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Noah Gray",
@@ -3540,7 +3546,7 @@
     {
       "name": "Robert Henry",
       "position": "RB",
-      "team": "WAS",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -4351,7 +4357,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
