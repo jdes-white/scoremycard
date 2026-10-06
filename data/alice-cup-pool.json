@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-05T09:46:43.540Z",
-  "free_agent_count": 746,
+  "generated_at": "2026-10-06T01:35:46.557Z",
+  "free_agent_count": 747,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -391,7 +391,7 @@
       "name": "Braxton Berrios",
       "position": "WR",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brayden Willis",
@@ -901,7 +901,7 @@
       "name": "Cooper Rush",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -1891,7 +1891,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Velling",
@@ -2282,6 +2282,12 @@
       "position": "QB",
       "team": "DAL",
       "injury_status": null
+    },
+    {
+      "name": "Joe Mixon",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "Active"
     },
     {
       "name": "Joe Royer",
@@ -3355,7 +3361,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Noah Gray",
@@ -3853,7 +3859,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tank Dell",
@@ -4441,7 +4447,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
