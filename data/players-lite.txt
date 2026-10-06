@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-06T10:45:29.523Z)
+# id|name|pos|team  (generated 2026-10-06T23:06:39.693Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -62,7 +62,6 @@
 3868|Jalen Richard|RB|LV
 3976|Mitchell Trubisky|QB|TEN
 4017|Deshaun Watson|QB|CLE
-4018|Joe Mixon|RB|SEA
 4033|David Njoku|TE|LAC
 4034|Christian McCaffrey|RB|SF
 4035|Alvin Kamara|RB|NO
@@ -179,6 +178,7 @@
 6175|Kerrith Whyte|RB|GB
 6185|Easton Stick|QB|TB
 6271|Olamide Zaccheaus|WR|ATL
+6290|Scotty Miller|WR|CHI
 6323|Andrew Beck|RB|NYJ
 6386|Alex Bachman|WR|LAR
 6427|Ashton Dulin|WR|IND
@@ -217,7 +217,9 @@
 6904|Jalen Hurts|QB|PHI
 6918|Salvon Ahmed|RB|CHI
 6920|Isaiah Hodgins|WR|PIT
+6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
+6957|James Proche|WR|CLE
 6960|Tyler Johnson|WR|NYJ
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
@@ -267,6 +269,7 @@
 7594|Chuba Hubbard|RB|CAR
 7595|Tylan Wallace|WR|CLE
 7596|Elijah Moore|WR|PHI
+7597|Kenny Yeboah|TE|ARI
 7600|Pat Freiermuth|TE|PIT
 7602|Kylen Granson|TE|TEN
 7607|Michael Carter|RB|TEN
@@ -405,6 +408,7 @@
 9501|DeMario Douglas|WR|NE
 9502|Tank Dell|WR|HOU
 9504|Kayshon Boutte|WR|HOU
+9505|Deuce Vaughn|RB|HOU
 9506|Sean Tucker|RB|TB
 9508|Tyjae Spears|RB|TEN
 9509|Bijan Robinson|RB|ATL
@@ -453,7 +457,6 @@
 11068|Mitch Tinsley|WR|CIN
 11113|Joel Wilson|TE|TEN
 11157|Brycen Tremayne|WR|CAR
-11186|Carlos Washington|RB|MIA
 11199|Emari Demercado|RB|DAL
 11201|Blake Whiteheart|TE|CLE
 11210|Malik Heath|WR|ATL
@@ -559,7 +562,6 @@
 11820|Devin Culp|TE|TB
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
-11911|Jeshaun Jones|WR|MIN
 11942|Colson Yankoff|TE|WAS
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
@@ -860,6 +862,7 @@
 13833|Dominic Zvada|K|NYG
 13834|Cody Hardy|TE|NYJ
 13846|Jack Velling|TE|ATL
+13852|Dontae McMillan|RB|SEA
 13861|Daniel Sobkowicz|WR|HOU
 13862|Treyvhon Saunders|WR|HOU
 13879|Jameson Geers|TE|ARI
@@ -867,6 +870,7 @@
 13898|Corey Rucker|WR|LV
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
+13949|Damon Bankston|RB|GB
 13957|Kenny Fletcher|TE|IND
 13962|Cameron Dorner|WR|NE
 13964|Myles Montgomery|RB|NE
