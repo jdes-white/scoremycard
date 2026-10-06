@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-06T12:38:55.514Z",
-  "free_agent_count": 744,
+  "generated_at": "2026-10-06T19:57:05.144Z",
+  "free_agent_count": 745,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -604,12 +604,6 @@
       "injury_status": null
     },
     {
-      "name": "Carlos Washington",
-      "position": "RB",
-      "team": "MIA",
-      "injury_status": null
-    },
-    {
       "name": "Carsen Ryan",
       "position": "TE",
       "team": "CLE",
@@ -1159,6 +1153,12 @@
       "name": "Deshaun Watson",
       "position": "QB",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Deuce Vaughn",
+      "position": "RB",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2215,12 +2215,6 @@
       "name": "Jerry Jeudy",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Jeshaun Jones",
-      "position": "WR",
-      "team": "MIN",
       "injury_status": null
     },
     {
@@ -3502,6 +3496,12 @@
       "injury_status": null
     },
     {
+      "name": "Quez Watkins",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Quincy Skinner",
       "position": "WR",
       "team": "GB",
@@ -3710,6 +3710,12 @@
       "position": "WR",
       "team": "GB",
       "injury_status": "IR"
+    },
+    {
+      "name": "Scotty Miller",
+      "position": "WR",
+      "team": "CHI",
+      "injury_status": null
     },
     {
       "name": "Sean Clifford",
