@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-06T19:57:05.144Z",
-  "free_agent_count": 745,
+  "generated_at": "2026-10-07T00:19:24.119Z",
+  "free_agent_count": 748,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -934,6 +934,12 @@
       "injury_status": null
     },
     {
+      "name": "Damon Bankston",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Dan Villari",
       "position": "TE",
       "team": "LAR",
@@ -1256,6 +1262,12 @@
       "position": "WR",
       "team": "LV",
       "injury_status": "IR"
+    },
+    {
+      "name": "Dontae McMillan",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Dontayvion Wicks",
@@ -1681,7 +1693,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Hunter Luepke",
@@ -1849,7 +1861,7 @@
       "name": "Jacardia Wright",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Bech",
@@ -2080,6 +2092,12 @@
       "injury_status": null
     },
     {
+      "name": "James Proche",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Jameson Geers",
       "position": "TE",
       "team": "ARI",
@@ -2173,7 +2191,7 @@
       "name": "Jaylin Lane",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jaylin Noel",
@@ -2252,12 +2270,6 @@
       "position": "QB",
       "team": "DAL",
       "injury_status": null
-    },
-    {
-      "name": "Joe Mixon",
-      "position": "RB",
-      "team": "SEA",
-      "injury_status": "Active"
     },
     {
       "name": "Joe Royer",
@@ -2665,6 +2677,12 @@
       "name": "Kenny Pickett",
       "position": "QB",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Kenny Yeboah",
+      "position": "TE",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -3865,7 +3883,7 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tank Dell",
@@ -4159,7 +4177,7 @@
       "name": "Treyvhon Saunders",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Troy Franklin",
