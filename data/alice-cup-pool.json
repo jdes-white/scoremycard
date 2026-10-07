@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-07T12:15:39.463Z",
-  "free_agent_count": 753,
+  "generated_at": "2026-10-07T20:18:06.302Z",
+  "free_agent_count": 756,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -178,12 +178,6 @@
       "injury_status": null
     },
     {
-      "name": "Anthony Tyus",
-      "position": "RB",
-      "team": "CAR",
-      "injury_status": null
-    },
-    {
       "name": "Antonio Williams",
       "position": "WR",
       "team": "WAS",
@@ -301,7 +295,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ben Skowronek",
@@ -604,6 +598,12 @@
       "injury_status": null
     },
     {
+      "name": "Carlos Washington",
+      "position": "RB",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "Carolina Panthers",
       "position": "DEF",
       "team": "CAR",
@@ -658,12 +658,6 @@
       "injury_status": null
     },
     {
-      "name": "Cash Jones",
-      "position": "RB",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Cedric Tillman",
       "position": "WR",
       "team": "NO",
@@ -709,7 +703,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chimere Dike",
@@ -1009,7 +1003,7 @@
       "name": "Dante Pettis",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dare Ogunbowale",
@@ -1216,12 +1210,6 @@
       "injury_status": null
     },
     {
-      "name": "Devin Neal",
-      "position": "RB",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
@@ -1304,6 +1292,12 @@
       "position": "WR",
       "team": "LV",
       "injury_status": "IR"
+    },
+    {
+      "name": "Dontae Fleming",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
     },
     {
       "name": "Dontae McMillan",
@@ -1501,12 +1495,6 @@
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -2176,6 +2164,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Jaret Patterson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Jarquez Hunter",
       "position": "RB",
       "team": "MIA",
@@ -2290,6 +2284,12 @@
       "injury_status": null
     },
     {
+      "name": "Jeshaun Jones",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
+    },
+    {
       "name": "Jimmy Holiday",
       "position": "WR",
       "team": "KC",
@@ -2389,7 +2389,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jonathan Ward",
@@ -2413,7 +2413,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Hudson",
@@ -2698,12 +2698,6 @@
       "injury_status": null
     },
     {
-      "name": "Kenny Fletcher",
-      "position": "TE",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Kenny Pickett",
       "position": "QB",
       "team": "CAR",
@@ -2773,7 +2767,7 @@
       "name": "Ko Kieft",
       "position": "TE",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kolbe Katsis",
@@ -2809,7 +2803,7 @@
       "name": "Kyle Juszczyk",
       "position": "FB",
       "team": "SF",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Kyle McCord",
@@ -2917,6 +2911,12 @@
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
+      "injury_status": null
+    },
+    {
+      "name": "Lucas Scott",
+      "position": "FB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3028,6 +3028,12 @@
       "injury_status": "Doubtful"
     },
     {
+      "name": "Mark Gronowski",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Mark Redman",
       "position": "TE",
       "team": "GB",
@@ -3085,7 +3091,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Questionable"
     },
     {
       "name": "Mason Tipton",
@@ -3181,7 +3187,7 @@
       "name": "Michael Pittman",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Michael Trigg",
@@ -3322,6 +3328,12 @@
       "injury_status": null
     },
     {
+      "name": "Nick DeGennaro",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Nick Folk",
       "position": "K",
       "team": "ATL",
@@ -3404,6 +3416,12 @@
       "position": "RB",
       "team": "HOU",
       "injury_status": "Out"
+    },
+    {
+      "name": "Odell Beckham",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Olamide Zaccheaus",
@@ -4186,12 +4204,6 @@
       "injury_status": null
     },
     {
-      "name": "Treyvhon Saunders",
-      "position": "WR",
-      "team": "HOU",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Troy Franklin",
       "position": "WR",
       "team": "DEN",
@@ -4459,6 +4471,12 @@
       "name": "Xavier Restrepo",
       "position": "WR",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Xavier Smith",
+      "position": "WR",
+      "team": "SF",
       "injury_status": null
     },
     {
