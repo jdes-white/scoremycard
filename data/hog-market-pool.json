@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-06T21:56:49.399Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-10-07T02:57:14.062Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -565,6 +565,12 @@
       "name": "Cameron Latu",
       "position": "TE",
       "team": "NE",
+      "injury_status": null
+    },
+    {
+      "name": "Cameron Ross",
+      "position": "WR",
+      "team": "DEN",
       "injury_status": null
     },
     {
@@ -2011,6 +2017,12 @@
       "name": "Jalin Hyatt",
       "position": "WR",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Jam Miller",
+      "position": "RB",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -3985,7 +3997,7 @@
       "name": "Treyvhon Saunders",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Troy Franklin",
