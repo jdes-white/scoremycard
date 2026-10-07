@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-06T23:06:39.693Z)
+# id|name|pos|team  (generated 2026-10-07T23:36:35.521Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -23,6 +23,7 @@
 1979|Blake Bortles|QB|NO
 1984|Allen Hurns|WR|MIA
 2020|Cairo Santos|K|CHI
+2078|Odell Beckham|WR|MIN
 2118|Eric Ebron|TE|PIT
 2133|Davante Adams|WR|LAR
 2197|Brandin Cooks|WR|SF
@@ -249,6 +250,7 @@
 7531|Feleipe Franks|TE|CAR
 7535|Hunter Long|TE|ARI
 7536|Quintin Morris|TE|JAX
+7537|Jaret Patterson|RB|CLE
 7538|Zach Wilson|QB|NO
 7543|Travis Etienne|RB|NO
 7547|Amon-Ra St. Brown|WR|DET
@@ -302,6 +304,7 @@
 8110|Jake Ferguson|TE|DAL
 8111|Cade Otton|TE|TB
 8112|Drake London|WR|ATL
+8114|Erik Ezukanma|WR|PHI
 8116|Pierre Strong|RB|GB
 8117|Jalen Tolbert|WR|MIA
 8119|Jahan Dotson|WR|ATL
@@ -431,7 +434,6 @@
 10219|Chris Rodriguez|RB|JAX
 10220|Will Mallory|TE|IND
 10222|Jayden Reed|WR|GB
-10223|Eric Gray|RB|CLE
 10224|Brayden Willis|TE|SF
 10225|Jonathan Mingo|WR|DAL
 10226|Andrei Iosivas|WR|CIN
@@ -457,6 +459,8 @@
 11068|Mitch Tinsley|WR|CIN
 11113|Joel Wilson|TE|TEN
 11157|Brycen Tremayne|WR|CAR
+11168|Xavier Smith|WR|SF
+11186|Carlos Washington|RB|MIA
 11199|Emari Demercado|RB|DAL
 11201|Blake Whiteheart|TE|CLE
 11210|Malik Heath|WR|ATL
@@ -562,6 +566,7 @@
 11820|Devin Culp|TE|TB
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
+11911|Jeshaun Jones|WR|MIN
 11942|Colson Yankoff|TE|WAS
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
@@ -591,7 +596,6 @@
 12473|Mitchell Evans|TE|CAR
 12474|Woody Marks|RB|HOU
 12475|Ricky White|WR|SEA
-12476|Devin Neal|RB|MIN
 12477|Kurtis Rourke|QB|SF
 12480|Moliki Matavao|TE|NO
 12481|Cam Skattebo|RB|NYG
@@ -696,7 +700,7 @@
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12938|Jackson Meeks|TE|DET
-12939|Anthony Tyus|RB|CAR
+12946|Dontae Fleming|WR|NYG
 12961|Ryan Fitzgerald|K|CAR
 12969|Lan Larison|RB|NE
 12971|Ke'Shawn Williams|WR|CIN
@@ -723,6 +727,7 @@
 13199|Montorie Foster|WR|SEA
 13208|Kyrese Rowan|WR|NO
 13210|Drake Dabney|TE|GB
+13213|Lucas Scott|FB|BAL
 13249|Thomas Gordon|TE|DET
 13264|Dohnte Meyers|WR|CIN
 13268|Elijah Sarratt|WR|BAL
@@ -797,6 +802,7 @@
 13400|Justin Joly|TE|MIA
 13401|Michael Trigg|TE|DAL
 13402|Skyler Bell|WR|BUF
+13403|Jam Miller|RB|ATL
 13404|Garrett Nussmeier|QB|KC
 13405|Kaytron Allen|RB|WAS
 13407|Carson Towt|TE|IND
@@ -837,7 +843,6 @@
 13577|Dallen Bentley|TE|DEN
 13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
-13595|Cash Jones|RB|ATL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
 13602|Jack Strand|QB|ATL
@@ -852,10 +857,12 @@
 13705|Ty Pezza|TE|BAL
 13712|Hayden Large|TE|CHI
 13726|Camden Brown|WR|DAL
+13744|Cameron Ross|WR|DEN
 13760|Jaden Bradley|WR|WAS
 13770|J. Michael Sturdivant|WR|GB
 13779|Al-Jay Henderson|RB|NYJ
 13804|Kansei Matsuzawa|K|LV
+13816|Mark Gronowski|QB|HOU
 13825|Malik McClain|WR|NYJ
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
@@ -864,15 +871,14 @@
 13846|Jack Velling|TE|ATL
 13852|Dontae McMillan|RB|SEA
 13861|Daniel Sobkowicz|WR|HOU
-13862|Treyvhon Saunders|WR|HOU
 13879|Jameson Geers|TE|ARI
 13890|Michael Briscoe|WR|MIN
 13898|Corey Rucker|WR|LV
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
 13949|Damon Bankston|RB|GB
-13957|Kenny Fletcher|TE|IND
 13962|Cameron Dorner|WR|NE
+13963|Nick DeGennaro|WR|WAS
 13964|Myles Montgomery|RB|NE
 13968|Drew Stevens|K|WAS
 13981|Kolbe Katsis|WR|DEN
