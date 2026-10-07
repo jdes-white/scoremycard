@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-07T09:41:17.092Z",
-  "free_agent_count": 750,
+  "generated_at": "2026-10-07T18:20:09.276Z",
+  "free_agent_count": 751,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -175,12 +175,6 @@
       "name": "Anthony Smith",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
-    },
-    {
-      "name": "Anthony Tyus",
-      "position": "RB",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -598,6 +592,12 @@
       "injury_status": null
     },
     {
+      "name": "Carlos Washington",
+      "position": "RB",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "Carsen Ryan",
       "position": "TE",
       "team": "CLE",
@@ -643,12 +643,6 @@
       "name": "Casey Washington",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Cash Jones",
-      "position": "RB",
-      "team": "ATL",
       "injury_status": null
     },
     {
@@ -1204,12 +1198,6 @@
       "injury_status": null
     },
     {
-      "name": "Devin Neal",
-      "position": "RB",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
@@ -1280,6 +1268,12 @@
       "position": "WR",
       "team": "LV",
       "injury_status": "IR"
+    },
+    {
+      "name": "Dontae Fleming",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
     },
     {
       "name": "Dontae McMillan",
@@ -1483,12 +1477,6 @@
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -2152,6 +2140,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Jaret Patterson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Jarquez Hunter",
       "position": "RB",
       "team": "MIA",
@@ -2257,6 +2251,12 @@
       "name": "Jerry Jeudy",
       "position": "WR",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Jeshaun Jones",
+      "position": "WR",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -2692,12 +2692,6 @@
       "injury_status": null
     },
     {
-      "name": "Kenny Fletcher",
-      "position": "TE",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
@@ -3058,6 +3052,12 @@
       "injury_status": null
     },
     {
+      "name": "Mark Gronowski",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Mark Redman",
       "position": "TE",
       "team": "GB",
@@ -3121,7 +3121,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Questionable"
     },
     {
       "name": "Mason Tipton",
@@ -3340,6 +3340,12 @@
       "injury_status": null
     },
     {
+      "name": "Nick DeGennaro",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
@@ -3416,6 +3422,12 @@
       "position": "RB",
       "team": "HOU",
       "injury_status": "Out"
+    },
+    {
+      "name": "Odell Beckham",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Olamide Zaccheaus",
@@ -4178,12 +4190,6 @@
       "position": "TE",
       "team": "NO",
       "injury_status": null
-    },
-    {
-      "name": "Treyvhon Saunders",
-      "position": "WR",
-      "team": "HOU",
-      "injury_status": "Questionable"
     },
     {
       "name": "Troy Franklin",
