@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-08T00:40:38.963Z",
+  "generated_at": "2026-10-08T09:51:42.788Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -310,6 +310,12 @@
       "injury_status": null
     },
     {
+      "name": "Blake Corum",
+      "position": "RB",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
@@ -475,12 +481,6 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Bryce Young",
-      "position": "QB",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -898,12 +898,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "D'Andre Swift",
-      "position": "RB",
-      "team": "CHI",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Dalen Cambre",
       "position": "WR",
       "team": "NYG",
@@ -919,12 +913,6 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Dalton Kincaid",
-      "position": "TE",
-      "team": "BUF",
       "injury_status": null
     },
     {
@@ -1033,12 +1021,6 @@
       "name": "David Martin-Robinson",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "David Montgomery",
-      "position": "RB",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1291,12 +1273,6 @@
       "name": "Drake Dabney",
       "position": "TE",
       "team": "GB",
-      "injury_status": null
-    },
-    {
-      "name": "Drake Maye",
-      "position": "QB",
-      "team": "NE",
       "injury_status": null
     },
     {
@@ -1930,12 +1906,6 @@
       "injury_status": null
     },
     {
-      "name": "Jacoby Brissett",
-      "position": "QB",
-      "team": "ARI",
-      "injury_status": null
-    },
-    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
@@ -2278,6 +2248,12 @@
       "injury_status": null
     },
     {
+      "name": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Joe Fagnano",
       "position": "QB",
       "team": "BAL",
@@ -2395,6 +2371,12 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
+      "injury_status": null
+    },
+    {
+      "name": "Jordan Love",
+      "position": "QB",
+      "team": "GB",
       "injury_status": null
     },
     {
@@ -3502,6 +3484,12 @@
       "injury_status": null
     },
     {
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Patrick Ricard",
       "position": "FB",
       "team": "NYG",
@@ -4306,6 +4294,12 @@
       "injury_status": null
     },
     {
+      "name": "Tyler Shough",
+      "position": "QB",
+      "team": "NO",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
@@ -4423,6 +4417,12 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Woody Marks",
+      "position": "RB",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -4607,6 +4607,11 @@
           "team": "KC"
         },
         {
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
+        },
+        {
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
@@ -4625,11 +4630,6 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
-        },
-        {
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
         },
         {
           "name": "Deebo Samuel",
@@ -4679,9 +4679,9 @@
           "team": "LV"
         },
         {
-          "name": "Tyler Shough",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "NO"
+          "team": "ARI"
         },
         {
           "name": "Christian McCaffrey",
@@ -4803,11 +4803,6 @@
       "owner": "weundefeated",
       "players": [
         {
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
@@ -4846,6 +4841,11 @@
           "name": "CeeDee Lamb",
           "position": "WR",
           "team": "DAL"
+        },
+        {
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "name": "Tee Higgins",
@@ -4910,11 +4910,6 @@
           "team": "WAS"
         },
         {
-          "name": "Joe Burrow",
-          "position": "QB",
-          "team": "CIN"
-        },
-        {
           "name": "Jonathan Taylor",
           "position": "RB",
           "team": "IND"
@@ -4923,6 +4918,11 @@
           "name": "Christian Watson",
           "position": "WR",
           "team": "GB"
+        },
+        {
+          "name": "Bryce Young",
+          "position": "QB",
+          "team": "CAR"
         },
         {
           "name": "Bijan Robinson",
@@ -5020,9 +5020,9 @@
           "team": "DET"
         },
         {
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR"
+          "name": "Drake Maye",
+          "position": "QB",
+          "team": "NE"
         },
         {
           "name": "Quinshon Judkins",
@@ -5055,9 +5055,9 @@
           "team": "MIN"
         },
         {
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB"
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "name": "George Pickens",
