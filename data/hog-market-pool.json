@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-08T09:36:26.002Z",
-  "free_agent_count": 722,
+  "generated_at": "2026-10-08T18:03:49.423Z",
+  "free_agent_count": 724,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -169,6 +169,12 @@
       "name": "Anthony Smith",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Anthony Tyus",
+      "position": "RB",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -457,6 +463,12 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
