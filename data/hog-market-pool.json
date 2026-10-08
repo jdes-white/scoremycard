@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-08T00:30:55.957Z",
-  "free_agent_count": 723,
+  "generated_at": "2026-10-08T09:36:26.002Z",
+  "free_agent_count": 722,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1852,12 +1852,6 @@
       "injury_status": null
     },
     {
-      "name": "Jacksonville Jaguars",
-      "position": "DEF",
-      "team": "JAX",
-      "injury_status": null
-    },
-    {
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
@@ -2077,6 +2071,12 @@
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Jauan Jennings",
+      "position": "WR",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -2581,12 +2581,6 @@
       "name": "Kentrel Bullock",
       "position": "RB",
       "team": "CIN",
-      "injury_status": null
-    },
-    {
-      "name": "Keon Coleman",
-      "position": "WR",
-      "team": "BUF",
       "injury_status": null
     },
     {
@@ -5312,6 +5306,11 @@
           "name": "Chicago Bears",
           "position": "DEF",
           "team": "CHI"
+        },
+        {
+          "name": "Jacksonville Jaguars",
+          "position": "DEF",
+          "team": "JAX"
         }
       ]
     },
@@ -5324,6 +5323,11 @@
           "name": "Emanuel Wilson",
           "position": "RB",
           "team": "SEA"
+        },
+        {
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "name": "Devaughn Vele",
@@ -5369,11 +5373,6 @@
           "name": "CeeDee Lamb",
           "position": "WR",
           "team": "DAL"
-        },
-        {
-          "name": "Jauan Jennings",
-          "position": "WR",
-          "team": "MIN"
         },
         {
           "name": "Travis Etienne",
