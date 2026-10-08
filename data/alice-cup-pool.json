@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-08T00:32:55.773Z",
+  "generated_at": "2026-10-08T09:40:59.965Z",
   "free_agent_count": 757,
   "free_agents": [
     {
@@ -511,6 +511,12 @@
       "name": "Buffalo Bills",
       "position": "DEF",
       "team": "BUF",
+      "injury_status": null
+    },
+    {
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1258,12 +1264,6 @@
       "injury_status": null
     },
     {
-      "name": "DK Metcalf",
-      "position": "WR",
-      "team": "PIT",
-      "injury_status": null
-    },
-    {
       "name": "Dohnte Meyers",
       "position": "WR",
       "team": "CIN",
@@ -1651,6 +1651,12 @@
       "name": "Grant Finley",
       "position": "FB",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Green Bay Packers",
+      "position": "DEF",
+      "team": "GB",
       "injury_status": null
     },
     {
@@ -2914,12 +2920,6 @@
       "injury_status": null
     },
     {
-      "name": "Los Angeles Chargers",
-      "position": "DEF",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
@@ -3217,6 +3217,12 @@
       "name": "Michael Wortham",
       "position": "WR",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -4264,12 +4270,6 @@
       "injury_status": "Questionable"
     },
     {
-      "name": "Tyler Allgeier",
-      "position": "RB",
-      "team": "ARI",
-      "injury_status": null
-    },
-    {
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
@@ -4988,9 +4988,9 @@
           "team": "NYJ"
         },
         {
-          "name": "Green Bay Packers",
+          "name": "Los Angeles Chargers",
           "position": "DEF",
-          "team": "GB"
+          "team": "LAC"
         }
       ]
     },
@@ -5122,6 +5122,11 @@
           "team": "BUF"
         },
         {
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
@@ -5135,11 +5140,6 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         },
         {
           "name": "Pittsburgh Steelers",
@@ -5189,11 +5189,6 @@
           "team": "KC"
         },
         {
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
-        },
-        {
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI"
@@ -5207,6 +5202,11 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "name": "Kenneth Walker",
