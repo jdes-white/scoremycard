@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-08T09:40:59.965Z",
-  "free_agent_count": 757,
+  "generated_at": "2026-10-08T18:07:53.394Z",
+  "free_agent_count": 759,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -175,6 +175,12 @@
       "name": "Anthony Smith",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Anthony Tyus",
+      "position": "RB",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -493,6 +499,12 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -3199,7 +3211,7 @@
       "name": "Michael Pittman",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Michael Trigg",
