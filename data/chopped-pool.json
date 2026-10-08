@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-08T09:51:42.788Z",
-  "free_agent_count": 754,
+  "generated_at": "2026-10-08T18:20:03.374Z",
+  "free_agent_count": 756,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -175,6 +175,12 @@
       "name": "Anthony Smith",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Anthony Tyus",
+      "position": "RB",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -481,6 +487,12 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -3205,7 +3217,7 @@
       "name": "Michael Pittman",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Michael Trigg",
