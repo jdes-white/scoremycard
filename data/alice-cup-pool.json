@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-07T20:18:06.302Z",
-  "free_agent_count": 756,
+  "generated_at": "2026-10-08T00:32:55.773Z",
+  "free_agent_count": 757,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -31,7 +31,7 @@
       "name": "Adam Trautman",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Adrian Killins",
@@ -85,7 +85,7 @@
       "name": "Alec Ingold",
       "position": "FB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Alec Pierce",
@@ -205,7 +205,7 @@
       "name": "Ashton Dulin",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -259,7 +259,7 @@
       "name": "Barion Brown",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Barrett Burns",
@@ -397,7 +397,7 @@
       "name": "Braxton Berrios",
       "position": "WR",
       "team": "NYG",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Brayden Willis",
@@ -445,6 +445,12 @@
       "name": "Brevyn Spann-Ford",
       "position": "TE",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -715,7 +721,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Blair",
@@ -757,7 +763,7 @@
       "name": "Chris Manhertz",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Moore",
@@ -835,7 +841,7 @@
       "name": "Cody White",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Colbie Young",
@@ -931,12 +937,6 @@
       "name": "Dalen Cambre",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Dallas Cowboys",
-      "position": "DEF",
-      "team": "DAL",
       "injury_status": null
     },
     {
@@ -1351,7 +1351,7 @@
       "name": "Durham Smythe",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Dwayne Haskins",
@@ -1429,7 +1429,7 @@
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Eli Stowers",
@@ -1513,6 +1513,12 @@
       "name": "Erick All",
       "position": "TE",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Erik Ezukanma",
+      "position": "WR",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -1615,7 +1621,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Germie Bernard",
@@ -1678,6 +1684,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Harrison Butker",
+      "position": "K",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Harrison Mevis",
       "position": "K",
       "team": "LAR",
@@ -1711,6 +1723,12 @@
       "name": "Hendon Hooker",
       "position": "QB",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1954,6 +1972,12 @@
       "injury_status": null
     },
     {
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
@@ -1975,12 +1999,6 @@
       "name": "Jahdae Walker",
       "position": "WR",
       "team": "CHI",
-      "injury_status": null
-    },
-    {
-      "name": "Jake Bates",
-      "position": "K",
-      "team": "DET",
       "injury_status": null
     },
     {
@@ -2644,12 +2662,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Keaton Mitchell",
-      "position": "RB",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "GB",
@@ -3091,7 +3103,7 @@
       "name": "Mason Taylor",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mason Tipton",
@@ -3535,7 +3547,7 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Quez Watkins",
@@ -3583,7 +3595,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ray Davis",
@@ -3595,7 +3607,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -3667,12 +3679,6 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Romeo Doubs",
-      "position": "WR",
-      "team": "NE",
       "injury_status": null
     },
     {
@@ -4171,7 +4177,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trey Palmer",
@@ -4629,11 +4635,6 @@
           "team": "JAX"
         },
         {
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "name": "Stefon Diggs",
           "position": "WR",
           "team": "WAS"
@@ -4682,6 +4683,11 @@
           "name": "Josh Downs",
           "position": "WR",
           "team": "IND"
+        },
+        {
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "name": "Zach Charbonnet",
@@ -5153,6 +5159,11 @@
           "team": "KC"
         },
         {
+          "name": "Jake Bates",
+          "position": "K",
+          "team": "DET"
+        },
+        {
           "name": "Drake Maye",
           "position": "QB",
           "team": "NE"
@@ -5178,11 +5189,6 @@
           "team": "KC"
         },
         {
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC"
-        },
-        {
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN"
@@ -5198,14 +5204,14 @@
           "team": "CIN"
         },
         {
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC"
-        },
-        {
-          "name": "Brian Robinson",
-          "position": "RB",
-          "team": "ATL"
         },
         {
           "name": "Parker Washington",
@@ -5213,9 +5219,9 @@
           "team": "JAX"
         },
         {
-          "name": "Houston Texans",
+          "name": "Dallas Cowboys",
           "position": "DEF",
-          "team": "HOU"
+          "team": "DAL"
         }
       ]
     },
