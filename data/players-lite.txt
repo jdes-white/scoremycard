@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-07T23:36:35.521Z)
+# id|name|pos|team  (generated 2026-10-08T23:46:39.871Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -568,6 +568,7 @@
 11895|Mason Tipton|WR|NO
 11911|Jeshaun Jones|WR|MIN
 11942|Colson Yankoff|TE|WAS
+11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
 12001|Lawrence Keys|WR|DET
@@ -700,6 +701,7 @@
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12938|Jackson Meeks|TE|DET
+12939|Anthony Tyus|RB|CAR
 12946|Dontae Fleming|WR|NYG
 12961|Ryan Fitzgerald|K|CAR
 12969|Lan Larison|RB|NE
@@ -826,7 +828,7 @@
 13429|Seydou Traore|TE|MIA
 13431|Miles Kitselman|TE|DET
 13432|Khalil Dinkins|TE|SF
-13433|Riley Nowakowski|TE|PIT
+13433|Riley Nowakowski|RB|PIT
 13434|Will Kacmarek|TE|MIA
 13435|Joe Royer|TE|CLE
 13436|Kentrel Bullock|RB|CIN
