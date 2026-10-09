@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-08T18:20:03.374Z",
+  "generated_at": "2026-10-09T00:56:22.312Z",
   "free_agent_count": 756,
   "free_agents": [
     {
@@ -37,7 +37,7 @@
       "name": "Adam Trautman",
       "position": "TE",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Adonai Mitchell",
@@ -283,7 +283,7 @@
       "name": "Ben Sinnott",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ben Skowronek",
@@ -583,7 +583,7 @@
       "name": "Camden Brown",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cameron Dorner",
@@ -613,7 +613,7 @@
       "name": "Carsen Ryan",
       "position": "TE",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carson Beck",
@@ -745,7 +745,7 @@
       "name": "Chris Moore",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Myarick",
@@ -817,7 +817,7 @@
       "name": "Colbie Young",
       "position": "WR",
       "team": "CIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Colby Parkinson",
@@ -979,7 +979,7 @@
       "name": "Dante Pettis",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Dare Ogunbowale",
@@ -1033,7 +1033,7 @@
       "name": "David Martin-Robinson",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "David Moore",
@@ -1279,7 +1279,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drake Dabney",
@@ -1645,7 +1645,7 @@
       "name": "Gunnar Helm",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Gunner Olszewski",
@@ -2191,7 +2191,7 @@
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylin Lane",
@@ -2353,7 +2353,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jonathan Ward",
@@ -2545,7 +2545,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "K.J. Osborn",
@@ -2569,7 +2569,7 @@
       "name": "Kaelon Black",
       "position": "RB",
       "team": "SF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kaleb Johnson",
@@ -2791,7 +2791,7 @@
       "name": "Konata Mumpfield",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kurtis Rourke",
@@ -3535,7 +3535,7 @@
       "name": "Pierre Strong",
       "position": "RB",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Princeton Fant",
@@ -3607,7 +3607,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ray Davis",
@@ -3647,7 +3647,7 @@
     },
     {
       "name": "Riley Nowakowski",
-      "position": "TE",
+      "position": "RB",
       "team": "PIT",
       "injury_status": null
     },
@@ -4309,7 +4309,7 @@
       "name": "Tyler Shough",
       "position": "QB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyquan Thornton",
