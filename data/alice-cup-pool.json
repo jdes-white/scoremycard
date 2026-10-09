@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-09T09:47:04.578Z",
-  "free_agent_count": 757,
+  "generated_at": "2026-10-09T17:41:26.677Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1012,12 +1012,6 @@
       "injury_status": null
     },
     {
-      "name": "Dante Pettis",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Dare Ogunbowale",
       "position": "RB",
       "team": "HOU",
@@ -1477,12 +1471,6 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Emari Demercado",
-      "position": "RB",
-      "team": "DAL",
       "injury_status": null
     },
     {
@@ -2650,12 +2638,6 @@
       "injury_status": null
     },
     {
-      "name": "Kaytron Allen",
-      "position": "RB",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "Ke'Shawn Williams",
       "position": "WR",
       "team": "CIN",
@@ -2977,7 +2959,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Malachi Corley",
@@ -3613,7 +3595,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Reggie Virgil",
