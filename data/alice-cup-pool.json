@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-09T00:47:54.513Z",
+  "generated_at": "2026-10-09T09:47:04.578Z",
   "free_agent_count": 757,
   "free_agents": [
     {
@@ -1015,7 +1015,7 @@
       "name": "Dante Pettis",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Dare Ogunbowale",
