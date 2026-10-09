@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-09T09:55:53.217Z",
-  "free_agent_count": 756,
+  "generated_at": "2026-10-09T17:53:30.001Z",
+  "free_agent_count": 753,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -43,7 +43,7 @@
       "name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Adrian Killins",
@@ -613,7 +613,7 @@
       "name": "Carsen Ryan",
       "position": "TE",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Beck",
@@ -974,12 +974,6 @@
       "position": "WR",
       "team": "HOU",
       "injury_status": null
-    },
-    {
-      "name": "Dante Pettis",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "Questionable"
     },
     {
       "name": "Dare Ogunbowale",
@@ -1435,12 +1429,6 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Emari Demercado",
-      "position": "RB",
-      "team": "DAL",
       "injury_status": null
     },
     {
@@ -2614,12 +2602,6 @@
       "injury_status": null
     },
     {
-      "name": "Kaytron Allen",
-      "position": "RB",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "KC Concepcion",
       "position": "WR",
       "team": "CLE",
@@ -2977,7 +2959,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Makai Lemon",
@@ -3619,7 +3601,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Reggie Virgil",
@@ -4255,7 +4237,7 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Allgeier",
