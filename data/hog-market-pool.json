@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-09T00:44:58.166Z",
+  "generated_at": "2026-10-09T09:43:16.539Z",
   "free_agent_count": 724,
   "free_agents": [
     {
@@ -421,6 +421,12 @@
       "name": "Brevyn Spann-Ford",
       "position": "TE",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
       "injury_status": null
     },
     {
@@ -961,7 +967,7 @@
       "name": "Dante Pettis",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Dare Ogunbowale",
@@ -3082,12 +3088,6 @@
       "injury_status": null
     },
     {
-      "name": "Mike Washington",
-      "position": "RB",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
@@ -4626,11 +4626,6 @@
           "team": "DET"
         },
         {
-          "name": "Brian Thomas",
-          "position": "WR",
-          "team": "JAX"
-        },
-        {
           "name": "Ollie Gordon",
           "position": "RB",
           "team": "MIA"
@@ -4644,6 +4639,11 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI"
+        },
+        {
+          "name": "Mike Washington",
+          "position": "RB",
+          "team": "LV"
         },
         {
           "name": "Jonah Coleman",
