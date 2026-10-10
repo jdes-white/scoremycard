@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-09T22:09:42.891Z",
-  "free_agent_count": 753,
+  "generated_at": "2026-10-10T04:00:56.091Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -823,7 +823,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Cole Kmet",
@@ -2092,12 +2092,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Jameson Williams",
-      "position": "WR",
-      "team": "DET",
-      "injury_status": null
-    },
-    {
       "name": "Jared Wayne",
       "position": "WR",
       "team": "HOU",
@@ -2245,12 +2239,6 @@
       "name": "Jimmy Horn",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Joe Burrow",
-      "position": "QB",
-      "team": "CIN",
       "injury_status": null
     },
     {
@@ -2602,6 +2590,12 @@
       "injury_status": null
     },
     {
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "KC Concepcion",
       "position": "WR",
       "team": "CLE",
@@ -2804,6 +2798,12 @@
       "position": "QB",
       "team": "MIA",
       "injury_status": null
+    },
+    {
+      "name": "Kyle Monangai",
+      "position": "RB",
+      "team": "CHI",
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Pitts",
@@ -4150,6 +4150,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Trevor Lawrence",
+      "position": "QB",
+      "team": "JAX",
+      "injury_status": null
+    },
+    {
       "name": "Trey Benson",
       "position": "RB",
       "team": "ARI",
@@ -4621,19 +4627,14 @@
           "team": "IND"
         },
         {
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
-        },
-        {
           "name": "Deebo Samuel",
           "position": "WR",
           "team": "SF"
         },
         {
-          "name": "Trevor Lawrence",
+          "name": "Joe Burrow",
           "position": "QB",
-          "team": "JAX"
+          "team": "CIN"
         },
         {
           "name": "DeVonta Smith",
@@ -4649,6 +4650,11 @@
           "name": "James Cook",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "name": "Chase Brown",
