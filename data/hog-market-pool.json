@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-10T16:28:08.427Z",
+  "generated_at": "2026-10-10T20:47:04.519Z",
   "free_agent_count": 721,
   "free_agents": [
     {
@@ -709,7 +709,7 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Chris Collier",
@@ -2389,7 +2389,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Joshua Perkins",
@@ -3445,7 +3445,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Reggie Virgil",
@@ -3883,7 +3883,7 @@
       "name": "Tim Patrick",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Tip Reiman",
@@ -3979,7 +3979,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "injury_status": "Doubtful"
+      "injury_status": "IR"
     },
     {
       "name": "Trey Palmer",
