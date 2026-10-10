@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-09T23:18:46.104Z)
+# id|name|pos|team  (generated 2026-10-10T22:38:28.988Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -7,7 +7,6 @@
 650|Nick Folk|K|ATL
 812|Lee Smith|TE|ATL
 827|Tyrod Taylor|QB|GB
-829|Andy Dalton|QB|PHI
 1166|Kirk Cousins|QB|LV
 1339|Zach Ertz|TE|PHI
 1373|Geno Smith|QB|NYJ
