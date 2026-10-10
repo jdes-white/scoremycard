@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-10T20:47:04.519Z",
+  "generated_at": "2026-10-10T23:56:21.837Z",
   "free_agent_count": 721,
   "free_agents": [
     {
@@ -295,7 +295,7 @@
       "name": "Ben Yurosek",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Benny LeMay",
