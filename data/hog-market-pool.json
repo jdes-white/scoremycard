@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-09T21:55:58.693Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-10-10T03:00:07.827Z",
+  "free_agent_count": 722,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -823,7 +823,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Cole Kmet",
@@ -2509,6 +2509,12 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
+      "injury_status": null
+    },
+    {
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "team": "MIA",
       "injury_status": null
     },
     {
