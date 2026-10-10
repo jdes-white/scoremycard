@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-10T11:32:36.074Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-10-10T16:33:00.289Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -139,12 +139,6 @@
       "name": "Andrew Beck",
       "position": "RB",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Andy Dalton",
-      "position": "QB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -1033,7 +1027,7 @@
       "name": "Darius Slayton",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Darnell Mooney",
@@ -2521,7 +2515,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Joshua Perkins",
@@ -3067,7 +3061,7 @@
       "name": "Marvin Harrison",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Marvin Mims",
