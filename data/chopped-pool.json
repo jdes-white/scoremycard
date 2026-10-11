@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-10T21:03:46.031Z",
+  "generated_at": "2026-10-11T03:36:01.931Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -295,7 +295,7 @@
       "name": "Ben Yurosek",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Benny LeMay",
@@ -907,12 +907,6 @@
       "name": "Dalen Cambre",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Dallas Goedert",
-      "position": "TE",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2516,6 +2510,12 @@
       "position": "TE",
       "team": "MIA",
       "injury_status": "Out"
+    },
+    {
+      "name": "Juwan Johnson",
+      "position": "TE",
+      "team": "NO",
+      "injury_status": null
     },
     {
       "name": "K.J. Osborn",
@@ -4688,6 +4688,11 @@
           "team": "PHI"
         },
         {
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
+        },
+        {
           "name": "DK Metcalf",
           "position": "WR",
           "team": "PIT"
@@ -4696,11 +4701,6 @@
           "name": "Justin Jefferson",
           "position": "WR",
           "team": "MIN"
-        },
-        {
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
         },
         {
           "name": "Jaylen Waddle",
