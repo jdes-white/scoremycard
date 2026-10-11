@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-10T22:38:28.988Z)
+# id|name|pos|team  (generated 2026-10-11T22:57:51.292Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -344,7 +344,6 @@
 8183|Brock Purdy|QB|SF
 8188|Tyquan Thornton|WR|KC
 8195|Ronnie Rivers|RB|LAR
-8200|Kevin Austin|WR|NO
 8204|Bo Melton|WR|GB
 8205|Isiah Pacheco|RB|DET
 8206|Skylar Thompson|QB|BAL
@@ -380,7 +379,7 @@
 8799|Zaire Mitchell-Paden|TE|HOU
 8800|Malik Davis|RB|DAL
 8849|Tanner Conner|TE|NE
-8861|Irv Charles|WR|SEA
+8861|Irvin Charles|WR|SEA
 8917|KaVontae Turpin|WR|DAL
 8924|Thomas Odukoya|TE|KC
 9220|Evan Hull|RB|ARI
@@ -533,7 +532,7 @@
 11625|Adonai Mitchell|WR|NYJ
 11626|Xavier Legette|WR|CAR
 11627|Troy Franklin|WR|DEN
-11628|Marvin Harrison|WR|ARI
+11628|Marvin Harrison|WR|HOU
 11629|Devontez Walker|WR|BAL
 11630|Roman Wilson|WR|PIT
 11631|Brian Thomas|WR|JAX
@@ -565,7 +564,6 @@
 11895|Mason Tipton|WR|NO
 11911|Jeshaun Jones|WR|MIN
 11942|Colson Yankoff|TE|WAS
-11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
 12001|Lawrence Keys|WR|DET
@@ -646,7 +644,6 @@
 12534|Kyle Monangai|RB|CHI
 12535|Isaac TeSlaa|WR|DET
 12536|Jaylin Noel|WR|HOU
-12538|Brady Cook|QB|MIA
 12539|Arian Smith|WR|NYJ
 12540|Chimere Dike|WR|TEN
 12541|Dont'e Thornton|WR|LV
@@ -695,7 +692,6 @@
 12901|Patrick Herbert|TE|LAC
 12908|Chandler Brayboy|WR|NE
 12909|Eli Pancol|WR|IND
-12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12938|Jackson Meeks|TE|DET
 12939|Anthony Tyus|RB|CAR
@@ -861,7 +857,6 @@
 13770|J. Michael Sturdivant|WR|GB
 13779|Al-Jay Henderson|RB|NYJ
 13804|Kansei Matsuzawa|K|LV
-13816|Mark Gronowski|QB|HOU
 13825|Malik McClain|WR|NYJ
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
