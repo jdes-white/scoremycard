@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-11T02:58:09.647Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-10-11T09:37:12.591Z",
+  "free_agent_count": 720,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1420,6 +1420,12 @@
       "injury_status": null
     },
     {
+      "name": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
@@ -1531,6 +1537,12 @@
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
+      "injury_status": null
+    },
+    {
+      "name": "Geno Smith",
+      "position": "QB",
+      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -2680,12 +2692,6 @@
       "injury_status": null
     },
     {
-      "name": "Kyle Pitts",
-      "position": "TE",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Kyle Williams",
       "position": "WR",
       "team": "NE",
@@ -2842,6 +2848,12 @@
       "injury_status": null
     },
     {
+      "name": "Makai Lemon",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Malachi Corley",
       "position": "WR",
       "team": "CLE",
@@ -2887,12 +2899,6 @@
       "name": "Malik Turner",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Malik Willis",
-      "position": "QB",
-      "team": "MIA",
       "injury_status": null
     },
     {
@@ -3946,12 +3952,6 @@
       "injury_status": null
     },
     {
-      "name": "Tre' Harris",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Trebor Pena",
       "position": "WR",
       "team": "JAX",
@@ -4228,12 +4228,6 @@
       "injury_status": null
     },
     {
-      "name": "Will Shipley",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Wyatt Houston",
       "position": "TE",
       "team": "CAR",
@@ -4357,6 +4351,11 @@
           "team": "LAC"
         },
         {
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC"
+        },
+        {
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
@@ -4370,11 +4369,6 @@
           "name": "Carnell Tate",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "name": "Kenyon Sadiq",
@@ -4695,6 +4689,11 @@
       "owner": "purpatron",
       "players": [
         {
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
@@ -4812,11 +4811,6 @@
           "team": "CLE"
         },
         {
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
-        },
-        {
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR"
@@ -4850,6 +4844,11 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "name": "Jordan Mason",
@@ -5334,11 +5333,6 @@
           "team": "CHI"
         },
         {
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC"
-        },
-        {
           "name": "Trey Smack",
           "position": "K",
           "team": "GB"
@@ -5382,6 +5376,11 @@
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF"
+        },
+        {
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "name": "Tucker Kraft",
