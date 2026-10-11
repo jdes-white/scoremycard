@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-11T16:52:45.644Z",
+  "generated_at": "2026-10-11T21:08:35.081Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -283,7 +283,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ben VanSumeren",
@@ -577,7 +577,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Carson Steele",
@@ -643,7 +643,7 @@
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Charlie Smyth",
@@ -901,7 +901,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dameon Pierce",
@@ -1537,7 +1537,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -1855,7 +1855,7 @@
       "name": "Jackson Meeks",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jacob Cowing",
@@ -1951,7 +1951,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Morton",
@@ -2641,7 +2641,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -3091,7 +3091,7 @@
       "name": "Montorie Foster",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Myles Montgomery",
@@ -3169,7 +3169,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Nick Mullens",
@@ -3391,7 +3391,7 @@
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Rasheen Ali",
@@ -3475,7 +3475,7 @@
       "name": "Robert Henry",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
@@ -3529,7 +3529,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -3655,7 +3655,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Spencer Rattler",
