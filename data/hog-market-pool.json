@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-11T21:08:35.081Z",
+  "generated_at": "2026-10-12T02:54:25.969Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -853,7 +853,7 @@
       "name": "Cooper Rush",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -1399,7 +1399,7 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emmanuel Henderson",
@@ -1831,7 +1831,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jack Velling",
@@ -2959,7 +2959,7 @@
       "name": "Matt Hibner",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Matt LaCosse",
@@ -3871,7 +3871,7 @@
       "name": "Tom Kennedy",
       "position": "WR",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tommy DeVito",
@@ -5131,7 +5131,7 @@
         {
           "name": "Marvin Harrison",
           "position": "WR",
-          "team": "ARI"
+          "team": "HOU"
         },
         {
           "name": "Kirk Cousins",
