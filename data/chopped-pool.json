@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-12T14:14:50.896Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-10-12T22:21:55.829Z",
+  "free_agent_count": 752,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -283,7 +283,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Ben VanSumeren",
@@ -475,6 +475,12 @@
       "name": "Bryce Lance",
       "position": "WR",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Bryce Oliver",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1267,7 +1273,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -2032,6 +2038,12 @@
       "injury_status": null
     },
     {
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Jameis Winston",
       "position": "QB",
       "team": "NYG",
@@ -2492,6 +2504,12 @@
       "position": "TE",
       "team": "MIA",
       "injury_status": "Out"
+    },
+    {
+      "name": "Justin Watson",
+      "position": "WR",
+      "team": "KC",
+      "injury_status": null
     },
     {
       "name": "Juwan Johnson",
@@ -3007,6 +3025,12 @@
       "name": "Mark Andrews",
       "position": "TE",
       "team": "BAL",
+      "injury_status": null
+    },
+    {
+      "name": "Mark Gronowski",
+      "position": "QB",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -3895,7 +3919,7 @@
       "name": "Tanner Hudson",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tanner Koziol",
@@ -4027,7 +4051,7 @@
       "name": "Tom Kennedy",
       "position": "WR",
       "team": "DET",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tommy DeVito",
@@ -4255,7 +4279,7 @@
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Shough",
@@ -4267,7 +4291,7 @@
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyrell Shavers",
