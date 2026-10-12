@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-12T03:09:52.723Z",
+  "generated_at": "2026-10-12T13:49:24.528Z",
   "free_agent_count": 749,
   "free_agents": [
     {
@@ -3163,7 +3163,7 @@
       "name": "Michael Penix",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Michael Pittman",
