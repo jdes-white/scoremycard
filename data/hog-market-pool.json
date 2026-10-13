@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-12T20:29:54.979Z",
-  "free_agent_count": 718,
+  "generated_at": "2026-10-13T02:17:18.531Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -751,7 +751,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -1255,7 +1255,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -2005,6 +2005,12 @@
       "name": "Jam Miller",
       "position": "RB",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "team": "LV",
       "injury_status": null
     },
     {
@@ -3007,7 +3013,7 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Miami Dolphins",
@@ -4033,7 +4039,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
@@ -4087,7 +4093,7 @@
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyquan Thornton",
