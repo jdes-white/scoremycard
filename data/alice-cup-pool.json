@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-12T22:18:11.834Z",
+  "generated_at": "2026-10-13T04:25:42.313Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -793,7 +793,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -3139,7 +3139,7 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Miami Dolphins",
@@ -4237,7 +4237,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
