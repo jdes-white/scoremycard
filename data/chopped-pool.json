@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-12T22:21:55.829Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-10-13T05:09:28.878Z",
+  "free_agent_count": 764,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -562,6 +562,12 @@
       "injury_status": null
     },
     {
+      "name": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Cam Ward",
       "position": "QB",
       "team": "TEN",
@@ -650,6 +656,12 @@
       "position": "WR",
       "team": "NO",
       "injury_status": null
+    },
+    {
+      "name": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL",
+      "injury_status": "Questionable"
     },
     {
       "name": "Chandler Brayboy",
@@ -757,7 +769,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -896,6 +908,12 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
+    },
+    {
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI",
+      "injury_status": null
     },
     {
       "name": "Dalen Cambre",
@@ -1624,6 +1642,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Harold Fannin",
+      "position": "TE",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Harrison Wallace",
       "position": "WR",
       "team": "ARI",
@@ -2116,10 +2140,22 @@
       "injury_status": null
     },
     {
+      "name": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Jawhar Jordan",
       "position": "RB",
       "team": "HOU",
       "injury_status": null
+    },
+    {
+      "name": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": "IR"
     },
     {
       "name": "Jayden Daniels",
@@ -2390,6 +2426,12 @@
       "position": "WR",
       "team": "NO",
       "injury_status": "IR"
+    },
+    {
+      "name": "Josh Allen",
+      "position": "QB",
+      "team": "BUF",
+      "injury_status": null
     },
     {
       "name": "Josh Cameron",
@@ -2722,6 +2764,12 @@
       "injury_status": null
     },
     {
+      "name": "Khalil Shakir",
+      "position": "WR",
+      "team": "BUF",
+      "injury_status": null
+    },
+    {
       "name": "Kimani Vidal",
       "position": "RB",
       "team": "LAC",
@@ -2938,6 +2986,12 @@
       "injury_status": null
     },
     {
+      "name": "Luther Burden",
+      "position": "WR",
+      "team": "CHI",
+      "injury_status": null
+    },
+    {
       "name": "Mac Jones",
       "position": "QB",
       "team": "SF",
@@ -3139,7 +3193,7 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Micah Simon",
@@ -3970,6 +4024,12 @@
       "injury_status": null
     },
     {
+      "name": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Temarrick Hemingway",
       "position": "TE",
       "team": "WAS",
@@ -4072,6 +4132,12 @@
       "injury_status": null
     },
     {
+      "name": "Tony Pollard",
+      "position": "RB",
+      "team": "TEN",
+      "injury_status": null
+    },
+    {
       "name": "Tory Horton",
       "position": "WR",
       "team": "SEA",
@@ -4130,6 +4196,12 @@
       "position": "WR",
       "team": "BUF",
       "injury_status": null
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": "Out"
     },
     {
       "name": "Trevor Etienne",
@@ -4219,7 +4291,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
@@ -4789,68 +4861,7 @@
       "roster_id": 5,
       "team_name": "weundefeated",
       "owner": "weundefeated",
-      "players": [
-        {
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
-          "name": "Harold Fannin",
-          "position": "TE",
-          "team": "CLE"
-        },
-        {
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG"
-        },
-        {
-          "name": "Luther Burden",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
-          "name": "Josh Allen",
-          "position": "QB",
-          "team": "BUF"
-        },
-        {
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN"
-        },
-        {
-          "name": "CeeDee Lamb",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
-          "name": "D'Andre Swift",
-          "position": "RB",
-          "team": "CHI"
-        },
-        {
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
-          "name": "Javonte Williams",
-          "position": "RB",
-          "team": "DAL"
-        },
-        {
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
-        }
-      ]
+      "players": []
     },
     {
       "roster_id": 6,
