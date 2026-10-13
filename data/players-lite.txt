@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-13T01:24:15.618Z)
+# id|name|pos|team  (generated 2026-10-13T23:18:31.471Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -220,7 +220,6 @@
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
 6957|James Proche|WR|CLE
-6960|Tyler Johnson|WR|NYJ
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -309,6 +308,7 @@
 8119|Jahan Dotson|WR|ATL
 8121|Romeo Doubs|WR|NE
 8122|Zonovan Knight|RB|ARI
+8123|Hassan Haskins|RB|NE
 8125|Calvin Austin|WR|NYG
 8126|Wan'Dale Robinson|WR|TEN
 8127|Charlie Kolar|TE|LAC
@@ -452,13 +452,14 @@
 10955|Chad Ryland|K|ARI
 10983|Sean Clifford|QB|CIN
 11034|Jalen Brooks|WR|ARI
-11056|Jared Wayne|WR|HOU
-11058|Blake Grupe|K|NYJ
+11056|Jared Wayne|WR|MIA
+11058|Blake Grupe|K|LAR
 11068|Mitch Tinsley|WR|CIN
 11113|Joel Wilson|TE|TEN
 11157|Brycen Tremayne|WR|CAR
 11168|Xavier Smith|WR|SF
 11186|Carlos Washington|RB|MIA
+11199|Emari Demercado|RB|DAL
 11201|Blake Whiteheart|TE|CLE
 11210|Malik Heath|WR|ATL
 11237|Jacob Saylors|RB|DET
@@ -497,7 +498,6 @@
 11564|Drake Maye|QB|NE
 11565|J.J. McCarthy|QB|NYG
 11566|Jayden Daniels|QB|WAS
-11569|Jarquez Hunter|RB|MIA
 11570|Rasheen Ali|RB|BAL
 11571|Isaiah Davis|RB|NYJ
 11573|Frank Gore|RB|BUF
@@ -505,7 +505,7 @@
 11575|Ray Davis|RB|BUF
 11576|Braelon Allen|RB|NYJ
 11577|Will Shipley|RB|PHI
-11579|Audric Estime|RB|MIN
+11579|Audric Estime|RB|CLE
 11581|MarShawn Lloyd|RB|GB
 11582|Carson Steele|RB|PHI
 11583|Jonathon Brooks|RB|CAR
@@ -561,7 +561,7 @@
 11786|Cam Little|K|JAX
 11792|Will Reichard|K|MIN
 11806|Casey Washington|WR|CAR
-11820|Devin Culp|TE|TB
+11820|Devin Culp|TE|CLE
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
 11911|Jeshaun Jones|WR|MIN
@@ -595,6 +595,7 @@
 12473|Mitchell Evans|TE|CAR
 12474|Woody Marks|RB|HOU
 12475|Ricky White|WR|SEA
+12476|Devin Neal|RB|WAS
 12477|Kurtis Rourke|QB|SF
 12480|Moliki Matavao|TE|NO
 12481|Cam Skattebo|RB|NYG
@@ -647,6 +648,7 @@
 12534|Kyle Monangai|RB|CHI
 12535|Isaac TeSlaa|WR|DET
 12536|Jaylin Noel|WR|HOU
+12538|Brady Cook|QB|MIA
 12539|Arian Smith|WR|NYJ
 12540|Chimere Dike|WR|TEN
 12541|Dont'e Thornton|WR|LV
@@ -681,6 +683,7 @@
 12788|Will Sheppard|WR|MIA
 12792|Garrett Greene|QB|TB
 12797|Ahmani Marshall|RB|CAR
+12803|Luke Grimm|WR|LAC
 12817|Jake Briningstool|TE|KC
 12826|Ulysses Bentley|RB|NO
 12829|Coleman Owen|WR|GB
@@ -695,6 +698,7 @@
 12901|Patrick Herbert|TE|LAC
 12908|Chandler Brayboy|WR|NE
 12909|Eli Pancol|WR|IND
+12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12938|Jackson Meeks|TE|DET
 12939|Anthony Tyus|RB|CAR
