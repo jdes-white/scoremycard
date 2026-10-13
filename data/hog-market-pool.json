@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-13T09:48:46.799Z",
-  "free_agent_count": 719,
+  "generated_at": "2026-10-13T18:34:55.605Z",
+  "free_agent_count": 720,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -216,7 +216,7 @@
     {
       "name": "Audric Estime",
       "position": "RB",
-      "team": "MIN",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -312,7 +312,7 @@
     {
       "name": "Blake Grupe",
       "position": "K",
-      "team": "NYJ",
+      "team": "LAR",
       "injury_status": null
     },
     {
@@ -325,6 +325,12 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
+      "injury_status": null
+    },
+    {
+      "name": "Brady Cook",
+      "position": "QB",
+      "team": "MIA",
       "injury_status": null
     },
     {
@@ -1150,6 +1156,12 @@
       "injury_status": null
     },
     {
+      "name": "Devin Neal",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Devin Singletary",
       "position": "RB",
       "team": "NYG",
@@ -1406,6 +1418,12 @@
       "position": "WR",
       "team": "BAL",
       "injury_status": "Out"
+    },
+    {
+      "name": "Emari Demercado",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
     },
     {
       "name": "Emmanuel Henderson",
@@ -2008,6 +2026,12 @@
       "injury_status": null
     },
     {
+      "name": "Jamaal Pritchett",
+      "position": "WR",
+      "team": "NYJ",
+      "injury_status": null
+    },
+    {
       "name": "Jamari Thrash",
       "position": "WR",
       "team": "LV",
@@ -2038,12 +2062,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Jared Wayne",
-      "position": "WR",
-      "team": "HOU",
-      "injury_status": null
-    },
-    {
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
@@ -2059,12 +2077,6 @@
       "name": "Jaret Patterson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Jarquez Hunter",
-      "position": "RB",
-      "team": "MIA",
       "injury_status": null
     },
     {
@@ -3757,7 +3769,7 @@
       "name": "Tanner Hudson",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tanner Koziol",
@@ -4084,12 +4096,6 @@
       "injury_status": null
     },
     {
-      "name": "Tyler Johnson",
-      "position": "WR",
-      "team": "NYJ",
-      "injury_status": null
-    },
-    {
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
@@ -4099,7 +4105,7 @@
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
-      "injury_status": "IR"
+      "injury_status": "Out"
     },
     {
       "name": "Tyrell Shavers",
