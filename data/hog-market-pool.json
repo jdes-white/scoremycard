@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-13T18:34:55.605Z",
-  "free_agent_count": 720,
+  "generated_at": "2026-10-14T00:00:08.657Z",
+  "free_agent_count": 725,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1146,7 +1146,7 @@
     {
       "name": "Devin Culp",
       "position": "TE",
-      "team": "TB",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1642,6 +1642,12 @@
       "injury_status": null
     },
     {
+      "name": "Hassan Haskins",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null
+    },
+    {
       "name": "Hayden Large",
       "position": "TE",
       "team": "CHI",
@@ -2060,6 +2066,12 @@
       "position": "TE",
       "team": "ARI",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jared Wayne",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null
     },
     {
       "name": "Jared Wiley",
@@ -2830,6 +2842,12 @@
       "injury_status": null
     },
     {
+      "name": "Luke Grimm",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Luke McCaffrey",
       "position": "WR",
       "team": "WAS",
@@ -2912,6 +2930,12 @@
       "position": "QB",
       "team": "WAS",
       "injury_status": "Out"
+    },
+    {
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "injury_status": null
     },
     {
       "name": "Mark Gronowski",
@@ -3370,6 +3394,12 @@
       "injury_status": null
     },
     {
+      "name": "Philadelphia Eagles",
+      "position": "DEF",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Phillip Dorsett",
       "position": "WR",
       "team": "LV",
@@ -3427,7 +3457,7 @@
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Rasheen Ali",
@@ -4105,7 +4135,7 @@
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyrell Shavers",
@@ -5072,11 +5102,6 @@
           "team": "CHI"
         },
         {
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
-        },
-        {
           "name": "DK Metcalf",
           "position": "WR",
           "team": "PIT"
@@ -5125,11 +5150,6 @@
           "name": "Minnesota Vikings",
           "position": "DEF",
           "team": "MIN"
-        },
-        {
-          "name": "Philadelphia Eagles",
-          "position": "DEF",
-          "team": "PHI"
         }
       ]
     },
