@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-13T20:25:36.262Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-10-14T00:01:22.269Z",
+  "free_agent_count": 757,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1200,7 +1200,7 @@
     {
       "name": "Devin Culp",
       "position": "TE",
-      "team": "TB",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1708,6 +1708,12 @@
       "injury_status": null
     },
     {
+      "name": "Hassan Haskins",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null
+    },
+    {
       "name": "Hayden Large",
       "position": "TE",
       "team": "CHI",
@@ -2168,6 +2174,12 @@
       "position": "TE",
       "team": "ARI",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jared Wayne",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null
     },
     {
       "name": "Jared Wiley",
@@ -3595,7 +3607,7 @@
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Rasheen Ali",
