@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-13T23:18:31.471Z)
+# id|name|pos|team  (generated 2026-10-14T22:21:10.084Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -48,7 +48,6 @@
 3239|Bronson Kaufusi|TE|GB
 3257|Jacoby Brissett|QB|ARI
 3258|Nick Vannett|TE|BAL
-3269|Chris Moore|WR|BAL
 3271|Tyler Higbee|TE|LAR
 3286|Demarcus Robinson|WR|SF
 3294|Dak Prescott|QB|DAL
@@ -169,6 +168,7 @@
 6045|Gary Jennings|WR|LAC
 6083|Matt Gay|K|LV
 6109|Alec Ingold|FB|LAC
+6111|Jake Browning|QB|LAC
 6130|Devin Singletary|RB|NYG
 6136|Jarrett Stidham|QB|DEN
 6147|Clayton Thorson|QB|NYG
@@ -219,7 +219,6 @@
 6920|Isaiah Hodgins|WR|PIT
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
-6957|James Proche|WR|CLE
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -227,7 +226,6 @@
 7042|Tyler Bass|K|BUF
 7048|Benny LeMay|RB|CLE
 7049|Jauan Jennings|WR|MIN
-7050|Josiah Deguara|TE|PHI
 7066|K.J. Osborn|WR|TEN
 7075|Charlie Woerner|TE|ATL
 7083|Tyler Huntley|QB|BAL
@@ -323,6 +321,7 @@
 8138|James Cook|RB|BUF
 8139|Zamir White|RB|NO
 8142|Alec Pierce|WR|IND
+8143|Jerome Ford|RB|ARI
 8144|Chris Olave|WR|NO
 8145|Jeremy Ruckert|TE|NYJ
 8146|Garrett Wilson|WR|NYJ
@@ -345,6 +344,7 @@
 8183|Brock Purdy|QB|SF
 8188|Tyquan Thornton|WR|KC
 8195|Ronnie Rivers|RB|LAR
+8200|Kevin Austin|WR|NO
 8204|Bo Melton|WR|GB
 8205|Isiah Pacheco|RB|DET
 8206|Skylar Thompson|QB|BAL
@@ -401,7 +401,6 @@
 9487|Parker Washington|WR|JAX
 9488|Jaxon Smith-Njigba|WR|SEA
 9490|Tyler Scott|WR|LV
-9492|Trey Palmer|WR|NO
 9493|Puka Nacua|WR|LAR
 9494|Marvin Mims|WR|DEN
 9497|Jalin Hyatt|WR|NYG
@@ -464,6 +463,7 @@
 11210|Malik Heath|WR|ATL
 11237|Jacob Saylors|RB|DET
 11256|Tyson Bagent|QB|CHI
+11257|Shedrick Jackson|WR|ARI
 11260|Robert Burns|FB|CHI
 11261|Andre Szmyt|K|CLE
 11273|Ben VanSumeren|RB|KC
@@ -478,7 +478,6 @@
 11377|Tyrell Shavers|WR|BUF
 11381|Travis Vokolek|TE|ARI
 11384|Owen Wright|RB|LV
-11421|Ryan Miller|WR|MIA
 11433|Nate Adkins|TE|DEN
 11435|Emanuel Wilson|RB|SEA
 11439|Jaleel McLaughlin|RB|CLE
@@ -498,6 +497,7 @@
 11564|Drake Maye|QB|NE
 11565|J.J. McCarthy|QB|NYG
 11566|Jayden Daniels|QB|WAS
+11569|Jarquez Hunter|RB|NO
 11570|Rasheen Ali|RB|BAL
 11571|Isaiah Davis|RB|NYJ
 11573|Frank Gore|RB|BUF
@@ -570,7 +570,6 @@
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
 12001|Lawrence Keys|WR|DET
-12015|Harrison Mevis|K|LAR
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|MIN
@@ -685,7 +684,6 @@
 12797|Ahmani Marshall|RB|CAR
 12803|Luke Grimm|WR|LAC
 12817|Jake Briningstool|TE|KC
-12826|Ulysses Bentley|RB|NO
 12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
 12860|Theo Wease|WR|LAC
@@ -712,7 +710,6 @@
 13011|Brennan Presley|WR|LAR
 13013|Mark Redman|TE|GB
 13032|Marshall Lang|TE|MIN
-13042|Xavier Guillory|WR|BAL
 13047|Jacardia Wright|RB|SEA
 13074|Isaiah Neyor|WR|GB
 13075|Myles Price|WR|MIN
@@ -869,10 +866,8 @@
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
-13834|Cody Hardy|TE|NYJ
 13846|Jack Velling|TE|ATL
 13852|Dontae McMillan|RB|SEA
-13861|Daniel Sobkowicz|WR|HOU
 13879|Jameson Geers|TE|ARI
 13890|Michael Briscoe|WR|MIN
 13898|Corey Rucker|WR|LV
