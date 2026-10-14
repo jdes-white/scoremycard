@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-14T08:09:13.218Z",
+  "generated_at": "2026-10-14T14:09:44.164Z",
   "free_agent_count": 758,
   "free_agents": [
     {
@@ -82,12 +82,6 @@
       "injury_status": null
     },
     {
-      "name": "Alec Pierce",
-      "position": "WR",
-      "team": "IND",
-      "injury_status": "IR"
-    },
-    {
       "name": "Alex Bachman",
       "position": "WR",
       "team": "LAR",
@@ -139,6 +133,12 @@
       "name": "Andrew Beck",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Andy Borregales",
+      "position": "K",
+      "team": "NE",
       "injury_status": null
     },
     {
@@ -776,6 +776,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "IR"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "position": "DEF",
+      "team": "CIN",
+      "injury_status": null
     },
     {
       "name": "CJ Daniels",
@@ -1744,12 +1750,6 @@
       "injury_status": null
     },
     {
-      "name": "Indianapolis Colts",
-      "position": "DEF",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Irvin Charles",
       "position": "WR",
       "team": "SEA",
@@ -1999,6 +1999,12 @@
       "name": "Jake Elliott",
       "position": "K",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL",
       "injury_status": null
     },
     {
@@ -2554,6 +2560,12 @@
       "injury_status": null
     },
     {
+      "name": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
@@ -2677,12 +2689,6 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2869,6 +2875,12 @@
       "name": "Laquon Treadwell",
       "position": "WR",
       "team": "IND",
+      "injury_status": null
+    },
+    {
+      "name": "Las Vegas Raiders",
+      "position": "DEF",
+      "team": "LV",
       "injury_status": null
     },
     {
@@ -3319,12 +3331,6 @@
       "name": "Nate Carter",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "New England Patriots",
-      "position": "DEF",
-      "team": "NE",
       "injury_status": null
     },
     {
@@ -4180,12 +4186,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Trevor Lawrence",
-      "position": "QB",
-      "team": "JAX",
-      "injury_status": null
-    },
-    {
       "name": "Trey Benson",
       "position": "RB",
       "team": "ARI",
@@ -4450,6 +4450,12 @@
       "injury_status": null
     },
     {
+      "name": "Will Shipley",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "Doubtful"
+    },
+    {
       "name": "Wyatt Houston",
       "position": "TE",
       "team": "CAR",
@@ -4489,12 +4495,6 @@
       "name": "Xavier Smith",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Xavier Worthy",
-      "position": "WR",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -4624,9 +4624,9 @@
           "team": "BAL"
         },
         {
-          "name": "Las Vegas Raiders",
+          "name": "New England Patriots",
           "position": "DEF",
-          "team": "LV"
+          "team": "NE"
         }
       ]
     },
@@ -4790,6 +4790,11 @@
       "owner": "purpatron",
       "players": [
         {
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "name": "Adonai Mitchell",
           "position": "WR",
           "team": "NYJ"
@@ -4815,11 +4820,6 @@
           "team": "CHI"
         },
         {
-          "name": "Andy Borregales",
-          "position": "K",
-          "team": "NE"
-        },
-        {
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
@@ -4840,6 +4840,11 @@
           "team": "DET"
         },
         {
+          "name": "Alec Pierce",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN"
@@ -4848,11 +4853,6 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "name": "Cincinnati Bengals",
-          "position": "DEF",
-          "team": "CIN"
         }
       ]
     },
@@ -4861,11 +4861,6 @@
       "team_name": "farrows",
       "owner": "farrows",
       "players": [
-        {
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
         {
           "name": "Rome Odunze",
           "position": "WR",
@@ -4900,6 +4895,11 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "name": "DJ Moore",
@@ -5282,18 +5282,13 @@
           "team": "LV"
         },
         {
-          "name": "Justin Herbert",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "LAC"
+          "team": "JAX"
         },
         {
           "name": "Javonte Williams",
           "position": "RB",
-          "team": "DAL"
-        },
-        {
-          "name": "Jake Ferguson",
-          "position": "TE",
           "team": "DAL"
         },
         {
@@ -5305,6 +5300,11 @@
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "name": "Indianapolis Colts",
+          "position": "DEF",
+          "team": "IND"
         },
         {
           "name": "Minnesota Vikings",
