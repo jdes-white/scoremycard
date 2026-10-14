@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-14T00:00:08.657Z",
-  "free_agent_count": 725,
+  "generated_at": "2026-10-14T03:53:28.360Z",
+  "free_agent_count": 726,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1933,6 +1933,12 @@
       "name": "Jake Briningstool",
       "position": "TE",
       "team": "KC",
+      "injury_status": null
+    },
+    {
+      "name": "Jake Browning",
+      "position": "QB",
+      "team": "LAC",
       "injury_status": null
     },
     {
