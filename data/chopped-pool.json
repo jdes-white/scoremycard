@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-14T14:17:26.556Z",
-  "free_agent_count": 769,
+  "generated_at": "2026-10-14T19:08:22.646Z",
+  "free_agent_count": 762,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -43,7 +43,7 @@
       "name": "Adonai Mitchell",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Adrian Killins",
@@ -748,12 +748,6 @@
       "injury_status": null
     },
     {
-      "name": "Chris Moore",
-      "position": "WR",
-      "team": "BAL",
-      "injury_status": null
-    },
-    {
       "name": "Chris Myarick",
       "position": "TE",
       "team": "LV",
@@ -799,12 +793,6 @@
       "name": "Clayton Thorson",
       "position": "QB",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Cody Hardy",
-      "position": "TE",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -979,12 +967,6 @@
       "name": "Daniel Jones",
       "position": "QB",
       "team": "IND",
-      "injury_status": null
-    },
-    {
-      "name": "Daniel Sobkowicz",
-      "position": "WR",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2140,12 +2122,6 @@
       "injury_status": null
     },
     {
-      "name": "James Proche",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Jameson Geers",
       "position": "TE",
       "team": "ARI",
@@ -2275,6 +2251,12 @@
       "name": "Jeremy Ruckert",
       "position": "TE",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Jerome Ford",
+      "position": "RB",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2530,12 +2512,6 @@
       "injury_status": null
     },
     {
-      "name": "Josiah Deguara",
-      "position": "TE",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2695,7 +2671,7 @@
       "name": "Keenan Allen",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Keleki Latu",
@@ -3778,12 +3754,6 @@
       "injury_status": null
     },
     {
-      "name": "Ryan Miller",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null
-    },
-    {
       "name": "Salvon Ahmed",
       "position": "RB",
       "team": "CHI",
@@ -3883,6 +3853,12 @@
       "name": "Shedeur Sanders",
       "position": "QB",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Shedrick Jackson",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4171,7 +4147,7 @@
       "name": "Tony Pollard",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tory Horton",
@@ -4262,12 +4238,6 @@
       "position": "QB",
       "team": "LAC",
       "injury_status": "IR"
-    },
-    {
-      "name": "Trey Palmer",
-      "position": "WR",
-      "team": "NO",
-      "injury_status": null
     },
     {
       "name": "Trey Sermon",
@@ -4426,12 +4396,6 @@
       "injury_status": null
     },
     {
-      "name": "Ulysses Bentley",
-      "position": "RB",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
@@ -4525,12 +4489,6 @@
       "name": "Xavier Gipson",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
-    },
-    {
-      "name": "Xavier Guillory",
-      "position": "WR",
-      "team": "BAL",
       "injury_status": null
     },
     {
