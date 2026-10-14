@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-14T08:19:39.772Z",
+  "generated_at": "2026-10-14T14:17:26.556Z",
   "free_agent_count": 769,
   "free_agents": [
     {
@@ -241,7 +241,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "injury_status": "Out"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Barion Brown",
@@ -3508,6 +3508,12 @@
       "injury_status": null
     },
     {
+      "name": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Oronde Gadsden",
       "position": "TE",
       "team": "LAC",
@@ -3547,12 +3553,6 @@
       "name": "Patrick Herbert",
       "position": "TE",
       "team": "LAC",
-      "injury_status": null
-    },
-    {
-      "name": "Patrick Mahomes",
-      "position": "QB",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -4707,14 +4707,14 @@
           "team": "NYG"
         },
         {
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND"
+        },
+        {
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
         },
         {
           "name": "Joe Burrow",
