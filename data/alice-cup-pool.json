@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-15T18:45:40.753Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-10-15T23:24:23.276Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -79,7 +79,7 @@
       "name": "Alec Ingold",
       "position": "FB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "IR"
     },
     {
       "name": "Alex Bachman",
@@ -223,7 +223,7 @@
       "name": "Austin Ekeler",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Austin Hooper",
@@ -937,7 +937,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dalton Schultz",
@@ -1003,7 +1003,7 @@
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Darnell Washington",
@@ -1033,7 +1033,7 @@
       "name": "David Montgomery",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "David Moore",
@@ -1105,6 +1105,12 @@
       "name": "Dean Patterson",
       "position": "WR",
       "team": "TB",
+      "injury_status": null
+    },
+    {
+      "name": "DeAndre Carter",
+      "position": "WR",
+      "team": "DET",
       "injury_status": null
     },
     {
@@ -1732,6 +1738,12 @@
       "injury_status": null
     },
     {
+      "name": "Ian Wheeler",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
@@ -2041,7 +2053,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Morton",
@@ -3073,7 +3085,7 @@
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Marquise Brown",
@@ -3277,7 +3289,7 @@
       "name": "Montorie Foster",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Myles Montgomery",
@@ -3385,7 +3397,7 @@
       "name": "Nick Vannett",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Nick Westbrook-Ikhine",
@@ -3661,7 +3673,7 @@
       "name": "Robert Henry",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
@@ -3727,7 +3739,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -4195,7 +4207,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Treyton Welch",
