@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-15T07:49:19.545Z",
+  "generated_at": "2026-10-15T13:47:06.624Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -1504,6 +1504,12 @@
       "injury_status": null
     },
     {
+      "name": "Evan McPherson",
+      "position": "K",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Evan Svoboda",
       "position": "TE",
       "team": "LAC",
@@ -1594,6 +1600,12 @@
       "injury_status": null
     },
     {
+      "name": "Germie Bernard",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": null
+    },
+    {
       "name": "Glen Coffee",
       "position": "RB",
       "team": "SF",
@@ -1652,12 +1664,6 @@
       "position": "WR",
       "team": "NYG",
       "injury_status": "IR"
-    },
-    {
-      "name": "Harrison Butker",
-      "position": "K",
-      "team": "KC",
-      "injury_status": null
     },
     {
       "name": "Harrison Wallace",
@@ -2023,12 +2029,6 @@
       "name": "Jalen Cropper",
       "position": "WR",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Jalen Hurts",
-      "position": "QB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2683,6 +2683,12 @@
       "name": "Kene Nwangwu",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Kenny Gainwell",
+      "position": "RB",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -4156,12 +4162,6 @@
       "injury_status": null
     },
     {
-      "name": "TreVeyon Henderson",
-      "position": "RB",
-      "team": "NE",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAR",
@@ -4799,6 +4799,11 @@
           "team": "CIN"
         },
         {
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
+        },
+        {
           "name": "Amon-Ra St. Brown",
           "position": "WR",
           "team": "DET"
@@ -4995,9 +5000,14 @@
           "team": "CHI"
         },
         {
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC"
         },
         {
           "name": "Terry McLaurin",
@@ -5015,19 +5025,9 @@
           "team": "DEN"
         },
         {
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
-        },
-        {
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU"
-        },
-        {
-          "name": "Evan McPherson",
-          "position": "K",
-          "team": "CIN"
         },
         {
           "name": "Jaylen Warren",
