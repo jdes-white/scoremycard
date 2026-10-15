@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-15T02:16:07.097Z",
+  "generated_at": "2026-10-15T07:49:19.545Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -751,6 +751,12 @@
       "name": "Chris Manhertz",
       "position": "TE",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Chris Moore",
+      "position": "WR",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -2752,12 +2758,6 @@
       "injury_status": null
     },
     {
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "KJ Hill",
       "position": "WR",
       "team": "LAC",
@@ -4523,6 +4523,11 @@
       "owner": "Schlabsz",
       "players": [
         {
+          "name": "Kirk Cousins",
+          "position": "QB",
+          "team": "LV"
+        },
+        {
           "name": "Will Reichard",
           "position": "K",
           "team": "MIN"
@@ -4546,11 +4551,6 @@
           "name": "Dak Prescott",
           "position": "QB",
           "team": "DAL"
-        },
-        {
-          "name": "Tyreek Hill",
-          "position": "WR",
-          "team": null
         },
         {
           "name": "Travis Etienne",
