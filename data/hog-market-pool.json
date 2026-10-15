@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-15T02:03:55.034Z",
+  "generated_at": "2026-10-15T07:47:02.482Z",
   "free_agent_count": 721,
   "free_agents": [
     {
@@ -214,12 +214,6 @@
       "injury_status": null
     },
     {
-      "name": "Atlanta Falcons",
-      "position": "DEF",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Audric Estime",
       "position": "RB",
       "team": "CLE",
@@ -421,6 +415,12 @@
       "name": "Brevyn Spann-Ford",
       "position": "TE",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -736,6 +736,12 @@
       "injury_status": null
     },
     {
+      "name": "Chris Moore",
+      "position": "WR",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Chris Myarick",
       "position": "TE",
       "team": "LV",
@@ -752,6 +758,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "IR"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "position": "DEF",
+      "team": "CIN",
+      "injury_status": null
     },
     {
       "name": "CJ Daniels",
@@ -907,12 +919,6 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Dameon Pierce",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -1240,6 +1246,12 @@
       "injury_status": null
     },
     {
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Drake Dabney",
       "position": "TE",
       "team": "GB",
@@ -1543,12 +1555,6 @@
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "Geno Smith",
-      "position": "QB",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -1909,6 +1915,12 @@
       "name": "Jahdae Walker",
       "position": "WR",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Jake Bates",
+      "position": "K",
+      "team": "DET",
       "injury_status": null
     },
     {
@@ -2572,12 +2584,6 @@
       "injury_status": null
     },
     {
-      "name": "Kendre Miller",
-      "position": "RB",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
@@ -2647,12 +2653,6 @@
       "name": "Khalil Herbert",
       "position": "RB",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Kimani Vidal",
-      "position": "RB",
-      "team": "LAC",
       "injury_status": null
     },
     {
@@ -3008,12 +3008,6 @@
       "position": "WR",
       "team": "NO",
       "injury_status": "PUP"
-    },
-    {
-      "name": "Matt Gay",
-      "position": "K",
-      "team": "LV",
-      "injury_status": null
     },
     {
       "name": "Matt Hibner",
@@ -3500,6 +3494,12 @@
       "position": "WR",
       "team": "SEA",
       "injury_status": null
+    },
+    {
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "team": "PIT",
+      "injury_status": "Questionable"
     },
     {
       "name": "Riley Leonard",
@@ -4586,9 +4586,9 @@
           "team": "CIN"
         },
         {
-          "name": "Cincinnati Bengals",
+          "name": "Atlanta Falcons",
           "position": "DEF",
-          "team": "CIN"
+          "team": "ATL"
         }
       ]
     },
@@ -4626,6 +4626,11 @@
           "name": "Jonah Coleman",
           "position": "RB",
           "team": "DEN"
+        },
+        {
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
         },
         {
           "name": "Travis Kelce",
@@ -4666,11 +4671,6 @@
           "name": "Amon-Ra St. Brown",
           "position": "WR",
           "team": "DET"
-        },
-        {
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "name": "Parker Washington",
@@ -4981,6 +4981,11 @@
           "team": "PIT"
         },
         {
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
+        },
+        {
           "name": "Cam Little",
           "position": "K",
           "team": "JAX"
@@ -5016,11 +5021,6 @@
           "team": "CIN"
         },
         {
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
           "name": "Pat Freiermuth",
           "position": "TE",
           "team": "PIT"
@@ -5031,9 +5031,9 @@
           "team": "NE"
         },
         {
-          "name": "Brian Robinson",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "ATL"
+          "team": "PHI"
         },
         {
           "name": "Jaxon Smith-Njigba",
@@ -5118,6 +5118,11 @@
           "team": "PIT"
         },
         {
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "name": "Minnesota Vikings",
           "position": "DEF",
           "team": "MIN"
@@ -5134,11 +5139,6 @@
       "team_name": "rumpigrankin",
       "owner": "rumpigrankin",
       "players": [
-        {
-          "name": "Jake Bates",
-          "position": "K",
-          "team": "DET"
-        },
         {
           "name": "Drake Maye",
           "position": "QB",
@@ -5183,6 +5183,11 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
         },
         {
           "name": "Javonte Williams",
