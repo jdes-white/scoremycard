@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-14T23:36:54.272Z",
+  "generated_at": "2026-10-15T02:54:29.586Z",
   "free_agent_count": 764,
   "free_agents": [
     {
@@ -817,7 +817,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -1045,7 +1045,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Mills",
@@ -1183,7 +1183,7 @@
       "name": "Devin Duvernay",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Devin Neal",
