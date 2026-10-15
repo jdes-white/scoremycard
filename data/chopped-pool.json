@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-15T02:54:29.586Z",
-  "free_agent_count": 764,
+  "generated_at": "2026-10-15T07:56:44.762Z",
+  "free_agent_count": 765,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -748,6 +748,12 @@
       "injury_status": null
     },
     {
+      "name": "Chris Moore",
+      "position": "WR",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Chris Myarick",
       "position": "TE",
       "team": "LV",
@@ -1237,6 +1243,12 @@
       "name": "DJ Uiagalelei",
       "position": "QB",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -2894,12 +2906,6 @@
       "position": "TE",
       "team": "PIT",
       "injury_status": null
-    },
-    {
-      "name": "Lamar Jackson",
-      "position": "QB",
-      "team": "BAL",
-      "injury_status": "Questionable"
     },
     {
       "name": "Lan Larison",
@@ -4754,9 +4760,9 @@
           "team": "PHI"
         },
         {
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "name": "Justin Jefferson",
