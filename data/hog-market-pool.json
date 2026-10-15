@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-14T21:02:27.877Z",
-  "free_agent_count": 718,
+  "generated_at": "2026-10-15T02:03:55.034Z",
+  "free_agent_count": 721,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -104,6 +104,12 @@
       "position": "WR",
       "team": "MIA",
       "injury_status": null
+    },
+    {
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": "Questionable"
     },
     {
       "name": "Amar Johnson",
@@ -805,7 +811,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -1009,7 +1015,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Mills",
@@ -1135,7 +1141,7 @@
       "name": "Devin Duvernay",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Devin Neal",
@@ -1249,7 +1255,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drew Ogletree",
@@ -1315,7 +1321,7 @@
       "name": "E.J. Jenkins",
       "position": "TE",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Easton Stick",
@@ -1471,7 +1477,7 @@
       "name": "Evan Svoboda",
       "position": "TE",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Feleipe Franks",
@@ -2080,6 +2086,12 @@
       "injury_status": null
     },
     {
+      "name": "Jarquez Hunter",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Jarrett Stidham",
       "position": "QB",
       "team": "DEN",
@@ -2614,6 +2626,12 @@
       "injury_status": null
     },
     {
+      "name": "Kevin Austin",
+      "position": "WR",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Kevin Coleman",
       "position": "WR",
       "team": "MIA",
@@ -2947,7 +2965,7 @@
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Marquise Brown",
@@ -3001,7 +3019,7 @@
       "name": "Matt Hibner",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Matt LaCosse",
@@ -3169,7 +3187,7 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Nate Carter",
@@ -3235,7 +3253,7 @@
       "name": "Nick Vannett",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Nick Westbrook-Ikhine",
@@ -3451,7 +3469,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ray Davis",
@@ -4045,7 +4063,7 @@
       "name": "Ty Johnson",
       "position": "RB",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ty Pezza",
@@ -4329,11 +4347,6 @@
           "team": "IND"
         },
         {
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
           "name": "Omarion Hampton",
           "position": "RB",
           "team": "LAC"
@@ -4359,16 +4372,6 @@
           "team": "TEN"
         },
         {
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
-        },
-        {
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
-        },
-        {
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
@@ -4379,6 +4382,11 @@
           "team": "NE"
         },
         {
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
+        },
+        {
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI"
@@ -4387,6 +4395,11 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "name": "Breece Hall",
@@ -4861,6 +4874,11 @@
       "owner": "Chelsea11",
       "players": [
         {
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB"
+        },
+        {
           "name": "Luther Burden",
           "position": "WR",
           "team": "CHI"
@@ -4874,6 +4892,11 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "name": "Keenan Allen",
@@ -4894,16 +4917,6 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN"
-        },
-        {
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
-        },
-        {
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "name": "Jake Ferguson",
