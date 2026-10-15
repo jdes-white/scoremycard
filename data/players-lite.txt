@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-14T22:21:10.084Z)
+# id|name|pos|team  (generated 2026-10-15T22:25:32.953Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -35,6 +35,7 @@
 2471|Michael Burton|FB|CLE
 2505|Darren Waller|TE|CAR
 2747|Jason Myers|K|SEA
+2750|DeAndre Carter|WR|DET
 2944|Matt LaCosse|TE|NE
 3048|Chris Manhertz|TE|NYG
 3050|Myles White|WR|NYJ
@@ -48,6 +49,7 @@
 3239|Bronson Kaufusi|TE|GB
 3257|Jacoby Brissett|QB|ARI
 3258|Nick Vannett|TE|BAL
+3269|Chris Moore|WR|BAL
 3271|Tyler Higbee|TE|LAR
 3286|Demarcus Robinson|WR|SF
 3294|Dak Prescott|QB|DAL
@@ -570,6 +572,7 @@
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
 12001|Lawrence Keys|WR|DET
+12036|Ian Wheeler|RB|PHI
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|MIN
