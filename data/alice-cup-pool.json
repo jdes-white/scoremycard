@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-15T23:24:23.276Z",
+  "generated_at": "2026-10-16T02:07:37.146Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -1423,7 +1423,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Doubtful"
     },
     {
       "name": "Elijah Higgins",
@@ -4279,7 +4279,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Bass",
