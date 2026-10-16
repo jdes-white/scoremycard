@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-15T23:31:19.611Z",
+  "generated_at": "2026-10-16T02:52:13.323Z",
   "free_agent_count": 767,
   "free_agents": [
     {
@@ -1429,7 +1429,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Doubtful"
     },
     {
       "name": "Elijah Higgins",
@@ -2233,7 +2233,7 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylen Wright",
@@ -4357,7 +4357,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Conklin",
