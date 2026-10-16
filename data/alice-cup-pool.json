@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-16T07:38:44.551Z",
+  "generated_at": "2026-10-16T13:36:47.969Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -946,6 +946,12 @@
       "injury_status": null
     },
     {
+      "name": "Dameon Pierce",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Damon Bankston",
       "position": "RB",
       "team": "GB",
@@ -1603,12 +1609,6 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
-    },
-    {
-      "name": "Germie Bernard",
-      "position": "WR",
-      "team": "PIT",
       "injury_status": null
     },
     {
@@ -4945,6 +4945,11 @@
           "team": "GB"
         },
         {
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "name": "Jared Goff",
           "position": "QB",
           "team": "DET"
@@ -4963,11 +4968,6 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "name": "Isaiah Likely",
