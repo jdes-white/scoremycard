@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-16T02:07:37.146Z",
+  "generated_at": "2026-10-16T07:38:44.551Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -2044,6 +2044,12 @@
       "injury_status": null
     },
     {
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": "Out"
+    },
+    {
       "name": "Jalen McMillan",
       "position": "WR",
       "team": "TB",
@@ -3205,12 +3211,6 @@
       "name": "Michael Mayer",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
-    },
-    {
-      "name": "Michael Penix",
-      "position": "QB",
-      "team": "ATL",
       "injury_status": null
     },
     {
@@ -4766,6 +4766,11 @@
       "owner": "purpatron",
       "players": [
         {
+          "name": "Michael Penix",
+          "position": "QB",
+          "team": "ATL"
+        },
+        {
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
@@ -4809,11 +4814,6 @@
           "name": "Joe Burrow",
           "position": "QB",
           "team": "CIN"
-        },
-        {
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "name": "Amon-Ra St. Brown",
