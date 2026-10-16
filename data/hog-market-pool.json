@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-16T18:29:17.238Z",
+  "generated_at": "2026-10-16T23:05:05.149Z",
   "free_agent_count": 722,
   "free_agents": [
     {
@@ -589,7 +589,7 @@
       "name": "Carsen Ryan",
       "position": "TE",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Carson Beck",
@@ -823,7 +823,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Cole Kmet",
@@ -985,7 +985,7 @@
       "name": "David Martin-Robinson",
       "position": "TE",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "David Moore",
@@ -1009,7 +1009,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Davis Mills",
@@ -1141,7 +1141,7 @@
       "name": "Devin Duvernay",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Devin Neal",
@@ -1243,7 +1243,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drake Dabney",
@@ -1327,7 +1327,7 @@
       "name": "E.J. Jenkins",
       "position": "TE",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Easton Stick",
@@ -2005,7 +2005,7 @@
       "name": "Jalen Nailor",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jalen Reagor",
@@ -2695,7 +2695,7 @@
       "name": "Kyle Juszczyk",
       "position": "FB",
       "team": "SF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kyle McCord",
@@ -2965,7 +2965,7 @@
       "name": "Marquise Brown",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Marshall Lang",
@@ -3007,7 +3007,7 @@
       "name": "Matt Hibner",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Matt LaCosse",
@@ -3175,7 +3175,7 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Nate Carter",
@@ -3403,7 +3403,7 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Quez Watkins",
@@ -3451,7 +3451,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ray Davis",
@@ -3487,7 +3487,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Riley Leonard",
@@ -3709,7 +3709,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Spencer Rattler",
@@ -3871,7 +3871,7 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Theo Wease",
@@ -3931,7 +3931,7 @@
       "name": "Tom Kennedy",
       "position": "WR",
       "team": "DET",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tommy DeVito",
@@ -3985,7 +3985,7 @@
       "name": "Tre' Harris",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Trebor Pena",
@@ -4063,7 +4063,7 @@
       "name": "Ty Johnson",
       "position": "RB",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ty Pezza",
@@ -4087,7 +4087,7 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyler Badie",
