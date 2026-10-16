@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-15T22:25:32.953Z)
+# id|name|pos|team  (generated 2026-10-16T22:07:41.012Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -174,7 +174,6 @@
 6130|Devin Singletary|RB|NYG
 6136|Jarrett Stidham|QB|DEN
 6147|Clayton Thorson|QB|NYG
-6149|Darius Slayton|WR|IND
 6154|David Sills|WR|TB
 6167|Jordan Scarlett|RB|MIA
 6175|Kerrith Whyte|RB|GB
@@ -490,7 +489,7 @@
 11520|Lucky Jackson|WR|DET
 11533|Brandon Aubrey|K|DAL
 11539|Jake Bates|K|DET
-11557|Joe Milton|QB|DAL
+11557|Joe Milton|QB|PHI
 11558|Sam Hartman|QB|WAS
 11559|Michael Penix|QB|ATL
 11560|Caleb Williams|QB|CHI
