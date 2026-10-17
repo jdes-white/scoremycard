@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-17T19:45:58.455Z",
+  "generated_at": "2026-10-17T22:44:09.187Z",
   "free_agent_count": 723,
   "free_agents": [
     {
@@ -1795,7 +1795,7 @@
       "name": "Ja'Kobi Lane",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Ja'Mori Maclin",
@@ -2563,7 +2563,7 @@
       "name": "KeAndre Lambert-Smith",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Kedon Slovis",
@@ -3307,7 +3307,7 @@
       "name": "Omar Cooper",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Omari Evans",
@@ -3613,7 +3613,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Scotty Miller",
@@ -3715,7 +3715,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Spencer Rattler",
