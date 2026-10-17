@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-16T23:06:58.442Z",
+  "generated_at": "2026-10-17T02:01:14.516Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -997,6 +997,12 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
+      "injury_status": null
+    },
+    {
+      "name": "Darius Cooper",
+      "position": "WR",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2659,12 +2665,6 @@
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "GB",
-      "injury_status": null
-    },
-    {
-      "name": "Keenan Allen",
-      "position": "WR",
-      "team": "IND",
       "injury_status": null
     },
     {
@@ -5160,11 +5160,6 @@
           "team": "LAC"
         },
         {
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "name": "Jonah Coleman",
           "position": "RB",
           "team": "DEN"
@@ -5173,6 +5168,11 @@
           "name": "Dominic Zvada",
           "position": "K",
           "team": "NYG"
+        },
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "name": "Patrick Mahomes",
