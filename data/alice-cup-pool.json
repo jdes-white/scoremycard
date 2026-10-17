@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-17T12:33:45.701Z",
+  "generated_at": "2026-10-17T17:36:36.972Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -3061,7 +3061,7 @@
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Mark Gronowski",
@@ -4411,7 +4411,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Will Pauling",
