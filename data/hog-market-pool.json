@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-17T01:49:10.526Z",
-  "free_agent_count": 722,
+  "generated_at": "2026-10-17T07:15:13.026Z",
+  "free_agent_count": 723,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2338,6 +2338,12 @@
       "injury_status": null
     },
     {
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": "Out"
+    },
+    {
       "name": "Jordan Hudson",
       "position": "WR",
       "team": "DAL",
@@ -4498,11 +4504,6 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV"
-        },
-        {
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
         },
         {
           "name": "Houston Texans",
