@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-17T17:36:36.972Z",
+  "generated_at": "2026-10-17T19:49:02.392Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -223,7 +223,7 @@
       "name": "Austin Ekeler",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Austin Hooper",
@@ -3685,7 +3685,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Romeo Doubs",
@@ -4171,7 +4171,7 @@
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAR",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Trey Benson",
@@ -4201,7 +4201,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treyton Welch",
