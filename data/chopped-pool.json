@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-16T23:13:18.236Z",
+  "generated_at": "2026-10-17T02:43:40.335Z",
   "free_agent_count": 766,
   "free_agents": [
     {
@@ -2416,6 +2416,12 @@
       "injury_status": null
     },
     {
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": "Out"
+    },
+    {
       "name": "Jordan Hudson",
       "position": "WR",
       "team": "DAL",
@@ -2480,12 +2486,6 @@
       "position": "TE",
       "team": "BAL",
       "injury_status": null
-    },
-    {
-      "name": "Josh Jacobs",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": "NA"
     },
     {
       "name": "Josh Johnson",
@@ -4637,6 +4637,11 @@
           "team": "BUF"
         },
         {
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
@@ -4655,11 +4660,6 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC"
-        },
-        {
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
         },
         {
           "name": "Zay Flowers",
