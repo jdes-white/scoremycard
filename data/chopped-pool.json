@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-17T19:59:54.346Z",
+  "generated_at": "2026-10-17T22:49:53.316Z",
   "free_agent_count": 766,
   "free_agents": [
     {
@@ -1837,7 +1837,7 @@
       "name": "Ja'Kobi Lane",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Ja'Mori Maclin",
@@ -2035,7 +2035,7 @@
       "name": "Jalen Hurts",
       "position": "QB",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen McMillan",
@@ -2677,7 +2677,7 @@
       "name": "KeAndre Lambert-Smith",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Keaton Mitchell",
@@ -3493,7 +3493,7 @@
       "name": "Omar Cooper",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Omari Evans",
@@ -3823,7 +3823,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Scotty Miller",
@@ -3925,7 +3925,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Spencer Rattler",
