@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-17T19:49:02.392Z",
-  "free_agent_count": 753,
+  "generated_at": "2026-10-17T22:45:35.896Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -871,12 +871,6 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "Colston Loveland",
-      "position": "TE",
-      "team": "CHI",
       "injury_status": null
     },
     {
@@ -1849,7 +1843,7 @@
       "name": "Ja'Kobi Lane",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Ja'Mori Maclin",
@@ -2047,7 +2041,7 @@
       "name": "Jalen Hurts",
       "position": "QB",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen McMillan",
@@ -2659,7 +2653,7 @@
       "name": "KeAndre Lambert-Smith",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Kedon Slovis",
@@ -2683,6 +2677,12 @@
       "name": "Kendre Miller",
       "position": "RB",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -3457,7 +3457,7 @@
       "name": "Omar Cooper",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Omari Evans",
@@ -3769,7 +3769,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Scotty Miller",
@@ -3871,7 +3871,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Spencer Rattler",
@@ -3937,6 +3937,12 @@
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
+      "injury_status": "IR"
+    },
+    {
+      "name": "Tank Dell",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": "IR"
     },
     {
@@ -4872,11 +4878,6 @@
           "team": "LAR"
         },
         {
-          "name": "Kendrick Bourne",
-          "position": "WR",
-          "team": "ARI"
-        },
-        {
           "name": "DJ Moore",
           "position": "WR",
           "team": "BUF"
@@ -5314,6 +5315,11 @@
           "team": "TB"
         },
         {
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
+        },
+        {
           "name": "Tyler Shough",
           "position": "QB",
           "team": "NO"
@@ -5347,11 +5353,6 @@
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
         },
         {
           "name": "Jacksonville Jaguars",
