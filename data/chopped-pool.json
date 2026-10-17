@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-17T17:43:03.018Z",
+  "generated_at": "2026-10-17T19:59:54.346Z",
   "free_agent_count": 766,
   "free_agents": [
     {
@@ -217,7 +217,7 @@
       "name": "Austin Ekeler",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Austin Hooper",
@@ -3637,7 +3637,7 @@
       "name": "Rachaad White",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Raheim Sanders",
@@ -3745,7 +3745,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Rome Odunze",
@@ -4081,7 +4081,7 @@
       "name": "Terry McLaurin",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tez Johnson",
@@ -4249,7 +4249,7 @@
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAR",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Trevor Lawrence",
@@ -4279,7 +4279,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treyton Welch",
