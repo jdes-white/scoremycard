@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-17T07:16:44.675Z",
+  "generated_at": "2026-10-17T12:33:45.701Z",
   "free_agent_count": 753,
   "free_agents": [
     {
@@ -313,6 +313,12 @@
       "name": "Blake Bortles",
       "position": "QB",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Blake Corum",
+      "position": "RB",
+      "team": "LAR",
       "injury_status": null
     },
     {
@@ -943,12 +949,6 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
-    },
-    {
-      "name": "Dameon Pierce",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -5150,11 +5150,6 @@
           "team": "GB"
         },
         {
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR"
-        },
-        {
           "name": "Omarion Hampton",
           "position": "RB",
           "team": "LAC"
@@ -5188,6 +5183,11 @@
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "name": "Kenneth Walker",
