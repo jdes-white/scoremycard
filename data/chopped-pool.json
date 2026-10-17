@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-17T12:39:19.674Z",
+  "generated_at": "2026-10-17T17:43:03.018Z",
   "free_agent_count": 766,
   "free_agents": [
     {
@@ -1249,7 +1249,7 @@
       "name": "DK Metcalf",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Dohnte Meyers",
@@ -1945,7 +1945,7 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jadarian Price",
@@ -3103,7 +3103,7 @@
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Mark Andrews",
@@ -3535,7 +3535,7 @@
       "name": "Pat Freiermuth",
       "position": "TE",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Patrick Gurd",
@@ -4483,7 +4483,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Will Pauling",
