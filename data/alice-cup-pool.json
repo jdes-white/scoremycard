@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-18T19:50:02.646Z",
+  "generated_at": "2026-10-18T22:40:32.289Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -325,7 +325,7 @@
       "name": "Blake Grupe",
       "position": "K",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Blake Whiteheart",
@@ -1285,7 +1285,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drake Dabney",
