@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-17T22:49:53.316Z",
+  "generated_at": "2026-10-18T02:45:07.802Z",
   "free_agent_count": 766,
   "free_agents": [
     {
@@ -1168,12 +1168,6 @@
       "injury_status": null
     },
     {
-      "name": "Devaughn Vele",
-      "position": "WR",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Deven Thompkins",
       "position": "WR",
       "team": "LV",
@@ -1453,6 +1447,12 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -4751,9 +4751,9 @@
           "team": "LV"
         },
         {
-          "name": "Emeka Egbuka",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "TB"
+          "team": "NO"
         },
         {
           "name": "Christian McCaffrey",
