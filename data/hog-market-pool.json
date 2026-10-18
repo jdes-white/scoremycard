@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-18T07:28:24.843Z",
+  "generated_at": "2026-10-18T12:50:06.503Z",
   "free_agent_count": 720,
   "free_agents": [
     {
@@ -139,6 +139,12 @@
       "name": "Andrew Beck",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Andy Borregales",
+      "position": "K",
+      "team": "NE",
       "injury_status": null
     },
     {
@@ -490,6 +496,12 @@
       "injury_status": null
     },
     {
+      "name": "Buffalo Bills",
+      "position": "DEF",
+      "team": "BUF",
+      "injury_status": null
+    },
+    {
       "name": "Cade Klubnik",
       "position": "QB",
       "team": "NYJ",
@@ -577,12 +589,6 @@
       "name": "Carlos Washington",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
-    },
-    {
-      "name": "Carolina Panthers",
-      "position": "DEF",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -787,7 +793,7 @@
       "name": "CJ Williams",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Clayton Thorson",
@@ -1604,12 +1610,6 @@
       "position": "WR",
       "team": "NYG",
       "injury_status": "IR"
-    },
-    {
-      "name": "Harrison Butker",
-      "position": "K",
-      "team": "KC",
-      "injury_status": null
     },
     {
       "name": "Harrison Wallace",
@@ -2947,7 +2947,7 @@
       "name": "Marlin Klein",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Marquez Valdes-Scantling",
@@ -4714,11 +4714,6 @@
           "team": "NE"
         },
         {
-          "name": "Andy Borregales",
-          "position": "K",
-          "team": "NE"
-        },
-        {
           "name": "Jalon Daniels",
           "position": "QB",
           "team": "TB"
@@ -4732,6 +4727,11 @@
           "name": "Mack Hollins",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC"
         },
         {
           "name": "Baker Mayfield",
@@ -4953,9 +4953,9 @@
           "team": "SEA"
         },
         {
-          "name": "Buffalo Bills",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "BUF"
+          "team": "CAR"
         }
       ]
     },
