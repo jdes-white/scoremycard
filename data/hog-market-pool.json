@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-18T01:47:17.788Z",
-  "free_agent_count": 723,
+  "generated_at": "2026-10-18T07:28:24.843Z",
+  "free_agent_count": 720,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1240,12 +1240,6 @@
       "injury_status": null
     },
     {
-      "name": "Dontayvion Wicks",
-      "position": "WR",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Drake Dabney",
       "position": "TE",
       "team": "GB",
@@ -1339,12 +1333,6 @@
       "name": "Eddy Pineiro",
       "position": "K",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Efton Chism",
-      "position": "WR",
-      "team": "NE",
       "injury_status": null
     },
     {
@@ -3208,12 +3196,6 @@
       "injury_status": null
     },
     {
-      "name": "Nick Folk",
-      "position": "K",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
@@ -4120,12 +4102,6 @@
       "injury_status": null
     },
     {
-      "name": "Tyler Huntley",
-      "position": "QB",
-      "team": "BAL",
-      "injury_status": null
-    },
-    {
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
@@ -4250,6 +4226,12 @@
       "position": "WR",
       "team": "MIA",
       "injury_status": null
+    },
+    {
+      "name": "Will Shipley",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "IR"
     },
     {
       "name": "Wyatt Houston",
@@ -4399,6 +4381,11 @@
           "team": "PHI"
         },
         {
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "team": "BAL"
+        },
+        {
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
@@ -4456,11 +4443,6 @@
           "team": "KC"
         },
         {
-          "name": "Harrison Mevis",
-          "position": "K",
-          "team": null
-        },
-        {
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE"
@@ -4486,6 +4468,11 @@
           "team": "WAS"
         },
         {
+          "name": "Nick Folk",
+          "position": "K",
+          "team": "ATL"
+        },
+        {
           "name": "Justin Jefferson",
           "position": "WR",
           "team": "MIN"
@@ -4504,6 +4491,11 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV"
+        },
+        {
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "name": "Houston Texans",
@@ -4697,11 +4689,6 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
@@ -4720,6 +4707,11 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "name": "Andy Borregales",
