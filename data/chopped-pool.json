@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-18T19:59:18.324Z",
+  "generated_at": "2026-10-18T22:42:49.584Z",
   "free_agent_count": 764,
   "free_agents": [
     {
@@ -1285,7 +1285,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drake Dabney",
