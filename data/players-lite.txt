@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-17T21:30:34.614Z)
+# id|name|pos|team  (generated 2026-10-18T21:33:10.674Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -123,7 +123,6 @@
 5012|Mark Andrews|TE|BAL
 5022|Dallas Goedert|TE|PHI
 5045|Courtland Sutton|WR|DEN
-5086|Marquez Valdes-Scantling|WR|LAC
 5095|Daniel Carlson|K|NO
 5119|Jason Sanders|K|NYJ
 5121|Braxton Berrios|WR|NYG
@@ -307,7 +306,6 @@
 8119|Jahan Dotson|WR|ATL
 8121|Romeo Doubs|WR|NE
 8122|Zonovan Knight|RB|ARI
-8123|Hassan Haskins|RB|NE
 8125|Calvin Austin|WR|NYG
 8126|Wan'Dale Robinson|WR|TEN
 8127|Charlie Kolar|TE|LAC
