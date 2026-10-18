@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-18T07:30:46.951Z",
+  "generated_at": "2026-10-18T12:51:29.782Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -805,7 +805,7 @@
       "name": "CJ Williams",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Clayton Thorson",
@@ -1279,6 +1279,12 @@
       "name": "Dontae McMillan",
       "position": "RB",
       "team": "SEA",
+      "injury_status": null
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -3079,7 +3085,7 @@
       "name": "Marlin Klein",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Marquez Valdes-Scantling",
@@ -4270,12 +4276,6 @@
       "injury_status": null
     },
     {
-      "name": "Tyler Allgeier",
-      "position": "RB",
-      "team": "ARI",
-      "injury_status": null
-    },
-    {
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
@@ -4816,6 +4816,11 @@
           "team": "DET"
         },
         {
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
@@ -4829,11 +4834,6 @@
           "name": "Brenton Strange",
           "position": "TE",
           "team": "JAX"
-        },
-        {
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
         }
       ]
     },
