@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-18T17:39:18.225Z",
+  "generated_at": "2026-10-18T19:50:02.646Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -43,7 +43,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Barner",
@@ -151,7 +151,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Anthony Richardson",
@@ -403,7 +403,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Brennan Presley",
@@ -613,13 +613,13 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Carson Steele",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carson Towt",
@@ -787,7 +787,7 @@
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Dippre",
@@ -1003,7 +1003,7 @@
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Darnell Washington",
@@ -1579,7 +1579,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -2155,7 +2155,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jaren Kanak",
@@ -2515,7 +2515,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Joshua Perkins",
@@ -2653,7 +2653,7 @@
       "name": "KeAndre Lambert-Smith",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kedon Slovis",
@@ -3595,7 +3595,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ray Davis",
@@ -3685,7 +3685,7 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ronnie Rivers",
@@ -4225,7 +4225,7 @@
       "name": "Tutu Atwell",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ty Chandler",
@@ -4249,7 +4249,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
