@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-18T19:46:27.238Z",
+  "generated_at": "2026-10-18T22:39:28.303Z",
   "free_agent_count": 718,
   "free_agents": [
     {
@@ -319,7 +319,7 @@
       "name": "Blake Grupe",
       "position": "K",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Blake Whiteheart",
