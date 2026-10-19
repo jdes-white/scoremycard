@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-19T08:36:11.116Z",
-  "free_agent_count": 764,
+  "generated_at": "2026-10-19T16:08:05.765Z",
+  "free_agent_count": 765,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -145,6 +145,12 @@
       "name": "Andrew Beck",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Andy Dalton",
+      "position": "QB",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -866,12 +872,6 @@
       "position": "WR",
       "team": "SEA",
       "injury_status": null
-    },
-    {
-      "name": "Cooper Rush",
-      "position": "QB",
-      "team": "ATL",
-      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -2530,6 +2530,12 @@
       "injury_status": null
     },
     {
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -4003,7 +4009,7 @@
       "name": "Tanner Hudson",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tanner Koziol",
