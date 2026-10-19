@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-18T22:42:49.584Z",
+  "generated_at": "2026-10-19T02:57:55.352Z",
   "free_agent_count": 764,
   "free_agents": [
     {
@@ -583,7 +583,7 @@
       "name": "Camden Brown",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cameron Dorner",
@@ -1447,7 +1447,7 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emeka Egbuka",
@@ -2635,7 +2635,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kayshon Boutte",
@@ -3811,7 +3811,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Scotty Miller",
