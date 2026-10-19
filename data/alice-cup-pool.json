@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-19T08:14:51.583Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-10-19T15:59:54.816Z",
+  "free_agent_count": 753,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -139,6 +139,12 @@
       "name": "Andy Borregales",
       "position": "K",
       "team": "NE",
+      "injury_status": null
+    },
+    {
+      "name": "Andy Dalton",
+      "position": "QB",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -3955,7 +3961,7 @@
       "name": "Tanner Hudson",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tanner Koziol",
