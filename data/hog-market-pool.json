@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-19T02:04:20.775Z",
-  "free_agent_count": 718,
+  "generated_at": "2026-10-19T08:10:08.488Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2521,7 +2521,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kayshon Boutte",
@@ -3547,6 +3547,12 @@
       "name": "Salvon Ahmed",
       "position": "RB",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Sam Darnold",
+      "position": "QB",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -4812,11 +4818,6 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF"
-        },
-        {
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA"
         },
         {
           "name": "David Montgomery",
