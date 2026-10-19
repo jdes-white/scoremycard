@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-18T21:33:10.674Z)
+# id|name|pos|team  (generated 2026-10-19T22:55:25.829Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -7,6 +7,7 @@
 650|Nick Folk|K|ATL
 812|Lee Smith|TE|ATL
 827|Tyrod Taylor|QB|GB
+829|Andy Dalton|QB|ATL
 1166|Kirk Cousins|QB|LV
 1339|Zach Ertz|TE|PHI
 1373|Geno Smith|QB|NYJ
@@ -93,7 +94,6 @@
 4454|Kendrick Bourne|WR|ARI
 4464|Nick Mullens|QB|JAX
 4490|Wyatt Houston|TE|CAR
-4574|Cooper Rush|QB|ATL
 4602|Robert Tonyan|TE|PIT
 4663|Austin Ekeler|RB|WAS
 4683|Aaron Bailey|QB|BAL
@@ -226,6 +226,7 @@
 7042|Tyler Bass|K|BUF
 7048|Benny LeMay|RB|CLE
 7049|Jauan Jennings|WR|MIN
+7050|Josiah Deguara|TE|SEA
 7066|K.J. Osborn|WR|TEN
 7075|Charlie Woerner|TE|ATL
 7083|Tyler Huntley|QB|BAL
@@ -477,6 +478,7 @@
 11377|Tyrell Shavers|WR|BUF
 11381|Travis Vokolek|TE|ARI
 11384|Owen Wright|RB|LV
+11421|Ryan Miller|WR|NE
 11433|Nate Adkins|TE|DEN
 11435|Emanuel Wilson|RB|SEA
 11439|Jaleel McLaughlin|RB|CLE
@@ -873,6 +875,7 @@
 13898|Corey Rucker|WR|LV
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
+13937|Jackson Acker|FB|SEA
 13949|Damon Bankston|RB|GB
 13962|Cameron Dorner|WR|NE
 13963|Nick DeGennaro|WR|WAS
