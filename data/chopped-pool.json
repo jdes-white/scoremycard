@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-19T16:08:05.765Z",
-  "free_agent_count": 765,
+  "generated_at": "2026-10-19T21:57:06.487Z",
+  "free_agent_count": 767,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1906,6 +1906,12 @@
       "injury_status": null
     },
     {
+      "name": "Jackson Acker",
+      "position": "FB",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
@@ -1939,7 +1945,7 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jadarian Price",
@@ -2263,7 +2269,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jeremy Ruckert",
@@ -3751,7 +3757,7 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Ronnie Rivers",
@@ -3769,6 +3775,12 @@
       "name": "Ryan Flournoy",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team": "NE",
       "injury_status": null
     },
     {
