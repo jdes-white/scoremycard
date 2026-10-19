@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-19T15:59:54.816Z",
-  "free_agent_count": 753,
+  "generated_at": "2026-10-19T21:50:25.750Z",
+  "free_agent_count": 755,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -331,7 +331,7 @@
       "name": "Blake Grupe",
       "position": "K",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Blake Whiteheart",
@@ -890,12 +890,6 @@
       "position": "WR",
       "team": "SEA",
       "injury_status": null
-    },
-    {
-      "name": "Cooper Rush",
-      "position": "QB",
-      "team": "ATL",
-      "injury_status": "Out"
     },
     {
       "name": "Corey Kiner",
@@ -1924,6 +1918,12 @@
       "injury_status": null
     },
     {
+      "name": "Jackson Acker",
+      "position": "FB",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
@@ -2275,7 +2275,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jeremy Ruckert",
@@ -2527,6 +2527,12 @@
       "name": "Joshua Perkins",
       "position": "TE",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -3691,7 +3697,7 @@
       "name": "Romeo Doubs",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Ronnie Rivers",
@@ -3715,6 +3721,12 @@
       "name": "Ryan Flournoy",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team": "NE",
       "injury_status": null
     },
     {
