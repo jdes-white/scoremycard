@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-19T02:17:42.135Z",
+  "generated_at": "2026-10-19T08:14:51.583Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -2629,7 +2629,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kayshon Boutte",
