@@ -1,12 +1,18 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-20T02:31:40.437Z",
-  "free_agent_count": 756,
+  "generated_at": "2026-10-20T08:00:12.886Z",
+  "free_agent_count": 758,
   "free_agents": [
     {
       "name": "Aaron Bailey",
       "position": "QB",
       "team": "BAL",
+      "injury_status": null
+    },
+    {
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -2956,6 +2962,12 @@
       "injury_status": null
     },
     {
+      "name": "Los Angeles Rams",
+      "position": "DEF",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
@@ -4759,16 +4771,6 @@
           "name": "Bryce Young",
           "position": "QB",
           "team": "CAR"
-        },
-        {
-          "name": "Aaron Rodgers",
-          "position": "QB",
-          "team": "PIT"
-        },
-        {
-          "name": "Los Angeles Rams",
-          "position": "DEF",
-          "team": "LAR"
         }
       ]
     },
