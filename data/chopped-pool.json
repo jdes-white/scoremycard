@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-20T16:15:02.332Z",
-  "free_agent_count": 777,
+  "generated_at": "2026-10-20T21:10:22.789Z",
+  "free_agent_count": 781,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -517,7 +517,7 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "C.J. Stroud",
@@ -1442,6 +1442,12 @@
       "position": "RB",
       "team": "KC",
       "injury_status": null
+    },
+    {
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "Questionable"
     },
     {
       "name": "Elijah Moore",
@@ -2920,6 +2926,12 @@
       "injury_status": null
     },
     {
+      "name": "Kyle Trask",
+      "position": "QB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Kyle Williams",
       "position": "WR",
       "team": "NE",
@@ -3265,6 +3277,12 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
+      "injury_status": null
+    },
+    {
+      "name": "Mecole Hardman",
+      "position": "WR",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -3655,6 +3673,12 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Quentin Moore",
+      "position": "TE",
+      "team": "WAS",
       "injury_status": null
     },
     {
