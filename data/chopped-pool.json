@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-20T10:50:52.973Z",
-  "free_agent_count": 779,
+  "generated_at": "2026-10-20T16:15:02.332Z",
+  "free_agent_count": 777,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -766,12 +766,6 @@
       "injury_status": null
     },
     {
-      "name": "Chris Myarick",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Chris Rodriguez",
       "position": "RB",
       "team": "JAX",
@@ -1297,12 +1291,6 @@
       "name": "Dontae Fleming",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Dontae McMillan",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2542,6 +2530,12 @@
       "injury_status": null
     },
     {
+      "name": "Josh Kattus",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Josh Kelly",
       "position": "WR",
       "team": "HOU",
@@ -3112,12 +3106,6 @@
       "injury_status": null
     },
     {
-      "name": "Malick Meiga",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -3188,6 +3176,12 @@
       "position": "TE",
       "team": "HOU",
       "injury_status": "Out"
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": null
     },
     {
       "name": "Marquise Brown",
@@ -3415,12 +3409,6 @@
       "name": "Myles White",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Najee Harris",
-      "position": "RB",
-      "team": "NYG",
       "injury_status": null
     },
     {
