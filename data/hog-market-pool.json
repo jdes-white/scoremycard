@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-20T18:47:41.188Z",
-  "free_agent_count": 720,
+  "generated_at": "2026-10-20T23:30:48.963Z",
+  "free_agent_count": 727,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -370,6 +370,12 @@
       "injury_status": null
     },
     {
+      "name": "Brandon McManus",
+      "position": "K",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
@@ -499,7 +505,7 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Buffalo Bills",
@@ -613,7 +619,7 @@
       "name": "Carson Steele",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Towt",
@@ -1384,6 +1390,12 @@
       "injury_status": null
     },
     {
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Elijah Moore",
       "position": "WR",
       "team": "PHI",
@@ -2092,6 +2104,12 @@
       "injury_status": null
     },
     {
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
@@ -2704,6 +2722,12 @@
       "injury_status": null
     },
     {
+      "name": "Kyle Trask",
+      "position": "QB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Kyle Williams",
       "position": "WR",
       "team": "NE",
@@ -3031,6 +3055,12 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
+      "injury_status": null
+    },
+    {
+      "name": "Mecole Hardman",
+      "position": "WR",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -3385,6 +3415,12 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Quentin Moore",
+      "position": "TE",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -4303,6 +4339,12 @@
       "name": "Zamir White",
       "position": "RB",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "Zane Gonzalez",
+      "position": "K",
+      "team": "MIA",
       "injury_status": null
     },
     {
