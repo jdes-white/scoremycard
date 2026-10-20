@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-20T18:48:50.975Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-10-20T23:31:18.777Z",
+  "free_agent_count": 763,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -382,6 +382,12 @@
       "injury_status": null
     },
     {
+      "name": "Brandon McManus",
+      "position": "K",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
@@ -505,7 +511,7 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Buffalo Bills",
@@ -631,7 +637,7 @@
       "name": "Carson Steele",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Towt",
@@ -1438,6 +1444,12 @@
       "injury_status": null
     },
     {
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Elijah Moore",
       "position": "WR",
       "team": "PHI",
@@ -2188,6 +2200,12 @@
       "injury_status": null
     },
     {
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
@@ -2854,6 +2872,12 @@
       "injury_status": null
     },
     {
+      "name": "Kyle Trask",
+      "position": "QB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Kyle Williams",
       "position": "WR",
       "team": "NE",
@@ -3184,6 +3208,12 @@
       "injury_status": null
     },
     {
+      "name": "Mecole Hardman",
+      "position": "WR",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Miami Dolphins",
       "position": "DEF",
       "team": "MIA",
@@ -3224,6 +3254,12 @@
       "position": "TE",
       "team": "LV",
       "injury_status": null
+    },
+    {
+      "name": "Michael Penix",
+      "position": "QB",
+      "team": "ATL",
+      "injury_status": "Questionable"
     },
     {
       "name": "Michael Pittman",
@@ -3565,6 +3601,12 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Quentin Moore",
+      "position": "TE",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -4516,6 +4558,12 @@
       "injury_status": null
     },
     {
+      "name": "Zane Gonzalez",
+      "position": "K",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
@@ -4761,11 +4809,6 @@
       "team_name": "purpatron",
       "owner": "purpatron",
       "players": [
-        {
-          "name": "Michael Penix",
-          "position": "QB",
-          "team": "ATL"
-        },
         {
           "name": "Xavier Worthy",
           "position": "WR",
