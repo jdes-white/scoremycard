@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-20T08:00:12.886Z",
+  "generated_at": "2026-10-20T13:57:19.164Z",
   "free_agent_count": 758,
   "free_agents": [
     {
@@ -4825,6 +4825,11 @@
           "team": "CIN"
         },
         {
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
           "name": "Amon-Ra St. Brown",
           "position": "WR",
           "team": "DET"
@@ -4838,11 +4843,6 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
-        },
-        {
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "name": "Brenton Strange",
@@ -4969,11 +4969,6 @@
           "team": "PHI"
         },
         {
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
@@ -4987,6 +4982,11 @@
           "name": "Garrett Wilson",
           "position": "WR",
           "team": "NYJ"
+        },
+        {
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "name": "Seattle Seahawks",
