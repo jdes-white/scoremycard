@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-19T21:47:29.070Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-10-20T02:20:55.329Z",
+  "free_agent_count": 723,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1381,7 +1381,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Elijah Higgins",
@@ -1940,6 +1940,12 @@
       "position": "QB",
       "team": "NYG",
       "injury_status": "Out"
+    },
+    {
+      "name": "Jake Moody",
+      "position": "K",
+      "team": "BAL",
+      "injury_status": null
     },
     {
       "name": "Jake Tonges",
@@ -2677,7 +2683,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -3553,6 +3559,12 @@
       "name": "Ryan Flournoy",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team": "NE",
       "injury_status": null
     },
     {
