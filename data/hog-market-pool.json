@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-20T13:55:22.889Z",
-  "free_agent_count": 723,
+  "generated_at": "2026-10-20T18:47:41.188Z",
+  "free_agent_count": 720,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -754,12 +754,6 @@
       "injury_status": null
     },
     {
-      "name": "Chris Myarick",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Chris Rodriguez",
       "position": "RB",
       "team": "JAX",
@@ -1237,12 +1231,6 @@
       "name": "Dontae Fleming",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Dontae McMillan",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2398,6 +2386,12 @@
       "injury_status": null
     },
     {
+      "name": "Josh Kattus",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Josh Kelly",
       "position": "WR",
       "team": "HOU",
@@ -2890,12 +2884,6 @@
       "injury_status": null
     },
     {
-      "name": "Malick Meiga",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -2960,6 +2948,12 @@
       "position": "TE",
       "team": "HOU",
       "injury_status": "Out"
+    },
+    {
+      "name": "Marquez Valdes-Scantling",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": null
     },
     {
       "name": "Marquise Brown",
@@ -3157,12 +3151,6 @@
       "name": "Myles White",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Najee Harris",
-      "position": "RB",
-      "team": "NYG",
       "injury_status": null
     },
     {
@@ -3493,12 +3481,6 @@
       "name": "Riley Nowakowski",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Riley Patterson",
-      "position": "K",
-      "team": "MIA",
       "injury_status": null
     },
     {
