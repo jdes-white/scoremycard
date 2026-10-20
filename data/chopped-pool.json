@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-19T21:57:06.487Z",
+  "generated_at": "2026-10-20T03:07:38.835Z",
   "free_agent_count": 767,
   "free_agents": [
     {
@@ -1417,7 +1417,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Elijah Higgins",
@@ -2839,7 +2839,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -3943,7 +3943,7 @@
       "name": "Stefon Diggs",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Stephen Carlson",
@@ -4087,7 +4087,7 @@
       "name": "Terry McLaurin",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tez Johnson",
