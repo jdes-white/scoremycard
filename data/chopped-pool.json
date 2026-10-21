@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-20T21:10:22.789Z",
-  "free_agent_count": 781,
+  "generated_at": "2026-10-21T03:02:27.008Z",
+  "free_agent_count": 782,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -643,7 +643,7 @@
       "name": "Carson Steele",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Towt",
@@ -2209,6 +2209,12 @@
       "name": "Jarrett Stidham",
       "position": "QB",
       "team": "DEN",
+      "injury_status": null
+    },
+    {
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "NYG",
       "injury_status": null
     },
     {
