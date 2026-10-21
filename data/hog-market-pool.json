@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-21T14:11:39.900Z",
-  "free_agent_count": 726,
+  "generated_at": "2026-10-21T19:00:31.201Z",
+  "free_agent_count": 716,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -616,12 +616,6 @@
       "injury_status": null
     },
     {
-      "name": "Carson Steele",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": "Out"
-    },
-    {
       "name": "Carson Towt",
       "position": "TE",
       "team": "IND",
@@ -874,12 +868,6 @@
       "injury_status": null
     },
     {
-      "name": "Corey Rucker",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Craig Reynolds",
       "position": "RB",
       "team": "WAS",
@@ -913,12 +901,6 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Damon Bankston",
-      "position": "RB",
-      "team": "GB",
       "injury_status": null
     },
     {
@@ -1126,12 +1108,6 @@
       "injury_status": null
     },
     {
-      "name": "Devin Culp",
-      "position": "TE",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Devin Duvernay",
       "position": "WR",
       "team": "ARI",
@@ -1333,12 +1309,6 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Eli Pancol",
-      "position": "WR",
-      "team": "IND",
       "injury_status": null
     },
     {
@@ -1657,12 +1627,6 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
-    },
-    {
-      "name": "Ian Wheeler",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2113,7 +2077,7 @@
       "name": "Jawhar Jordan",
       "position": "RB",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jaxson Dart",
@@ -2137,12 +2101,6 @@
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2174,12 +2132,6 @@
       "position": "TE",
       "team": "NYJ",
       "injury_status": null
-    },
-    {
-      "name": "Jeremiah Webb",
-      "position": "WR",
-      "team": "NE",
-      "injury_status": "Questionable"
     },
     {
       "name": "Jeremy McNichols",
@@ -2638,12 +2590,6 @@
       "injury_status": null
     },
     {
-      "name": "Kevin Austin",
-      "position": "WR",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Kevin Coleman",
       "position": "WR",
       "team": "MIA",
@@ -2935,12 +2881,6 @@
       "name": "Mark Andrews",
       "position": "TE",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Mark Gronowski",
-      "position": "QB",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -4087,7 +4027,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tylan Wallace",
