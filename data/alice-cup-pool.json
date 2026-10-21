@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-21T08:05:53.759Z",
-  "free_agent_count": 761,
+  "generated_at": "2026-10-21T14:13:36.166Z",
+  "free_agent_count": 759,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -742,12 +742,6 @@
       "injury_status": null
     },
     {
-      "name": "Chris Boswell",
-      "position": "K",
-      "team": "PIT",
-      "injury_status": null
-    },
-    {
       "name": "Chris Brazzell",
       "position": "WR",
       "team": "CAR",
@@ -794,12 +788,6 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "IR"
-    },
-    {
-      "name": "Cincinnati Bengals",
-      "position": "DEF",
-      "team": "CIN",
-      "injury_status": null
     },
     {
       "name": "CJ Daniels",
@@ -1672,6 +1660,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Harrison Butker",
+      "position": "K",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Harrison Wallace",
       "position": "WR",
       "team": "ARI",
@@ -1699,12 +1693,6 @@
       "name": "Hendon Hooker",
       "position": "QB",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Hunter Henry",
-      "position": "TE",
-      "team": "NE",
       "injury_status": null
     },
     {
@@ -1942,6 +1930,12 @@
       "injury_status": null
     },
     {
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": "IR"
+    },
+    {
       "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
@@ -2018,12 +2012,6 @@
       "position": "TE",
       "team": "SF",
       "injury_status": "IR"
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "team": "JAX",
-      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -2191,6 +2179,12 @@
       "name": "Jason Brownlee",
       "position": "WR",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Jason Myers",
+      "position": "K",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2848,12 +2842,6 @@
       "injury_status": null
     },
     {
-      "name": "Kyle Pitts",
-      "position": "TE",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Kyle Trask",
       "position": "QB",
       "team": "DAL",
@@ -3094,6 +3082,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Mark Gronowski",
       "position": "QB",
       "team": "HOU",
@@ -3241,12 +3235,6 @@
       "name": "Michael Carter",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Michael Mayer",
-      "position": "TE",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -3496,12 +3484,6 @@
       "injury_status": null
     },
     {
-      "name": "Omar Cooper",
-      "position": "WR",
-      "team": "NYJ",
-      "injury_status": null
-    },
-    {
       "name": "Omari Evans",
       "position": "WR",
       "team": "KC",
@@ -3547,6 +3529,12 @@
       "name": "Patrick Herbert",
       "position": "TE",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -4246,12 +4234,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Trey Smack",
-      "position": "K",
-      "team": "GB",
-      "injury_status": null
-    },
-    {
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
@@ -4315,6 +4297,12 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4592,14 +4580,14 @@
           "team": "NO"
         },
         {
+          "name": "Omar Cooper",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA"
         },
         {
           "name": "Dak Prescott",
@@ -4818,19 +4806,24 @@
           "team": "HOU"
         },
         {
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
         },
         {
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB"
+        },
+        {
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "name": "Josh Jacobs",
@@ -4853,11 +4846,6 @@
           "team": "DET"
         },
         {
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
@@ -4866,6 +4854,11 @@
           "name": "Brenton Strange",
           "position": "TE",
           "team": "JAX"
+        },
+        {
+          "name": "Cincinnati Bengals",
+          "position": "DEF",
+          "team": "CIN"
         }
       ]
     },
@@ -5049,14 +5042,19 @@
           "team": "NE"
         },
         {
-          "name": "Harrison Butker",
+          "name": "Chris Boswell",
           "position": "K",
-          "team": "KC"
+          "team": "PIT"
         },
         {
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "name": "Jordan Love",
@@ -5208,11 +5206,6 @@
           "team": "IND"
         },
         {
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
-        },
-        {
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI"
@@ -5221,6 +5214,11 @@
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "name": "Dameon Pierce",
@@ -5280,11 +5278,6 @@
           "team": "SF"
         },
         {
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
-        },
-        {
           "name": "Matt Gay",
           "position": "K",
           "team": "LV"
@@ -5308,6 +5301,11 @@
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
         },
         {
           "name": "DeMario Douglas",
