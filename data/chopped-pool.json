@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-22T03:01:17.094Z",
+  "generated_at": "2026-10-22T11:01:49.443Z",
   "free_agent_count": 772,
   "free_agents": [
     {
@@ -4411,7 +4411,7 @@
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Shough",
