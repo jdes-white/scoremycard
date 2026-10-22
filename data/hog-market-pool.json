@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-22T02:08:30.321Z",
-  "free_agent_count": 716,
+  "generated_at": "2026-10-22T08:01:42.703Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2608,6 +2608,12 @@
       "injury_status": null
     },
     {
+      "name": "Kimani Vidal",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "KJ Hill",
       "position": "WR",
       "team": "LAC",
@@ -3230,12 +3236,6 @@
       "position": "WR",
       "team": "ATL",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Omar Cooper Jr.",
-      "position": "WR",
-      "team": "NYJ",
-      "injury_status": null
     },
     {
       "name": "Omari Evans",
@@ -4075,7 +4075,7 @@
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyquan Thornton",
@@ -4183,12 +4183,6 @@
       "name": "Will Pauling",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Will Reichard",
-      "position": "K",
-      "team": "MIN",
       "injury_status": null
     },
     {
@@ -4782,6 +4776,11 @@
           "team": "NYG"
         },
         {
+          "name": "Omar Cooper Jr.",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
@@ -4946,14 +4945,14 @@
           "team": "NYJ"
         },
         {
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
           "name": "Cam Little",
           "position": "K",
           "team": "JAX"
+        },
+        {
+          "name": "Will Reichard",
+          "position": "K",
+          "team": "MIN"
         },
         {
           "name": "Quinshon Judkins",
