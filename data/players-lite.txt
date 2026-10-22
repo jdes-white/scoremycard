@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-21T22:25:38.294Z)
+# id|name|pos|team  (generated 2026-10-22T22:24:50.153Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -131,7 +131,7 @@
 5121|Braxton Berrios|WR|NYG
 5127|Kyle Allen|QB|BUF
 5133|Tyler Conklin|TE|DET
-5154|Trent Sherfield Sr.|WR|BUF
+5154|Trent Sherfield|WR|BUF
 5189|Eddy Pineiro|K|SF
 5223|Caleb Scott|WR|TEN
 5282|Duplicate Player|WR|CHI
@@ -402,7 +402,6 @@
 9486|Dontayvion Wicks|WR|PHI
 9487|Parker Washington|WR|JAX
 9488|Jaxon Smith-Njigba|WR|SEA
-9490|Tyler Scott|WR|LV
 9493|Puka Nacua|WR|LAR
 9494|Marvin Mims Jr.|WR|DEN
 9497|Jalin Hyatt|WR|NYG
@@ -587,6 +586,7 @@
 12374|Brenden Bates|TE|JAX
 12389|Hayden Rucci|TE|LAC
 12455|Brashard Smith|RB|KC
+12457|Jaydon Blue|RB|PHI
 12460|Antwane Wells Jr.|WR|ATL
 12467|Jordan James|RB|SF
 12469|Dylan Sampson|RB|CLE
@@ -694,7 +694,6 @@
 12884|Quincy Skinner Jr.|WR|GB
 12888|Dalen Cambre|WR|NYG
 12889|Beaux Collins|WR|ATL
-12897|Nate Carter|RB|KC
 12901|Patrick Herbert|TE|LAC
 12908|Chandler Brayboy|WR|NE
 12925|Jamaal Pritchett|WR|NYJ
