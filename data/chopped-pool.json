@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-22T11:01:49.443Z",
-  "free_agent_count": 772,
+  "generated_at": "2026-10-22T16:30:37.182Z",
+  "free_agent_count": 769,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -415,7 +415,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brennan Presley",
@@ -3394,12 +3394,6 @@
       "injury_status": null
     },
     {
-      "name": "Nate Carter",
-      "position": "RB",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
       "name": "Nicholas Singleton",
       "position": "RB",
       "team": "TEN",
@@ -3895,12 +3889,6 @@
       "name": "Shaq Roland",
       "position": "WR",
       "team": "CHI",
-      "injury_status": null
-    },
-    {
-      "name": "Shawn Bowman",
-      "position": "TE",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4406,12 +4394,6 @@
       "position": "QB",
       "team": "BAL",
       "injury_status": null
-    },
-    {
-      "name": "Tyler Scott",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Shough",
