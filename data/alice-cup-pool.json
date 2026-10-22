@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-22T02:21:33.472Z",
+  "generated_at": "2026-10-22T08:05:10.581Z",
   "free_agent_count": 749,
   "free_agents": [
     {
@@ -4285,7 +4285,7 @@
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyquan Thornton",
@@ -4587,14 +4587,14 @@
           "team": "LV"
         },
         {
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "name": "Derrick Henry",
@@ -4731,11 +4731,6 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "name": "Adonai Mitchell",
           "position": "WR",
           "team": "NYJ"
@@ -4759,6 +4754,11 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "name": "Hunter Henry",
