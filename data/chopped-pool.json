@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-21T21:09:36.411Z",
+  "generated_at": "2026-10-22T03:01:17.094Z",
   "free_agent_count": 772,
   "free_agents": [
     {
@@ -121,7 +121,7 @@
       "name": "Alvin Kamara",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Amar Johnson",
@@ -451,7 +451,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -637,7 +637,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carson Towt",
@@ -787,7 +787,7 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "CJ Williams",
@@ -910,12 +910,6 @@
       "injury_status": null
     },
     {
-      "name": "Dallas Goedert",
-      "position": "TE",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
@@ -931,7 +925,7 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dameon Pierce",
@@ -1303,7 +1297,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -2221,7 +2215,7 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylen Wright",
@@ -2413,7 +2407,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jordan Hudson",
@@ -3319,7 +3313,7 @@
       "name": "Mike Washington Jr.",
       "position": "RB",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Miles Kitselman",
@@ -3505,7 +3499,7 @@
       "name": "Olamide Zaccheaus",
       "position": "WR",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Omar Cooper Jr.",
@@ -3685,7 +3679,7 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Rashod Bateman",
@@ -3727,7 +3721,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Riley Leonard",
@@ -4426,6 +4420,12 @@
       "injury_status": null
     },
     {
+      "name": "Tyler Warren",
+      "position": "TE",
+      "team": "IND",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
@@ -4730,9 +4730,9 @@
           "team": "CHI"
         },
         {
-          "name": "Tyler Warren",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "IND"
+          "team": "PHI"
         },
         {
           "name": "Joe Burrow",
