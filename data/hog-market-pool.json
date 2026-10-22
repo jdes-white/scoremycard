@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-22T14:09:27.322Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-22T18:54:49.428Z",
+  "free_agent_count": 712,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -409,7 +409,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brennan Presley",
@@ -1339,7 +1339,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Elijah Higgins",
@@ -3130,12 +3130,6 @@
       "injury_status": null
     },
     {
-      "name": "Nate Carter",
-      "position": "RB",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
       "name": "New Orleans Saints",
       "position": "DEF",
       "team": "NO",
@@ -3589,12 +3583,6 @@
       "name": "Shaq Roland",
       "position": "WR",
       "team": "CHI",
-      "injury_status": null
-    },
-    {
-      "name": "Shawn Bowman",
-      "position": "TE",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4070,12 +4058,6 @@
       "position": "QB",
       "team": "BAL",
       "injury_status": null
-    },
-    {
-      "name": "Tyler Scott",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": "Questionable"
     },
     {
       "name": "Tyquan Thornton",
