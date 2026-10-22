@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-22T08:05:10.581Z",
+  "generated_at": "2026-10-22T14:12:17.815Z",
   "free_agent_count": 749,
   "free_agents": [
     {
@@ -26,6 +26,12 @@
       "position": "TE",
       "team": "DEN",
       "injury_status": null
+    },
+    {
+      "name": "Adonai Mitchell",
+      "position": "WR",
+      "team": "NYJ",
+      "injury_status": "Questionable"
     },
     {
       "name": "Adrian Killins",
@@ -3676,12 +3682,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Roschon Johnson",
-      "position": "RB",
-      "team": "CHI",
-      "injury_status": null
-    },
-    {
       "name": "Ryan Fitzgerald",
       "position": "K",
       "team": "CAR",
@@ -4731,9 +4731,9 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "name": "Woody Marks",
