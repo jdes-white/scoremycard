@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-22T08:01:42.703Z",
+  "generated_at": "2026-10-22T14:09:27.322Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -1300,6 +1300,12 @@
       "injury_status": null
     },
     {
+      "name": "Efton Chism III",
+      "position": "WR",
+      "team": "NE",
+      "injury_status": null
+    },
+    {
       "name": "Eldridge Massington",
       "position": "WR",
       "team": "NO",
@@ -1597,12 +1603,6 @@
       "name": "Hendon Hooker",
       "position": "QB",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Houston Texans",
-      "position": "DEF",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2479,6 +2479,12 @@
       "name": "Kameron Johnson",
       "position": "WR",
       "team": "TB",
+      "injury_status": null
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "position": "DEF",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -3482,12 +3488,6 @@
       "position": "RB",
       "team": "LAR",
       "injury_status": "IR"
-    },
-    {
-      "name": "Roschon Johnson",
-      "position": "RB",
-      "team": "CHI",
-      "injury_status": null
     },
     {
       "name": "Ryan Fitzgerald",
@@ -4659,6 +4659,11 @@
       "owner": "purpatron",
       "players": [
         {
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        },
+        {
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
@@ -4677,11 +4682,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "name": "Efton Chism III",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "name": "Jalon Daniels",
@@ -5368,9 +5368,9 @@
           "team": "BAL"
         },
         {
-          "name": "Kansas City Chiefs",
+          "name": "Houston Texans",
           "position": "DEF",
-          "team": "KC"
+          "team": "HOU"
         }
       ]
     }
