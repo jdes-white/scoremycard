@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-22T18:54:49.428Z",
-  "free_agent_count": 712,
+  "generated_at": "2026-10-22T23:43:56.469Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -277,7 +277,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Roethlisberger",
@@ -295,7 +295,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Ben VanSumeren",
@@ -427,7 +427,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Brevyn Spann-Ford",
@@ -637,7 +637,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -739,7 +739,7 @@
       "name": "Chris Manhertz",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Moore",
@@ -781,7 +781,7 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "CJ Williams",
@@ -979,7 +979,7 @@
       "name": "David Sills V",
       "position": "WR",
       "team": "TB",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Davis Allen",
@@ -1225,7 +1225,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drew Sample",
@@ -2104,6 +2104,12 @@
       "injury_status": null
     },
     {
+      "name": "Jaydon Blue",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
@@ -2959,7 +2965,7 @@
       "name": "Matt Hibner",
       "position": "TE",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Matt LaCosse",
@@ -3385,13 +3391,13 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ray Davis",
@@ -3583,6 +3589,12 @@
       "name": "Shaq Roland",
       "position": "WR",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Shawn Bowman",
+      "position": "TE",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -3928,7 +3940,7 @@
       "injury_status": null
     },
     {
-      "name": "Trent Sherfield Sr.",
+      "name": "Trent Sherfield",
       "position": "WR",
       "team": "BUF",
       "injury_status": null
