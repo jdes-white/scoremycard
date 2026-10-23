@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-23T02:26:57.591Z",
+  "generated_at": "2026-10-23T08:03:17.192Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -847,7 +847,7 @@
       "name": "Cole Kmet",
       "position": "TE",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Payton",
