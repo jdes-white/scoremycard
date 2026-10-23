@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-22T21:07:52.393Z",
+  "generated_at": "2026-10-23T03:05:17.842Z",
   "free_agent_count": 771,
   "free_agents": [
     {
@@ -277,7 +277,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Roethlisberger",
@@ -661,7 +661,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -1279,7 +1279,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drake Dabney",
@@ -1652,6 +1652,12 @@
       "position": "WR",
       "team": "NYG",
       "injury_status": "IR"
+    },
+    {
+      "name": "Harold Fannin Jr.",
+      "position": "TE",
+      "team": "CLE",
+      "injury_status": null
     },
     {
       "name": "Harrison Wallace III",
@@ -2257,7 +2263,7 @@
       "name": "Jeremiyah Love",
       "position": "RB",
       "team": "ARI",
-      "injury_status": "Doubtful"
+      "injury_status": "Questionable"
     },
     {
       "name": "Jeremy McNichols",
@@ -3679,7 +3685,7 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Rashod Bateman",
@@ -4264,7 +4270,7 @@
       "injury_status": null
     },
     {
-      "name": "Trent Sherfield Sr.",
+      "name": "Trent Sherfield",
       "position": "WR",
       "team": "BUF",
       "injury_status": null
@@ -4412,12 +4418,6 @@
       "position": "QB",
       "team": "NO",
       "injury_status": null
-    },
-    {
-      "name": "Tyler Warren",
-      "position": "TE",
-      "team": "IND",
-      "injury_status": "Questionable"
     },
     {
       "name": "Tyquan Thornton",
@@ -5005,14 +5005,14 @@
           "team": "NE"
         },
         {
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE"
-        },
-        {
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "name": "Tetairoa McMillan",
