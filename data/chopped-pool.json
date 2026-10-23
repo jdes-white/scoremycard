@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-23T20:54:50.523Z",
+  "generated_at": "2026-10-23T23:43:40.934Z",
   "free_agent_count": 770,
   "free_agents": [
     {
@@ -685,7 +685,7 @@
       "name": "Charlie Jones",
       "position": "WR",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Charlie Kolar",
@@ -751,7 +751,7 @@
       "name": "Chris Manhertz",
       "position": "TE",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Moore",
@@ -2221,7 +2221,7 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaylen Wright",
@@ -4123,7 +4123,7 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Theo Wease Jr.",
@@ -4381,7 +4381,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Conklin",
