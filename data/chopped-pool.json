@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-23T10:55:12.252Z",
-  "free_agent_count": 771,
+  "generated_at": "2026-10-23T16:20:47.030Z",
+  "free_agent_count": 770,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -121,7 +121,7 @@
       "name": "Alvin Kamara",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Amar Johnson",
@@ -1352,12 +1352,6 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": "IR"
-    },
-    {
-      "name": "E.J. Jenkins",
-      "position": "TE",
-      "team": "PHI",
-      "injury_status": null
     },
     {
       "name": "Easton Stick",
