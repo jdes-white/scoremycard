@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-23T08:03:17.192Z",
+  "generated_at": "2026-10-23T13:55:21.899Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -350,6 +350,12 @@
       "position": "WR",
       "team": "GB",
       "injury_status": "Questionable"
+    },
+    {
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "injury_status": null
     },
     {
       "name": "Brady Cook",
@@ -3622,12 +3628,6 @@
       "injury_status": null
     },
     {
-      "name": "Rico Dowdle",
-      "position": "RB",
-      "team": "PIT",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
@@ -5264,11 +5264,6 @@
           "team": "BUF"
         },
         {
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN"
-        },
-        {
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
@@ -5302,6 +5297,11 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "name": "Wan'Dale Robinson",
