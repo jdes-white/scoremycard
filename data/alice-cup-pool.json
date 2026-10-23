@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-23T13:55:21.899Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-10-23T18:47:24.191Z",
+  "free_agent_count": 747,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -403,7 +403,7 @@
       "name": "Brashard Smith",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Braxton Berrios",
@@ -457,7 +457,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -853,7 +853,7 @@
       "name": "Cole Kmet",
       "position": "TE",
       "team": "CHI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Cole Payton",
@@ -1340,12 +1340,6 @@
       "position": "RB",
       "team": "CLE",
       "injury_status": "IR"
-    },
-    {
-      "name": "E.J. Jenkins",
-      "position": "TE",
-      "team": "PHI",
-      "injury_status": null
     },
     {
       "name": "Easton Stick",
