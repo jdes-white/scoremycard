@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-23T23:38:36.817Z",
-  "free_agent_count": 747,
+  "generated_at": "2026-10-24T02:24:40.091Z",
+  "free_agent_count": 748,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1423,12 +1423,6 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Emanuel Wilson",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -3310,6 +3304,12 @@
       "injury_status": null
     },
     {
+      "name": "Nate Carter",
+      "position": "RB",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "New Orleans Saints",
       "position": "DEF",
       "team": "NO",
@@ -4120,6 +4120,12 @@
       "injury_status": null
     },
     {
+      "name": "Tre Tucker",
+      "position": "WR",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Tre Watson",
       "position": "TE",
       "team": "MIA",
@@ -4570,9 +4576,9 @@
       "owner": "Daffballs",
       "players": [
         {
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV"
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "name": "Xavier Worthy",
