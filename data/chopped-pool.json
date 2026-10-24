@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-24T20:06:38.640Z",
-  "free_agent_count": 770,
+  "generated_at": "2026-10-24T22:49:55.645Z",
+  "free_agent_count": 771,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -769,7 +769,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "CJ Daniels",
@@ -1112,6 +1112,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "Out"
+    },
+    {
+      "name": "DeeJay Dallas",
+      "position": "RB",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Deion Burks",
@@ -2377,7 +2383,7 @@
       "name": "Jonah Coleman",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Jonathan Mingo",
@@ -2425,7 +2431,7 @@
       "name": "Jordan Mason",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jordan Moore",
@@ -2647,7 +2653,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kayshon Boutte",
@@ -4027,7 +4033,7 @@
       "name": "Tank Dell",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Tanner Arkin",
@@ -4381,7 +4387,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyler Conklin",
