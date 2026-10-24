@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-24T19:54:09.900Z",
-  "free_agent_count": 713,
+  "generated_at": "2026-10-24T22:45:51.267Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -757,7 +757,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Cincinnati Bengals",
@@ -1051,6 +1051,12 @@
       "name": "DeAndre Thompkins",
       "position": "WR",
       "team": "GB",
+      "injury_status": null
+    },
+    {
+      "name": "DeeJay Dallas",
+      "position": "RB",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -2491,7 +2497,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kayshon Boutte",
@@ -3715,7 +3721,7 @@
       "name": "Tank Dell",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Tanner Arkin",
@@ -4033,7 +4039,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyler Bass",
