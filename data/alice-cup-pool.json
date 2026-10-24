@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-24T02:24:40.091Z",
+  "generated_at": "2026-10-24T07:42:38.674Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -103,6 +103,12 @@
       "name": "Allen Hurns",
       "position": "WR",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -4000,12 +4006,6 @@
       "injury_status": null
     },
     {
-      "name": "Terrance Ferguson",
-      "position": "TE",
-      "team": "LAR",
-      "injury_status": "IR"
-    },
-    {
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
@@ -4817,6 +4817,11 @@
           "team": "NYG"
         },
         {
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA"
@@ -4830,11 +4835,6 @@
           "name": "Ka'imi Fairbairn",
           "position": "K",
           "team": "HOU"
-        },
-        {
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "name": "Matthew Stafford",
