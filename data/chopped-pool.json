@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-23T23:43:40.934Z",
-  "free_agent_count": 770,
+  "generated_at": "2026-10-24T03:01:01.833Z",
+  "free_agent_count": 771,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -3397,6 +3397,12 @@
       "name": "Nate Boerkircher",
       "position": "TE",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Nate Carter",
+      "position": "RB",
+      "team": "KC",
       "injury_status": null
     },
     {
