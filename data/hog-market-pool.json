@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-23T23:36:37.694Z",
-  "free_agent_count": 713,
+  "generated_at": "2026-10-24T02:12:17.756Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -3130,6 +3130,12 @@
       "injury_status": null
     },
     {
+      "name": "Nate Carter",
+      "position": "RB",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "New Orleans Saints",
       "position": "DEF",
       "team": "NO",
@@ -4289,9 +4295,19 @@
       "owner": "DingoRen",
       "players": [
         {
+          "name": "Bo Nix",
+          "position": "QB",
+          "team": "DEN"
+        },
+        {
           "name": "Braelon Allen",
           "position": "RB",
           "team": "NYJ"
+        },
+        {
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "name": "Spencer Shrader",
@@ -4314,11 +4330,6 @@
           "team": "TEN"
         },
         {
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "name": "Carnell Tate",
           "position": "WR",
           "team": "TEN"
@@ -4334,11 +4345,6 @@
           "team": "NE"
         },
         {
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
-        },
-        {
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI"
@@ -4349,14 +4355,14 @@
           "team": "CIN"
         },
         {
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ"
+        },
+        {
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "name": "Tanner McKee",
@@ -4473,11 +4479,6 @@
           "team": "CHI"
         },
         {
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN"
-        },
-        {
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
@@ -4488,11 +4489,6 @@
           "team": "LAR"
         },
         {
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
@@ -4501,6 +4497,11 @@
           "name": "Emeka Egbuka",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "name": "KC Concepcion Jr.",
@@ -4523,9 +4524,19 @@
           "team": "PHI"
         },
         {
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
+        },
+        {
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "name": "Isaiah Likely",
@@ -4536,11 +4547,6 @@
           "name": "James Cook III",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "name": "New York Jets",
