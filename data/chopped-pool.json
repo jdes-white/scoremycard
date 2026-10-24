@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-24T15:17:02.218Z",
-  "free_agent_count": 771,
+  "generated_at": "2026-10-24T20:06:38.640Z",
+  "free_agent_count": 770,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -391,7 +391,7 @@
       "name": "Brashard Smith",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Braxton Berrios",
@@ -1114,12 +1114,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "DeeJay Dallas",
-      "position": "RB",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Deion Burks",
       "position": "WR",
       "team": "IND",
@@ -1279,7 +1273,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drake Dabney",
@@ -1351,7 +1345,7 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Easton Stick",
@@ -4129,7 +4123,7 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Theo Wease Jr.",
