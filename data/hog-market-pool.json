@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-25T20:06:03.928Z",
+  "generated_at": "2026-10-25T22:52:24.884Z",
   "free_agent_count": 713,
   "free_agents": [
     {
@@ -1615,7 +1615,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ihmir Smith-Marsette",
