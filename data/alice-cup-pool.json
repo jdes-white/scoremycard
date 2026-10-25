@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-24T22:46:59.364Z",
+  "generated_at": "2026-10-25T02:12:04.251Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -394,12 +394,6 @@
       "injury_status": null
     },
     {
-      "name": "Brandon McManus",
-      "position": "K",
-      "team": "LAR",
-      "injury_status": null
-    },
-    {
       "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
@@ -613,6 +607,12 @@
       "name": "Camden Brown",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Cameron Dicker",
+      "position": "K",
+      "team": "LAC",
       "injury_status": null
     },
     {
@@ -5346,6 +5346,11 @@
           "team": "LV"
         },
         {
+          "name": "Brandon McManus",
+          "position": "K",
+          "team": "LAR"
+        },
+        {
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC"
@@ -5384,11 +5389,6 @@
           "name": "Jameson Williams",
           "position": "WR",
           "team": "DET"
-        },
-        {
-          "name": "Cameron Dicker",
-          "position": "K",
-          "team": "LAC"
         },
         {
           "name": "Tucker Kraft",
