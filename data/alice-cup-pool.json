@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-25T07:54:26.129Z",
+  "generated_at": "2026-10-25T13:26:25.800Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -1273,7 +1273,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
@@ -1369,7 +1369,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Raridon",
@@ -1879,6 +1879,12 @@
       "name": "Jackson Meeks",
       "position": "TE",
       "team": "DET",
+      "injury_status": null
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "position": "DEF",
+      "team": "JAX",
       "injury_status": null
     },
     {
@@ -2905,12 +2911,6 @@
       "name": "Los Angeles Chargers",
       "position": "DEF",
       "team": "LAC",
-      "injury_status": null
-    },
-    {
-      "name": "Los Angeles Rams",
-      "position": "DEF",
-      "team": "LAR",
       "injury_status": null
     },
     {
@@ -4183,7 +4183,7 @@
       "name": "Treyton Welch",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Troy Franklin",
@@ -4357,7 +4357,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
@@ -4447,7 +4447,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
@@ -5324,9 +5324,9 @@
           "team": "SEA"
         },
         {
-          "name": "Jacksonville Jaguars",
+          "name": "Los Angeles Rams",
           "position": "DEF",
-          "team": "JAX"
+          "team": "LAR"
         }
       ]
     },
