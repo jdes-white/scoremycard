@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-24T22:49:55.645Z",
+  "generated_at": "2026-10-25T02:54:59.780Z",
   "free_agent_count": 771,
   "free_agents": [
     {
@@ -1444,6 +1444,12 @@
       "injury_status": null
     },
     {
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB",
+      "injury_status": "Out"
+    },
+    {
       "name": "Emmanuel Henderson Jr.",
       "position": "WR",
       "team": "SEA",
@@ -2215,12 +2221,6 @@
       "name": "Jaydon Blue",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
-    },
-    {
-      "name": "Jaylen Waddle",
-      "position": "WR",
-      "team": "DEN",
       "injury_status": null
     },
     {
@@ -4714,11 +4714,6 @@
           "team": "MIA"
         },
         {
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
@@ -4742,6 +4737,11 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "name": "Drake London",
