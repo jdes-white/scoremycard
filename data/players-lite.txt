@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-24T21:39:33.603Z)
+# id|name|pos|team  (generated 2026-10-25T21:52:16.819Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -221,6 +221,7 @@
 6918|Salvon Ahmed|RB|CHI
 6920|Isaiah Hodgins|WR|PIT
 6927|Quez Watkins|WR|IND
+6931|DeeJay Dallas|RB|MIN
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -721,7 +722,6 @@
 13151|Nick Kallerup|TE|SEA
 13173|Jimmy Holiday|WR|KC
 13179|Ja'seem Reed|WR|CAR
-13199|Montorie Foster Jr.|WR|SEA
 13208|Kyrese Rowan|WR|NO
 13210|Drake Dabney|TE|GB
 13213|Lucas Scott|FB|BAL
