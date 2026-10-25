@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-25T02:54:59.780Z",
+  "generated_at": "2026-10-25T08:03:13.287Z",
   "free_agent_count": 771,
   "free_agents": [
     {
@@ -2932,6 +2932,12 @@
       "injury_status": null
     },
     {
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "injury_status": "Out"
+    },
+    {
       "name": "Lan Larison",
       "position": "RB",
       "team": "NE",
@@ -3970,12 +3976,6 @@
       "injury_status": null
     },
     {
-      "name": "Stefon Diggs",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "Stephen Carlson",
       "position": "TE",
       "team": "CHI",
@@ -4786,6 +4786,11 @@
           "team": "CAR"
         },
         {
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF"
@@ -4794,11 +4799,6 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "name": "A.J. Brown",
