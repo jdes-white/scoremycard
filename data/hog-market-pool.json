@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-25T01:58:40.503Z",
+  "generated_at": "2026-10-25T07:52:01.092Z",
   "free_agent_count": 714,
   "free_agents": [
     {
@@ -751,12 +751,6 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
-    },
-    {
-      "name": "Christian Kirk",
-      "position": "WR",
-      "team": "SF",
       "injury_status": null
     },
     {
@@ -1826,6 +1820,12 @@
       "position": "RB",
       "team": "DET",
       "injury_status": null
+    },
+    {
+      "name": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "IR"
     },
     {
       "name": "Jaden Bradley",
@@ -4775,11 +4775,6 @@
           "team": "NYJ"
         },
         {
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE"
@@ -4797,6 +4792,11 @@
         {
           "name": "George Kittle",
           "position": "TE",
+          "team": "SF"
+        },
+        {
+          "name": "Christian Kirk",
+          "position": "WR",
           "team": "SF"
         },
         {
