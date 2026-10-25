@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-25T18:03:14.021Z",
+  "generated_at": "2026-10-25T22:59:31.687Z",
   "free_agent_count": 770,
   "free_agents": [
     {
@@ -13,7 +13,7 @@
       "name": "Aaron Jones Sr.",
       "position": "RB",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Aaron Rodgers",
@@ -61,7 +61,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Barner",
@@ -337,7 +337,7 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Bo Nix",
@@ -589,7 +589,7 @@
       "name": "Cam Skattebo",
       "position": "RB",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cam Ward",
@@ -637,7 +637,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Towt",
@@ -913,7 +913,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dalton Kincaid",
@@ -1297,7 +1297,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1483,7 +1483,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Erik Ezukanma",
@@ -1711,7 +1711,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ihmir Smith-Marsette",
@@ -1915,7 +1915,7 @@
       "name": "Jackson Meeks",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jacob Cowing",
@@ -2227,7 +2227,7 @@
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylin Lane",
@@ -2239,7 +2239,7 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jeff Caldwell",
@@ -2383,7 +2383,7 @@
       "name": "Jonah Coleman",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jonathan Mingo",
@@ -2623,7 +2623,7 @@
       "name": "Kaleb Johnson",
       "position": "RB",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kalel Mullings",
@@ -2743,7 +2743,7 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kenny Pickett",
@@ -3235,7 +3235,7 @@
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Mecole Hardman Jr.",
@@ -3325,7 +3325,7 @@
       "name": "Mike Washington Jr.",
       "position": "RB",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Miles Kitselman",
@@ -3757,7 +3757,7 @@
       "name": "Robert Henry Jr.",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
@@ -3829,7 +3829,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -4357,7 +4357,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
@@ -4441,7 +4441,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyson Bagent",
