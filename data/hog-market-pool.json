@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-25T07:52:01.092Z",
+  "generated_at": "2026-10-25T13:25:06.380Z",
   "free_agent_count": 714,
   "free_agents": [
     {
@@ -442,12 +442,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "Brian Thomas Jr.",
-      "position": "WR",
-      "team": "JAX",
-      "injury_status": null
-    },
-    {
       "name": "Britain Covey",
       "position": "WR",
       "team": "PHI",
@@ -862,6 +856,12 @@
       "injury_status": null
     },
     {
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Craig Reynolds",
       "position": "RB",
       "team": "WAS",
@@ -1207,7 +1207,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
@@ -1303,7 +1303,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Raridon",
@@ -1892,12 +1892,6 @@
       "position": "TE",
       "team": "SF",
       "injury_status": "IR"
-    },
-    {
-      "name": "Jakobi Meyers",
-      "position": "WR",
-      "team": "JAX",
-      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -3433,7 +3427,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Riley Leonard",
@@ -3748,6 +3742,12 @@
       "injury_status": null
     },
     {
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Taquan Mizzell",
       "position": "RB",
       "team": "NYG",
@@ -3979,7 +3979,7 @@
       "name": "Treyton Welch",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Troy Franklin",
@@ -4153,7 +4153,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
@@ -4243,7 +4243,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
@@ -4305,6 +4305,11 @@
           "team": "NYJ"
         },
         {
+          "name": "Brian Thomas Jr.",
+          "position": "WR",
+          "team": "JAX"
+        },
+        {
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC"
@@ -4363,11 +4368,6 @@
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "name": "Denver Broncos",
@@ -4703,9 +4703,9 @@
           "team": "TB"
         },
         {
-          "name": "Courtland Sutton",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "DEN"
+          "team": "JAX"
         },
         {
           "name": "Trevor Lawrence",
