@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-26T08:26:20.034Z",
-  "free_agent_count": 770,
+  "generated_at": "2026-10-26T15:46:06.785Z",
+  "free_agent_count": 771,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1351,6 +1351,12 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "team": "ATL",
       "injury_status": null
     },
     {
