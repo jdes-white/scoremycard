@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-26T15:46:06.785Z",
+  "generated_at": "2026-10-26T22:13:18.518Z",
   "free_agent_count": 771,
   "free_agents": [
     {
@@ -582,7 +582,7 @@
     {
       "name": "Cam Grandy",
       "position": "TE",
-      "team": "MIN",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -1393,7 +1393,7 @@
       "name": "Eli Stowers",
       "position": "TE",
       "team": "PHI",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Elic Ayomanor",
@@ -1621,7 +1621,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Grant Finley",
@@ -2023,7 +2023,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Cropper",
