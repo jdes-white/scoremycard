@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-25T22:54:28.823Z",
+  "generated_at": "2026-10-26T02:12:22.245Z",
   "free_agent_count": 747,
   "free_agents": [
     {
@@ -319,7 +319,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Yurosek",
@@ -1279,7 +1279,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1543,7 +1543,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -3649,7 +3649,7 @@
       "name": "Robert Henry Jr.",
       "position": "RB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
