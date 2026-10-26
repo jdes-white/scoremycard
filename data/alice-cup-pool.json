@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-26T02:12:22.245Z",
+  "generated_at": "2026-10-26T08:14:51.146Z",
   "free_agent_count": 747,
   "free_agents": [
     {
@@ -3583,7 +3583,7 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Rashod Bateman",
@@ -4315,7 +4315,7 @@
       "name": "Velus Jones Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Vinny Anthony II",
