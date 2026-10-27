@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-27T15:00:30.155Z",
-  "free_agent_count": 750,
+  "generated_at": "2026-10-27T21:35:23.501Z",
+  "free_agent_count": 755,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -265,6 +265,12 @@
       "name": "Baltimore Ravens",
       "position": "DEF",
       "team": "BAL",
+      "injury_status": null
+    },
+    {
+      "name": "Barika Kpeenu",
+      "position": "RB",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -550,6 +556,12 @@
       "injury_status": null
     },
     {
+      "name": "Caden Prieskorn",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Cairo Santos",
       "position": "K",
       "team": "CHI",
@@ -643,12 +655,6 @@
       "name": "Carolina Panthers",
       "position": "DEF",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1378,6 +1384,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Eli Pancol",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
@@ -1471,7 +1483,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Erik Ezukanma",
@@ -1620,7 +1632,7 @@
     {
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -1858,12 +1870,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "Jack Velling",
-      "position": "TE",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Jack Westover",
       "position": "TE",
       "team": "WAS",
@@ -1993,7 +1999,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen Cropper",
@@ -2461,7 +2467,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Josh Kelly",
@@ -3004,6 +3010,12 @@
       "injury_status": null
     },
     {
+      "name": "Malick Meiga",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -3278,6 +3290,12 @@
       "position": "TE",
       "team": "NO",
       "injury_status": "IR"
+    },
+    {
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Myles Montgomery",
@@ -3994,6 +4012,12 @@
       "injury_status": null
     },
     {
+      "name": "Tejhaun Palmer",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Temarrick Hemingway",
       "position": "TE",
       "team": "WAS",
@@ -4309,7 +4333,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Tyson Bagent",
@@ -4495,6 +4519,12 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Zay Jones",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
