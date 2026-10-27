@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-27T11:29:56.324Z",
-  "free_agent_count": 783,
+  "generated_at": "2026-10-27T17:19:48.547Z",
+  "free_agent_count": 781,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -646,12 +646,6 @@
       "injury_status": null
     },
     {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
@@ -967,7 +961,7 @@
       "name": "Dameon Pierce",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dan Villari",
@@ -1928,12 +1922,6 @@
       "position": "QB",
       "team": "ATL",
       "injury_status": "Out"
-    },
-    {
-      "name": "Jack Velling",
-      "position": "TE",
-      "team": "ATL",
-      "injury_status": null
     },
     {
       "name": "Jack Westover",
