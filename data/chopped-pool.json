@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-27T17:19:48.547Z",
-  "free_agent_count": 781,
+  "generated_at": "2026-10-27T21:44:37.941Z",
+  "free_agent_count": 788,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -252,6 +252,12 @@
     {
       "name": "Baker Mayfield",
       "position": "QB",
+      "team": "TB",
+      "injury_status": null
+    },
+    {
+      "name": "Barika Kpeenu",
+      "position": "RB",
       "team": "TB",
       "injury_status": null
     },
@@ -559,6 +565,12 @@
       "name": "Cade Stover",
       "position": "TE",
       "team": "HOU",
+      "injury_status": null
+    },
+    {
+      "name": "Caden Prieskorn",
+      "position": "TE",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -1414,6 +1426,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Eli Pancol",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
@@ -1519,7 +1537,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Erik Ezukanma",
@@ -1674,7 +1692,7 @@
     {
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -2047,7 +2065,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen Coker",
@@ -2539,7 +2557,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Josh Kelly",
@@ -3124,6 +3142,12 @@
       "injury_status": null
     },
     {
+      "name": "Malick Meiga",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -3416,6 +3440,12 @@
       "position": "TE",
       "team": "NO",
       "injury_status": "IR"
+    },
+    {
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Myles Montgomery",
@@ -4162,6 +4192,12 @@
       "injury_status": null
     },
     {
+      "name": "Tejhaun Palmer",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Temarrick Hemingway",
       "position": "TE",
       "team": "WAS",
@@ -4507,7 +4543,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Tyson Bagent",
@@ -4681,6 +4717,12 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Zay Jones",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
