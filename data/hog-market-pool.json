@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-27T14:58:46.180Z",
-  "free_agent_count": 714,
+  "generated_at": "2026-10-27T19:48:15.003Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -526,6 +526,12 @@
       "injury_status": null
     },
     {
+      "name": "Caden Prieskorn",
+      "position": "TE",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Cairo Santos",
       "position": "K",
       "team": "CHI",
@@ -595,12 +601,6 @@
       "name": "Carlos Washington Jr.",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
-    },
-    {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1405,7 +1405,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Erik Ezukanma",
@@ -1784,12 +1784,6 @@
       "position": "QB",
       "team": "ATL",
       "injury_status": "Out"
-    },
-    {
-      "name": "Jack Velling",
-      "position": "TE",
-      "team": "ATL",
-      "injury_status": null
     },
     {
       "name": "Jack Westover",
@@ -2341,7 +2335,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Josh Kelly",
@@ -2848,6 +2842,12 @@
       "injury_status": null
     },
     {
+      "name": "Malick Meiga",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -3086,6 +3086,12 @@
       "position": "TE",
       "team": "NO",
       "injury_status": "IR"
+    },
+    {
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Myles Montgomery",
@@ -4093,7 +4099,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyson Bagent",
