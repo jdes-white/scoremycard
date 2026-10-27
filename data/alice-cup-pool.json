@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-27T02:48:50.242Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-10-27T08:28:40.268Z",
+  "free_agent_count": 750,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -4306,6 +4306,12 @@
       "injury_status": null
     },
     {
+      "name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team": "NYG",
+      "injury_status": "Questionable"
+    },
+    {
       "name": "Tyson Bagent",
       "position": "QB",
       "team": "CHI",
@@ -4429,6 +4435,12 @@
       "name": "Xavier Smith",
       "position": "WR",
       "team": "SF",
+      "injury_status": null
+    },
+    {
+      "name": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -4579,11 +4591,6 @@
           "name": "Emanuel Wilson",
           "position": "RB",
           "team": "SEA"
-        },
-        {
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
         },
         {
           "name": "Bhayshul Tuten",
@@ -5113,11 +5120,6 @@
           "name": "Drake Maye",
           "position": "QB",
           "team": "NE"
-        },
-        {
-          "name": "Tyrone Tracy Jr.",
-          "position": "RB",
-          "team": "NYG"
         },
         {
           "name": "Omarion Hampton",
