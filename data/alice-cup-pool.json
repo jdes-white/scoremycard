@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-26T22:03:23.892Z",
+  "generated_at": "2026-10-27T02:48:50.242Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -469,7 +469,7 @@
       "name": "Britain Covey",
       "position": "WR",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "British Brooks",
@@ -859,7 +859,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -1435,7 +1435,7 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emmanuel Henderson Jr.",
