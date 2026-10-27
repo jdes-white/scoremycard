@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-10-26T23:10:05.006Z)
+# id|name|pos|team  (generated 2026-10-27T22:59:22.901Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -73,6 +73,7 @@
 4046|Patrick Mahomes|QB|KC
 4054|Mo Alie-Cox|TE|IND
 4066|Evan Engram|TE|DEN
+4080|Zay Jones|WR|ARI
 4137|James Conner|RB|ARI
 4144|Jonnu Smith|TE|GB
 4147|Samaje Perine|RB|CIN
@@ -563,6 +564,7 @@
 11783|Ryan Flournoy|WR|DAL
 11786|Cam Little|K|JAX
 11792|Will Reichard|K|MIN
+11802|Tejhaun Palmer|WR|LAC
 11806|Casey Washington|WR|CAR
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
@@ -697,8 +699,10 @@
 12897|Nate Carter|RB|KC
 12901|Patrick Herbert|TE|LAC
 12908|Chandler Brayboy|WR|NE
+12909|Eli Pancol|WR|DEN
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
+12933|Caden Prieskorn|TE|CIN
 12938|Jackson Meeks|TE|DET
 12939|Anthony Tyus III|RB|CAR
 12946|Dontae Fleming|WR|NYG
@@ -723,6 +727,7 @@
 13151|Nick Kallerup|TE|SEA
 13173|Jimmy Holiday|WR|KC
 13179|Ja'seem Reed|WR|CAR
+13199|Montorie Foster Jr.|WR|SEA
 13208|Kyrese Rowan|WR|NO
 13210|Drake Dabney|TE|GB
 13213|Lucas Scott|FB|BAL
@@ -840,12 +845,11 @@
 13554|CJ Williams|WR|JAX
 13557|Athan Kaliakmanis|QB|WAS
 13577|Dallen Bentley|TE|DEN
-13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
 13602|Jack Strand|QB|ATL
-13603|Gregory Desrosiers|RB|LAC
+13603|Gregory Desrosiers|RB|NYG
 13621|Dillon Bell|WR|MIN
 13630|Evan Svoboda|TE|LAC
 13645|Michael Wortham|WR|JAX
@@ -865,7 +869,6 @@
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
-13846|Jack Velling|TE|ATL
 13870|Quentin Moore|TE|WAS
 13879|Jameson Geers|TE|ARI
 13890|Michael Briscoe|WR|MIN
@@ -879,7 +882,9 @@
 13981|Kolbe Katsis|WR|DEN
 14020|Dean Patterson IV|WR|TB
 14026|DJ Herman|RB|MIA
+14058|Malick Meiga|WR|SEA
 14071|Grant Finley|FB|NYG
+14080|Barika Kpeenu|RB|TB
 ARI|Arizona Cardinals|DEF|ARI
 ATL|Atlanta Falcons|DEF|ATL
 BAL|Baltimore Ravens|DEF|BAL
