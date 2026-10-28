@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-27T21:35:23.501Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-10-28T02:56:47.456Z",
+  "free_agent_count": 756,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -307,6 +307,12 @@
       "name": "Ben Roethlisberger",
       "position": "QB",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Ben Sims",
+      "position": "TE",
+      "team": "SEA",
       "injury_status": null
     },
     {
