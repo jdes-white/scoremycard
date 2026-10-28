@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-27T19:48:15.003Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-28T00:07:00.252Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -247,6 +247,12 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Barika Kpeenu",
+      "position": "RB",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -1312,6 +1318,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Eli Pancol",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
@@ -1554,7 +1566,7 @@
     {
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -1897,7 +1909,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jalen Cropper",
@@ -3784,6 +3796,12 @@
       "injury_status": null
     },
     {
+      "name": "Tejhaun Palmer",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Temarrick Hemingway",
       "position": "TE",
       "team": "WAS",
@@ -4099,7 +4117,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyson Bagent",
@@ -4285,6 +4303,12 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Zay Jones",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
