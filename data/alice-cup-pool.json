@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-28T09:12:48.187Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-10-28T17:35:33.381Z",
+  "free_agent_count": 746,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -400,6 +400,12 @@
       "injury_status": null
     },
     {
+      "name": "Brandon McManus",
+      "position": "K",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
@@ -439,12 +445,6 @@
       "name": "Brennan Presley",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
-    },
-    {
-      "name": "Brett Rypien",
-      "position": "QB",
-      "team": "TB",
       "injury_status": null
     },
     {
@@ -523,6 +523,12 @@
       "name": "Brycen Tremayne",
       "position": "WR",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Bryson Nesbit",
+      "position": "TE",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -643,6 +649,12 @@
       "name": "Carolina Panthers",
       "position": "DEF",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1138,6 +1150,12 @@
       "injury_status": null
     },
     {
+      "name": "Devin Culp",
+      "position": "TE",
+      "team": "MIN",
+      "injury_status": null
+    },
+    {
       "name": "Devin Duvernay",
       "position": "WR",
       "team": "ARI",
@@ -1184,12 +1202,6 @@
       "position": "RB",
       "team": "MIA",
       "injury_status": null
-    },
-    {
-      "name": "DJ Rogers",
-      "position": "TE",
-      "team": "DAL",
-      "injury_status": "Questionable"
     },
     {
       "name": "DJ Uiagalelei",
@@ -1411,12 +1423,6 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Emari Demercado",
-      "position": "RB",
-      "team": "DAL",
       "injury_status": null
     },
     {
@@ -1864,12 +1870,6 @@
       "injury_status": null
     },
     {
-      "name": "Jackson Acker",
-      "position": "FB",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
@@ -2068,12 +2068,6 @@
       "injury_status": null
     },
     {
-      "name": "Jamari Thrash",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Jameis Winston",
       "position": "QB",
       "team": "NYG",
@@ -2090,12 +2084,6 @@
       "position": "TE",
       "team": "DAL",
       "injury_status": null
-    },
-    {
-      "name": "Jameson Geers",
-      "position": "TE",
-      "team": "ARI",
-      "injury_status": "Questionable"
     },
     {
       "name": "Jared Wayne",
@@ -2116,12 +2104,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Jaret Patterson",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Jarquez Hunter",
       "position": "RB",
       "team": "NO",
@@ -2131,18 +2113,6 @@
       "name": "Jarrett Stidham",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Jason Brownlee",
-      "position": "WR",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Jason Myers",
-      "position": "K",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2356,12 +2326,6 @@
       "injury_status": null
     },
     {
-      "name": "Jonathan Ward",
-      "position": "RB",
-      "team": "BAL",
-      "injury_status": null
-    },
-    {
       "name": "Jonathon Brooks",
       "position": "RB",
       "team": "CAR",
@@ -2494,12 +2458,6 @@
       "injury_status": null
     },
     {
-      "name": "Josiah Deguara",
-      "position": "TE",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2539,6 +2497,12 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Justin Tucker",
+      "position": "K",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -2842,12 +2806,6 @@
       "injury_status": null
     },
     {
-      "name": "Kyrese Rowan",
-      "position": "WR",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "LaJohntay Wester",
       "position": "WR",
       "team": "BAL",
@@ -2875,12 +2833,6 @@
       "name": "Las Vegas Raiders",
       "position": "DEF",
       "team": "LV",
-      "injury_status": null
-    },
-    {
-      "name": "Lawrence Keys",
-      "position": "WR",
-      "team": "DET",
       "injury_status": null
     },
     {
@@ -3046,12 +2998,6 @@
       "injury_status": null
     },
     {
-      "name": "Malik Turner",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null
-    },
-    {
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
@@ -3193,7 +3139,7 @@
       "name": "Michael Briscoe",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Michael Burton",
@@ -3535,6 +3481,12 @@
       "name": "Phil Mafah",
       "position": "RB",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "position": "DEF",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -4360,12 +4312,6 @@
       "injury_status": null
     },
     {
-      "name": "Washington Commanders",
-      "position": "DEF",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "Wendell Smallwood",
       "position": "RB",
       "team": "WAS",
@@ -4618,11 +4564,6 @@
       "owner": "Daffballs",
       "players": [
         {
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
@@ -4671,6 +4612,11 @@
           "name": "Brock Purdy",
           "position": "QB",
           "team": "SF"
+        },
+        {
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         },
         {
           "name": "Zach Charbonnet",
@@ -4772,6 +4718,11 @@
           "team": "LV"
         },
         {
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU"
@@ -4825,11 +4776,6 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
-        },
-        {
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
         },
         {
           "name": "Cincinnati Bengals",
@@ -5383,14 +5329,14 @@
           "team": "LV"
         },
         {
-          "name": "Brandon McManus",
-          "position": "K",
-          "team": "LAR"
-        },
-        {
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC"
+        },
+        {
+          "name": "Jason Myers",
+          "position": "K",
+          "team": "SEA"
         },
         {
           "name": "Jacoby Brissett",
@@ -5433,9 +5379,9 @@
           "team": "GB"
         },
         {
-          "name": "Philadelphia Eagles",
+          "name": "Washington Commanders",
           "position": "DEF",
-          "team": "PHI"
+          "team": "WAS"
         }
       ]
     }
