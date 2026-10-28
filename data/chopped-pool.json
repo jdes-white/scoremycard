@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-27T21:44:37.941Z",
-  "free_agent_count": 788,
+  "generated_at": "2026-10-28T03:42:45.223Z",
+  "free_agent_count": 789,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -295,6 +295,12 @@
       "name": "Ben Roethlisberger",
       "position": "QB",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Ben Sims",
+      "position": "TE",
+      "team": "SEA",
       "injury_status": null
     },
     {
