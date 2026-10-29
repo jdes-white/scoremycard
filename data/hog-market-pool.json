@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-29T03:07:50.467Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-10-29T11:52:27.237Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -556,12 +556,6 @@
       "injury_status": null
     },
     {
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "injury_status": null
-    },
-    {
       "name": "Caleb Lohner",
       "position": "TE",
       "team": "DEN",
@@ -625,6 +619,12 @@
       "name": "Carlos Washington Jr.",
       "position": "RB",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Carolina Panthers",
+      "position": "DEF",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -1630,9 +1630,9 @@
       "injury_status": null
     },
     {
-      "name": "Hunter Henry",
-      "position": "TE",
-      "team": "NE",
+      "name": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1831,6 +1831,12 @@
       "name": "Jackson Meeks",
       "position": "TE",
       "team": "DET",
+      "injury_status": null
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "position": "DEF",
+      "team": "JAX",
       "injury_status": null
     },
     {
@@ -2704,12 +2710,6 @@
       "injury_status": null
     },
     {
-      "name": "Las Vegas Raiders",
-      "position": "DEF",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Lee Smith",
       "position": "TE",
       "team": "ATL",
@@ -3266,12 +3266,6 @@
       "position": "WR",
       "team": "DEN",
       "injury_status": "IR"
-    },
-    {
-      "name": "Pat Freiermuth",
-      "position": "TE",
-      "team": "PIT",
-      "injury_status": null
     },
     {
       "name": "Patrick Gurd",
@@ -4132,12 +4126,6 @@
       "injury_status": null
     },
     {
-      "name": "Washington Commanders",
-      "position": "DEF",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "Wendell Smallwood",
       "position": "RB",
       "team": "WAS",
@@ -4696,6 +4684,11 @@
           "team": "WAS"
         },
         {
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA"
+        },
+        {
           "name": "Darren Waller",
           "position": "TE",
           "team": "CAR"
@@ -4930,9 +4923,9 @@
           "team": "SEA"
         },
         {
-          "name": "Carolina Panthers",
+          "name": "Las Vegas Raiders",
           "position": "DEF",
-          "team": "CAR"
+          "team": "LV"
         }
       ]
     },
@@ -5044,6 +5037,11 @@
           "team": "PIT"
         },
         {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        },
+        {
           "name": "Kalif Raymond",
           "position": "WR",
           "team": "CHI"
@@ -5057,6 +5055,11 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
         },
         {
           "name": "Drake London",
@@ -5271,11 +5274,6 @@
           "name": "Chicago Bears",
           "position": "DEF",
           "team": "CHI"
-        },
-        {
-          "name": "Jacksonville Jaguars",
-          "position": "DEF",
-          "team": "JAX"
         }
       ]
     },
@@ -5365,9 +5363,9 @@
           "team": "BAL"
         },
         {
-          "name": "Houston Texans",
+          "name": "Washington Commanders",
           "position": "DEF",
-          "team": "HOU"
+          "team": "WAS"
         }
       ]
     }
