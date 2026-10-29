@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-29T17:49:45.813Z",
+  "generated_at": "2026-10-29T22:11:14.328Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -1327,7 +1327,7 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "E.J. Jenkins",
@@ -1561,7 +1561,7 @@
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Geno Smith",
@@ -1891,7 +1891,7 @@
       "name": "Jacob Saylors",
       "position": "RB",
       "team": "DET",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jacory Croskey-Merritt",
@@ -2851,7 +2851,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -2935,7 +2935,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mac Jones",
@@ -3043,7 +3043,7 @@
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mason Rudolph",
@@ -3577,7 +3577,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Gilliam",
