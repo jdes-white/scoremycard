@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-28T21:58:57.659Z",
-  "free_agent_count": 749,
+  "generated_at": "2026-10-29T03:22:43.488Z",
+  "free_agent_count": 748,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -841,7 +841,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -1327,7 +1327,7 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "E.J. Jenkins",
@@ -1405,12 +1405,6 @@
       "name": "Elijah McGuire",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "Elijah Mitchell",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -2293,7 +2287,7 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "John FitzPatrick",
@@ -3013,7 +3007,7 @@
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mark Andrews",
@@ -3061,7 +3055,7 @@
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mason Rudolph",
@@ -4171,7 +4165,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Treyton Welch",
@@ -4237,7 +4231,7 @@
       "name": "Tyler Allgeier",
       "position": "RB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Badie",
@@ -5154,6 +5148,11 @@
           "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL"
+        },
+        {
+          "name": "Elijah Mitchell",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "name": "Dameon Pierce",
