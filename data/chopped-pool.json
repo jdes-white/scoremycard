@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-29T17:56:24.287Z",
+  "generated_at": "2026-10-29T22:27:05.058Z",
   "free_agent_count": 781,
   "free_agents": [
     {
@@ -379,7 +379,7 @@
       "name": "Braelon Allen",
       "position": "RB",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Brandin Cooks",
@@ -1387,7 +1387,7 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "E.J. Jenkins",
@@ -1627,7 +1627,7 @@
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Geno Smith",
@@ -1963,7 +1963,7 @@
       "name": "Jacob Saylors",
       "position": "RB",
       "team": "DET",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jacoby Brissett",
@@ -2977,7 +2977,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -3055,7 +3055,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mac Jones",
@@ -3187,7 +3187,7 @@
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mason Rudolph",
@@ -3727,7 +3727,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Gilliam",
@@ -4015,7 +4015,7 @@
       "name": "Stefon Diggs",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Stephen Carlson",
@@ -4321,7 +4321,7 @@
       "name": "TreVeyon Henderson",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trevor Etienne",
