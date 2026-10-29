@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-28T21:56:39.939Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-29T03:07:50.467Z",
+  "free_agent_count": 717,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -598,6 +598,12 @@
       "injury_status": null
     },
     {
+      "name": "Cameron Dicker",
+      "position": "K",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Cameron Dorner",
       "position": "WR",
       "team": "NE",
@@ -829,7 +835,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -1297,7 +1303,7 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "E.J. Jenkins",
@@ -2209,7 +2215,7 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "John FitzPatrick",
@@ -2527,6 +2533,12 @@
       "name": "Kendall Milton",
       "position": "RB",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -2857,7 +2869,7 @@
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mark Andrews",
@@ -2899,7 +2911,7 @@
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mason Rudolph",
@@ -3967,7 +3979,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Treyton Welch",
@@ -5067,11 +5079,6 @@
           "team": "PIT"
         },
         {
-          "name": "Cameron Dicker",
-          "position": "K",
-          "team": "LAC"
-        },
-        {
           "name": "Jahmyr Gibbs",
           "position": "RB",
           "team": "DET"
@@ -5080,11 +5087,6 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "team": "PIT"
-        },
-        {
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "name": "Minnesota Vikings",
