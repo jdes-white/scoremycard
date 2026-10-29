@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-29T11:52:27.237Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-10-29T17:40:56.945Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -928,6 +928,12 @@
       "injury_status": null
     },
     {
+      "name": "Dameon Pierce",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": "IR"
+    },
+    {
       "name": "Dan Villari",
       "position": "TE",
       "team": "LAR",
@@ -1381,12 +1387,6 @@
       "name": "Elijah McGuire",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "Elijah Mitchell",
-      "position": "RB",
-      "team": "PHI",
       "injury_status": null
     },
     {
@@ -4286,12 +4286,6 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
-    },
-    {
-      "name": "Zonovan Knight",
-      "position": "RB",
-      "team": "ARI",
-      "injury_status": null
     }
   ],
   "rosters": [
@@ -4995,14 +4989,19 @@
           "team": "CIN"
         },
         {
+          "name": "Elijah Mitchell",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
         },
         {
-          "name": "Dameon Pierce",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "team": "PHI"
+          "team": "ARI"
         },
         {
           "name": "Jaxon Smith-Njigba",
