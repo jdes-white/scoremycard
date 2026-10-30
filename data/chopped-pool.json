@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-30T12:00:41.493Z",
+  "generated_at": "2026-10-30T19:48:48.078Z",
   "free_agent_count": 781,
   "free_agents": [
     {
@@ -19,7 +19,7 @@
       "name": "Aaron Jones Sr.",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Aaron Rodgers",
@@ -175,7 +175,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Anthony Richardson Sr.",
@@ -463,7 +463,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -1495,7 +1495,7 @@
       "name": "Emeka Egbuka",
       "position": "WR",
       "team": "TB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Emmanuel Henderson Jr.",
@@ -1627,7 +1627,7 @@
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Geno Smith",
@@ -2485,7 +2485,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordyn Tyson",
@@ -2953,7 +2953,7 @@
       "name": "Lamar Jackson",
       "position": "QB",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Lan Larison",
@@ -2977,7 +2977,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Levine Toilolo",
@@ -3703,7 +3703,7 @@
       "name": "Rashee Rice",
       "position": "WR",
       "team": "KC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Rasheen Ali",
@@ -3727,7 +3727,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Gilliam",
@@ -4459,7 +4459,7 @@
       "name": "Tyler Warren",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyquan Thornton",
