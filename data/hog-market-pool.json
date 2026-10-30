@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-30T03:11:51.567Z",
+  "generated_at": "2026-10-30T11:45:18.476Z",
   "free_agent_count": 714,
   "free_agents": [
     {
@@ -247,6 +247,12 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Baltimore Ravens",
+      "position": "DEF",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -1834,12 +1840,6 @@
       "injury_status": null
     },
     {
-      "name": "Jacksonville Jaguars",
-      "position": "DEF",
-      "team": "JAX",
-      "injury_status": null
-    },
-    {
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
@@ -2449,12 +2449,6 @@
       "name": "Kaden Wetjen",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Kaelon Black",
-      "position": "RB",
-      "team": "SF",
       "injury_status": null
     },
     {
@@ -3482,6 +3476,12 @@
       "position": "RB",
       "team": "LAR",
       "injury_status": "IR"
+    },
+    {
+      "name": "Roschon Johnson",
+      "position": "RB",
+      "team": "CHI",
+      "injury_status": null
     },
     {
       "name": "Ryan Fitzgerald",
@@ -4653,11 +4653,6 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "Roschon Johnson",
-          "position": "RB",
-          "team": "CHI"
-        },
-        {
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
@@ -4681,6 +4676,11 @@
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
+        },
+        {
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "name": "Darren Waller",
@@ -4733,9 +4733,9 @@
           "team": "ATL"
         },
         {
-          "name": "Baltimore Ravens",
+          "name": "Jacksonville Jaguars",
           "position": "DEF",
-          "team": "BAL"
+          "team": "JAX"
         }
       ]
     },
