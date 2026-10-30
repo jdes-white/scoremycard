@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-29T22:27:05.058Z",
+  "generated_at": "2026-10-30T04:04:38.441Z",
   "free_agent_count": 781,
   "free_agents": [
     {
@@ -79,7 +79,7 @@
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Henning",
@@ -520,6 +520,12 @@
       "injury_status": null
     },
     {
+      "name": "Bryce Young",
+      "position": "QB",
+      "team": "CAR",
+      "injury_status": null
+    },
+    {
       "name": "Brycen Tremayne",
       "position": "WR",
       "team": "CAR",
@@ -661,7 +667,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Carson Towt",
@@ -920,12 +926,6 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
-    },
-    {
-      "name": "Dak Prescott",
-      "position": "QB",
-      "team": "DAL",
-      "injury_status": null
     },
     {
       "name": "Dalen Cambre",
@@ -1729,7 +1729,7 @@
       "name": "Haynes King",
       "position": "QB",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Hendon Hooker",
@@ -1891,7 +1891,7 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jabari Small",
@@ -2425,7 +2425,7 @@
       "name": "Jonnu Smith",
       "position": "TE",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jordan Addison",
@@ -2647,7 +2647,7 @@
       "name": "Kaleb Johnson",
       "position": "RB",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kalel Mullings",
@@ -4879,6 +4879,11 @@
           "team": "BAL"
         },
         {
+          "name": "Dak Prescott",
+          "position": "QB",
+          "team": "DAL"
+        },
+        {
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
@@ -4897,11 +4902,6 @@
           "name": "Christian Watson",
           "position": "WR",
           "team": "GB"
-        },
-        {
-          "name": "Bryce Young",
-          "position": "QB",
-          "team": "CAR"
         },
         {
           "name": "Bijan Robinson",
