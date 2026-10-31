@@ -1,13 +1,13 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-10-31T16:43:10.292Z",
+  "generated_at": "2026-10-31T20:54:31.816Z",
   "free_agent_count": 781,
   "free_agents": [
     {
       "name": "A.J. Brown",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Aaron Bailey",
@@ -1909,7 +1909,7 @@
       "name": "Jack Bech",
       "position": "WR",
       "team": "LV",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jack Doyle",
@@ -2899,7 +2899,7 @@
       "name": "Kyle Monangai",
       "position": "RB",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Pitts Sr.",
@@ -4321,7 +4321,7 @@
       "name": "TreVeyon Henderson",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Trevor Etienne",
