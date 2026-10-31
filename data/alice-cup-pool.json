@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-31T16:29:07.022Z",
+  "generated_at": "2026-10-31T20:46:06.905Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -1831,7 +1831,7 @@
       "name": "Jack Bech",
       "position": "WR",
       "team": "LV",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jack Doyle",
