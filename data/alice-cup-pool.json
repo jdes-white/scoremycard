@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-10-31T20:46:06.905Z",
+  "generated_at": "2026-10-31T23:51:07.655Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -2686,12 +2686,6 @@
       "injury_status": null
     },
     {
-      "name": "Keon Coleman",
-      "position": "WR",
-      "team": "BUF",
-      "injury_status": null
-    },
-    {
       "name": "Kerrith Whyte",
       "position": "RB",
       "team": "GB",
@@ -3559,7 +3553,7 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Rashod Bateman",
@@ -3982,6 +3976,12 @@
       "injury_status": null
     },
     {
+      "name": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS",
+      "injury_status": "IR"
+    },
+    {
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
@@ -4309,7 +4309,7 @@
       "name": "Velus Jones Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Vinny Anthony II",
@@ -4961,6 +4961,11 @@
           "team": "MIA"
         },
         {
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR"
@@ -4984,11 +4989,6 @@
           "name": "Chris Boswell",
           "position": "K",
           "team": "PIT"
-        },
-        {
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "name": "Jakobi Meyers",
