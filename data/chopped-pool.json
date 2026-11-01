@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-01T03:57:44.419Z",
+  "generated_at": "2026-11-01T12:34:11.895Z",
   "free_agent_count": 781,
   "free_agents": [
     {
@@ -3742,12 +3742,6 @@
       "injury_status": null
     },
     {
-      "name": "Rhamondre Stevenson",
-      "position": "RB",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Ricky Pearsall",
       "position": "WR",
       "team": "SF",
@@ -3776,6 +3770,12 @@
       "position": "RB",
       "team": "PIT",
       "injury_status": null
+    },
+    {
+      "name": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": "IR"
     },
     {
       "name": "Robbie Ouzts",
@@ -4849,11 +4849,6 @@
       "owner": "purpatron",
       "players": [
         {
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "name": "Matthew Golden",
           "position": "WR",
           "team": "GB"
@@ -4897,6 +4892,11 @@
           "name": "Jonathan Taylor",
           "position": "RB",
           "team": "IND"
+        },
+        {
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "name": "Christian Watson",
