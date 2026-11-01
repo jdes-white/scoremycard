@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-01T02:51:13.141Z",
+  "generated_at": "2026-11-01T09:50:18.760Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -1312,12 +1312,6 @@
       "injury_status": null
     },
     {
-      "name": "Dylan Sampson",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "E.J. Jenkins",
       "position": "TE",
       "team": "ATL",
@@ -1850,6 +1844,12 @@
       "position": "RB",
       "team": "DET",
       "injury_status": null
+    },
+    {
+      "name": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": "IR"
     },
     {
       "name": "Jaden Bradley",
@@ -2590,6 +2590,12 @@
       "injury_status": null
     },
     {
+      "name": "Kenyon Sadiq",
+      "position": "TE",
+      "team": "NYJ",
+      "injury_status": null
+    },
+    {
       "name": "Kerrith Whyte",
       "position": "RB",
       "team": "GB",
@@ -2905,6 +2911,12 @@
       "name": "Marshall Lang",
       "position": "TE",
       "team": "MIN",
+      "injury_status": null
+    },
+    {
+      "name": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
       "injury_status": null
     },
     {
@@ -3538,9 +3550,9 @@
       "injury_status": null
     },
     {
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
+      "name": "San Francisco 49ers",
+      "position": "DEF",
+      "team": "SF",
       "injury_status": null
     },
     {
@@ -3691,12 +3703,6 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
       "injury_status": null
     },
     {
@@ -4046,12 +4052,6 @@
       "position": "RB",
       "team": "DEN",
       "injury_status": "IR"
-    },
-    {
-      "name": "Tyler Bass",
-      "position": "K",
-      "team": "BUF",
-      "injury_status": null
     },
     {
       "name": "Tyler Conklin",
@@ -4766,6 +4766,11 @@
           "team": "NYG"
         },
         {
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
@@ -4774,11 +4779,6 @@
           "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ"
-        },
-        {
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "name": "Denzel Boston",
@@ -4826,9 +4826,9 @@
           "team": "MIN"
         },
         {
-          "name": "San Francisco 49ers",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "SF"
+          "team": "TB"
         }
       ]
     },
@@ -4858,11 +4858,6 @@
           "team": "NO"
         },
         {
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
-        },
-        {
           "name": "Keenan Allen",
           "position": "WR",
           "team": "IND"
@@ -4886,6 +4881,11 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN"
+        },
+        {
+          "name": "Tyler Bass",
+          "position": "K",
+          "team": "BUF"
         },
         {
           "name": "Jake Ferguson",
@@ -5288,11 +5288,6 @@
           "team": "SEA"
         },
         {
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF"
@@ -5316,6 +5311,11 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "name": "Lamar Jackson",
