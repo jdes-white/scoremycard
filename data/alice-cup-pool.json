@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-01T03:04:54.264Z",
+  "generated_at": "2026-11-01T12:16:19.171Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -1666,6 +1666,12 @@
       "injury_status": null
     },
     {
+      "name": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
@@ -1891,12 +1897,6 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "IR"
-    },
-    {
-      "name": "Jadarian Price",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": "IR"
     },
     {
@@ -4904,6 +4904,11 @@
           "team": "PIT"
         },
         {
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "name": "Jared Goff",
           "position": "QB",
           "team": "DET"
@@ -4932,11 +4937,6 @@
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "name": "Houston Texans",
-          "position": "DEF",
-          "team": "HOU"
         },
         {
           "name": "Jacksonville Jaguars",
