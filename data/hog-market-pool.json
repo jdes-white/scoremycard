@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-01T17:18:58.533Z",
+  "generated_at": "2026-11-01T21:25:36.661Z",
   "free_agent_count": 715,
   "free_agents": [
     {
@@ -289,7 +289,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Roethlisberger",
@@ -319,7 +319,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Yurosek",
@@ -841,7 +841,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Cole Kmet",
@@ -931,7 +931,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dameon Pierce",
@@ -1513,7 +1513,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -1843,7 +1843,7 @@
       "name": "Jacob Saylors",
       "position": "RB",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jadarian Price",
@@ -2029,7 +2029,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jared Wiley",
@@ -2317,7 +2317,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Josh Cameron",
@@ -2383,7 +2383,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Joshua Perkins",
@@ -2425,7 +2425,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Justin Tucker",
@@ -2551,7 +2551,7 @@
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kendrick Law",
@@ -3529,7 +3529,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -3829,7 +3829,7 @@
       "name": "Theo Wease Jr.",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Thomas Fidone II",
@@ -4033,7 +4033,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
@@ -4075,7 +4075,7 @@
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyquan Thornton",
@@ -4255,7 +4255,7 @@
       "name": "Zachariah Branch",
       "position": "WR",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zaire Mitchell-Paden",
