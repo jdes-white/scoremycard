@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-10-31T23:49:42.192Z",
-  "free_agent_count": 714,
+  "generated_at": "2026-11-01T02:51:13.141Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1928,6 +1928,12 @@
       "position": "WR",
       "team": "NO",
       "injury_status": null
+    },
+    {
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": "IR"
     },
     {
       "name": "Jalen McMillan",
@@ -4343,11 +4349,6 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "name": "Rico Dowdle",
