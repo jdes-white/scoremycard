@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-02T00:01:36.980Z",
+  "generated_at": "2026-11-02T10:14:26.789Z",
   "free_agent_count": 748,
   "free_agents": [
     {
@@ -217,7 +217,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Atlanta Falcons",
@@ -2197,7 +2197,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jeremy Ruckert",
@@ -2287,7 +2287,7 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "John FitzPatrick",
@@ -4159,7 +4159,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treyton Welch",
