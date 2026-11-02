@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-02T10:27:42.007Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-11-02T20:56:16.191Z",
+  "free_agent_count": 716,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1135,12 +1135,6 @@
       "name": "Detroit Lions",
       "position": "DEF",
       "team": "DET",
-      "injury_status": null
-    },
-    {
-      "name": "Deuce Vaughn",
-      "position": "RB",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2392,6 +2386,12 @@
       "injury_status": null
     },
     {
+      "name": "Joshua Pitsenberger",
+      "position": "RB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2605,6 +2605,12 @@
       "name": "Kevin Coleman Jr.",
       "position": "WR",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "position": "WR",
+      "team": "SF",
       "injury_status": null
     },
     {
