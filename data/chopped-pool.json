@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-02T10:27:59.961Z",
-  "free_agent_count": 781,
+  "generated_at": "2026-11-02T21:18:20.511Z",
+  "free_agent_count": 782,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -1183,12 +1183,6 @@
       "name": "Deshaun Watson",
       "position": "QB",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Deuce Vaughn",
-      "position": "RB",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -2566,6 +2560,12 @@
       "injury_status": null
     },
     {
+      "name": "Joshua Pitsenberger",
+      "position": "RB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2809,6 +2809,12 @@
       "name": "Kevin Coleman Jr.",
       "position": "WR",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "position": "WR",
+      "team": "SF",
       "injury_status": null
     },
     {
