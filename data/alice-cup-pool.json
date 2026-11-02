@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-02T10:14:26.789Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-11-02T21:00:05.878Z",
+  "free_agent_count": 749,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1144,9 +1144,9 @@
       "injury_status": null
     },
     {
-      "name": "Deuce Vaughn",
-      "position": "RB",
-      "team": "HOU",
+      "name": "Devaughn Vele",
+      "position": "WR",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -1171,12 +1171,6 @@
       "name": "Devin Neal",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "Devin Singletary",
-      "position": "RB",
-      "team": "NYG",
       "injury_status": null
     },
     {
@@ -2458,6 +2452,12 @@
       "injury_status": null
     },
     {
+      "name": "Joshua Pitsenberger",
+      "position": "RB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2701,6 +2701,12 @@
       "name": "Kevin Coleman Jr.",
       "position": "WR",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "KhaDarel Hodge",
+      "position": "WR",
+      "team": "SF",
       "injury_status": null
     },
     {
@@ -4509,11 +4515,6 @@
           "team": "MIN"
         },
         {
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
           "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ"
@@ -4527,6 +4528,11 @@
           "name": "Dak Prescott",
           "position": "QB",
           "team": "DAL"
+        },
+        {
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "name": "Travis Etienne Jr.",
