@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-03T05:02:25.546Z",
-  "free_agent_count": 785,
+  "generated_at": "2026-11-03T13:29:58.852Z",
+  "free_agent_count": 798,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -340,6 +340,12 @@
       "injury_status": null
     },
     {
+      "name": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "injury_status": null
+    },
+    {
       "name": "Blake Bortles",
       "position": "QB",
       "team": "NO",
@@ -622,6 +628,12 @@
       "injury_status": null
     },
     {
+      "name": "Cam Miller",
+      "position": "QB",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Cam Skattebo",
       "position": "RB",
       "team": "NYG",
@@ -662,6 +674,12 @@
       "position": "RB",
       "team": "MIA",
       "injury_status": null
+    },
+    {
+      "name": "Carnell Tate",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": "Out"
     },
     {
       "name": "Carsen Ryan",
@@ -709,6 +727,12 @@
       "name": "Cedric Tillman",
       "position": "WR",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL",
       "injury_status": null
     },
     {
@@ -806,6 +830,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": null
+    },
+    {
+      "name": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": "Questionable"
     },
     {
       "name": "CJ Daniels",
@@ -932,6 +962,12 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
+    },
+    {
+      "name": "Dak Prescott",
+      "position": "QB",
+      "team": "DAL",
+      "injury_status": null
     },
     {
       "name": "Dalen Cambre",
@@ -1180,9 +1216,21 @@
       "injury_status": "Out"
     },
     {
+      "name": "Denzel Boston",
+      "position": "WR",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Derius Davis",
       "position": "WR",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Derrick Henry",
+      "position": "RB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -2170,6 +2218,12 @@
       "injury_status": null
     },
     {
+      "name": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "injury_status": null
+    },
+    {
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
@@ -2419,6 +2473,12 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
+      "injury_status": null
+    },
+    {
+      "name": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -3250,6 +3310,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Max Bredeson",
       "position": "RB",
       "team": "MIN",
@@ -3760,6 +3826,12 @@
       "injury_status": null
     },
     {
+      "name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null
+    },
+    {
       "name": "Ricky Pearsall",
       "position": "WR",
       "team": "SF",
@@ -4063,6 +4135,12 @@
       "name": "Stone Smartt",
       "position": "TE",
       "team": "NO",
+      "injury_status": null
+    },
+    {
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -4871,68 +4949,7 @@
       "roster_id": 6,
       "team_name": "purpatron",
       "owner": "purpatron",
-      "players": [
-        {
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
-          "name": "Denzel Boston",
-          "position": "WR",
-          "team": "CLE"
-        },
-        {
-          "name": "Jared Goff",
-          "position": "QB",
-          "team": "DET"
-        },
-        {
-          "name": "Derrick Henry",
-          "position": "RB",
-          "team": "BAL"
-        },
-        {
-          "name": "Dak Prescott",
-          "position": "QB",
-          "team": "DAL"
-        },
-        {
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
-        },
-        {
-          "name": "CeeDee Lamb",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
-          "name": "Jonathan Taylor",
-          "position": "RB",
-          "team": "IND"
-        },
-        {
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL"
-        }
-      ]
+      "players": []
     },
     {
       "roster_id": 7,
