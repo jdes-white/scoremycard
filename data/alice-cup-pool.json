@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-02T21:00:05.878Z",
-  "free_agent_count": 749,
+  "generated_at": "2026-11-03T02:47:45.275Z",
+  "free_agent_count": 752,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -241,6 +241,12 @@
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Austin Reed",
+      "position": "QB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -685,7 +691,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -787,7 +793,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Christian Kirk",
@@ -1087,7 +1093,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dean Patterson IV",
@@ -1267,7 +1273,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1441,6 +1447,12 @@
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -2479,7 +2491,7 @@
       "name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Justin Fields",
@@ -3985,6 +3997,12 @@
       "name": "Tennessee Titans",
       "position": "DEF",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Terrell Jennings",
+      "position": "RB",
+      "team": "NE",
       "injury_status": null
     },
     {
