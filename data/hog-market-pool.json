@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-02T20:56:16.191Z",
-  "free_agent_count": 716,
+  "generated_at": "2026-11-03T02:42:57.039Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -241,6 +241,12 @@
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Austin Reed",
+      "position": "QB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -667,7 +673,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -781,7 +787,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Christian Kirk",
@@ -1069,7 +1075,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dean Patterson IV",
@@ -1255,7 +1261,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1423,6 +1429,12 @@
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -2413,7 +2425,7 @@
       "name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Justin Fields",
@@ -3812,6 +3824,12 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": "IR"
+    },
+    {
+      "name": "Terrell Jennings",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null
     },
     {
       "name": "Terry McLaurin",
