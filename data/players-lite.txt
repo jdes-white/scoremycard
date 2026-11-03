@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-01T22:53:13.086Z)
+# id|name|pos|team  (generated 2026-11-03T01:39:24.490Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -142,6 +142,7 @@
 5409|Tanner Hudson|TE|CIN
 5638|Shaq Roland|WR|CHI
 5744|Eldridge Massington|WR|NO
+5773|KhaDarel Hodge|WR|SF
 5844|T.J. Hockenson|TE|MIN
 5845|Dwayne Haskins|QB|PIT
 5846|DK Metcalf|WR|PIT
@@ -406,7 +407,6 @@
 9501|DeMario Douglas|WR|NE
 9502|Tank Dell|WR|HOU
 9504|Kayshon Boutte|WR|HOU
-9505|Deuce Vaughn|RB|HOU
 9506|Sean Tucker|RB|TB
 9508|Tyjae Spears|RB|TEN
 9509|Bijan Robinson|RB|ATL
@@ -429,6 +429,7 @@
 10219|Chris Rodriguez Jr.|RB|JAX
 10220|Will Mallory|TE|IND
 10222|Jayden Reed|WR|GB
+10223|Eric Gray|RB|NYG
 10224|Brayden Willis|TE|SF
 10225|Jonathan Mingo|WR|DAL
 10226|Andrei Iosivas|WR|CIN
@@ -566,6 +567,7 @@
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
 11911|Jeshaun Jones|WR|MIN
+11931|Austin Reed|QB|BAL
 11942|Colson Yankoff|TE|WAS
 11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
@@ -583,6 +585,7 @@
 12357|David Martin-Robinson|TE|TEN
 12374|Brenden Bates|TE|JAX
 12389|Hayden Rucci|TE|LAC
+12412|Terrell Jennings|RB|NE
 12455|Brashard Smith|RB|KC
 12457|Jaydon Blue|RB|PHI
 12460|Antwane Wells Jr.|WR|ATL
@@ -870,6 +873,7 @@
 13890|Michael Briscoe|WR|MIN
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
+13923|Joshua Pitsenberger|RB|HOU
 13962|Cameron Dorner|WR|NE
 13963|Nick DeGennaro|WR|WAS
 13964|Myles Montgomery|RB|NE
