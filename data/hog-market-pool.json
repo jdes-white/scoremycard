@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-03T10:12:25.809Z",
-  "free_agent_count": 720,
+  "generated_at": "2026-11-03T18:43:36.833Z",
+  "free_agent_count": 717,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -224,12 +224,6 @@
       "position": "DEF",
       "team": "ATL",
       "injury_status": null
-    },
-    {
-      "name": "Audric Estime",
-      "position": "RB",
-      "team": "CLE",
-      "injury_status": "Out"
     },
     {
       "name": "Austin Ekeler",
@@ -2544,7 +2538,7 @@
     {
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "GB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -2791,12 +2785,6 @@
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Lucas Scott",
-      "position": "FB",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3487,12 +3475,6 @@
       "name": "Robert Burns",
       "position": "FB",
       "team": "CHI",
-      "injury_status": null
-    },
-    {
-      "name": "Robert Henry Jr.",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
