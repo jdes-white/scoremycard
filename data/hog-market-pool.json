@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-03T02:42:57.039Z",
-  "free_agent_count": 719,
+  "generated_at": "2026-11-03T10:12:25.809Z",
+  "free_agent_count": 720,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -595,6 +595,12 @@
       "name": "Cam Grandy",
       "position": "TE",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Cam Miller",
+      "position": "QB",
+      "team": "GB",
       "injury_status": null
     },
     {
