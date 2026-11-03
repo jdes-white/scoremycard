@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-03T13:29:58.852Z",
-  "free_agent_count": 798,
+  "generated_at": "2026-11-03T20:44:40.743Z",
+  "free_agent_count": 796,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -223,12 +223,6 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Out"
-    },
-    {
-      "name": "Audric Estime",
-      "position": "RB",
-      "team": "CLE",
       "injury_status": "Out"
     },
     {
@@ -2790,7 +2784,7 @@
     {
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "GB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3085,12 +3079,6 @@
       "name": "Lucas Krull",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Lucas Scott",
-      "position": "FB",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3862,6 +3850,12 @@
       "injury_status": null
     },
     {
+      "name": "Rivaldo Fairweather",
+      "position": "TE",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "RJ Harvey",
       "position": "RB",
       "team": "DEN",
@@ -3877,12 +3871,6 @@
       "name": "Robert Burns",
       "position": "FB",
       "team": "CHI",
-      "injury_status": null
-    },
-    {
-      "name": "Robert Henry Jr.",
-      "position": "RB",
-      "team": "SEA",
       "injury_status": null
     },
     {
