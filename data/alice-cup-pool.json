@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-03T02:47:45.275Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-11-03T10:16:25.610Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -607,6 +607,12 @@
       "name": "Cam Grandy",
       "position": "TE",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Cam Miller",
+      "position": "QB",
+      "team": "GB",
       "injury_status": null
     },
     {
@@ -2701,6 +2707,12 @@
       "name": "Kenyon Sadiq",
       "position": "TE",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF",
       "injury_status": null
     },
     {
@@ -4983,11 +4995,6 @@
           "name": "Malik Washington",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "name": "Jalen Coker",
