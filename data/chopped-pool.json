@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-02T21:18:20.511Z",
-  "free_agent_count": 782,
+  "generated_at": "2026-11-03T05:02:25.546Z",
+  "free_agent_count": 785,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -241,6 +241,12 @@
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Austin Reed",
+      "position": "QB",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -691,7 +697,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -793,7 +799,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Christian Kirk",
@@ -1117,7 +1123,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dean Patterson IV",
@@ -1327,7 +1333,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1507,6 +1513,12 @@
       "name": "Eric Ebron",
       "position": "TE",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -1975,7 +1987,7 @@
       "name": "Jadarian Price",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jaden Bradley",
@@ -2035,7 +2047,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaleel McLaughlin",
@@ -2587,7 +2599,7 @@
       "name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Justin Fields",
@@ -4160,6 +4172,12 @@
       "position": "TE",
       "team": "LAR",
       "injury_status": "IR"
+    },
+    {
+      "name": "Terrell Jennings",
+      "position": "RB",
+      "team": "NE",
+      "injury_status": null
     },
     {
       "name": "Terry McLaurin",
