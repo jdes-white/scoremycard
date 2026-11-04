@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-03T01:39:24.490Z)
+# id|name|pos|team  (generated 2026-11-04T00:00:10.816Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -507,7 +507,7 @@
 11575|Ray Davis|RB|BUF
 11576|Braelon Allen|RB|NYJ
 11577|Will Shipley|RB|PHI
-11579|Audric Estime|RB|CLE
+11579|Audric Estime|RB|NO
 11581|MarShawn Lloyd|RB|GB
 11583|Jonathon Brooks|RB|CAR
 11584|Bucky Irving|RB|TB
@@ -547,7 +547,7 @@
 11644|Cody Schrader|RB|DEN
 11646|Jalen Coker|WR|CAR
 11647|Kimani Vidal|RB|LAC
-11648|Kedon Slovis|QB|GB
+11648|Kedon Slovis|QB|BAL
 11649|Kendall Milton|RB|CIN
 11650|Luke McCaffrey|WR|WAS
 11651|Isaac Guerendo|RB|SF
@@ -665,6 +665,7 @@
 12656|Robbie Ouzts|RB|SEA
 12658|Jackson Hawes|TE|BUF
 12670|KeAndre Lambert-Smith|WR|LAC
+12688|Cam Miller|QB|GB
 12699|LaJohntay Wester|WR|BAL
 12700|Gavin Bartholomew|TE|MIN
 12705|Graham Mertz|QB|HOU
@@ -689,6 +690,7 @@
 12817|Jake Briningstool|TE|KC
 12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
+12851|Rivaldo Fairweather|TE|ARI
 12860|Theo Wease Jr.|WR|LAC
 12863|Andrew Armstrong|WR|KC
 12865|AJ Henning|WR|MIA
@@ -716,6 +718,7 @@
 13011|Brennan Presley|WR|LAR
 13013|Mark Redman|TE|GB
 13032|Marshall Lang|TE|MIN
+13042|Xavier Guillory|WR|CLE
 13047|Jacardia Wright|RB|SEA
 13074|Isaiah Neyor|WR|GB
 13075|Myles Price|WR|MIN
@@ -730,7 +733,6 @@
 13179|Ja'seem Reed|WR|CAR
 13199|Montorie Foster Jr.|WR|SEA
 13210|Drake Dabney|TE|GB
-13213|Lucas Scott|FB|BAL
 13249|Thomas Gordon|TE|DET
 13264|Dohnte Meyers|WR|CIN
 13268|Elijah Sarratt|WR|BAL
@@ -817,7 +819,7 @@
 13415|Haynes King|QB|CAR
 13416|Roman Hemby|RB|LV
 13417|De'Zhaun Stribling|WR|SF
-13418|Robert Henry Jr.|RB|SEA
+13418|Robert Henry Jr.|RB|WAS
 13419|Jaydn Ott|RB|KC
 13420|Bryce Lance|WR|NO
 13421|Eli Raridon|TE|NE
