@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-04T00:57:49.761Z",
+  "generated_at": "2026-11-04T10:07:26.324Z",
   "free_agent_count": 755,
   "free_agents": [
     {
@@ -28,12 +28,6 @@
       "injury_status": null
     },
     {
-      "name": "Adonai Mitchell",
-      "position": "WR",
-      "team": "NYJ",
-      "injury_status": null
-    },
-    {
       "name": "Adrian Killins",
       "position": "RB",
       "team": "DEN",
@@ -49,7 +43,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "AJ Barner",
@@ -61,7 +55,7 @@
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "AJ Henning",
@@ -157,7 +151,7 @@
       "name": "Andy Dalton",
       "position": "QB",
       "team": "ATL",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Andy Jones",
@@ -169,7 +163,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Anthony Richardson Sr.",
@@ -217,7 +211,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Atlanta Falcons",
@@ -301,7 +295,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Ben Roethlisberger",
@@ -331,7 +325,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Ben Yurosek",
@@ -445,7 +439,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Brennan Presley",
@@ -469,7 +463,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -481,7 +475,7 @@
       "name": "Britain Covey",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "British Brooks",
@@ -541,7 +535,7 @@
       "name": "Bub Means",
       "position": "WR",
       "team": "CLE",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Buffalo Bills",
@@ -610,6 +604,12 @@
       "injury_status": null
     },
     {
+      "name": "Cam Little",
+      "position": "K",
+      "team": "JAX",
+      "injury_status": null
+    },
+    {
       "name": "Cam Miller",
       "position": "QB",
       "team": "GB",
@@ -673,7 +673,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Carson Towt",
@@ -697,7 +697,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Casey Washington",
@@ -823,13 +823,13 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "CJ Williams",
       "position": "WR",
       "team": "JAX",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Clayton Thorson",
@@ -859,7 +859,7 @@
       "name": "Colby Parkinson",
       "position": "TE",
       "team": "LAR",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Cole Kmet",
@@ -943,7 +943,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Dalton Schultz",
@@ -1033,7 +1033,7 @@
       "name": "David Montgomery",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "David Moore",
@@ -1141,7 +1141,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Derius Davis",
@@ -1201,7 +1201,7 @@
       "name": "Dillon Gabriel",
       "position": "QB",
       "team": "CLE",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "DJ Giddens",
@@ -1249,7 +1249,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Dontae Fleming",
@@ -1261,7 +1261,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Drake Dabney",
@@ -1279,7 +1279,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -1333,12 +1333,6 @@
       "name": "Dylan Laube",
       "position": "RB",
       "team": "LV",
-      "injury_status": null
-    },
-    {
-      "name": "Dylan Sampson",
-      "position": "RB",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1420,6 +1414,12 @@
       "injury_status": null
     },
     {
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Elijah Moore",
       "position": "WR",
       "team": "PHI",
@@ -1429,7 +1429,13 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Out"
+      "injury_status": null
+    },
+    {
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Emari Demercado",
@@ -1441,12 +1447,6 @@
       "name": "Emmanuel Henderson Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": null
-    },
-    {
-      "name": "Emmett Johnson",
-      "position": "RB",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -1495,7 +1495,7 @@
       "name": "Evan Hull",
       "position": "RB",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Evan Svoboda",
@@ -1555,7 +1555,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Garrett Scantling",
@@ -1675,7 +1675,7 @@
       "name": "Haynes King",
       "position": "QB",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Hendon Hooker",
@@ -1822,6 +1822,12 @@
       "injury_status": null
     },
     {
+      "name": "Ja'Kobi Lane",
+      "position": "WR",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Ja'Mori Maclin",
       "position": "WR",
       "team": "BUF",
@@ -1837,7 +1843,7 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jabari Small",
@@ -1879,7 +1885,7 @@
       "name": "Jack Strand",
       "position": "QB",
       "team": "ATL",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jack Westover",
@@ -1897,7 +1903,7 @@
       "name": "Jackson Meeks",
       "position": "TE",
       "team": "DET",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jacob Cowing",
@@ -1963,13 +1969,13 @@
       "name": "Jake Ferguson",
       "position": "TE",
       "team": "DAL",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Jake Haener",
       "position": "QB",
       "team": "NYG",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jake Moody",
@@ -2101,7 +2107,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jared Wiley",
@@ -2114,6 +2120,12 @@
       "position": "TE",
       "team": "TEN",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jaret Patterson",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": null
     },
     {
       "name": "Jarquez Hunter",
@@ -2251,7 +2263,7 @@
       "name": "Joe Fagnano",
       "position": "QB",
       "team": "BAL",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Joe Flacco",
@@ -2347,7 +2359,7 @@
       "name": "Jonnu Smith",
       "position": "TE",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Jordan Addison",
@@ -2461,7 +2473,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Joshua Perkins",
@@ -2497,7 +2509,7 @@
       "name": "Justice Hill",
       "position": "RB",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Justin Fields",
@@ -2515,7 +2527,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Justin Tucker",
@@ -2542,12 +2554,6 @@
       "injury_status": null
     },
     {
-      "name": "Ka'imi Fairbairn",
-      "position": "K",
-      "team": "HOU",
-      "injury_status": null
-    },
-    {
       "name": "Kaden Davis",
       "position": "WR",
       "team": "CHI",
@@ -2563,7 +2569,7 @@
       "name": "Kaleb Johnson",
       "position": "RB",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Kalel Mullings",
@@ -2605,7 +2611,7 @@
       "name": "KaVontae Turpin",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Kayshon Boutte",
@@ -2746,12 +2752,6 @@
       "injury_status": null
     },
     {
-      "name": "Khalil Shakir",
-      "position": "WR",
-      "team": "BUF",
-      "injury_status": null
-    },
-    {
       "name": "Kimani Vidal",
       "position": "RB",
       "team": "LAC",
@@ -2785,7 +2785,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Kyle Allen",
@@ -2953,7 +2953,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Mac Jones",
@@ -2989,7 +2989,7 @@
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Malik Davis",
@@ -3007,6 +3007,12 @@
       "name": "Malik McClain",
       "position": "WR",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
       "injury_status": null
     },
     {
@@ -3031,7 +3037,7 @@
       "name": "Marlin Klein",
       "position": "TE",
       "team": "HOU",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Marquez Valdes-Scantling",
@@ -3115,7 +3121,7 @@
       "name": "Max Brosmer",
       "position": "QB",
       "team": "MIN",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Max Klare",
@@ -3223,7 +3229,7 @@
       "name": "Mitch Tinsley",
       "position": "WR",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Mitchell Evans",
@@ -3487,7 +3493,7 @@
       "name": "Pharaoh Brown",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Phil Mafah",
@@ -3583,7 +3589,7 @@
       "name": "Rashid Shaheed",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Rashod Bateman",
@@ -3625,7 +3631,7 @@
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Riley Nowakowski",
@@ -3727,7 +3733,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Sam Hartman",
@@ -3847,7 +3853,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Skyler Howard",
@@ -3979,7 +3985,7 @@
       "name": "Taylen Green",
       "position": "QB",
       "team": "CLE",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Teagan Quitoriano",
@@ -4033,13 +4039,13 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Theo Wease Jr.",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Thomas Fidone II",
@@ -4081,7 +4087,7 @@
       "name": "Tim Patrick",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Tip Reiman",
@@ -4201,7 +4207,7 @@
       "name": "Treyton Welch",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Troy Franklin",
@@ -4243,7 +4249,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Tyjae Spears",
@@ -4255,12 +4261,6 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Tyler Allgeier",
-      "position": "RB",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4291,7 +4291,7 @@
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
-      "injury_status": "Out"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Tyler Shough",
@@ -4345,7 +4345,7 @@
       "name": "Velus Jones Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Vinny Anthony II",
@@ -4483,7 +4483,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Zachariah Branch",
@@ -4531,7 +4531,7 @@
       "name": "Zonovan Knight",
       "position": "RB",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     }
   ],
   "rosters": [
@@ -4653,14 +4653,14 @@
           "team": "DEN"
         },
         {
-          "name": "James Cook III",
-          "position": "RB",
+          "name": "Khalil Shakir",
+          "position": "WR",
           "team": "BUF"
         },
         {
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
+          "name": "James Cook III",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "name": "Brock Purdy",
@@ -4772,9 +4772,9 @@
           "team": "LV"
         },
         {
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA"
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "name": "Woody Marks",
@@ -4854,11 +4854,6 @@
           "team": "NYG"
         },
         {
-          "name": "Cam Little",
-          "position": "K",
-          "team": "JAX"
-        },
-        {
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
@@ -4869,14 +4864,14 @@
           "team": "MIA"
         },
         {
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
-        },
-        {
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
+        },
+        {
+          "name": "Ka'imi Fairbairn",
+          "position": "K",
+          "team": "HOU"
         },
         {
           "name": "Matthew Stafford",
@@ -4902,6 +4897,11 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI"
+        },
+        {
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "name": "Bijan Robinson",
@@ -5006,6 +5006,11 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "name": "Luther Burden III",
@@ -5162,6 +5167,11 @@
           "team": "LAC"
         },
         {
+          "name": "Emmett Johnson",
+          "position": "RB",
+          "team": "KC"
+        },
+        {
           "name": "Jonah Coleman",
           "position": "RB",
           "team": "DEN"
@@ -5185,11 +5195,6 @@
           "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL"
-        },
-        {
-          "name": "Elijah Mitchell",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "name": "Dameon Pierce",
