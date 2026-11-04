@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-03T18:46:16.197Z",
-  "free_agent_count": 751,
+  "generated_at": "2026-11-04T00:57:49.761Z",
+  "free_agent_count": 755,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -223,6 +223,12 @@
       "name": "Atlanta Falcons",
       "position": "DEF",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Audric Estime",
+      "position": "RB",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -1093,7 +1099,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Dean Patterson IV",
@@ -2203,7 +2209,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Jeremy Ruckert",
@@ -2659,7 +2665,7 @@
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Kendrick Law",
@@ -2689,7 +2695,7 @@
       "name": "Kenny Yeboah",
       "position": "TE",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kentrel Bullock",
@@ -3628,6 +3634,12 @@
       "injury_status": null
     },
     {
+      "name": "Rivaldo Fairweather",
+      "position": "TE",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Robbie Ouzts",
       "position": "RB",
       "team": "SEA",
@@ -3637,6 +3649,12 @@
       "name": "Robert Burns",
       "position": "FB",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -4411,6 +4429,12 @@
       "name": "Xavier Gipson",
       "position": "WR",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Xavier Guillory",
+      "position": "WR",
+      "team": "CLE",
       "injury_status": null
     },
     {
