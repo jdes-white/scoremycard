@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-04T10:02:13.932Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-11-04T18:56:55.652Z",
+  "free_agent_count": 715,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -86,12 +86,6 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
-    },
-    {
-      "name": "Alex Bachman",
-      "position": "WR",
-      "team": "LAR",
-      "injury_status": null
     },
     {
       "name": "Alex Kessman",
@@ -520,18 +514,6 @@
       "injury_status": null
     },
     {
-      "name": "Bryson Nesbit",
-      "position": "TE",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "Bub Means",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Buffalo Bills",
       "position": "DEF",
       "team": "BUF",
@@ -610,21 +592,9 @@
       "injury_status": null
     },
     {
-      "name": "Cameron Dorner",
-      "position": "WR",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Cameron Latu",
       "position": "TE",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "Cameron Ross",
-      "position": "WR",
-      "team": "DEN",
       "injury_status": null
     },
     {
@@ -964,9 +934,9 @@
       "injury_status": null
     },
     {
-      "name": "Daniel Carlson",
-      "position": "K",
-      "team": "NO",
+      "name": "Daniel Sobkowicz",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -1360,12 +1330,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "Eli Pancol",
-      "position": "WR",
-      "team": "DEN",
-      "injury_status": null
-    },
-    {
       "name": "Eli Raridon",
       "position": "TE",
       "team": "NE",
@@ -1615,6 +1579,12 @@
       "name": "Harrison Wallace III",
       "position": "WR",
       "team": "ARI",
+      "injury_status": null
+    },
+    {
+      "name": "Hassan Haskins",
+      "position": "RB",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -2323,6 +2293,12 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
+      "injury_status": null
+    },
+    {
+      "name": "Joseph Manjack",
+      "position": "WR",
+      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -3370,12 +3346,6 @@
       "injury_status": null
     },
     {
-      "name": "Quentin Skinner",
-      "position": "WR",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Quez Watkins",
       "position": "WR",
       "team": "IND",
@@ -4099,7 +4069,7 @@
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Loop",
@@ -4292,12 +4262,6 @@
       "position": "WR",
       "team": "ATL",
       "injury_status": "Out"
-    },
-    {
-      "name": "Zaire Mitchell-Paden",
-      "position": "TE",
-      "team": "HOU",
-      "injury_status": null
     },
     {
       "name": "Zamir White",
