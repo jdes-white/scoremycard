@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-03T18:43:36.833Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-11-04T00:56:58.645Z",
+  "free_agent_count": 722,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -223,6 +223,12 @@
       "name": "Atlanta Falcons",
       "position": "DEF",
       "team": "ATL",
+      "injury_status": null
+    },
+    {
+      "name": "Audric Estime",
+      "position": "RB",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -1075,7 +1081,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Dean Patterson IV",
@@ -2143,7 +2149,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Jeremy Ruckert",
@@ -2563,7 +2569,7 @@
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Kendrick Law",
@@ -2593,7 +2599,7 @@
       "name": "Kenny Yeboah",
       "position": "TE",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kentrel Bullock",
@@ -3466,6 +3472,12 @@
       "injury_status": null
     },
     {
+      "name": "Rivaldo Fairweather",
+      "position": "TE",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Robbie Ouzts",
       "position": "RB",
       "team": "SEA",
@@ -3475,6 +3487,12 @@
       "name": "Robert Burns",
       "position": "FB",
       "team": "CHI",
+      "injury_status": null
+    },
+    {
+      "name": "Robert Henry Jr.",
+      "position": "RB",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -4090,6 +4108,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Tyler Loop",
+      "position": "K",
+      "team": "BAL",
+      "injury_status": "IR"
+    },
+    {
       "name": "Tyquan Thornton",
       "position": "WR",
       "team": "KC",
@@ -4219,6 +4243,12 @@
       "name": "Xavier Gipson",
       "position": "WR",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Xavier Guillory",
+      "position": "WR",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -5226,11 +5256,6 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL"
         },
         {
           "name": "Stefon Diggs",
