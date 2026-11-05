@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-05T01:07:28.913Z",
-  "free_agent_count": 720,
+  "generated_at": "2026-11-05T09:58:22.809Z",
+  "free_agent_count": 721,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -121,12 +121,6 @@
       "name": "Ameer Abdullah",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
-    },
-    {
-      "name": "Andre Szmyt",
-      "position": "K",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1114,12 +1108,6 @@
       "injury_status": null
     },
     {
-      "name": "Denzel Boston",
-      "position": "WR",
-      "team": "CLE",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Derius Davis",
       "position": "WR",
       "team": "LAC",
@@ -1393,6 +1381,12 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
+      "injury_status": null
+    },
+    {
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "team": "SEA",
       "injury_status": null
     },
     {
@@ -2056,6 +2050,12 @@
       "injury_status": null
     },
     {
+      "name": "Jashaun Corbin",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
@@ -2198,12 +2198,6 @@
       "position": "WR",
       "team": "KC",
       "injury_status": "NA"
-    },
-    {
-      "name": "Joe Milton",
-      "position": "QB",
-      "team": "PHI",
-      "injury_status": null
     },
     {
       "name": "Joe Royer",
@@ -2560,12 +2554,6 @@
       "injury_status": null
     },
     {
-      "name": "Kendre Miller",
-      "position": "RB",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
@@ -2587,7 +2575,7 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kenny Pickett",
@@ -2728,6 +2716,12 @@
       "injury_status": null
     },
     {
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "injury_status": "Out"
+    },
+    {
       "name": "Lan Larison",
       "position": "RB",
       "team": "NE",
@@ -2785,6 +2779,12 @@
       "name": "Los Angeles Chargers",
       "position": "DEF",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Los Angeles Rams",
+      "position": "DEF",
+      "team": "LAR",
       "injury_status": null
     },
     {
@@ -3148,15 +3148,15 @@
       "injury_status": null
     },
     {
-      "name": "New Orleans Saints",
+      "name": "New England Patriots",
       "position": "DEF",
-      "team": "NO",
+      "team": "NE",
       "injury_status": null
     },
     {
-      "name": "New York Giants",
+      "name": "New Orleans Saints",
       "position": "DEF",
-      "team": "NYG",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -4162,6 +4162,12 @@
       "injury_status": null
     },
     {
+      "name": "Washington Commanders",
+      "position": "DEF",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Wendell Smallwood",
       "position": "RB",
       "team": "WAS",
@@ -4309,7 +4315,7 @@
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Zavion Thomas",
@@ -4330,6 +4336,11 @@
       "team_name": "Chase ‘N Bake ",
       "owner": "DingoRen",
       "players": [
+        {
+          "name": "Joe Milton",
+          "position": "QB",
+          "team": "PHI"
+        },
         {
           "name": "Bo Nix",
           "position": "QB",
@@ -4404,11 +4415,6 @@
           "name": "Denver Broncos",
           "position": "DEF",
           "team": "DEN"
-        },
-        {
-          "name": "Los Angeles Rams",
-          "position": "DEF",
-          "team": "LAR"
         }
       ]
     },
@@ -5062,6 +5068,11 @@
           "team": "ARI"
         },
         {
+          "name": "Andre Szmyt",
+          "position": "K",
+          "team": "CLE"
+        },
+        {
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND"
@@ -5130,11 +5141,6 @@
           "name": "Minnesota Vikings",
           "position": "DEF",
           "team": "MIN"
-        },
-        {
-          "name": "New England Patriots",
-          "position": "DEF",
-          "team": "NE"
         }
       ]
     },
@@ -5318,11 +5324,6 @@
       "owner": "HurtsLocker79",
       "players": [
         {
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF"
@@ -5338,6 +5339,11 @@
           "team": "CHI"
         },
         {
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE"
+        },
+        {
           "name": "Derrick Henry",
           "position": "RB",
           "team": "BAL"
@@ -5351,11 +5357,6 @@
           "name": "Samaje Perine",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "name": "Kyler Murray",
@@ -5393,14 +5394,19 @@
           "team": "GB"
         },
         {
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL"
         },
         {
-          "name": "Washington Commanders",
+          "name": "New York Giants",
           "position": "DEF",
-          "team": "WAS"
+          "team": "NYG"
         }
       ]
     }
