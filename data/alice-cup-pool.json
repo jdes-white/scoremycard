@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-05T10:01:10.629Z",
-  "free_agent_count": 756,
+  "generated_at": "2026-11-05T19:12:21.862Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -604,12 +604,6 @@
       "injury_status": null
     },
     {
-      "name": "Cam Little",
-      "position": "K",
-      "team": "JAX",
-      "injury_status": null
-    },
-    {
       "name": "Cam Miller",
       "position": "QB",
       "team": "GB",
@@ -835,12 +829,6 @@
       "name": "Cody Schrader",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Cody White",
-      "position": "WR",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -3004,12 +2992,6 @@
       "injury_status": null
     },
     {
-      "name": "Malick Meiga",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -4306,6 +4288,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Tyler Loop",
+      "position": "K",
+      "team": "BAL",
+      "injury_status": "IR"
+    },
+    {
       "name": "Tyler Shough",
       "position": "QB",
       "team": "NO",
@@ -4519,7 +4507,7 @@
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Zavion Thomas",
@@ -5307,6 +5295,11 @@
           "team": "BUF"
         },
         {
+          "name": "Cam Little",
+          "position": "K",
+          "team": "JAX"
+        },
+        {
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
@@ -5325,11 +5318,6 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
-        },
-        {
-          "name": "Tyler Loop",
-          "position": "K",
-          "team": "BAL"
         },
         {
           "name": "De'Zhaun Stribling",
