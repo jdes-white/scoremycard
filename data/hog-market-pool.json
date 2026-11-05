@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-05T09:58:22.809Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-11-05T19:08:46.886Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -181,12 +181,6 @@
       "name": "Anthony Tyus III",
       "position": "RB",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Antonio Williams",
-      "position": "WR",
-      "team": "WAS",
       "injury_status": null
     },
     {
@@ -808,12 +802,6 @@
       "injury_status": null
     },
     {
-      "name": "Cody White",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Colbie Young",
       "position": "WR",
       "team": "CIN",
@@ -937,6 +925,12 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -2860,12 +2854,6 @@
       "injury_status": null
     },
     {
-      "name": "Malick Meiga",
-      "position": "WR",
-      "team": "SEA",
-      "injury_status": null
-    },
-    {
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
@@ -4315,7 +4303,7 @@
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Zavion Thomas",
@@ -4546,6 +4534,11 @@
           "team": "CLE"
         },
         {
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "name": "Emmett Johnson",
           "position": "RB",
           "team": "KC"
@@ -4564,11 +4557,6 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI"
-        },
-        {
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
         },
         {
           "name": "Deebo Samuel Sr.",
