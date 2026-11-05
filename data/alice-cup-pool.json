@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-05T01:09:02.875Z",
-  "free_agent_count": 755,
+  "generated_at": "2026-11-05T10:01:10.629Z",
+  "free_agent_count": 756,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1918,6 +1918,12 @@
       "injury_status": "Questionable"
     },
     {
+      "name": "Jacoby Brissett",
+      "position": "QB",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
@@ -2143,6 +2149,12 @@
       "name": "Jarrett Stidham",
       "position": "QB",
       "team": "DEN",
+      "injury_status": null
+    },
+    {
+      "name": "Jashaun Corbin",
+      "position": "RB",
+      "team": "DAL",
       "injury_status": null
     },
     {
@@ -2701,7 +2713,7 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kenny Pickett",
@@ -3022,12 +3034,6 @@
       "injury_status": null
     },
     {
-      "name": "Malik Willis",
-      "position": "QB",
-      "team": "MIA",
-      "injury_status": null
-    },
-    {
       "name": "Marcus Mariota",
       "position": "QB",
       "team": "WAS",
@@ -3307,6 +3313,12 @@
       "name": "Nate Carter",
       "position": "RB",
       "team": "KC",
+      "injury_status": null
+    },
+    {
+      "name": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
       "injury_status": null
     },
     {
@@ -3922,12 +3934,6 @@
       "injury_status": null
     },
     {
-      "name": "Tampa Bay Buccaneers",
-      "position": "DEF",
-      "team": "TB",
-      "injury_status": null
-    },
-    {
       "name": "Tank Bigsby",
       "position": "RB",
       "team": "PHI",
@@ -4513,7 +4519,7 @@
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Zavion Thomas",
@@ -4606,9 +4612,9 @@
           "team": "BAL"
         },
         {
-          "name": "New England Patriots",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "NE"
+          "team": "TB"
         }
       ]
     },
@@ -5393,11 +5399,6 @@
           "team": "SEA"
         },
         {
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
-        },
-        {
           "name": "Lamar Jackson",
           "position": "QB",
           "team": "BAL"
@@ -5426,6 +5427,11 @@
           "name": "Jameson Williams",
           "position": "WR",
           "team": "DET"
+        },
+        {
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "name": "Tucker Kraft",
