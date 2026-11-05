@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-04T00:00:10.816Z)
+# id|name|pos|team  (generated 2026-11-05T00:24:37.696Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -128,7 +128,6 @@
 5022|Dallas Goedert|TE|PHI
 5045|Courtland Sutton|WR|DEN
 5086|Marquez Valdes-Scantling|WR|PIT
-5095|Daniel Carlson|K|NO
 5119|Jason Sanders|K|NYJ
 5121|Braxton Berrios|WR|NYG
 5127|Kyle Allen|QB|BUF
@@ -185,7 +184,6 @@
 6271|Olamide Zaccheaus|WR|ATL
 6290|Scotty Miller|WR|CHI
 6323|Andrew Beck|RB|NYJ
-6386|Alex Bachman|WR|LAR
 6427|Ashton Dulin|WR|IND
 6451|Stephen Carlson|TE|CHI
 6453|D.J. Montgomery|WR|IND
@@ -223,6 +221,7 @@
 6920|Isaiah Hodgins|WR|PIT
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
+6957|James Proche II|WR|ARI
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -248,6 +247,7 @@
 7531|Feleipe Franks|TE|CAR
 7535|Hunter Long|TE|ARI
 7536|Quintin Morris|TE|JAX
+7537|Jaret Patterson|RB|DEN
 7538|Zach Wilson|QB|NO
 7543|Travis Etienne Jr.|RB|NO
 7547|Amon-Ra St. Brown|WR|DET
@@ -270,6 +270,7 @@
 7595|Tylan Wallace|WR|CLE
 7596|Elijah Moore|WR|PHI
 7597|Kenny Yeboah|TE|ARI
+7599|Jermar Jefferson|RB|ARI
 7600|Pat Freiermuth|TE|PIT
 7602|Kylen Granson|TE|TEN
 7605|Kyle Trask|QB|DAL
@@ -308,6 +309,7 @@
 8119|Jahan Dotson|WR|ATL
 8121|Romeo Doubs|WR|NE
 8122|Zonovan Knight|RB|ARI
+8123|Hassan Haskins|RB|CLE
 8125|Calvin Austin III|WR|NYG
 8126|Wan'Dale Robinson|WR|TEN
 8127|Charlie Kolar|TE|LAC
@@ -377,7 +379,6 @@
 8698|Jake Tonges|TE|SF
 8755|Kaden Davis|WR|CHI
 8756|Brandon Johnson|WR|PIT
-8799|Zaire Mitchell-Paden|TE|HOU
 8800|Malik Davis|RB|DAL
 8849|Tanner Conner|TE|NE
 8861|Irvin Charles|WR|SEA
@@ -555,7 +556,6 @@
 11655|Tyrone Tracy Jr.|RB|NYG
 11716|Tip Reiman|TE|ARI
 11729|Sione Vaki|RB|DET
-11748|Bub Means|WR|CLE
 11762|Anthony Gould|WR|IND
 11783|Ryan Flournoy|WR|DAL
 11786|Cam Little|K|JAX
@@ -699,15 +699,12 @@
 12889|Beaux Collins|WR|ATL
 12897|Nate Carter|RB|KC
 12901|Patrick Herbert|TE|LAC
-12907|Quentin Skinner|WR|PHI
 12908|Chandler Brayboy|WR|NE
-12909|Eli Pancol|WR|DEN
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12933|Caden Prieskorn|TE|CIN
 12938|Jackson Meeks|TE|DET
 12939|Anthony Tyus III|RB|CAR
-12941|Bryson Nesbit|TE|MIN
 12946|Dontae Fleming|WR|NYG
 12961|Ryan Fitzgerald|K|CAR
 12969|Lan Larison|RB|NE
@@ -862,7 +859,7 @@
 13705|Ty Pezza|TE|BAL
 13712|Hayden Large|TE|CHI
 13726|Camden Brown|WR|DAL
-13744|Cameron Ross|WR|DEN
+13743|Joseph Manjack|WR|NYJ
 13760|Jaden Bradley|WR|WAS
 13770|J. Michael Sturdivant|WR|GB
 13779|Al-Jay Henderson|RB|NYJ
@@ -871,12 +868,13 @@
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
+13861|Daniel Sobkowicz|WR|HOU
 13870|Quentin Moore|TE|WAS
 13890|Michael Briscoe|WR|MIN
+13904|Jacob De Jesus|WR|KC
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
 13923|Joshua Pitsenberger|RB|HOU
-13962|Cameron Dorner|WR|NE
 13963|Nick DeGennaro|WR|WAS
 13964|Myles Montgomery|RB|NE
 13968|Drew Stevens|K|WAS
