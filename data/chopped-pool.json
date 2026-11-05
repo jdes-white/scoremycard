@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-05T01:15:03.447Z",
-  "free_agent_count": 800,
+  "generated_at": "2026-11-05T10:14:51.593Z",
+  "free_agent_count": 801,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -2254,6 +2254,12 @@
       "injury_status": null
     },
     {
+      "name": "Jashaun Corbin",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Jauan Jennings",
       "position": "WR",
       "team": "MIN",
@@ -2839,7 +2845,7 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kenny Pickett",
@@ -4783,7 +4789,7 @@
       "name": "Zavier Scott",
       "position": "RB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Zavion Thomas",
