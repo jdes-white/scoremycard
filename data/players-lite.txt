@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-06T00:23:07.278Z)
+# id|name|pos|team  (generated 2026-11-06T23:44:22.823Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -50,7 +50,7 @@
 3202|Austin Hooper|TE|ATL
 3214|Hunter Henry|TE|NE
 3239|Bronson Kaufusi|TE|GB
-3257|Jacoby Brissett|QB|ARI
+3257|Jacoby Brissett|QB|BAL
 3258|Nick Vannett|TE|BAL
 3269|Chris Moore|WR|BAL
 3271|Tyler Higbee|TE|LAR
@@ -427,7 +427,6 @@
 10212|Josh Whyle|TE|GB
 10213|Tre Tucker|WR|LV
 10214|Davis Allen|TE|LAR
-10215|Jake Haener|QB|NYG
 10218|Xavier Hutchinson|WR|HOU
 10219|Chris Rodriguez Jr.|RB|JAX
 10220|Will Mallory|TE|IND
@@ -847,7 +846,6 @@
 13554|CJ Williams|WR|JAX
 13557|Athan Kaliakmanis|QB|WAS
 13577|Dallen Bentley|TE|DEN
-13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
@@ -863,7 +861,7 @@
 13705|Ty Pezza|TE|BAL
 13712|Hayden Large|TE|CHI
 13726|Camden Brown|WR|DAL
-13743|Joseph Manjack|WR|NYJ
+13743|Joseph Manjack IV|WR|NYJ
 13760|Jaden Bradley|WR|WAS
 13770|J. Michael Sturdivant|WR|GB
 13779|Al-Jay Henderson|RB|NYJ
