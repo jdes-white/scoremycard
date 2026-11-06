@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-05T00:24:37.696Z)
+# id|name|pos|team  (generated 2026-11-06T00:23:07.278Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -184,6 +184,7 @@
 6271|Olamide Zaccheaus|WR|ATL
 6290|Scotty Miller|WR|CHI
 6323|Andrew Beck|RB|NYJ
+6386|Alex Bachman|WR|LAR
 6427|Ashton Dulin|WR|IND
 6451|Stephen Carlson|TE|CHI
 6453|D.J. Montgomery|WR|IND
@@ -346,6 +347,7 @@
 8181|Connor Heyward|RB|LV
 8183|Brock Purdy|QB|SF
 8188|Tyquan Thornton|WR|KC
+8194|Jashaun Corbin|RB|DAL
 8195|Ronnie Rivers|RB|LAR
 8204|Bo Melton|WR|GB
 8205|Isiah Pacheco|RB|DET
@@ -454,6 +456,7 @@
 11034|Jalen Brooks|WR|ARI
 11056|Jared Wayne|WR|MIA
 11058|Blake Grupe|K|LAR
+11065|Adrian Martinez|QB|SEA
 11068|Mitch Tinsley|WR|CIN
 11082|Ben Sims|TE|SEA
 11113|Joel Wilson|TE|TEN
@@ -556,6 +559,7 @@
 11655|Tyrone Tracy Jr.|RB|NYG
 11716|Tip Reiman|TE|ARI
 11729|Sione Vaki|RB|DET
+11748|Bub Means|WR|KC
 11762|Anthony Gould|WR|IND
 11783|Ryan Flournoy|WR|DAL
 11786|Cam Little|K|JAX
@@ -881,7 +885,6 @@
 13981|Kolbe Katsis|WR|DEN
 14020|Dean Patterson IV|WR|TB
 14026|DJ Herman|RB|MIA
-14058|Malick Meiga|WR|SEA
 14071|Grant Finley|FB|NYG
 14080|Barika Kpeenu|RB|TB
 ARI|Arizona Cardinals|DEF|ARI
