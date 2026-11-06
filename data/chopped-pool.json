@@ -1,13 +1,13 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-06T10:17:39.453Z",
-  "free_agent_count": 801,
+  "generated_at": "2026-11-06T18:47:53.007Z",
+  "free_agent_count": 798,
   "free_agents": [
     {
       "name": "A.J. Brown",
       "position": "WR",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Aaron Bailey",
@@ -481,7 +481,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -670,12 +670,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
@@ -691,12 +685,6 @@
       "name": "Carson Wentz",
       "position": "QB",
       "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "Carter Runyon",
-      "position": "TE",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -1519,7 +1507,7 @@
       "name": "Emeka Egbuka",
       "position": "WR",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Emmanuel Henderson Jr.",
@@ -1651,7 +1639,7 @@
       "name": "Garrett Wilson",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Gary Jennings",
@@ -2016,7 +2004,7 @@
     {
       "name": "Jacoby Brissett",
       "position": "QB",
-      "team": "ARI",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -2072,12 +2060,6 @@
       "position": "TE",
       "team": "DAL",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Jake Haener",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
     },
     {
       "name": "Jake Tonges",
@@ -2566,7 +2548,7 @@
       "injury_status": "IR"
     },
     {
-      "name": "Joseph Manjack",
+      "name": "Joseph Manjack IV",
       "position": "WR",
       "team": "NYJ",
       "injury_status": null
@@ -4435,7 +4417,7 @@
       "name": "TreVeyon Henderson",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Trevor Etienne",
@@ -4807,7 +4789,7 @@
       "name": "Zonovan Knight",
       "position": "RB",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     }
   ],
   "rosters": [
