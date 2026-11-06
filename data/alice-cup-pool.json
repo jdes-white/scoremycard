@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-06T01:16:33.197Z",
+  "generated_at": "2026-11-06T10:04:29.053Z",
   "free_agent_count": 757,
   "free_agents": [
     {
@@ -529,12 +529,6 @@
       "name": "Bryce Oliver",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
-    },
-    {
-      "name": "Bryce Young",
-      "position": "QB",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -2864,6 +2858,12 @@
       "position": "TE",
       "team": "TEN",
       "injury_status": "Out"
+    },
+    {
+      "name": "Kyler Murray",
+      "position": "QB",
+      "team": "MIN",
+      "injury_status": "Questionable"
     },
     {
       "name": "LaJohntay Wester",
@@ -5338,11 +5338,6 @@
           "team": "SF"
         },
         {
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN"
-        },
-        {
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
@@ -5356,6 +5351,11 @@
           "name": "Christian Watson",
           "position": "WR",
           "team": "GB"
+        },
+        {
+          "name": "Bryce Young",
+          "position": "QB",
+          "team": "CAR"
         },
         {
           "name": "Jaxon Smith-Njigba",
