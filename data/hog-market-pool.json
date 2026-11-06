@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-06T10:00:27.845Z",
-  "free_agent_count": 721,
+  "generated_at": "2026-11-06T18:36:24.441Z",
+  "free_agent_count": 718,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -451,7 +451,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -616,12 +616,6 @@
       "injury_status": null
     },
     {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
-      "injury_status": null
-    },
-    {
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
@@ -637,12 +631,6 @@
       "name": "Carson Wentz",
       "position": "QB",
       "team": "MIN",
-      "injury_status": null
-    },
-    {
-      "name": "Carter Runyon",
-      "position": "TE",
-      "team": "LV",
       "injury_status": null
     },
     {
@@ -1882,12 +1870,6 @@
       "injury_status": "Questionable"
     },
     {
-      "name": "Jake Haener",
-      "position": "QB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Jake Moody",
       "position": "K",
       "team": "BAL",
@@ -2326,7 +2308,7 @@
       "injury_status": "Questionable"
     },
     {
-      "name": "Joseph Manjack",
+      "name": "Joseph Manjack IV",
       "position": "WR",
       "team": "NYJ",
       "injury_status": null
@@ -5008,7 +4990,7 @@
         {
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
           "name": "Dak Prescott",
