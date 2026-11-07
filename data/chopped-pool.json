@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-07T00:34:33.744Z",
+  "generated_at": "2026-11-07T09:33:05.604Z",
   "free_agent_count": 799,
   "free_agents": [
     {
@@ -979,7 +979,7 @@
       "name": "Dameon Pierce",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dan Villari",
@@ -4615,7 +4615,7 @@
       "name": "Velus Jones Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Vinny Anthony II",
