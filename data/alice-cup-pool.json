@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-07T00:29:51.172Z",
+  "generated_at": "2026-11-07T09:23:49.347Z",
   "free_agent_count": 754,
   "free_agents": [
     {
@@ -4345,7 +4345,7 @@
       "name": "Velus Jones Jr.",
       "position": "WR",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Vinny Anthony II",
