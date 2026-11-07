@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-06T23:44:22.823Z)
+# id|name|pos|team  (generated 2026-11-07T22:48:30.829Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -32,7 +32,6 @@
 2216|Mike Evans|WR|SF
 2306|Jameis Winston|QB|NYG
 2307|Marcus Mariota|QB|WAS
-2334|Phillip Dorsett II|WR|LV
 2359|Ameer Abdullah|RB|JAX
 2449|Stefon Diggs|WR|WAS
 2471|Michael Burton|FB|CLE
@@ -314,7 +313,6 @@
 8125|Calvin Austin III|WR|NYG
 8126|Wan'Dale Robinson|WR|TEN
 8127|Charlie Kolar|TE|LAC
-8129|Dameon Pierce|RB|PHI
 8130|Trey McBride|TE|ARI
 8131|Isaiah Likely|TE|NYG
 8132|Tyler Allgeier|RB|ARI
@@ -358,7 +356,6 @@
 8214|Cole Turner|TE|MIA
 8219|Jelani Woods|TE|NYJ
 8220|Sincere McCormick|RB|SF
-8223|Velus Jones Jr.|WR|SEA
 8225|Daniel Bellinger|TE|TEN
 8227|Teagan Quitoriano|TE|ARI
 8228|Jaylen Warren|RB|PIT
@@ -427,6 +424,7 @@
 10212|Josh Whyle|TE|GB
 10213|Tre Tucker|WR|LV
 10214|Davis Allen|TE|LAR
+10215|Jake Haener|QB|NYG
 10218|Xavier Hutchinson|WR|HOU
 10219|Chris Rodriguez Jr.|RB|JAX
 10220|Will Mallory|TE|IND
@@ -570,7 +568,6 @@
 11834|Devaughn Vele|WR|NO
 11895|Mason Tipton|WR|NO
 11911|Jeshaun Jones|WR|MIN
-11931|Austin Reed|QB|BAL
 11942|Colson Yankoff|TE|WAS
 11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
@@ -846,6 +843,7 @@
 13554|CJ Williams|WR|JAX
 13557|Athan Kaliakmanis|QB|WAS
 13577|Dallen Bentley|TE|DEN
+13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
