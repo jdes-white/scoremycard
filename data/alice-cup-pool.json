@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-07T09:23:49.347Z",
-  "free_agent_count": 754,
+  "generated_at": "2026-11-07T17:08:20.626Z",
+  "free_agent_count": 751,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -247,12 +247,6 @@
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Austin Reed",
-      "position": "QB",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3514,12 +3508,6 @@
       "injury_status": null
     },
     {
-      "name": "Phillip Dorsett II",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Pierre Strong Jr.",
       "position": "RB",
       "team": "GB",
@@ -4339,12 +4327,6 @@
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "Velus Jones Jr.",
-      "position": "WR",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -5188,7 +5170,7 @@
         {
           "name": "Dameon Pierce",
           "position": "RB",
-          "team": "PHI"
+          "team": null
         },
         {
           "name": "Kenneth Walker III",
