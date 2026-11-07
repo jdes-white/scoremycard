@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-07T17:03:49.047Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-11-07T21:09:34.330Z",
+  "free_agent_count": 716,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -610,6 +610,12 @@
       "injury_status": null
     },
     {
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
@@ -1093,7 +1099,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Derius Davis",
@@ -2047,7 +2053,7 @@
       "name": "Jauan Jennings",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jawhar Jordan",
@@ -2371,7 +2377,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Joshua Perkins",
@@ -3481,7 +3487,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Roschon Johnson",
