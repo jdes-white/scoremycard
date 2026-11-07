@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-07T09:33:05.604Z",
-  "free_agent_count": 799,
+  "generated_at": "2026-11-07T17:19:36.421Z",
+  "free_agent_count": 795,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -253,12 +253,6 @@
       "name": "Austin Hooper",
       "position": "TE",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Austin Reed",
-      "position": "QB",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -974,12 +968,6 @@
       "position": "TE",
       "team": "HOU",
       "injury_status": null
-    },
-    {
-      "name": "Dameon Pierce",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": "Questionable"
     },
     {
       "name": "Dan Villari",
@@ -3700,12 +3688,6 @@
       "injury_status": null
     },
     {
-      "name": "Phillip Dorsett II",
-      "position": "WR",
-      "team": "LV",
-      "injury_status": null
-    },
-    {
       "name": "Pierre Strong Jr.",
       "position": "RB",
       "team": "GB",
@@ -4609,12 +4591,6 @@
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "Velus Jones Jr.",
-      "position": "WR",
-      "team": "SEA",
       "injury_status": null
     },
     {
