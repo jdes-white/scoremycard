@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-07T22:48:30.829Z)
+# id|name|pos|team  (generated 2026-11-08T22:56:30.405Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -356,6 +356,7 @@
 8214|Cole Turner|TE|MIA
 8219|Jelani Woods|TE|NYJ
 8220|Sincere McCormick|RB|SF
+8223|Velus Jones Jr.|WR|SEA
 8225|Daniel Bellinger|TE|TEN
 8227|Teagan Quitoriano|TE|ARI
 8228|Jaylen Warren|RB|PIT
@@ -415,7 +416,6 @@
 9753|Zach Charbonnet|RB|SEA
 9754|Quentin Johnston|WR|LAC
 9756|Jordan Addison|WR|MIN
-9757|Kendre Miller|RB|NO
 9758|C.J. Stroud|QB|HOU
 9997|Zay Flowers|WR|BAL
 9998|Hendon Hooker|QB|TEN
@@ -575,7 +575,6 @@
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|CIN
-12079|Treyton Welch|TE|NO
 12113|Thomas Yassmin|TE|GB
 12171|British Brooks|RB|HOU
 12185|Spencer Shrader|K|IND
