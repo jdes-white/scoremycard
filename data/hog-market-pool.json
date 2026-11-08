@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-08T02:56:22.356Z",
+  "generated_at": "2026-11-08T09:44:27.167Z",
   "free_agent_count": 718,
   "free_agents": [
     {
@@ -223,12 +223,6 @@
       "name": "Audric Estime",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Austin Ekeler",
-      "position": "RB",
-      "team": "WAS",
       "injury_status": null
     },
     {
@@ -626,12 +620,6 @@
       "position": "TE",
       "team": "IND",
       "injury_status": "IR"
-    },
-    {
-      "name": "Carson Wentz",
-      "position": "QB",
-      "team": "MIN",
-      "injury_status": null
     },
     {
       "name": "Carter Runyon",
@@ -2548,6 +2536,12 @@
       "injury_status": null
     },
     {
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
@@ -3550,9 +3544,9 @@
       "injury_status": null
     },
     {
-      "name": "San Francisco 49ers",
-      "position": "DEF",
-      "team": "SF",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team": "CIN",
       "injury_status": null
     },
     {
@@ -3703,6 +3697,12 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
+      "injury_status": null
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "position": "DEF",
+      "team": "TB",
       "injury_status": null
     },
     {
@@ -4849,9 +4849,9 @@
           "team": "MIN"
         },
         {
-          "name": "Tampa Bay Buccaneers",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "TB"
+          "team": "SF"
         }
       ]
     },
@@ -5326,6 +5326,11 @@
           "team": "CLE"
         },
         {
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN"
+        },
+        {
           "name": "Derrick Henry",
           "position": "RB",
           "team": "BAL"
@@ -5336,9 +5341,9 @@
           "team": "KC"
         },
         {
-          "name": "Samaje Perine",
+          "name": "Austin Ekeler",
           "position": "RB",
-          "team": "CIN"
+          "team": "WAS"
         },
         {
           "name": "Kyler Murray",
@@ -5374,11 +5379,6 @@
           "name": "Tucker Kraft",
           "position": "TE",
           "team": "GB"
-        },
-        {
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "name": "Zay Flowers",
