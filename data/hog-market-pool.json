@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-07T21:09:34.330Z",
-  "free_agent_count": 716,
+  "generated_at": "2026-11-08T02:56:22.356Z",
+  "free_agent_count": 718,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -277,7 +277,7 @@
       "name": "Beaux Collins",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Behren Morton",
@@ -445,7 +445,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -763,7 +763,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "CJ Daniels",
@@ -1087,7 +1087,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "DeMario Douglas",
@@ -1267,7 +1267,7 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Dylan Drummond",
@@ -1867,6 +1867,12 @@
       "name": "Jake Elliott",
       "position": "K",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Jake Haener",
+      "position": "QB",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -3277,7 +3283,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Patrick Gurd",
@@ -4123,6 +4129,12 @@
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "team": "SEA",
       "injury_status": null
     },
     {
