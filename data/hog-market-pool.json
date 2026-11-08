@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-08T17:18:15.754Z",
+  "generated_at": "2026-11-08T21:25:25.002Z",
   "free_agent_count": 717,
   "free_agents": [
     {
@@ -49,7 +49,7 @@
       "name": "Aidan O'Connell",
       "position": "QB",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Barner",
@@ -277,7 +277,7 @@
       "name": "Behren Morton",
       "position": "QB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Ben Roethlisberger",
@@ -415,7 +415,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Brennan Presley",
@@ -529,7 +529,7 @@
       "name": "Cade Stover",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Caden Prieskorn",
@@ -1183,7 +1183,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Dontae Fleming",
@@ -1591,7 +1591,7 @@
       "name": "Hunter Henry",
       "position": "TE",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Hunter Long",
@@ -2239,7 +2239,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jonnu Smith",
@@ -2635,7 +2635,7 @@
       "name": "Kurtis Rourke",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kyle Allen",
@@ -2845,7 +2845,7 @@
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Malik Davis",
@@ -2911,7 +2911,7 @@
       "name": "MarShawn Lloyd",
       "position": "RB",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Marvin Mims Jr.",
@@ -3013,7 +3013,7 @@
       "name": "Michael Burton",
       "position": "FB",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Michael Carter",
@@ -3073,7 +3073,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Moliki Matavao",
@@ -3829,7 +3829,7 @@
       "name": "Theo Wease Jr.",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Thomas Fidone II",
@@ -4063,7 +4063,7 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Higbee",
@@ -4171,7 +4171,7 @@
       "name": "Will Kacmarek",
       "position": "TE",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Will Levis",
