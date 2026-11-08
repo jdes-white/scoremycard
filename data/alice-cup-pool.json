@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-07T21:13:01.847Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-11-08T03:12:54.070Z",
+  "free_agent_count": 754,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -295,7 +295,7 @@
       "name": "Beaux Collins",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Behren Morton",
@@ -469,7 +469,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Brian Thomas Jr.",
@@ -724,6 +724,12 @@
       "injury_status": null
     },
     {
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Chimere Dike",
       "position": "WR",
       "team": "TEN",
@@ -787,7 +793,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "CJ Daniels",
@@ -1123,7 +1129,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Demond Claiborne",
@@ -1309,7 +1315,7 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Dylan Drummond",
@@ -1972,6 +1978,12 @@
       "injury_status": "Questionable"
     },
     {
+      "name": "Jake Haener",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Jake Moody",
       "position": "K",
       "team": "BAL",
@@ -2425,7 +2437,7 @@
       "name": "Jordyn Tyson",
       "position": "WR",
       "team": "NO",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Joseph Manjack IV",
@@ -2989,7 +3001,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Malachi Corley",
@@ -3463,7 +3475,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Pat Freiermuth",
@@ -3697,12 +3709,6 @@
       "name": "Ryan Fitzgerald",
       "position": "K",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
       "injury_status": null
     },
     {
@@ -4336,6 +4342,12 @@
       "injury_status": null
     },
     {
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Vinny Anthony II",
       "position": "WR",
       "team": "ATL",
@@ -4908,6 +4920,11 @@
           "team": "NYJ"
         },
         {
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
+        {
           "name": "Spencer Shrader",
           "position": "K",
           "team": "IND"
@@ -4946,11 +4963,6 @@
           "name": "Garrett Wilson",
           "position": "WR",
           "team": "NYJ"
-        },
-        {
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS"
         },
         {
           "name": "Chase Brown",
