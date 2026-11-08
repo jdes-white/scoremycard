@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-07T21:22:23.467Z",
-  "free_agent_count": 796,
+  "generated_at": "2026-11-08T04:01:44.128Z",
+  "free_agent_count": 798,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -295,7 +295,7 @@
       "name": "Beaux Collins",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Behren Morton",
@@ -805,7 +805,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "CJ Daniels",
@@ -1177,7 +1177,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "DeMario Douglas",
@@ -1387,7 +1387,7 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Dylan Drummond",
@@ -2060,6 +2060,12 @@
       "position": "TE",
       "team": "DAL",
       "injury_status": "Questionable"
+    },
+    {
+      "name": "Jake Haener",
+      "position": "QB",
+      "team": "NYG",
+      "injury_status": null
     },
     {
       "name": "Jake Tonges",
@@ -3133,7 +3139,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Makai Lemon",
@@ -3643,7 +3649,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Pat Freiermuth",
@@ -4597,6 +4603,12 @@
       "name": "Van Jefferson",
       "position": "WR",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "team": "SEA",
       "injury_status": null
     },
     {
