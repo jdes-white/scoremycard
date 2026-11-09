@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-09T00:26:39.117Z",
+  "generated_at": "2026-11-09T10:49:24.694Z",
   "free_agent_count": 796,
   "free_agents": [
     {
@@ -367,7 +367,7 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Bo Nix",
@@ -1351,7 +1351,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -2671,7 +2671,7 @@
       "name": "Justin Herbert",
       "position": "QB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Justin Joly",
