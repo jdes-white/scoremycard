@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-09T10:49:24.694Z",
+  "generated_at": "2026-11-09T21:52:04.377Z",
   "free_agent_count": 796,
   "free_agents": [
     {
@@ -1615,7 +1615,7 @@
       "name": "Gardner Minshew II",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Garrett Greene",
@@ -3187,7 +3187,7 @@
       "name": "Malik Willis",
       "position": "QB",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Marcus Mariota",
