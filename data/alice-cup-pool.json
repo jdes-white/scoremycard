@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-09T21:43:22.866Z",
+  "generated_at": "2026-11-10T05:06:46.143Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -703,7 +703,7 @@
       "name": "Charlie Jones",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Charlie Kolar",
@@ -727,7 +727,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chimere Dike",
@@ -883,7 +883,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Connor Heyward",
@@ -997,7 +997,7 @@
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Darnell Washington",
@@ -1135,7 +1135,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Derius Davis",
@@ -1531,7 +1531,7 @@
       "name": "Gardner Minshew II",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Garrett Greene",
@@ -1975,7 +1975,7 @@
       "name": "Jake Ferguson",
       "position": "TE",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jake Haener",
@@ -2460,7 +2460,7 @@
     {
       "name": "Josh Johnson",
       "position": "QB",
-      "team": "CIN",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2509,7 +2509,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Joshua Perkins",
@@ -3841,7 +3841,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Skyler Howard",
@@ -4255,7 +4255,7 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Higbee",
