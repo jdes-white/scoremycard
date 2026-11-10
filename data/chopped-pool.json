@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-09T21:52:04.377Z",
-  "free_agent_count": 796,
+  "generated_at": "2026-11-10T05:43:44.785Z",
+  "free_agent_count": 808,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -502,6 +502,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Brock Bowers",
+      "position": "TE",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Brock Lampe",
       "position": "FB",
       "team": "BUF",
@@ -721,7 +727,7 @@
       "name": "Charlie Jones",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Charlie Kolar",
@@ -736,10 +742,16 @@
       "injury_status": null
     },
     {
+      "name": "Chase Brown",
+      "position": "RB",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chimere Dike",
@@ -806,6 +818,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "IR"
+    },
+    {
+      "name": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null
     },
     {
       "name": "CJ Daniels",
@@ -889,7 +907,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Colston Loveland",
@@ -938,6 +956,12 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
+    },
+    {
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI",
+      "injury_status": null
     },
     {
       "name": "Dak Prescott",
@@ -1027,7 +1051,7 @@
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Darnell Washington",
@@ -1189,7 +1213,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Denzel Boston",
@@ -1339,6 +1363,12 @@
       "name": "Drake Dabney",
       "position": "TE",
       "team": "GB",
+      "injury_status": null
+    },
+    {
+      "name": "Drake London",
+      "position": "WR",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -2059,7 +2089,7 @@
       "name": "Jake Ferguson",
       "position": "TE",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jake Haener",
@@ -2194,6 +2224,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "James Cook III",
+      "position": "RB",
+      "team": "BUF",
+      "injury_status": null
+    },
+    {
       "name": "James Mitchell",
       "position": "TE",
       "team": "DAL",
@@ -2203,6 +2239,12 @@
       "name": "James Proche II",
       "position": "WR",
       "team": "ARI",
+      "injury_status": null
+    },
+    {
+      "name": "Jameson Williams",
+      "position": "WR",
+      "team": "DET",
       "injury_status": null
     },
     {
@@ -2392,6 +2434,12 @@
       "injury_status": null
     },
     {
+      "name": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "Joe Fagnano",
       "position": "QB",
       "team": "BAL",
@@ -2468,6 +2516,12 @@
       "position": "WR",
       "team": "PHI",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jonah Coleman",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": null
     },
     {
       "name": "Jonathan Mingo",
@@ -2580,7 +2634,7 @@
     {
       "name": "Josh Johnson",
       "position": "QB",
-      "team": "CIN",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2623,7 +2677,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Joshua Perkins",
@@ -2672,6 +2726,12 @@
       "position": "QB",
       "team": "LAC",
       "injury_status": "Questionable"
+    },
+    {
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Justin Joly",
@@ -3178,6 +3238,12 @@
       "injury_status": null
     },
     {
+      "name": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Malik Washington",
       "position": "WR",
       "team": "MIA",
@@ -3290,6 +3356,12 @@
       "position": "QB",
       "team": "LAR",
       "injury_status": "IR"
+    },
+    {
+      "name": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null
     },
     {
       "name": "Matthew Stafford",
@@ -4069,7 +4141,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Skyler Howard",
@@ -4525,7 +4597,7 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Higbee",
@@ -4852,68 +4924,7 @@
       "roster_id": 2,
       "team_name": "mjdiggity",
       "owner": "mjdiggity",
-      "players": [
-        {
-          "name": "Brock Bowers",
-          "position": "TE",
-          "team": "LV"
-        },
-        {
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG"
-        },
-        {
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
-          "name": "Joe Burrow",
-          "position": "QB",
-          "team": "CIN"
-        },
-        {
-          "name": "D'Andre Swift",
-          "position": "RB",
-          "team": "CHI"
-        },
-        {
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
-        },
-        {
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF"
-        },
-        {
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET"
-        },
-        {
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN"
-        }
-      ]
+      "players": []
     },
     {
       "roster_id": 3,
