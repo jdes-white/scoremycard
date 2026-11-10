@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-10T13:55:46.749Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-11-10T21:05:31.992Z",
+  "free_agent_count": 750,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1705,7 +1705,7 @@
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Indianapolis Colts",
@@ -1894,12 +1894,6 @@
       "injury_status": null
     },
     {
-      "name": "Jackson Meeks",
-      "position": "TE",
-      "team": "DET",
-      "injury_status": "Out"
-    },
-    {
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
@@ -1986,7 +1980,7 @@
     {
       "name": "Jake Moody",
       "position": "K",
-      "team": "BAL",
+      "team": "ATL",
       "injury_status": null
     },
     {
@@ -2322,7 +2316,7 @@
     {
       "name": "Joey Aguilar",
       "position": "QB",
-      "team": "JAX",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2431,7 +2425,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordyn Tyson",
@@ -3340,12 +3334,6 @@
       "injury_status": null
     },
     {
-      "name": "Nick Folk",
-      "position": "K",
-      "team": "ATL",
-      "injury_status": null
-    },
-    {
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
@@ -3916,12 +3904,6 @@
       "injury_status": null
     },
     {
-      "name": "Tanner Arkin",
-      "position": "TE",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Tanner Conner",
       "position": "TE",
       "team": "NE",
@@ -4480,6 +4462,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "Zamir White",
       "position": "RB",
       "team": "NO",
@@ -4525,7 +4513,7 @@
         {
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV"
+          "team": "MIN"
         },
         {
           "name": "Will Reichard",
@@ -5156,7 +5144,7 @@
         {
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         },
         {
           "name": "Dallas Goedert",
@@ -5335,7 +5323,7 @@
         {
           "name": "Josh Downs",
           "position": "WR",
-          "team": "IND"
+          "team": "KC"
         },
         {
           "name": "Los Angeles Rams",
