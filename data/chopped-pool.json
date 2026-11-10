@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-10T14:12:17.836Z",
-  "free_agent_count": 808,
+  "generated_at": "2026-11-10T21:10:03.198Z",
+  "free_agent_count": 807,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -1825,7 +1825,7 @@
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Irvin Charles",
@@ -2006,12 +2006,6 @@
       "position": "TE",
       "team": "BUF",
       "injury_status": null
-    },
-    {
-      "name": "Jackson Meeks",
-      "position": "TE",
-      "team": "DET",
-      "injury_status": "Out"
     },
     {
       "name": "Jacob Cowing",
@@ -2478,7 +2472,7 @@
     {
       "name": "Joey Aguilar",
       "position": "QB",
-      "team": "JAX",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2599,7 +2593,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordyn Tyson",
@@ -2628,7 +2622,7 @@
     {
       "name": "Josh Downs",
       "position": "WR",
-      "team": "IND",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -2856,7 +2850,7 @@
     {
       "name": "Keenan Allen",
       "position": "WR",
-      "team": "IND",
+      "team": "SF",
       "injury_status": null
     },
     {
@@ -2970,7 +2964,7 @@
     {
       "name": "Kirk Cousins",
       "position": "QB",
-      "team": "LV",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -4228,12 +4222,6 @@
       "injury_status": null
     },
     {
-      "name": "Tanner Arkin",
-      "position": "TE",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Tanner Conner",
       "position": "TE",
       "team": "NE",
@@ -4820,6 +4808,12 @@
       "position": "WR",
       "team": "ATL",
       "injury_status": "Out"
+    },
+    {
+      "name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "team": "CLE",
+      "injury_status": null
     },
     {
       "name": "Zamir White",
