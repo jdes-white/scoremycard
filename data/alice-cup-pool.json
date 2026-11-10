@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-10T05:06:46.143Z",
+  "generated_at": "2026-11-10T13:55:46.749Z",
   "free_agent_count": 752,
   "free_agents": [
     {
@@ -5172,11 +5172,6 @@
           "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL"
-        },
-        {
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": null
         },
         {
           "name": "Kenneth Walker III",
