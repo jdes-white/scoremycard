@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-11T13:03:42.511Z",
-  "free_agent_count": 723,
+  "generated_at": "2026-11-11T21:37:50.879Z",
+  "free_agent_count": 710,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -235,12 +235,6 @@
       "name": "Baltimore Ravens",
       "position": "DEF",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Barika Kpeenu",
-      "position": "RB",
-      "team": "TB",
       "injury_status": null
     },
     {
@@ -619,7 +613,7 @@
       "name": "Carson Wentz",
       "position": "QB",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carter Runyon",
@@ -751,7 +745,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Christian Kirk",
@@ -841,7 +835,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Connor Heyward",
@@ -970,22 +964,10 @@
       "injury_status": null
     },
     {
-      "name": "David Moore",
-      "position": "WR",
-      "team": "CAR",
-      "injury_status": null
-    },
-    {
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
       "injury_status": "IR"
-    },
-    {
-      "name": "David Sills V",
-      "position": "WR",
-      "team": "TB",
-      "injury_status": null
     },
     {
       "name": "Davis Allen",
@@ -1408,12 +1390,6 @@
       "injury_status": null
     },
     {
-      "name": "Evan Svoboda",
-      "position": "TE",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Feleipe Franks",
       "position": "TE",
       "team": "CAR",
@@ -1556,12 +1532,6 @@
       "position": "TE",
       "team": "CHI",
       "injury_status": "IR"
-    },
-    {
-      "name": "Hayden Rucci",
-      "position": "TE",
-      "team": "LAC",
-      "injury_status": null
     },
     {
       "name": "Haynes King",
@@ -1996,12 +1966,6 @@
       "injury_status": null
     },
     {
-      "name": "Jarquez Hunter",
-      "position": "RB",
-      "team": "NO",
-      "injury_status": null
-    },
-    {
       "name": "Jarrett Stidham",
       "position": "QB",
       "team": "DEN",
@@ -2056,12 +2020,6 @@
       "injury_status": null
     },
     {
-      "name": "Jaydon Blue",
-      "position": "RB",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Jaylen Wright",
       "position": "RB",
       "team": "MIA",
@@ -2101,12 +2059,6 @@
       "name": "Jeremy Ruckert",
       "position": "TE",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Jermar Jefferson",
-      "position": "RB",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2191,12 +2143,6 @@
       "name": "John Bates",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
-    },
-    {
-      "name": "John FitzPatrick",
-      "position": "TE",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -3202,12 +3148,6 @@
       "injury_status": null
     },
     {
-      "name": "Nick Vannett",
-      "position": "TE",
-      "team": "BAL",
-      "injury_status": null
-    },
-    {
       "name": "Nick Westbrook-Ikhine",
       "position": "WR",
       "team": "IND",
@@ -3217,12 +3157,6 @@
       "name": "Nick Williams",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Nikko Remigio",
-      "position": "WR",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -3254,12 +3188,6 @@
       "position": "RB",
       "team": "HOU",
       "injury_status": "Out"
-    },
-    {
-      "name": "Odell Beckham Jr.",
-      "position": "WR",
-      "team": "MIN",
-      "injury_status": null
     },
     {
       "name": "Olamide Zaccheaus",
@@ -3463,12 +3391,6 @@
       "name": "Riley Nowakowski",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Rivaldo Fairweather",
-      "position": "TE",
-      "team": "ARI",
       "injury_status": null
     },
     {
