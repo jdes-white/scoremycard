@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-10T21:04:09.355Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-11-11T03:26:00.693Z",
+  "free_agent_count": 723,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2293,7 +2293,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Joseph Manjack IV",
@@ -2530,6 +2530,12 @@
       "injury_status": null
     },
     {
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
@@ -2545,6 +2551,12 @@
       "name": "Kene Nwangwu",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Kenny Fletcher Jr.",
+      "position": "TE",
+      "team": "GB",
       "injury_status": null
     },
     {
@@ -2776,6 +2788,12 @@
       "injury_status": null
     },
     {
+      "name": "Lucas Scott",
+      "position": "FB",
+      "team": "BAL",
+      "injury_status": null
+    },
+    {
       "name": "Lucky Jackson",
       "position": "WR",
       "team": "DET",
@@ -2953,6 +2971,12 @@
       "name": "Matt LaCosse",
       "position": "TE",
       "team": "NE",
+      "injury_status": null
+    },
+    {
+      "name": "Matt Lauter",
+      "position": "TE",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -3313,6 +3337,12 @@
       "name": "Philadelphia Eagles",
       "position": "DEF",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Phillip Dorsett II",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -3679,7 +3709,7 @@
       "name": "Stone Smartt",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tahj Brooks",
@@ -3982,6 +4012,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Treyton Welch",
+      "position": "TE",
+      "team": "NO",
+      "injury_status": null
+    },
+    {
       "name": "Troy Franklin",
       "position": "WR",
       "team": "DEN",
@@ -4242,7 +4278,7 @@
     {
       "name": "Xavier Smith",
       "position": "WR",
-      "team": "SF",
+      "team": "LAR",
       "injury_status": null
     },
     {
