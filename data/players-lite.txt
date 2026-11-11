@@ -1,21 +1,20 @@
-# id|name|pos|team  (generated 2026-11-10T02:13:57.125Z)
+# id|name|pos|team  (generated 2026-11-11T00:04:47.298Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
 260|Josh Johnson|QB|ARI
 421|Matthew Stafford|QB|LAR
-650|Nick Folk|K|ATL
 812|Lee Smith|TE|ATL
 827|Tyrod Taylor|QB|GB
 829|Andy Dalton|QB|ATL
-1166|Kirk Cousins|QB|LV
+1166|Kirk Cousins|QB|MIN
 1264|Justin Tucker|K|KC
 1339|Zach Ertz|TE|PHI
 1373|Geno Smith|QB|NYJ
 1379|Kyle Juszczyk|FB|SF
 1433|Brandon McManus|K|LAR
 1466|Travis Kelce|TE|KC
-1479|Keenan Allen|WR|IND
+1479|Keenan Allen|WR|SF
 1592|Darren Fells|TE|TB
 1604|Nick Williams|WR|DEN
 1642|Levine Toilolo|TE|NYG
@@ -32,6 +31,7 @@
 2216|Mike Evans|WR|SF
 2306|Jameis Winston|QB|NYG
 2307|Marcus Mariota|QB|WAS
+2334|Phillip Dorsett II|WR|ARI
 2359|Ameer Abdullah|RB|JAX
 2449|Stefon Diggs|WR|WAS
 2471|Michael Burton|FB|CLE
@@ -379,6 +379,7 @@
 8698|Jake Tonges|TE|SF
 8755|Kaden Davis|WR|CHI
 8756|Brandon Johnson|WR|PIT
+8799|Zaire Mitchell-Paden|TE|CLE
 8800|Malik Davis|RB|DAL
 8849|Tanner Conner|TE|NE
 8861|Irvin Charles|WR|SEA
@@ -404,7 +405,7 @@
 9493|Puka Nacua|WR|LAR
 9494|Marvin Mims Jr.|WR|DEN
 9497|Jalin Hyatt|WR|NYG
-9500|Josh Downs|WR|IND
+9500|Josh Downs|WR|KC
 9501|DeMario Douglas|WR|NE
 9502|Tank Dell|WR|HOU
 9504|Kayshon Boutte|WR|HOU
@@ -416,6 +417,7 @@
 9753|Zach Charbonnet|RB|SEA
 9754|Quentin Johnston|WR|LAC
 9756|Jordan Addison|WR|MIN
+9757|Kendre Miller|RB|DAL
 9758|C.J. Stroud|QB|HOU
 9997|Zay Flowers|WR|BAL
 9998|Hendon Hooker|QB|TEN
@@ -447,7 +449,7 @@
 10866|Aidan O'Connell|QB|LV
 10867|Jake Bobo|WR|SEA
 10871|Luke Schoonmaker|TE|DAL
-10937|Jake Moody|K|BAL
+10937|Jake Moody|K|ATL
 10955|Chad Ryland|K|ARI
 10983|Sean Clifford|QB|CIN
 11034|Jalen Brooks|WR|ARI
@@ -458,7 +460,7 @@
 11082|Ben Sims|TE|SEA
 11113|Joel Wilson|TE|TEN
 11157|Brycen Tremayne|WR|CAR
-11168|Xavier Smith|WR|SF
+11168|Xavier Smith|WR|LAR
 11186|Carlos Washington Jr.|RB|MIA
 11199|Emari Demercado|RB|HOU
 11201|Blake Whiteheart|TE|CLE
@@ -575,6 +577,7 @@
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|CIN
+12079|Treyton Welch|TE|NO
 12113|Thomas Yassmin|TE|GB
 12171|British Brooks|RB|HOU
 12185|Spencer Shrader|K|IND
@@ -702,7 +705,6 @@
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
 12933|Caden Prieskorn|TE|CIN
-12938|Jackson Meeks|TE|DET
 12939|Anthony Tyus III|RB|CAR
 12946|Dontae Fleming|WR|NYG
 12961|Ryan Fitzgerald|K|CAR
@@ -729,6 +731,7 @@
 13179|Ja'seem Reed|WR|CAR
 13199|Montorie Foster Jr.|WR|SEA
 13210|Drake Dabney|TE|GB
+13213|Lucas Scott|FB|BAL
 13249|Thomas Gordon|TE|DET
 13264|Dohnte Meyers|WR|CIN
 13268|Elijah Sarratt|WR|BAL
@@ -823,7 +826,7 @@
 13423|Eli Heidenreich|RB|PIT
 13424|Seth McGowan|RB|IND
 13425|Jalon Daniels|QB|TB
-13428|Joey Aguilar|QB|JAX
+13428|Joey Aguilar|QB|ARI
 13429|Seydou Traore|TE|MIA
 13431|Miles Kitselman|TE|DET
 13432|Khalil Dinkins|TE|SF
@@ -863,8 +866,8 @@
 13770|J. Michael Sturdivant|WR|GB
 13779|Al-Jay Henderson|RB|NYJ
 13804|Kansei Matsuzawa|K|LV
+13806|Matt Lauter|TE|NO
 13825|Malik McClain|WR|NYJ
-13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
 13861|Daniel Sobkowicz|WR|HOU
@@ -874,6 +877,7 @@
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
 13923|Joshua Pitsenberger|RB|HOU
+13957|Kenny Fletcher Jr.|TE|GB
 13963|Nick DeGennaro|WR|WAS
 13964|Myles Montgomery|RB|NE
 13968|Drew Stevens|K|WAS
