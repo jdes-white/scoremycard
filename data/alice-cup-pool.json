@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-12T04:48:41.865Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-11-12T14:12:35.180Z",
+  "free_agent_count": 749,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1435,6 +1435,12 @@
       "name": "Emmanuel Henderson Jr.",
       "position": "WR",
       "team": "SEA",
+      "injury_status": null
+    },
+    {
+      "name": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -3202,12 +3208,6 @@
       "injury_status": null
     },
     {
-      "name": "Mike Evans",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Mike Gesicki",
       "position": "TE",
       "team": "CIN",
@@ -3613,6 +3613,12 @@
       "name": "Riley Nowakowski",
       "position": "RB",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Riley Patterson",
+      "position": "K",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -5125,17 +5131,17 @@
           "team": "LAC"
         },
         {
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC"
-        },
-        {
           "name": "Jonah Coleman",
           "position": "RB",
           "team": "DEN"
         },
         {
           "name": "Keenan Allen",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
+          "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
         },
