@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-12T14:06:04.975Z",
+  "generated_at": "2026-11-12T21:37:46.101Z",
   "free_agent_count": 716,
   "free_agents": [
     {
@@ -1450,12 +1450,6 @@
       "injury_status": null
     },
     {
-      "name": "Gary Jennings",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
@@ -1526,6 +1520,12 @@
       "position": "WR",
       "team": "NYG",
       "injury_status": "IR"
+    },
+    {
+      "name": "Harrison Mevis",
+      "position": "K",
+      "team": "BAL",
+      "injury_status": null
     },
     {
       "name": "Harrison Wallace III",
@@ -3199,7 +3199,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Noah Gray",
