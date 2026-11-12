@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-12T14:12:35.180Z",
+  "generated_at": "2026-11-12T21:38:37.706Z",
   "free_agent_count": 749,
   "free_agents": [
     {
@@ -121,7 +121,7 @@
       "name": "Alvin Kamara",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Amar Johnson",
@@ -1552,12 +1552,6 @@
       "injury_status": null
     },
     {
-      "name": "Gary Jennings",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
@@ -1633,6 +1627,12 @@
       "name": "Harrison Butker",
       "position": "K",
       "team": "KC",
+      "injury_status": null
+    },
+    {
+      "name": "Harrison Mevis",
+      "position": "K",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3379,7 +3379,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Noah Gray",
