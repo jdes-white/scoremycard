@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-12T14:31:36.419Z",
-  "free_agent_count": 806,
+  "generated_at": "2026-11-12T21:41:55.663Z",
+  "free_agent_count": 805,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -133,7 +133,7 @@
       "name": "Alvin Kamara",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Amar Johnson",
@@ -1648,12 +1648,6 @@
       "injury_status": "Questionable"
     },
     {
-      "name": "Gary Jennings",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Gavin Bartholomew",
       "position": "TE",
       "team": "MIN",
@@ -2221,7 +2215,7 @@
       "name": "Jared Goff",
       "position": "QB",
       "team": "DET",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jared Wayne",
@@ -3589,7 +3583,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Noah Gray",
@@ -3847,7 +3841,7 @@
       "name": "Rhamondre Stevenson",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Doubtful"
+      "injury_status": "Questionable"
     },
     {
       "name": "Ricky Pearsall",
@@ -4381,7 +4375,7 @@
       "name": "Tony Pollard",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tory Horton",
