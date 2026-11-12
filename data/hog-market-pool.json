@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-12T04:35:59.797Z",
+  "generated_at": "2026-11-12T14:06:04.975Z",
   "free_agent_count": 716,
   "free_agents": [
     {
@@ -229,12 +229,6 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
-      "injury_status": null
-    },
-    {
-      "name": "Baltimore Ravens",
-      "position": "DEF",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -523,6 +517,12 @@
       "name": "Caden Prieskorn",
       "position": "TE",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Cairo Santos",
+      "position": "K",
+      "team": "CHI",
       "injury_status": null
     },
     {
@@ -2644,6 +2644,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "Kyle Pitts Sr.",
+      "position": "TE",
+      "team": "ATL",
+      "injury_status": null
+    },
+    {
       "name": "Kyle Trask",
       "position": "QB",
       "team": "DAL",
@@ -3118,9 +3124,9 @@
       "injury_status": null
     },
     {
-      "name": "New York Giants",
+      "name": "New Orleans Saints",
       "position": "DEF",
-      "team": "NYG",
+      "team": "NO",
       "injury_status": null
     },
     {
@@ -3421,6 +3427,12 @@
       "name": "Riley Nowakowski",
       "position": "RB",
       "team": "PIT",
+      "injury_status": null
+    },
+    {
+      "name": "Riley Patterson",
+      "position": "K",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3988,12 +4000,6 @@
       "injury_status": null
     },
     {
-      "name": "Tucker Kraft",
-      "position": "TE",
-      "team": "GB",
-      "injury_status": null
-    },
-    {
       "name": "Tutu Atwell",
       "position": "WR",
       "team": "LAR",
@@ -4177,12 +4183,6 @@
       "name": "Will Pauling",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Will Reichard",
-      "position": "K",
-      "team": "MIN",
       "injury_status": null
     },
     {
@@ -4822,14 +4822,14 @@
           "team": "PHI"
         },
         {
-          "name": "Kyle Pitts Sr.",
-          "position": "TE",
-          "team": "ATL"
-        },
-        {
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB"
         },
         {
           "name": "San Francisco 49ers",
@@ -5207,6 +5207,11 @@
           "team": "NYJ"
         },
         {
+          "name": "Will Reichard",
+          "position": "K",
+          "team": "MIN"
+        },
+        {
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU"
@@ -5215,11 +5220,6 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "name": "Cairo Santos",
-          "position": "K",
-          "team": "CHI"
         },
         {
           "name": "Stefon Diggs",
@@ -5275,6 +5275,11 @@
           "name": "Chicago Bears",
           "position": "DEF",
           "team": "CHI"
+        },
+        {
+          "name": "New York Giants",
+          "position": "DEF",
+          "team": "NYG"
         }
       ]
     },
@@ -5364,9 +5369,9 @@
           "team": "BAL"
         },
         {
-          "name": "New Orleans Saints",
+          "name": "Baltimore Ravens",
           "position": "DEF",
-          "team": "NO"
+          "team": "BAL"
         }
       ]
     }
