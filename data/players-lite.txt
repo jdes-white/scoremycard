@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-12T01:33:58.675Z)
+# id|name|pos|team  (generated 2026-11-13T00:32:14.634Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -169,7 +169,6 @@
 6012|Travis Homer|RB|PIT
 6016|Dax Raymond|TE|PIT
 6039|Ty Johnson|RB|BUF
-6045|Gary Jennings|WR|LAC
 6083|Matt Gay|K|LV
 6109|Alec Ingold|FB|LAC
 6111|Jake Browning|QB|LAC
@@ -290,6 +289,7 @@
 7865|Brandon Smith|WR|PIT
 7868|Mason Stokke|FB|CAR
 7891|Brock Wright|TE|DET
+7922|Riley Patterson|K|BAL
 7933|Alex Kessman|K|CAR
 7946|Jack Stoll|TE|SF
 8002|Shane Buechele|QB|BUF
@@ -473,6 +473,7 @@
 11299|Zavier Scott|RB|CHI
 11304|E.J. Jenkins|TE|ATL
 11306|Xavier Gipson|WR|PHI
+11320|Nikko Remigio|WR|HOU
 11370|Chris Brooks|RB|GB
 11371|Julian Hill|TE|NE
 11377|Tyrell Shavers|WR|BUF
@@ -569,6 +570,7 @@
 11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
+12015|Harrison Mevis|K|BAL
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|CIN
