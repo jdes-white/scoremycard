@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-13T13:49:51.224Z",
-  "free_agent_count": 807,
+  "generated_at": "2026-11-13T21:08:34.823Z",
+  "free_agent_count": 806,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -463,7 +463,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brevyn Spann-Ford",
@@ -661,7 +661,7 @@
       "name": "Carnell Tate",
       "position": "WR",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carsen Ryan",
@@ -757,7 +757,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Chris Blair",
@@ -781,7 +781,7 @@
       "name": "Chris Collier",
       "position": "RB",
       "team": "LV",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Godwin Jr.",
@@ -829,7 +829,7 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "CJ Williams",
@@ -1771,7 +1771,7 @@
       "name": "Hunter Henry",
       "position": "TE",
       "team": "NE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Hunter Long",
@@ -2077,7 +2077,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -3232,12 +3232,6 @@
       "injury_status": null
     },
     {
-      "name": "Marquise Brown",
-      "position": "WR",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Marshall Lang",
       "position": "TE",
       "team": "MIN",
@@ -3253,7 +3247,7 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Marvin Mims Jr.",
@@ -3367,7 +3361,7 @@
       "name": "Michael Burton",
       "position": "FB",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Michael Carter",
@@ -3469,7 +3463,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Moliki Matavao",
@@ -3631,7 +3625,7 @@
       "name": "Omar Cooper Jr.",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Omari Evans",
@@ -3724,7 +3718,7 @@
       "injury_status": null
     },
     {
-      "name": "Phillip Dorsett II",
+      "name": "Phillip Dorsett",
       "position": "WR",
       "team": "ARI",
       "injury_status": null
@@ -4381,7 +4375,7 @@
       "name": "Tony Pollard",
       "position": "RB",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tory Horton",
@@ -4723,7 +4717,7 @@
       "name": "Woody Marks",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Wyatt Houston",
@@ -4801,7 +4795,7 @@
       "name": "Zachariah Branch",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Zaire Mitchell-Paden",
@@ -4843,7 +4837,7 @@
       "name": "Zonovan Knight",
       "position": "RB",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": null
     }
   ],
   "rosters": [
