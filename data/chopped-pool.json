@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-12T21:41:55.663Z",
-  "free_agent_count": 805,
+  "generated_at": "2026-11-13T04:46:16.497Z",
+  "free_agent_count": 807,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -235,7 +235,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Audric Estime",
@@ -361,7 +361,7 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Bo Nix",
@@ -745,7 +745,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chimere Dike",
@@ -2221,7 +2221,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jared Wiley",
@@ -2293,7 +2293,7 @@
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylen Waddle",
@@ -2665,7 +2665,7 @@
       "name": "Justin Herbert",
       "position": "QB",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Justin Joly",
@@ -2779,7 +2779,7 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kedon Slovis",
@@ -3574,6 +3574,12 @@
       "injury_status": null
     },
     {
+      "name": "Nikko Remigio",
+      "position": "WR",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Nikola Kalinic",
       "position": "TE",
       "team": "CHI",
@@ -3739,7 +3745,7 @@
       "name": "Puka Nacua",
       "position": "WR",
       "team": "LAR",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Qadir Ismail",
@@ -3817,7 +3823,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ray Davis",
@@ -4183,7 +4189,7 @@
       "name": "Tank Dell",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tanner Arkin",
@@ -4303,7 +4309,7 @@
       "name": "Thomas Fidone II",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Thomas Gordon",
@@ -4423,7 +4429,7 @@
       "name": "Tre' Harris",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trebor Pena",
@@ -4573,13 +4579,19 @@
       "name": "Tyler Higbee",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
       "injury_status": "IR"
+    },
+    {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": null
     },
     {
       "name": "Tyler Shough",
