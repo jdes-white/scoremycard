@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-12T21:37:46.101Z",
-  "free_agent_count": 716,
+  "generated_at": "2026-11-13T03:49:13.624Z",
+  "free_agent_count": 718,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -211,7 +211,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Atlanta Falcons",
@@ -325,7 +325,7 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Brady Cook",
@@ -598,12 +598,6 @@
       "injury_status": null
     },
     {
-      "name": "Carson Beck",
-      "position": "QB",
-      "team": "ARI",
-      "injury_status": null
-    },
-    {
       "name": "Carson Towt",
       "position": "TE",
       "team": "IND",
@@ -685,7 +679,7 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Chimere Dike",
@@ -1432,6 +1426,12 @@
       "injury_status": null
     },
     {
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "team": "ARI",
+      "injury_status": "IR"
+    },
+    {
       "name": "Garrett Greene",
       "position": "QB",
       "team": "TB",
@@ -1963,7 +1963,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jared Wiley",
@@ -2035,7 +2035,7 @@
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jaylen Wright",
@@ -2467,7 +2467,7 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kedon Slovis",
@@ -3016,6 +3016,12 @@
       "injury_status": null
     },
     {
+      "name": "Michael Pittman Jr.",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": "IR"
+    },
+    {
       "name": "Michael Trigg",
       "position": "TE",
       "team": "DAL",
@@ -3187,6 +3193,12 @@
       "name": "Nick Williams",
       "position": "WR",
       "team": "DEN",
+      "injury_status": null
+    },
+    {
+      "name": "Nikko Remigio",
+      "position": "WR",
+      "team": "HOU",
       "injury_status": null
     },
     {
@@ -3385,7 +3397,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ray Davis",
@@ -3829,7 +3841,7 @@
       "name": "Thomas Fidone II",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Thomas Gordon",
@@ -3931,7 +3943,7 @@
       "name": "Tre' Harris",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Trebor Pena",
@@ -3973,7 +3985,7 @@
       "name": "Trey Smack",
       "position": "K",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treylon Burks",
@@ -3997,12 +4009,6 @@
       "name": "Tua Tagovailoa",
       "position": "QB",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Tutu Atwell",
-      "position": "WR",
-      "team": "LAR",
       "injury_status": null
     },
     {
@@ -4063,7 +4069,7 @@
       "name": "Tyler Higbee",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Huntley",
@@ -4076,6 +4082,12 @@
       "position": "K",
       "team": "BAL",
       "injury_status": "IR"
+    },
+    {
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": null
     },
     {
       "name": "Tyquan Thornton",
@@ -4312,11 +4324,6 @@
           "team": "DEN"
         },
         {
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC"
@@ -4350,6 +4357,11 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
+        },
+        {
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "name": "A.J. Brown",
@@ -4680,6 +4692,11 @@
           "team": "WAS"
         },
         {
+          "name": "Carson Beck",
+          "position": "QB",
+          "team": "ARI"
+        },
+        {
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
@@ -4708,11 +4725,6 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "team": "ARI"
         },
         {
           "name": "Trevor Lawrence",
@@ -4941,6 +4953,11 @@
           "team": "DET"
         },
         {
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
+        },
+        {
           "name": "Adonai Mitchell",
           "position": "WR",
           "team": "NYJ"
@@ -4979,11 +4996,6 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
         },
         {
           "name": "Tee Higgins",
@@ -5242,14 +5254,14 @@
           "team": "LAC"
         },
         {
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "name": "Jaylen Waddle",
           "position": "WR",
           "team": "DEN"
+        },
+        {
+          "name": "Tutu Atwell",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "name": "Nico Collins",
