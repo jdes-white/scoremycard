@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-14T12:40:40.274Z",
+  "generated_at": "2026-11-14T19:34:05.734Z",
   "free_agent_count": 750,
   "free_agents": [
     {
@@ -1027,7 +1027,7 @@
       "name": "David Montgomery",
       "position": "RB",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "David Moore",
@@ -3157,7 +3157,7 @@
       "name": "Michael Burton",
       "position": "FB",
       "team": "CLE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Michael Carter",
@@ -3235,7 +3235,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Moliki Matavao",
@@ -3445,7 +3445,7 @@
       "name": "Pat Freiermuth",
       "position": "TE",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Patrick Gurd",
@@ -4243,7 +4243,7 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "team": "DAL",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyler Higbee",
@@ -4369,7 +4369,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Will Pauling",
@@ -4417,7 +4417,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Xavier Restrepo",
