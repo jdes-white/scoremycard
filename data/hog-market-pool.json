@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-14T12:36:54.934Z",
+  "generated_at": "2026-11-14T19:32:30.707Z",
   "free_agent_count": 717,
   "free_agents": [
     {
@@ -3001,7 +3001,7 @@
       "name": "Michael Burton",
       "position": "FB",
       "team": "CLE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Michael Carter",
@@ -3067,7 +3067,7 @@
       "name": "Mo Alie-Cox",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Moliki Matavao",
@@ -4057,7 +4057,7 @@
       "name": "Tyler Goodson",
       "position": "RB",
       "team": "DAL",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Tyler Higbee",
@@ -4183,7 +4183,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Will Pauling",
@@ -4231,7 +4231,7 @@
       "name": "Xavier Legette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Xavier Restrepo",
