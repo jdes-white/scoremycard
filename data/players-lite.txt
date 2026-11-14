@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-13T00:32:14.634Z)
+# id|name|pos|team  (generated 2026-11-14T00:21:45.579Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -31,7 +31,7 @@
 2216|Mike Evans|WR|SF
 2306|Jameis Winston|QB|NYG
 2307|Marcus Mariota|QB|WAS
-2334|Phillip Dorsett II|WR|ARI
+2334|Phillip Dorsett|WR|ARI
 2359|Ameer Abdullah|RB|JAX
 2449|Stefon Diggs|WR|WAS
 2471|Michael Burton|FB|CLE
@@ -144,7 +144,6 @@
 5844|T.J. Hockenson|TE|MIN
 5845|Dwayne Haskins|QB|PIT
 5846|DK Metcalf|WR|PIT
-5848|Marquise Brown|WR|PHI
 5849|Kyler Murray|QB|MIN
 5850|Josh Jacobs|RB|GB
 5854|Drew Lock|QB|SEA
@@ -399,6 +398,7 @@
 9486|Dontayvion Wicks|WR|PHI
 9487|Parker Washington|WR|JAX
 9488|Jaxon Smith-Njigba|WR|SEA
+9490|Tyler Scott|WR|LAR
 9493|Puka Nacua|WR|LAR
 9494|Marvin Mims Jr.|WR|DEN
 9497|Jalin Hyatt|WR|NYG
