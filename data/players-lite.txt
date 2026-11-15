@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-14T23:01:59.554Z)
+# id|name|pos|team  (generated 2026-11-15T23:24:37.117Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -270,7 +270,6 @@
 7600|Pat Freiermuth|TE|PIT
 7602|Kylen Granson|TE|TEN
 7605|Kyle Trask|QB|DAL
-7607|Michael Carter|RB|TEN
 7608|Khalil Herbert|RB|ATL
 7610|Trey Lance|QB|LAC
 7611|Rhamondre Stevenson|RB|NE
@@ -685,7 +684,6 @@
 12797|Ahmani Marshall|RB|CAR
 12803|Luke Grimm|WR|LAC
 12817|Jake Briningstool|TE|KC
-12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
 12860|Theo Wease Jr.|WR|LAC
 12863|Andrew Armstrong|WR|KC
@@ -725,6 +723,7 @@
 13173|Jimmy Holiday|WR|KC
 13179|Ja'seem Reed|WR|CAR
 13199|Montorie Foster Jr.|WR|SEA
+13200|Max Hurleman|WR|PIT
 13210|Drake Dabney|TE|GB
 13213|Lucas Scott|FB|BAL
 13249|Thomas Gordon|TE|DET
@@ -865,7 +864,6 @@
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
-13861|Daniel Sobkowicz|WR|HOU
 13870|Quentin Moore|TE|WAS
 13890|Michael Briscoe|WR|MIN
 13904|Jacob De Jesus|WR|KC
