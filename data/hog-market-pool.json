@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-15T00:27:48.327Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-11-15T10:01:52.216Z",
+  "free_agent_count": 718,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -748,6 +748,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Cincinnati Bengals",
+      "position": "DEF",
+      "team": "CIN",
+      "injury_status": null
+    },
+    {
       "name": "CJ Daniels",
       "position": "WR",
       "team": "LAR",
@@ -949,12 +955,6 @@
       "name": "Darren Fells",
       "position": "TE",
       "team": "TB",
-      "injury_status": null
-    },
-    {
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -1580,12 +1580,6 @@
       "position": "WR",
       "team": "CAR",
       "injury_status": "Out"
-    },
-    {
-      "name": "Indianapolis Colts",
-      "position": "DEF",
-      "team": "IND",
-      "injury_status": null
     },
     {
       "name": "Irvin Charles",
@@ -2962,6 +2956,12 @@
       "injury_status": null
     },
     {
+      "name": "Max Hurleman",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": "Out"
+    },
+    {
       "name": "Max Klare",
       "position": "TE",
       "team": "LAR",
@@ -3688,6 +3688,12 @@
       "injury_status": "Out"
     },
     {
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "team": "MIN",
+      "injury_status": "Out"
+    },
+    {
       "name": "Tahj Brooks",
       "position": "RB",
       "team": "CIN",
@@ -4353,14 +4359,14 @@
           "team": "TEN"
         },
         {
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
+        },
+        {
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
         },
         {
           "name": "Rico Dowdle",
@@ -5191,9 +5197,9 @@
           "team": "JAX"
         },
         {
-          "name": "Cincinnati Bengals",
+          "name": "Indianapolis Colts",
           "position": "DEF",
-          "team": "CIN"
+          "team": "IND"
         }
       ]
     },
