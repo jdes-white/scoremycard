@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-15T00:29:52.002Z",
-  "free_agent_count": 749,
+  "generated_at": "2026-11-15T10:07:20.644Z",
+  "free_agent_count": 750,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1660,12 +1660,6 @@
       "injury_status": null
     },
     {
-      "name": "Hunter Henry",
-      "position": "TE",
-      "team": "NE",
-      "injury_status": null
-    },
-    {
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
@@ -3046,6 +3040,12 @@
       "injury_status": null
     },
     {
+      "name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team": "HOU",
+      "injury_status": "Out"
+    },
+    {
       "name": "Marvin Mims Jr.",
       "position": "WR",
       "team": "DEN",
@@ -3116,6 +3116,12 @@
       "position": "QB",
       "team": "MIN",
       "injury_status": null
+    },
+    {
+      "name": "Max Hurleman",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": "Out"
     },
     {
       "name": "Max Klare",
@@ -4808,11 +4814,6 @@
       "owner": "farrows",
       "players": [
         {
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
@@ -4836,6 +4837,11 @@
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
+        },
+        {
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "name": "Ka'imi Fairbairn",
