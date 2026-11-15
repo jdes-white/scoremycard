@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-15T00:39:54.040Z",
-  "free_agent_count": 806,
+  "generated_at": "2026-11-15T10:18:38.173Z",
+  "free_agent_count": 807,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -3326,6 +3326,12 @@
       "position": "QB",
       "team": "MIN",
       "injury_status": null
+    },
+    {
+      "name": "Max Hurleman",
+      "position": "WR",
+      "team": "PIT",
+      "injury_status": "Out"
     },
     {
       "name": "Max Klare",
