@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-14T19:39:55.882Z",
+  "generated_at": "2026-11-15T00:39:54.040Z",
   "free_agent_count": 806,
   "free_agents": [
     {
@@ -445,7 +445,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Brennan Presley",
@@ -775,7 +775,7 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Chris Collier",
@@ -1777,7 +1777,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Hunter Luepke",
@@ -2599,7 +2599,7 @@
       "name": "Josh Whyle",
       "position": "TE",
       "team": "GB",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Josh Williams",
@@ -2779,7 +2779,7 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Kedon Slovis",
@@ -3829,7 +3829,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -4111,7 +4111,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Spencer Rattler",
@@ -4387,7 +4387,7 @@
       "name": "Travis Etienne Jr.",
       "position": "RB",
       "team": "NO",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Travis Homer",
@@ -4441,7 +4441,7 @@
       "name": "TreVeyon Henderson",
       "position": "RB",
       "team": "NE",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Trevor Etienne",
