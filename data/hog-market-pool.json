@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-16T00:29:29.812Z",
-  "free_agent_count": 715,
+  "generated_at": "2026-11-16T10:15:53.138Z",
+  "free_agent_count": 714,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -3316,12 +3316,6 @@
       "injury_status": null
     },
     {
-      "name": "Quentin Johnston",
-      "position": "WR",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Quentin Moore",
       "position": "TE",
       "team": "WAS",
@@ -5090,6 +5084,11 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "team": "PIT"
+        },
+        {
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "name": "Minnesota Vikings",
