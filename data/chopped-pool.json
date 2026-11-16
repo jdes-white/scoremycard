@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-16T10:33:22.016Z",
-  "free_agent_count": 804,
+  "generated_at": "2026-11-16T21:33:42.249Z",
+  "free_agent_count": 807,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -910,6 +910,12 @@
       "injury_status": null
     },
     {
+      "name": "Cooper Rush",
+      "position": "QB",
+      "team": "TB",
+      "injury_status": null
+    },
+    {
       "name": "Corey Kiner",
       "position": "RB",
       "team": "NE",
@@ -1081,7 +1087,7 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Allen",
@@ -1723,6 +1729,12 @@
       "name": "Harold Fannin Jr.",
       "position": "TE",
       "team": "CLE",
+      "injury_status": null
+    },
+    {
+      "name": "Harrison Bryant",
+      "position": "TE",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -3979,6 +3991,12 @@
       "name": "Samaje Perine",
       "position": "RB",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Samori Toure",
+      "position": "WR",
+      "team": "IND",
       "injury_status": null
     },
     {
