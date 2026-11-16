@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-16T10:20:39.473Z",
-  "free_agent_count": 748,
+  "generated_at": "2026-11-16T21:23:43.352Z",
+  "free_agent_count": 751,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -892,6 +892,12 @@
       "injury_status": null
     },
     {
+      "name": "Cooper Rush",
+      "position": "QB",
+      "team": "TB",
+      "injury_status": null
+    },
+    {
       "name": "Craig Reynolds",
       "position": "RB",
       "team": "WAS",
@@ -1604,6 +1610,12 @@
       "position": "WR",
       "team": "NYG",
       "injury_status": "IR"
+    },
+    {
+      "name": "Harrison Bryant",
+      "position": "TE",
+      "team": "IND",
+      "injury_status": null
     },
     {
       "name": "Harrison Butker",
@@ -3727,6 +3739,12 @@
       "name": "Samaje Perine",
       "position": "RB",
       "team": "CIN",
+      "injury_status": null
+    },
+    {
+      "name": "Samori Toure",
+      "position": "WR",
+      "team": "IND",
       "injury_status": null
     },
     {
