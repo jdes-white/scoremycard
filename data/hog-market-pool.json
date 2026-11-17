@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-16T21:20:12.624Z",
-  "free_agent_count": 717,
+  "generated_at": "2026-11-17T05:26:55.186Z",
+  "free_agent_count": 723,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -163,7 +163,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Anthony Richardson Sr.",
@@ -397,12 +397,18 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Brennan Presley",
       "position": "WR",
       "team": "LAR",
+      "injury_status": null
+    },
+    {
+      "name": "Brett Rypien",
+      "position": "QB",
+      "team": "LV",
       "injury_status": null
     },
     {
@@ -961,7 +967,13 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "injury_status": "IR"
+      "injury_status": null
+    },
+    {
+      "name": "David Sills V",
+      "position": "WR",
+      "team": "TB",
+      "injury_status": null
     },
     {
       "name": "Davis Allen",
@@ -1321,7 +1333,7 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emanuel Wilson",
@@ -1544,6 +1556,12 @@
       "position": "TE",
       "team": "CHI",
       "injury_status": "IR"
+    },
+    {
+      "name": "Hayden Rucci",
+      "position": "TE",
+      "team": "PHI",
+      "injury_status": null
     },
     {
       "name": "Haynes King",
@@ -1990,6 +2008,12 @@
       "injury_status": null
     },
     {
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null
+    },
+    {
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
@@ -2030,6 +2054,12 @@
       "position": "RB",
       "team": "KC",
       "injury_status": "Out"
+    },
+    {
+      "name": "Jaydon Blue",
+      "position": "RB",
+      "team": "PHI",
+      "injury_status": null
     },
     {
       "name": "Jaylen Wright",
@@ -2467,7 +2497,7 @@
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Keleki Latu",
@@ -2846,6 +2876,12 @@
       "position": "WR",
       "team": "NYJ",
       "injury_status": null
+    },
+    {
+      "name": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "injury_status": "IR"
     },
     {
       "name": "Marcus Mariota",
@@ -3241,7 +3277,7 @@
       "name": "Oronde Gadsden",
       "position": "TE",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Oscar Delp",
@@ -3940,7 +3976,7 @@
       "injury_status": null
     },
     {
-      "name": "Trebor Pena",
+      "name": "Trebor Peña",
       "position": "WR",
       "team": "JAX",
       "injury_status": null
@@ -4212,7 +4248,7 @@
     {
       "name": "Xavier Gipson",
       "position": "WR",
-      "team": "PHI",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -5261,11 +5297,6 @@
           "name": "Tutu Atwell",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
         },
         {
           "name": "Chase Brown",
