@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-17T05:38:24.369Z",
-  "free_agent_count": 756,
+  "generated_at": "2026-11-17T15:06:41.650Z",
+  "free_agent_count": 757,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2830,6 +2830,12 @@
       "injury_status": null
     },
     {
+      "name": "Kyle Pitts Sr.",
+      "position": "TE",
+      "team": "ATL",
+      "injury_status": null
+    },
+    {
       "name": "Kyle Trask",
       "position": "QB",
       "team": "DAL",
@@ -5196,11 +5202,6 @@
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "name": "Kyle Pitts Sr.",
-          "position": "TE",
-          "team": "ATL"
         },
         {
           "name": "Kenneth Walker III",
