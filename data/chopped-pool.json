@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-17T06:13:19.105Z",
-  "free_agent_count": 824,
+  "generated_at": "2026-11-17T18:05:24.429Z",
+  "free_agent_count": 822,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -448,12 +448,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "Brennan Presley",
-      "position": "WR",
-      "team": "LAR",
-      "injury_status": null
-    },
-    {
       "name": "Brenton Strange",
       "position": "TE",
       "team": "JAX",
@@ -727,12 +721,6 @@
       "name": "Chandler Brayboy",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "Charlie Jones",
-      "position": "WR",
-      "team": "NYG",
       "injury_status": null
     },
     {
