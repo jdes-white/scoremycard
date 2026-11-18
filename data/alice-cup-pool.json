@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-18T10:51:53.852Z",
-  "free_agent_count": 765,
+  "generated_at": "2026-11-18T19:43:19.789Z",
+  "free_agent_count": 758,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -25,7 +25,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Adam Trautman",
@@ -43,12 +43,6 @@
       "name": "Adrian Killins",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Adrian Martinez",
-      "position": "QB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -550,12 +544,6 @@
       "injury_status": null
     },
     {
-      "name": "Bub Means",
-      "position": "WR",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
       "name": "Cade Klubnik",
       "position": "QB",
       "team": "NYJ",
@@ -649,12 +637,6 @@
       "name": "Carolina Panthers",
       "position": "DEF",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1474,12 +1456,6 @@
       "injury_status": null
     },
     {
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Eric Rivers Jr.",
       "position": "WR",
       "team": "TB",
@@ -1666,12 +1642,6 @@
       "injury_status": null
     },
     {
-      "name": "Harrison Mevis",
-      "position": "K",
-      "team": "BAL",
-      "injury_status": null
-    },
-    {
       "name": "Harrison Wallace III",
       "position": "WR",
       "team": "ARI",
@@ -1801,7 +1771,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Isiah Pacheco",
@@ -1933,12 +1903,6 @@
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Jacob De Jesus",
-      "position": "WR",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -2137,12 +2101,6 @@
       "name": "James Mitchell",
       "position": "TE",
       "team": "DAL",
-      "injury_status": null
-    },
-    {
-      "name": "James Proche II",
-      "position": "WR",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -2932,12 +2890,6 @@
       "injury_status": null
     },
     {
-      "name": "Lenny Krieg",
-      "position": "K",
-      "team": "GB",
-      "injury_status": null
-    },
-    {
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
@@ -3613,6 +3565,12 @@
       "name": "Quentin Moore",
       "position": "TE",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "Quentin Skinner",
+      "position": "WR",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -4375,7 +4333,7 @@
       "name": "Tyrell Shavers",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "PUP"
+      "injury_status": null
     },
     {
       "name": "Tyren Montgomery",
@@ -4465,7 +4423,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Will Pauling",
