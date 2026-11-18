@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-18T10:59:56.255Z",
-  "free_agent_count": 831,
+  "generated_at": "2026-11-18T19:52:58.522Z",
+  "free_agent_count": 826,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -37,7 +37,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Adam Trautman",
@@ -55,12 +55,6 @@
       "name": "Adrian Killins",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Adrian Martinez",
-      "position": "QB",
-      "team": "SEA",
       "injury_status": null
     },
     {
@@ -346,6 +340,12 @@
       "injury_status": null
     },
     {
+      "name": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "injury_status": null
+    },
+    {
       "name": "Blake Bortles",
       "position": "QB",
       "team": "NO",
@@ -520,12 +520,6 @@
       "injury_status": "IR"
     },
     {
-      "name": "Brock Bowers",
-      "position": "TE",
-      "team": "LV",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Brock Lampe",
       "position": "FB",
       "team": "BUF",
@@ -565,18 +559,6 @@
       "name": "Brycen Tremayne",
       "position": "WR",
       "team": "CAR",
-      "injury_status": null
-    },
-    {
-      "name": "Bub Means",
-      "position": "WR",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -686,12 +668,6 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
-      "injury_status": null
     },
     {
       "name": "Carson Beck",
@@ -980,12 +956,6 @@
       "position": "WR",
       "team": "IND",
       "injury_status": "IR"
-    },
-    {
-      "name": "Dak Prescott",
-      "position": "QB",
-      "team": "DAL",
-      "injury_status": null
     },
     {
       "name": "Dalen Cambre",
@@ -1384,6 +1354,18 @@
       "injury_status": null
     },
     {
+      "name": "Drake London",
+      "position": "WR",
+      "team": "ATL",
+      "injury_status": "Questionable"
+    },
+    {
+      "name": "Drake Maye",
+      "position": "QB",
+      "team": "NE",
+      "injury_status": "Out"
+    },
+    {
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
@@ -1576,12 +1558,6 @@
       "injury_status": null
     },
     {
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Eric Rivers Jr.",
       "position": "WR",
       "team": "TB",
@@ -1700,12 +1676,6 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": "Out"
-    },
-    {
-      "name": "George Pickens",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -1909,7 +1879,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Isiah Pacheco",
@@ -2041,12 +2011,6 @@
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Jacob De Jesus",
-      "position": "WR",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -2260,12 +2224,6 @@
       "injury_status": null
     },
     {
-      "name": "James Proche II",
-      "position": "WR",
-      "team": "ARI",
-      "injury_status": null
-    },
-    {
       "name": "Jameson Williams",
       "position": "WR",
       "team": "DET",
@@ -2330,6 +2288,12 @@
       "position": "RB",
       "team": "HOU",
       "injury_status": "Out"
+    },
+    {
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA",
+      "injury_status": null
     },
     {
       "name": "Jaxson Dart",
@@ -3814,12 +3778,6 @@
       "injury_status": null
     },
     {
-      "name": "Patrick Mahomes",
-      "position": "QB",
-      "team": "KC",
-      "injury_status": null
-    },
-    {
       "name": "Patrick Ricard",
       "position": "FB",
       "team": "NYG",
@@ -3883,6 +3841,12 @@
       "name": "Quentin Moore",
       "position": "TE",
       "team": "WAS",
+      "injury_status": null
+    },
+    {
+      "name": "Quentin Skinner",
+      "position": "WR",
+      "team": "PHI",
       "injury_status": null
     },
     {
@@ -4426,6 +4390,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR",
+      "injury_status": null
+    },
+    {
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
@@ -4759,7 +4729,7 @@
       "name": "Tyrell Shavers",
       "position": "WR",
       "team": "BUF",
-      "injury_status": "PUP"
+      "injury_status": null
     },
     {
       "name": "Tyren Montgomery",
@@ -4843,7 +4813,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Will Pauling",
@@ -5111,19 +5081,19 @@
           "team": "KC"
         },
         {
-          "name": "Drake Maye",
-          "position": "QB",
-          "team": "NE"
-        },
-        {
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
         },
         {
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR"
+          "name": "Brock Bowers",
+          "position": "TE",
+          "team": "LV"
+        },
+        {
+          "name": "Dak Prescott",
+          "position": "QB",
+          "team": "DAL"
         },
         {
           "name": "Christian McCaffrey",
@@ -5131,19 +5101,24 @@
           "team": "SF"
         },
         {
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
+        },
+        {
           "name": "Javonte Williams",
           "position": "RB",
           "team": "DAL"
         },
         {
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
-        },
-        {
           "name": "Trey McBride",
           "position": "TE",
           "team": "ARI"
+        },
+        {
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "name": "James Cook III",
@@ -5156,14 +5131,9 @@
           "team": "PIT"
         },
         {
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA"
-        },
-        {
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL"
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
         }
       ]
     },
