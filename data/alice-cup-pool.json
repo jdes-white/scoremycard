@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-17T15:06:41.650Z",
-  "free_agent_count": 757,
+  "generated_at": "2026-11-18T00:10:35.237Z",
+  "free_agent_count": 762,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -370,6 +370,12 @@
       "injury_status": null
     },
     {
+      "name": "Brady Boyd",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "Brady Cook",
       "position": "QB",
       "team": "MIA",
@@ -440,12 +446,6 @@
       "position": "WR",
       "team": "LAC",
       "injury_status": "Out"
-    },
-    {
-      "name": "Brennan Presley",
-      "position": "WR",
-      "team": "LAR",
-      "injury_status": null
     },
     {
       "name": "Brett Rypien",
@@ -700,12 +700,6 @@
       "injury_status": null
     },
     {
-      "name": "Charlie Jones",
-      "position": "WR",
-      "team": "NYG",
-      "injury_status": null
-    },
-    {
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
@@ -880,6 +874,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Coleman Owen",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
@@ -967,6 +967,12 @@
       "name": "Daniel Bellinger",
       "position": "TE",
       "team": "TEN",
+      "injury_status": null
+    },
+    {
+      "name": "Daniel Carlson",
+      "position": "K",
+      "team": "MIA",
       "injury_status": null
     },
     {
@@ -1357,6 +1363,12 @@
       "name": "Efton Chism III",
       "position": "WR",
       "team": "NE",
+      "injury_status": null
+    },
+    {
+      "name": "EJ Smith",
+      "position": "RB",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -2086,6 +2098,12 @@
       "injury_status": null
     },
     {
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null
+    },
+    {
       "name": "Jameis Winston",
       "position": "QB",
       "team": "NYG",
@@ -2332,6 +2350,12 @@
       "injury_status": null
     },
     {
+      "name": "John FitzPatrick",
+      "position": "TE",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "John Metchie III",
       "position": "WR",
       "team": "CAR",
@@ -2509,6 +2533,12 @@
       "name": "Joshua Pitsenberger",
       "position": "RB",
       "team": "HOU",
+      "injury_status": null
+    },
+    {
+      "name": "Joshua Simon",
+      "position": "TE",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -3706,6 +3736,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Ronnie Bell",
+      "position": "WR",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
@@ -4513,12 +4549,6 @@
       "name": "Zamir White",
       "position": "RB",
       "team": "NO",
-      "injury_status": null
-    },
-    {
-      "name": "Zane Gonzalez",
-      "position": "K",
-      "team": "MIA",
       "injury_status": null
     },
     {
