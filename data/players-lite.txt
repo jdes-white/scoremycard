@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-17T02:30:01.916Z)
+# id|name|pos|team  (generated 2026-11-18T01:39:44.525Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -85,7 +85,6 @@
 4217|George Kittle|TE|SF
 4219|Jeremy McNichols|RB|WAS
 4227|Harrison Butker|K|KC
-4233|Zane Gonzalez|K|MIA
 4263|Elijah McGuire|RB|KC
 4274|David Moore|WR|CAR
 4314|Johnny Mundt|TE|PHI
@@ -128,6 +127,7 @@
 5022|Dallas Goedert|TE|PHI
 5045|Courtland Sutton|WR|DEN
 5086|Marquez Valdes-Scantling|WR|PIT
+5095|Daniel Carlson|K|MIA
 5119|Jason Sanders|K|NYJ
 5121|Braxton Berrios|WR|NYG
 5127|Kyle Allen|QB|BUF
@@ -372,6 +372,7 @@
 8423|Brittain Brown|RB|CHI
 8484|Ko Kieft|TE|TB
 8489|Drew Ogletree|TE|IND
+8500|John FitzPatrick|TE|KC
 8523|Nick Muse|TE|ATL
 8527|Dareke Young|WR|LV
 8583|Stone Smartt|TE|NO
@@ -431,13 +432,13 @@
 10218|Xavier Hutchinson|WR|HOU
 10219|Chris Rodriguez Jr.|RB|JAX
 10220|Will Mallory|TE|IND
+10221|Ronnie Bell|WR|ARI
 10222|Jayden Reed|WR|GB
 10223|Eric Gray|RB|NYG
 10224|Brayden Willis|TE|SF
 10225|Jonathan Mingo|WR|DAL
 10226|Andrei Iosivas|WR|CIN
 10227|Payne Durham|TE|TB
-10228|Charlie Jones|WR|NYG
 10229|Rashee Rice|WR|KC
 10231|Elijah Higgins|TE|ARI
 10232|Michael Wilson|WR|ARI
@@ -543,6 +544,7 @@
 11630|Roman Wilson|WR|PIT
 11631|Brian Thomas Jr.|WR|JAX
 11632|Malik Nabers|WR|NYG
+11633|Jamari Thrash|WR|TEN
 11635|Ladd McConkey|WR|LAC
 11636|Johnny Wilson|WR|PHI
 11637|Keon Coleman|WR|BUF
@@ -588,8 +590,10 @@
 12356|Jabari Small|RB|DET
 12357|David Martin-Robinson|TE|TEN
 12374|Brenden Bates|TE|JAX
+12389|Hayden Rucci|TE|PHI
 12412|Terrell Jennings|RB|NE
 12455|Brashard Smith|RB|KC
+12457|Jaydon Blue|RB|PHI
 12460|Antwane Wells Jr.|WR|ATL
 12467|Jordan James|RB|SF
 12469|Dylan Sampson|RB|CLE
@@ -690,10 +694,12 @@
 12797|Ahmani Marshall|RB|CAR
 12803|Luke Grimm|WR|LAC
 12817|Jake Briningstool|TE|KC
+12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
 12860|Theo Wease Jr.|WR|LAC
 12863|Andrew Armstrong|WR|KC
 12865|AJ Henning|WR|MIA
+12883|Joshua Simon|TE|CAR
 12884|Quincy Skinner Jr.|WR|GB
 12888|Dalen Cambre|WR|NYG
 12889|Beaux Collins|WR|ATL
@@ -853,6 +859,7 @@
 13603|Gregory Desrosiers|RB|NYG
 13621|Dillon Bell|WR|MIN
 13645|Michael Wortham|WR|JAX
+13658|Brady Boyd|WR|MIA
 13662|Will Pauling|WR|SF
 13663|Wesley Grimes|WR|SF
 13670|Harrison Wallace III|WR|ARI
@@ -863,6 +870,7 @@
 13743|Joseph Manjack IV|WR|NYJ
 13760|Jaden Bradley|WR|WAS
 13770|J. Michael Sturdivant|WR|GB
+13778|EJ Smith|RB|KC
 13779|Al-Jay Henderson|RB|NYJ
 13804|Kansei Matsuzawa|K|LV
 13806|Matt Lauter|TE|NO
