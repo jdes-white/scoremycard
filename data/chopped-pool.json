@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-17T18:05:24.429Z",
-  "free_agent_count": 822,
+  "generated_at": "2026-11-18T02:42:17.831Z",
+  "free_agent_count": 830,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -370,6 +370,12 @@
       "injury_status": null
     },
     {
+      "name": "Brady Boyd",
+      "position": "WR",
+      "team": "MIA",
+      "injury_status": null
+    },
+    {
       "name": "Brady Cook",
       "position": "QB",
       "team": "MIA",
@@ -446,6 +452,12 @@
       "position": "WR",
       "team": "LAC",
       "injury_status": "Out"
+    },
+    {
+      "name": "Brennan Presley",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": null
     },
     {
       "name": "Brenton Strange",
@@ -890,6 +902,12 @@
       "position": "TE",
       "team": "MIA",
       "injury_status": "IR"
+    },
+    {
+      "name": "Coleman Owen",
+      "position": "WR",
+      "team": "GB",
+      "injury_status": null
     },
     {
       "name": "Colson Yankoff",
@@ -1441,6 +1459,12 @@
       "name": "Efton Chism III",
       "position": "WR",
       "team": "NE",
+      "injury_status": null
+    },
+    {
+      "name": "EJ Smith",
+      "position": "RB",
+      "team": "KC",
       "injury_status": null
     },
     {
@@ -2212,6 +2236,12 @@
       "injury_status": null
     },
     {
+      "name": "Jamari Thrash",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": null
+    },
+    {
       "name": "Jameis Winston",
       "position": "QB",
       "team": "NYG",
@@ -2476,6 +2506,12 @@
       "injury_status": null
     },
     {
+      "name": "John FitzPatrick",
+      "position": "TE",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "John Metchie III",
       "position": "WR",
       "team": "CAR",
@@ -2689,6 +2725,12 @@
       "name": "Joshua Pitsenberger",
       "position": "RB",
       "team": "HOU",
+      "injury_status": null
+    },
+    {
+      "name": "Joshua Simon",
+      "position": "TE",
+      "team": "CAR",
       "injury_status": null
     },
     {
@@ -4006,6 +4048,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Ronnie Bell",
+      "position": "WR",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
@@ -4753,7 +4801,7 @@
       "name": "Wan'Dale Robinson",
       "position": "WR",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Wendell Smallwood",
