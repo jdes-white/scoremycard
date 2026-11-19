@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-19T02:05:40.997Z",
+  "generated_at": "2026-11-19T10:50:13.096Z",
   "free_agent_count": 727,
   "free_agents": [
     {
@@ -229,6 +229,12 @@
       "name": "Austin Trammell",
       "position": "WR",
       "team": "JAX",
+      "injury_status": null
+    },
+    {
+      "name": "Baltimore Ravens",
+      "position": "DEF",
+      "team": "BAL",
       "injury_status": null
     },
     {
@@ -670,12 +676,6 @@
       "injury_status": null
     },
     {
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "team": "TB",
-      "injury_status": null
-    },
-    {
       "name": "Chimere Dike",
       "position": "WR",
       "team": "TEN",
@@ -940,6 +940,12 @@
       "injury_status": null
     },
     {
+      "name": "Darius Cooper",
+      "position": "WR",
+      "team": "PHI",
+      "injury_status": null
+    },
+    {
       "name": "Darnell Mooney",
       "position": "WR",
       "team": "NYG",
@@ -1093,12 +1099,6 @@
       "name": "Derius Davis",
       "position": "WR",
       "team": "LAC",
-      "injury_status": null
-    },
-    {
-      "name": "Detroit Lions",
-      "position": "DEF",
-      "team": "DET",
       "injury_status": null
     },
     {
@@ -1321,12 +1321,6 @@
       "name": "Eli Stowers",
       "position": "TE",
       "team": "PHI",
-      "injury_status": null
-    },
-    {
-      "name": "Elic Ayomanor",
-      "position": "WR",
-      "team": "TEN",
       "injury_status": null
     },
     {
@@ -2026,6 +2020,12 @@
       "injury_status": null
     },
     {
+      "name": "Jason Myers",
+      "position": "K",
+      "team": "SEA",
+      "injury_status": null
+    },
+    {
       "name": "Jason Sanders",
       "position": "K",
       "team": "NYJ",
@@ -2162,6 +2162,12 @@
       "position": "WR",
       "team": "KC",
       "injury_status": "NA"
+    },
+    {
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "PHI",
+      "injury_status": null
     },
     {
       "name": "Joe Royer",
@@ -3550,12 +3556,6 @@
       "injury_status": null
     },
     {
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "injury_status": null
-    },
-    {
       "name": "Ryan Miller",
       "position": "WR",
       "team": "NE",
@@ -4204,6 +4204,12 @@
       "injury_status": null
     },
     {
+      "name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team": "TEN",
+      "injury_status": "IR"
+    },
+    {
       "name": "Washington Commanders",
       "position": "DEF",
       "team": "WAS",
@@ -4285,12 +4291,6 @@
       "name": "Xavier Guillory",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Xavier Hutchinson",
-      "position": "WR",
-      "team": "HOU",
       "injury_status": null
     },
     {
@@ -4460,6 +4460,11 @@
       "owner": "GFKay",
       "players": [
         {
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
@@ -4592,11 +4597,6 @@
           "team": "KC"
         },
         {
-          "name": "Jason Myers",
-          "position": "K",
-          "team": "SEA"
-        },
-        {
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI"
@@ -4605,6 +4605,11 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB"
         },
         {
           "name": "Rhamondre Stevenson",
@@ -5017,6 +5022,11 @@
           "team": "NYJ"
         },
         {
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
+        {
           "name": "Cam Little",
           "position": "K",
           "team": "JAX"
@@ -5025,11 +5035,6 @@
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "name": "Jared Goff",
@@ -5350,14 +5355,14 @@
       "owner": "HurtsLocker79",
       "players": [
         {
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
-        },
-        {
           "name": "Corey Kiner",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "name": "Denzel Boston",
@@ -5405,11 +5410,6 @@
           "team": "CIN"
         },
         {
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF"
@@ -5430,9 +5430,9 @@
           "team": "BAL"
         },
         {
-          "name": "Baltimore Ravens",
+          "name": "Detroit Lions",
           "position": "DEF",
-          "team": "BAL"
+          "team": "DET"
         }
       ]
     }
