@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-18T01:39:44.525Z)
+# id|name|pos|team  (generated 2026-11-19T01:16:20.153Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -222,7 +222,6 @@
 6920|Isaiah Hodgins|WR|PIT
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
-6957|James Proche II|WR|ARI
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -274,9 +273,11 @@
 7600|Pat Freiermuth|TE|PIT
 7602|Kylen Granson|TE|TEN
 7605|Kyle Trask|QB|DAL
+7607|Michael Carter|RB|TEN
 7608|Khalil Herbert|RB|ATL
 7610|Trey Lance|QB|LAC
 7611|Rhamondre Stevenson|RB|NE
+7612|Dee Eskridge|WR|MIN
 7618|Micah Simon|WR|CAR
 7670|Joshua Palmer|WR|BUF
 7694|Tommy Tremble|TE|CAR
@@ -434,11 +435,11 @@
 10220|Will Mallory|TE|IND
 10221|Ronnie Bell|WR|ARI
 10222|Jayden Reed|WR|GB
-10223|Eric Gray|RB|NYG
 10224|Brayden Willis|TE|SF
 10225|Jonathan Mingo|WR|DAL
 10226|Andrei Iosivas|WR|CIN
 10227|Payne Durham|TE|TB
+10228|Charlie Jones|WR|NYG
 10229|Rashee Rice|WR|KC
 10231|Elijah Higgins|TE|ARI
 10232|Michael Wilson|WR|ARI
@@ -457,7 +458,6 @@
 11034|Jalen Brooks|WR|ARI
 11056|Jared Wayne|WR|MIA
 11058|Blake Grupe|K|LAR
-11065|Adrian Martinez|QB|SEA
 11068|Mitch Tinsley|WR|CIN
 11082|Ben Sims|TE|SEA
 11113|Joel Wilson|TE|TEN
@@ -561,7 +561,7 @@
 11655|Tyrone Tracy Jr.|RB|NYG
 11716|Tip Reiman|TE|ARI
 11729|Sione Vaki|RB|DET
-11748|Bub Means|WR|KC
+11748|Bub Means|WR|ARI
 11762|Anthony Gould|WR|IND
 11783|Ryan Flournoy|WR|DAL
 11786|Cam Little|K|JAX
@@ -577,7 +577,6 @@
 11959|Bryce Oliver|WR|HOU
 11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
-12015|Harrison Mevis|K|BAL
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|CIN
@@ -665,7 +664,6 @@
 12544|LeQuint Allen Jr.|RB|JAX
 12545|Tyler Shough|QB|NO
 12547|Kyle Williams|WR|NE
-12548|Lenny Krieg|K|GB
 12634|Jordan Watkins|WR|SF
 12641|Jaylin Lane|WR|WAS
 12656|Robbie Ouzts|RB|SEA
@@ -705,6 +703,7 @@
 12889|Beaux Collins|WR|ATL
 12897|Nate Carter|RB|KC
 12901|Patrick Herbert|TE|LAC
+12907|Quentin Skinner|WR|PHI
 12908|Chandler Brayboy|WR|NE
 12925|Jamaal Pritchett|WR|NYJ
 12928|Amar Johnson|RB|LAC
@@ -851,7 +850,6 @@
 13554|CJ Williams|WR|JAX
 13557|Athan Kaliakmanis|QB|WAS
 13577|Dallen Bentley|TE|DEN
-13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
@@ -880,7 +878,6 @@
 13833|Dominic Zvada|K|NYG
 13870|Quentin Moore|TE|WAS
 13890|Michael Briscoe|WR|MIN
-13904|Jacob De Jesus|WR|KC
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
 13923|Joshua Pitsenberger|RB|HOU
