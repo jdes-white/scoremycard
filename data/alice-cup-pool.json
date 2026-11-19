@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-19T10:53:02.855Z",
+  "generated_at": "2026-11-19T19:43:25.417Z",
   "free_agent_count": 761,
   "free_agents": [
     {
@@ -643,6 +643,12 @@
       "name": "Carlos Washington Jr.",
       "position": "RB",
       "team": "MIA",
+      "injury_status": null
+    },
+    {
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
       "injury_status": null
     },
     {
@@ -1771,12 +1777,6 @@
       "name": "Isaiah Davis",
       "position": "RB",
       "team": "NYJ",
-      "injury_status": null
-    },
-    {
-      "name": "Isaiah Hodgins",
-      "position": "WR",
-      "team": "PIT",
       "injury_status": null
     },
     {
@@ -3030,7 +3030,7 @@
     {
       "name": "Malik Heath",
       "position": "WR",
-      "team": "ATL",
+      "team": "WAS",
       "injury_status": null
     },
     {
