@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-18T19:40:21.123Z",
-  "free_agent_count": 724,
+  "generated_at": "2026-11-19T02:05:40.997Z",
+  "free_agent_count": 727,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -421,7 +421,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brevyn Spann-Ford",
@@ -493,6 +493,12 @@
       "name": "Brycen Tremayne",
       "position": "WR",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Bub Means",
+      "position": "WR",
+      "team": "ARI",
       "injury_status": null
     },
     {
@@ -640,10 +646,16 @@
       "injury_status": null
     },
     {
+      "name": "Charlie Jones",
+      "position": "WR",
+      "team": "NYG",
+      "injury_status": null
+    },
+    {
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Charlie Smyth",
@@ -721,7 +733,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Christian Kirk",
@@ -751,7 +763,7 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "CJ Williams",
@@ -949,7 +961,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "David Martin-Robinson",
@@ -1045,6 +1057,12 @@
       "name": "DeAndre Thompkins",
       "position": "WR",
       "team": "GB",
+      "injury_status": null
+    },
+    {
+      "name": "Dee Eskridge",
+      "position": "WR",
+      "team": "MIN",
       "injury_status": null
     },
     {
@@ -1177,7 +1195,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Dontae Fleming",
@@ -1771,7 +1789,7 @@
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jackson Meeks",
@@ -1975,7 +1993,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Jaren Kanak",
@@ -2017,7 +2035,7 @@
       "name": "Jauan Jennings",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jawhar Jordan",
@@ -2047,7 +2065,7 @@
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jaydon Blue",
@@ -2725,7 +2743,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Levine Toilolo",
@@ -2815,7 +2833,7 @@
       "name": "Mac Jones",
       "position": "QB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mack Hollins",
@@ -2977,7 +2995,7 @@
       "name": "Max Hurleman",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Out"
+      "injury_status": null
     },
     {
       "name": "Max Klare",
@@ -3427,7 +3445,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Gilliam",
@@ -3661,7 +3679,7 @@
       "name": "Sione Vaki",
       "position": "RB",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Skylar Thompson",
@@ -3943,7 +3961,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tory Horton",
@@ -4081,7 +4099,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tylan Wallace",
