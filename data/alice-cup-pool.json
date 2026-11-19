@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-19T02:06:55.282Z",
+  "generated_at": "2026-11-19T10:53:02.855Z",
   "free_agent_count": 761,
   "free_agents": [
     {
@@ -643,12 +643,6 @@
       "name": "Carlos Washington Jr.",
       "position": "RB",
       "team": "MIA",
-      "injury_status": null
-    },
-    {
-      "name": "Carolina Panthers",
-      "position": "DEF",
-      "team": "CAR",
       "injury_status": null
     },
     {
@@ -3688,6 +3682,12 @@
       "injury_status": null
     },
     {
+      "name": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "injury_status": "IR"
+    },
+    {
       "name": "Robbie Ouzts",
       "position": "RB",
       "team": "SEA",
@@ -5332,11 +5332,6 @@
           "team": "JAX"
         },
         {
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
@@ -5385,6 +5380,11 @@
           "name": "Josh Downs",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "name": "Carolina Panthers",
+          "position": "DEF",
+          "team": "CAR"
         },
         {
           "name": "Los Angeles Rams",
