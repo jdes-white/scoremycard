@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-20T01:55:41.146Z",
+  "generated_at": "2026-11-20T10:39:33.899Z",
   "free_agent_count": 728,
   "free_agents": [
     {
@@ -1276,6 +1276,12 @@
       "injury_status": null
     },
     {
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "injury_status": null
+    },
+    {
       "name": "E.J. Jenkins",
       "position": "TE",
       "team": "ATL",
@@ -2164,12 +2170,6 @@
       "injury_status": "NA"
     },
     {
-      "name": "Joe Milton",
-      "position": "QB",
-      "team": "PHI",
-      "injury_status": null
-    },
-    {
       "name": "Joe Royer",
       "position": "TE",
       "team": "CLE",
@@ -2497,7 +2497,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kaytron Allen",
@@ -4834,6 +4834,11 @@
           "team": "DAL"
         },
         {
+          "name": "Joe Milton",
+          "position": "QB",
+          "team": "PHI"
+        },
+        {
           "name": "Michael Penix Jr.",
           "position": "QB",
           "team": "ATL"
@@ -4847,11 +4852,6 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
         },
         {
           "name": "Cam Skattebo",
