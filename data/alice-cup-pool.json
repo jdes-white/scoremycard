@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-20T10:42:12.855Z",
-  "free_agent_count": 761,
+  "generated_at": "2026-11-20T19:23:25.669Z",
+  "free_agent_count": 759,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -415,12 +415,6 @@
       "name": "Brandon McManus",
       "position": "K",
       "team": "LAR",
-      "injury_status": null
-    },
-    {
-      "name": "Brandon Smith",
-      "position": "WR",
-      "team": "PIT",
       "injury_status": null
     },
     {
@@ -1630,7 +1624,7 @@
       "injury_status": null
     },
     {
-      "name": "Gregory Desrosiers",
+      "name": "Gregory Desrosiers Jr.",
       "position": "RB",
       "team": "NYG",
       "injury_status": null
@@ -1717,7 +1711,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ihmir Smith-Marsette",
@@ -1783,7 +1777,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Isiah Pacheco",
@@ -3463,7 +3457,7 @@
       "name": "Omar Cooper Jr.",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Omari Evans",
@@ -3542,12 +3536,6 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
-    },
-    {
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": "Out"
     },
     {
       "name": "Princeton Fant",
