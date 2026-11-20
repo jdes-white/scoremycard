@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-19T19:43:25.417Z",
+  "generated_at": "2026-11-20T01:56:38.992Z",
   "free_agent_count": 761,
   "free_agents": [
     {
@@ -175,7 +175,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Anthony Richardson Sr.",
@@ -655,7 +655,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carson Towt",
@@ -895,7 +895,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Connor Heyward",
@@ -2401,7 +2401,7 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Moore",
@@ -2521,6 +2521,12 @@
       "name": "Joshua Simon",
       "position": "TE",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "LAC",
       "injury_status": null
     },
     {
@@ -2671,12 +2677,6 @@
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Keenan Allen",
-      "position": "WR",
-      "team": "SF",
       "injury_status": null
     },
     {
@@ -2989,7 +2989,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mac Jones",
@@ -3667,7 +3667,7 @@
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Riley Nowakowski",
@@ -5201,6 +5201,11 @@
           "name": "Jonah Coleman",
           "position": "RB",
           "team": "DEN"
+        },
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "name": "Mike Evans",
