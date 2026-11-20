@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-19T01:16:20.153Z)
+# id|name|pos|team  (generated 2026-11-20T01:19:20.002Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -219,7 +219,6 @@
 6869|Adam Trautman|TE|DEN
 6904|Jalen Hurts|QB|PHI
 6918|Salvon Ahmed|RB|CHI
-6920|Isaiah Hodgins|WR|PIT
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
 6992|Michael Warren|RB|DET
@@ -229,6 +228,7 @@
 7042|Tyler Bass|K|BUF
 7048|Benny LeMay|RB|CLE
 7049|Jauan Jennings|WR|MIN
+7050|Josiah Deguara|TE|LAC
 7066|K.J. Osborn|WR|TEN
 7075|Charlie Woerner|TE|ATL
 7083|Tyler Huntley|QB|BAL
@@ -466,7 +466,7 @@
 11186|Carlos Washington Jr.|RB|MIA
 11199|Emari Demercado|RB|HOU
 11201|Blake Whiteheart|TE|CLE
-11210|Malik Heath|WR|ATL
+11210|Malik Heath|WR|WAS
 11237|Jacob Saylors|RB|DET
 11256|Tyson Bagent|QB|CHI
 11257|Shedrick Jackson|WR|ARI
@@ -850,6 +850,7 @@
 13554|CJ Williams|WR|JAX
 13557|Athan Kaliakmanis|QB|WAS
 13577|Dallen Bentley|TE|DEN
+13580|Carsen Ryan|TE|CLE
 13582|Anthony Smith|WR|DAL
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
