@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-20T01:59:15.979Z",
+  "generated_at": "2026-11-20T10:51:12.179Z",
   "free_agent_count": 830,
   "free_agents": [
     {
@@ -2833,7 +2833,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kaytron Allen",
@@ -4159,7 +4159,7 @@
       "name": "Seth McGowan",
       "position": "RB",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Seydou Traore",
