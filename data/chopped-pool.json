@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-19T19:52:43.644Z",
-  "free_agent_count": 829,
+  "generated_at": "2026-11-20T01:59:15.979Z",
+  "free_agent_count": 830,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -175,7 +175,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Anthony Richardson Sr.",
@@ -685,7 +685,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Carson Towt",
@@ -919,7 +919,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Colston Loveland",
@@ -1285,7 +1285,7 @@
       "name": "DeVonta Smith",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Devontez Walker",
@@ -2557,7 +2557,7 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Love",
@@ -2701,6 +2701,12 @@
       "name": "Joshua Simon",
       "position": "TE",
       "team": "CAR",
+      "injury_status": null
+    },
+    {
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "LAC",
       "injury_status": null
     },
     {
@@ -3217,7 +3223,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Luther Burden III",
@@ -3973,7 +3979,7 @@
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Riley Nowakowski",
