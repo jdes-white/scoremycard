@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-20T10:51:12.179Z",
-  "free_agent_count": 830,
+  "generated_at": "2026-11-20T19:32:18.293Z",
+  "free_agent_count": 828,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -413,12 +413,6 @@
     },
     {
       "name": "Brandon Johnson",
-      "position": "WR",
-      "team": "PIT",
-      "injury_status": null
-    },
-    {
-      "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
       "injury_status": null
@@ -997,7 +991,7 @@
       "name": "Dalton Kincaid",
       "position": "TE",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Dalton Schultz",
@@ -1744,7 +1738,7 @@
       "injury_status": null
     },
     {
-      "name": "Gregory Desrosiers",
+      "name": "Gregory Desrosiers Jr.",
       "position": "RB",
       "team": "NYG",
       "injury_status": null
@@ -1831,7 +1825,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ihmir Smith-Marsette",
@@ -1885,7 +1879,7 @@
       "name": "Isaiah Likely",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Isaiah Neyor",
@@ -1897,7 +1891,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Isiah Pacheco",
@@ -3739,7 +3733,7 @@
       "name": "Omar Cooper Jr.",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Omari Evans",
@@ -3830,12 +3824,6 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
-    },
-    {
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
-      "team": "GB",
-      "injury_status": "Out"
     },
     {
       "name": "Princeton Fant",
