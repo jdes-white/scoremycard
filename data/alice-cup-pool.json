@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-20T01:56:38.992Z",
+  "generated_at": "2026-11-20T10:42:12.855Z",
   "free_agent_count": 761,
   "free_agents": [
     {
@@ -457,12 +457,6 @@
       "name": "Brennan Presley",
       "position": "WR",
       "team": "LAR",
-      "injury_status": null
-    },
-    {
-      "name": "Brenton Strange",
-      "position": "TE",
-      "team": "JAX",
       "injury_status": null
     },
     {
@@ -2647,7 +2641,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Kaytron Allen",
@@ -3250,6 +3244,12 @@
       "injury_status": null
     },
     {
+      "name": "Mike Washington Jr.",
+      "position": "RB",
+      "team": "LV",
+      "injury_status": null
+    },
+    {
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
@@ -3487,12 +3487,6 @@
       "name": "Owen Wright",
       "position": "RB",
       "team": "LV",
-      "injury_status": null
-    },
-    {
-      "name": "Pat Bryant",
-      "position": "WR",
-      "team": "DEN",
       "injury_status": null
     },
     {
@@ -4324,6 +4318,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "team": "LAR",
+      "injury_status": null
+    },
+    {
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
@@ -4880,6 +4880,11 @@
           "team": "LAR"
         },
         {
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN"
+        },
+        {
           "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA"
@@ -4898,11 +4903,6 @@
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
         },
         {
           "name": "Ka'imi Fairbairn",
@@ -5131,11 +5131,6 @@
           "team": "CLE"
         },
         {
-          "name": "Mike Washington Jr.",
-          "position": "RB",
-          "team": "LV"
-        },
-        {
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
@@ -5149,6 +5144,11 @@
           "name": "Chuba Hubbard",
           "position": "RB",
           "team": "CAR"
+        },
+        {
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         },
         {
           "name": "Puka Nacua",
