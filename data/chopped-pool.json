@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-21T10:35:09.188Z",
-  "free_agent_count": 828,
+  "generated_at": "2026-11-21T18:37:23.168Z",
+  "free_agent_count": 826,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -1030,12 +1030,6 @@
       "injury_status": null
     },
     {
-      "name": "Daniel Jones",
-      "position": "QB",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Dare Ogunbowale",
       "position": "RB",
       "team": "HOU",
@@ -1826,12 +1820,6 @@
       "position": "TE",
       "team": "LV",
       "injury_status": null
-    },
-    {
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team": "CAR",
-      "injury_status": "Questionable"
     },
     {
       "name": "Irvin Charles",
