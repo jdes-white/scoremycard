@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-20T01:19:20.002Z)
+# id|name|pos|team  (generated 2026-11-21T00:50:47.125Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -289,7 +289,6 @@
 7828|Noah Gray|TE|KC
 7839|Evan McPherson|K|CIN
 7842|Luke Farrell|TE|SF
-7865|Brandon Smith|WR|PIT
 7868|Mason Stokke|FB|CAR
 7891|Brock Wright|TE|DET
 7922|Riley Patterson|K|BAL
@@ -305,7 +304,6 @@
 8111|Cade Otton|TE|TB
 8112|Drake London|WR|ATL
 8114|Erik Ezukanma|WR|PHI
-8116|Pierre Strong Jr.|RB|GB
 8117|Jalen Tolbert|WR|MIA
 8119|Jahan Dotson|WR|ATL
 8121|Romeo Doubs|WR|NE
@@ -855,7 +853,7 @@
 13597|Matthew Caldwell|QB|LAR
 13600|Tyren Montgomery|WR|TEN
 13602|Jack Strand|QB|ATL
-13603|Gregory Desrosiers|RB|NYG
+13603|Gregory Desrosiers Jr.|RB|NYG
 13621|Dillon Bell|WR|MIN
 13645|Michael Wortham|WR|JAX
 13658|Brady Boyd|WR|MIA
