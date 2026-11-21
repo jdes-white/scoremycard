@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-20T19:23:25.669Z",
+  "generated_at": "2026-11-21T01:52:19.882Z",
   "free_agent_count": 759,
   "free_agents": [
     {
@@ -445,7 +445,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Brennan Presley",
@@ -487,7 +487,7 @@
       "name": "Britain Covey",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "British Brooks",
@@ -733,7 +733,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Chris Blair",
@@ -787,7 +787,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Christian Kirk",
@@ -1279,7 +1279,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Drake Dabney",
@@ -1573,7 +1573,7 @@
       "name": "Geno Smith",
       "position": "QB",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "George Holani",
@@ -1711,13 +1711,13 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Indianapolis Colts",
@@ -2113,7 +2113,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jared Wiley",
@@ -2257,7 +2257,7 @@
       "name": "Jeshaun Jones",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jimmy Holiday",
@@ -2359,7 +2359,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jonathon Brooks",
@@ -2893,7 +2893,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Levine Toilolo",
@@ -3544,6 +3544,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "injury_status": "IR"
+    },
+    {
       "name": "Qadir Ismail",
       "position": "WR",
       "team": "CHI",
@@ -3619,7 +3625,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Reggie Gilliam",
@@ -4219,7 +4225,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Treyton Welch",
@@ -4279,12 +4285,6 @@
       "name": "Tylan Wallace",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
-    },
-    {
-      "name": "Tyler Allgeier",
-      "position": "RB",
-      "team": "ARI",
       "injury_status": null
     },
     {
@@ -4543,7 +4543,7 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Zay Jones",
@@ -5134,14 +5134,14 @@
           "team": "CAR"
         },
         {
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "name": "Brenton Strange",
           "position": "TE",
           "team": "JAX"
-        },
-        {
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "name": "Pittsburgh Steelers",
