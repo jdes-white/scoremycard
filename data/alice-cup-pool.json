@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-21T10:25:20.017Z",
-  "free_agent_count": 759,
+  "generated_at": "2026-11-21T18:26:09.830Z",
+  "free_agent_count": 757,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -982,12 +982,6 @@
       "injury_status": null
     },
     {
-      "name": "Daniel Jones",
-      "position": "QB",
-      "team": "IND",
-      "injury_status": null
-    },
-    {
       "name": "Dare Ogunbowale",
       "position": "RB",
       "team": "HOU",
@@ -1712,12 +1706,6 @@
       "position": "TE",
       "team": "LV",
       "injury_status": null
-    },
-    {
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team": "CAR",
-      "injury_status": "Questionable"
     },
     {
       "name": "Indianapolis Colts",
