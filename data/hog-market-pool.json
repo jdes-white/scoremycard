@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-22T10:26:09.597Z",
-  "free_agent_count": 725,
+  "generated_at": "2026-11-22T18:45:10.598Z",
+  "free_agent_count": 724,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -19,7 +19,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Adam Trautman",
@@ -55,7 +55,7 @@
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "AJ Henning",
@@ -352,12 +352,6 @@
       "injury_status": null
     },
     {
-      "name": "Brandin Cooks",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": null
-    },
-    {
       "name": "Brandon Aiyuk",
       "position": "WR",
       "team": "SF",
@@ -625,7 +619,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -811,7 +805,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -961,7 +955,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "David Martin-Robinson",
@@ -1207,7 +1201,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Ogletree",
@@ -1279,7 +1273,7 @@
       "name": "Easton Stick",
       "position": "QB",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eddy Pineiro",
@@ -1309,7 +1303,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Raridon",
@@ -1357,7 +1351,7 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Emanuel Wilson",
@@ -1465,7 +1459,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -1579,7 +1573,7 @@
       "name": "Haynes King",
       "position": "QB",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Hendon Hooker",
@@ -1717,7 +1711,7 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jabari Small",
@@ -1771,7 +1765,7 @@
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jackson Meeks",
@@ -2413,7 +2407,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Justin Tucker",
@@ -2443,7 +2437,7 @@
       "name": "Kaden Wetjen",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kaleb Johnson",
@@ -2515,7 +2509,7 @@
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Keenan Allen",
@@ -2821,7 +2815,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Mac Jones",
@@ -3181,7 +3175,7 @@
       "name": "Nicholas Singleton",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Nick DeGennaro",
@@ -3517,7 +3511,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ronnie Bell",
@@ -3535,7 +3529,7 @@
       "name": "Roschon Johnson",
       "position": "RB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ryan Fitzgerald",
@@ -3667,7 +3661,7 @@
       "name": "Sione Vaki",
       "position": "RB",
       "team": "DET",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Skylar Thompson",
@@ -3679,7 +3673,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Skyler Howard",
@@ -3943,7 +3937,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tory Horton",
@@ -4219,7 +4213,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Will Kacmarek",
@@ -4255,7 +4249,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Wyatt Houston",
@@ -4309,7 +4303,7 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Zachariah Branch",
@@ -4339,7 +4333,7 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Zay Jones",
