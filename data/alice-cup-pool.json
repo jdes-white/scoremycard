@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-22T00:46:29.639Z",
+  "generated_at": "2026-11-22T10:29:04.430Z",
   "free_agent_count": 758,
   "free_agents": [
     {
@@ -715,12 +715,6 @@
       "name": "Charlie Woerner",
       "position": "TE",
       "team": "ATL",
-      "injury_status": null
-    },
-    {
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "team": "WAS",
       "injury_status": null
     },
     {
@@ -1976,6 +1970,12 @@
       "position": "TE",
       "team": "SF",
       "injury_status": "IR"
+    },
+    {
+      "name": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "injury_status": null
     },
     {
       "name": "Jaleel McLaughlin",
@@ -5036,11 +5036,6 @@
           "team": "IND"
         },
         {
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX"
-        },
-        {
           "name": "Jordan Love",
           "position": "QB",
           "team": "GB"
@@ -5054,6 +5049,11 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU"
+        },
+        {
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         },
         {
           "name": "Jaylen Warren",
