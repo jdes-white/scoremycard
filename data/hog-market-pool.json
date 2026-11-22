@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-22T00:45:10.887Z",
+  "generated_at": "2026-11-22T10:26:09.597Z",
   "free_agent_count": 725,
   "free_agents": [
     {
@@ -1930,6 +1930,12 @@
       "injury_status": null
     },
     {
+      "name": "Jalon Daniels",
+      "position": "QB",
+      "team": "TB",
+      "injury_status": null
+    },
+    {
       "name": "Jam Miller",
       "position": "RB",
       "team": "ATL",
@@ -2512,6 +2518,12 @@
       "injury_status": null
     },
     {
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Keleki Latu",
       "position": "TE",
       "team": "BUF",
@@ -2551,12 +2563,6 @@
       "name": "Kenny Fletcher Jr.",
       "position": "TE",
       "team": "GB",
-      "injury_status": null
-    },
-    {
-      "name": "Kenny Gainwell",
-      "position": "RB",
-      "team": "TB",
       "injury_status": null
     },
     {
@@ -2665,12 +2671,6 @@
       "name": "Kyle Juszczyk",
       "position": "FB",
       "team": "SF",
-      "injury_status": null
-    },
-    {
-      "name": "Kyle McCord",
-      "position": "QB",
-      "team": "MIA",
       "injury_status": null
     },
     {
@@ -3730,12 +3730,6 @@
       "injury_status": "Out"
     },
     {
-      "name": "T.J. Hockenson",
-      "position": "TE",
-      "team": "MIN",
-      "injury_status": null
-    },
-    {
       "name": "Tahj Brooks",
       "position": "RB",
       "team": "CIN",
@@ -4352,6 +4346,12 @@
       "position": "WR",
       "team": "ARI",
       "injury_status": null
+    },
+    {
+      "name": "Zonovan Knight",
+      "position": "RB",
+      "team": "ARI",
+      "injury_status": null
     }
   ],
   "rosters": [
@@ -4923,11 +4923,6 @@
           "team": "NO"
         },
         {
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "name": "Ka'imi Fairbairn",
           "position": "K",
           "team": "HOU"
@@ -4946,6 +4941,11 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN"
+        },
+        {
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB"
         },
         {
           "name": "Jake Ferguson",
@@ -5045,6 +5045,11 @@
           "team": "PHI"
         },
         {
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        },
+        {
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
@@ -5053,11 +5058,6 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "name": "Jaxon Smith-Njigba",
@@ -5348,6 +5348,11 @@
           "team": "NE"
         },
         {
+          "name": "Kyle McCord",
+          "position": "QB",
+          "team": "MIA"
+        },
+        {
           "name": "Elic Ayomanor",
           "position": "WR",
           "team": "TEN"
@@ -5356,11 +5361,6 @@
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "name": "Jalon Daniels",
-          "position": "QB",
-          "team": "TB"
         },
         {
           "name": "Derrick Henry",
