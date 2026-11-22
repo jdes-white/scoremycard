@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-21T18:37:23.168Z",
-  "free_agent_count": 826,
+  "generated_at": "2026-11-22T00:52:34.977Z",
+  "free_agent_count": 827,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -679,7 +679,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Carson Towt",
@@ -1363,7 +1363,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Drake Dabney",
@@ -3079,7 +3079,7 @@
       "name": "Kyren Williams",
       "position": "RB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ladd McConkey",
@@ -3814,6 +3814,12 @@
       "injury_status": null
     },
     {
+      "name": "Pierre Strong Jr.",
+      "position": "RB",
+      "team": "GB",
+      "injury_status": null
+    },
+    {
       "name": "Princeton Fant",
       "position": "TE",
       "team": "DAL",
@@ -4003,7 +4009,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Rome Odunze",
@@ -4597,7 +4603,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treyton Welch",
@@ -4657,7 +4663,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Tylan Wallace",
@@ -4831,7 +4837,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Woody Marks",
