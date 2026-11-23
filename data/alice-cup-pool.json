@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-23T11:28:40.391Z",
-  "free_agent_count": 757,
+  "generated_at": "2026-11-23T23:01:46.954Z",
+  "free_agent_count": 758,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -1438,6 +1438,12 @@
       "injury_status": null
     },
     {
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Eric Rivers Jr.",
       "position": "WR",
       "team": "TB",
@@ -2419,7 +2425,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Josh Kelly",
@@ -3973,7 +3979,7 @@
       "name": "Tanner McKee",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Taquan Mizzell",
@@ -4435,7 +4441,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Woody Marks",
