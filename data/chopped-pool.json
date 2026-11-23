@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-23T11:41:40.397Z",
-  "free_agent_count": 826,
+  "generated_at": "2026-11-23T23:16:35.286Z",
+  "free_agent_count": 827,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -337,7 +337,7 @@
       "name": "Bhayshul Tuten",
       "position": "RB",
       "team": "JAX",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Bijan Robinson",
@@ -985,7 +985,7 @@
       "name": "Dallas Goedert",
       "position": "TE",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Dallen Bentley",
@@ -1570,6 +1570,12 @@
       "injury_status": null
     },
     {
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Eric Rivers Jr.",
       "position": "WR",
       "team": "TB",
@@ -2023,7 +2029,7 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Jadarian Price",
@@ -2623,7 +2629,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "injury_status": "Out"
+      "injury_status": "Questionable"
     },
     {
       "name": "Josh Kelly",
@@ -4315,7 +4321,7 @@
       "name": "Tanner McKee",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Taquan Mizzell",
@@ -4831,7 +4837,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Woody Marks",
