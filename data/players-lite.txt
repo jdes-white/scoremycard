@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-21T23:49:55.680Z)
+# id|name|pos|team  (generated 2026-11-23T00:20:51.426Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -27,7 +27,6 @@
 2078|Odell Beckham Jr.|WR|MIN
 2118|Eric Ebron|TE|PIT
 2133|Davante Adams|WR|LAR
-2197|Brandin Cooks|WR|SF
 2216|Mike Evans|WR|SF
 2306|Jameis Winston|QB|NYG
 2307|Marcus Mariota|QB|WAS
