@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-24T07:17:50.729Z",
-  "free_agent_count": 725,
+  "generated_at": "2026-11-24T19:45:30.964Z",
+  "free_agent_count": 719,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -295,7 +295,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Ben Yurosek",
@@ -350,12 +350,6 @@
       "position": "RB",
       "team": "SEA",
       "injury_status": null
-    },
-    {
-      "name": "Brandon Aiyuk",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "DNR"
     },
     {
       "name": "Brandon Johnson",
@@ -698,12 +692,6 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null
-    },
-    {
-      "name": "Chris Collier",
-      "position": "RB",
-      "team": "LV",
-      "injury_status": "Questionable"
     },
     {
       "name": "Chris Godwin Jr.",
@@ -1285,12 +1273,6 @@
       "name": "Efton Chism III",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "EJ Smith",
-      "position": "RB",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -2308,12 +2290,6 @@
       "injury_status": null
     },
     {
-      "name": "Josh Kattus",
-      "position": "TE",
-      "team": "CIN",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Josh Kelly",
       "position": "WR",
       "team": "HOU",
@@ -2510,12 +2486,6 @@
       "position": "RB",
       "team": "LAC",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Kedon Slovis",
-      "position": "QB",
-      "team": "BAL",
-      "injury_status": "Out"
     },
     {
       "name": "Keenan Allen",
@@ -3073,12 +3043,6 @@
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
-    },
-    {
-      "name": "Miller Moss",
-      "position": "QB",
-      "team": "CHI",
       "injury_status": null
     },
     {
