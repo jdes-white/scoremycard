@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-23T23:16:35.286Z",
-  "free_agent_count": 827,
+  "generated_at": "2026-11-24T08:04:03.974Z",
+  "free_agent_count": 839,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -229,7 +229,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Audric Estime",
@@ -562,6 +562,18 @@
       "injury_status": null
     },
     {
+      "name": "Bucky Irving",
+      "position": "RB",
+      "team": "TB",
+      "injury_status": null
+    },
+    {
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Cade Klubnik",
       "position": "QB",
       "team": "NYJ",
@@ -625,7 +637,7 @@
       "name": "Cam Grandy",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cam Miller",
@@ -824,6 +836,12 @@
       "position": "WR",
       "team": "SF",
       "injury_status": "IR"
+    },
+    {
+      "name": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF",
+      "injury_status": null
     },
     {
       "name": "Christian Watson",
@@ -1693,7 +1711,13 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "IR"
+    },
+    {
+      "name": "George Pickens",
+      "position": "WR",
+      "team": "DAL",
+      "injury_status": null
     },
     {
       "name": "Germie Bernard",
@@ -1867,6 +1891,12 @@
       "name": "Isaiah Davis",
       "position": "RB",
       "team": "NYJ",
+      "injury_status": null
+    },
+    {
+      "name": "Isaiah Likely",
+      "position": "TE",
+      "team": "NYG",
       "injury_status": null
     },
     {
@@ -2218,6 +2248,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "James Cook III",
+      "position": "RB",
+      "team": "BUF",
+      "injury_status": null
+    },
+    {
       "name": "James Mitchell",
       "position": "TE",
       "team": "DAL",
@@ -2284,6 +2320,12 @@
       "injury_status": null
     },
     {
+      "name": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL",
+      "injury_status": null
+    },
+    {
       "name": "Jawhar Jordan",
       "position": "RB",
       "team": "HOU",
@@ -2335,6 +2377,12 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "team": "DEN",
+      "injury_status": null
+    },
+    {
+      "name": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -2726,6 +2774,12 @@
       "position": "QB",
       "team": "LAC",
       "injury_status": "Questionable"
+    },
+    {
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN",
+      "injury_status": null
     },
     {
       "name": "Justin Joly",
@@ -3784,6 +3838,12 @@
       "injury_status": null
     },
     {
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Patrick Ricard",
       "position": "FB",
       "team": "NYG",
@@ -3889,13 +3949,19 @@
       "name": "Rachaad White",
       "position": "RB",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
       "injury_status": "IR"
+    },
+    {
+      "name": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "injury_status": null
     },
     {
       "name": "Rasheen Ali",
@@ -3991,7 +4057,7 @@
       "name": "Robert Henry Jr.",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
@@ -4087,7 +4153,7 @@
       "name": "Sam LaPorta",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Sam Roush",
@@ -4594,6 +4660,12 @@
       "injury_status": "IR"
     },
     {
+      "name": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "injury_status": null
+    },
+    {
       "name": "Trey Sermon",
       "position": "RB",
       "team": "ATL",
@@ -5080,68 +5152,7 @@
       "roster_id": 9,
       "team_name": "aussietedd",
       "owner": "aussietedd",
-      "players": [
-        {
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB"
-        },
-        {
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
-        },
-        {
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
-        },
-        {
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
-          "name": "Javonte Williams",
-          "position": "RB",
-          "team": "DAL"
-        },
-        {
-          "name": "Trey McBride",
-          "position": "TE",
-          "team": "ARI"
-        },
-        {
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG"
-        },
-        {
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF"
-        },
-        {
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
-        }
-      ]
+      "players": []
     },
     {
       "roster_id": 10,
