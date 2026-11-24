@@ -1,7 +1,7 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-24T08:04:03.974Z",
-  "free_agent_count": 839,
+  "generated_at": "2026-11-24T19:53:02.836Z",
+  "free_agent_count": 833,
   "free_agents": [
     {
       "name": "A.J. Brown",
@@ -319,7 +319,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Ben Yurosek",
@@ -398,12 +398,6 @@
       "position": "RB",
       "team": "NYJ",
       "injury_status": null
-    },
-    {
-      "name": "Brandon Aiyuk",
-      "position": "WR",
-      "team": "SF",
-      "injury_status": "DNR"
     },
     {
       "name": "Brandon Johnson",
@@ -794,12 +788,6 @@
       "position": "RB",
       "team": "GB",
       "injury_status": null
-    },
-    {
-      "name": "Chris Collier",
-      "position": "RB",
-      "team": "LV",
-      "injury_status": "Questionable"
     },
     {
       "name": "Chris Godwin Jr.",
@@ -1243,7 +1231,7 @@
       "name": "Denzel Boston",
       "position": "WR",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Derius Davis",
@@ -1483,12 +1471,6 @@
       "name": "Efton Chism III",
       "position": "WR",
       "team": "NE",
-      "injury_status": null
-    },
-    {
-      "name": "EJ Smith",
-      "position": "RB",
-      "team": "KC",
       "injury_status": null
     },
     {
@@ -2674,12 +2656,6 @@
       "injury_status": null
     },
     {
-      "name": "Josh Kattus",
-      "position": "TE",
-      "team": "CIN",
-      "injury_status": "Questionable"
-    },
-    {
       "name": "Josh Kelly",
       "position": "WR",
       "team": "HOU",
@@ -2894,12 +2870,6 @@
       "position": "RB",
       "team": "LAC",
       "injury_status": "Questionable"
-    },
-    {
-      "name": "Kedon Slovis",
-      "position": "QB",
-      "team": "BAL",
-      "injury_status": "Out"
     },
     {
       "name": "Keenan Allen",
@@ -3577,12 +3547,6 @@
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
-      "injury_status": null
-    },
-    {
-      "name": "Miller Moss",
-      "position": "QB",
-      "team": "CHI",
       "injury_status": null
     },
     {
