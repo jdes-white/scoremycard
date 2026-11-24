@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-23T22:58:21.141Z",
+  "generated_at": "2026-11-24T07:17:50.729Z",
   "free_agent_count": 725,
   "free_agents": [
     {
@@ -205,7 +205,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Atlanta Falcons",
@@ -553,7 +553,7 @@
       "name": "Cam Grandy",
       "position": "TE",
       "team": "CIN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cam Miller",
@@ -1483,7 +1483,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "injury_status": "Out"
+      "injury_status": "IR"
     },
     {
       "name": "Glen Coffee",
@@ -3499,7 +3499,7 @@
       "name": "Robert Henry Jr.",
       "position": "RB",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Robert Tonyan",
