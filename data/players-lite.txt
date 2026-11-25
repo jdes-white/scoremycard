@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-24T04:19:12.610Z)
+# id|name|pos|team  (generated 2026-11-25T03:03:47.424Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -202,7 +202,6 @@
 6797|Justin Herbert|QB|LAC
 6798|Jalen Reagor|WR|MIA
 6801|Tee Higgins|WR|CIN
-6803|Brandon Aiyuk|WR|SF
 6804|Jordan Love|QB|GB
 6806|J.K. Dobbins|RB|DEN
 6813|Jonathan Taylor|RB|IND
@@ -219,6 +218,7 @@
 6918|Salvon Ahmed|RB|CHI
 6927|Quez Watkins|WR|IND
 6931|DeeJay Dallas|RB|MIN
+6964|Sean McKeon|TE|IND
 6992|Michael Warren|RB|DET
 7002|Juwan Johnson|TE|NO
 7021|Rico Dowdle|RB|PIT
@@ -286,12 +286,13 @@
 7828|Noah Gray|TE|KC
 7839|Evan McPherson|K|CIN
 7842|Luke Farrell|TE|SF
+7865|Brandon Smith|WR|PIT
 7868|Mason Stokke|FB|CAR
 7891|Brock Wright|TE|DET
 7922|Riley Patterson|K|BAL
 7933|Alex Kessman|K|CAR
 7946|Jack Stoll|TE|SF
-8002|Shane Buechele|QB|BUF
+8002|Shane Buechele|QB|IND
 8013|Tim Jones|WR|JAX
 8025|Adam Prentice|FB|DEN
 8076|Michael Bandy|WR|DEN
@@ -550,7 +551,6 @@
 11644|Cody Schrader|RB|DEN
 11646|Jalen Coker|WR|CAR
 11647|Kimani Vidal|RB|LAC
-11648|Kedon Slovis|QB|BAL
 11649|Kendall Milton|RB|CIN
 11650|Luke McCaffrey|WR|WAS
 11651|Isaac Guerendo|RB|SF
@@ -572,8 +572,8 @@
 11911|Jeshaun Jones|WR|MIN
 11942|Colson Yankoff|TE|WAS
 11959|Bryce Oliver|WR|HOU
-11963|Chris Collier|RB|LV
 11994|Kameron Johnson|WR|TB
+12036|Ian Wheeler|RB|LAC
 12045|Jack Westover|TE|WAS
 12048|George Holani|RB|SEA
 12062|Cam Grandy|TE|CIN
@@ -769,9 +769,7 @@
 13306|Taylen Green|QB|CLE
 13307|Marlin Klein|TE|HOU
 13308|Bauer Sharp|TE|TB
-13310|Miller Moss|QB|CHI
 13311|Chris Bell|WR|MIA
-13312|Josh Kattus|TE|CIN
 13313|Emmanuel Henderson Jr.|WR|SEA
 13314|Luke Altmyer|QB|DET
 13315|Dean Connors|RB|LAR
@@ -866,7 +864,6 @@
 13743|Joseph Manjack IV|WR|NYJ
 13760|Jaden Bradley|WR|WAS
 13770|J. Michael Sturdivant|WR|GB
-13778|EJ Smith|RB|KC
 13779|Al-Jay Henderson|RB|NYJ
 13804|Kansei Matsuzawa|K|LV
 13806|Matt Lauter|TE|NO
