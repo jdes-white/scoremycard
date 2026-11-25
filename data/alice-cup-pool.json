@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-24T19:46:50.332Z",
-  "free_agent_count": 752,
+  "generated_at": "2026-11-25T03:51:31.497Z",
+  "free_agent_count": 755,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -313,7 +313,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ben VanSumeren",
@@ -397,6 +397,12 @@
       "name": "Brandon McManus",
       "position": "K",
       "team": "LAR",
+      "injury_status": null
+    },
+    {
+      "name": "Brandon Smith",
+      "position": "WR",
+      "team": "PIT",
       "injury_status": null
     },
     {
@@ -1672,6 +1678,12 @@
       "injury_status": null
     },
     {
+      "name": "Ian Wheeler",
+      "position": "RB",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Indianapolis Colts",
       "position": "DEF",
       "team": "IND",
@@ -1765,7 +1777,7 @@
       "name": "J.K. Dobbins",
       "position": "RB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "J'Mari Taylor",
@@ -3778,6 +3790,12 @@
       "injury_status": null
     },
     {
+      "name": "Sean McKeon",
+      "position": "TE",
+      "team": "IND",
+      "injury_status": null
+    },
+    {
       "name": "Sean Tucker",
       "position": "RB",
       "team": "TB",
@@ -3792,7 +3810,7 @@
     {
       "name": "Shane Buechele",
       "position": "QB",
-      "team": "BUF",
+      "team": "IND",
       "injury_status": null
     },
     {
