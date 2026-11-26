@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-26T11:37:28.014Z",
+  "generated_at": "2026-11-26T20:37:38.120Z",
   "free_agent_count": 726,
   "free_agents": [
     {
@@ -307,7 +307,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Ben VanSumeren",
@@ -649,7 +649,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -823,7 +823,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -924,12 +924,6 @@
     {
       "name": "Daniel Sobkowicz",
       "position": "WR",
-      "team": "HOU",
-      "injury_status": null
-    },
-    {
-      "name": "Dare Ogunbowale",
-      "position": "RB",
       "team": "HOU",
       "injury_status": null
     },
@@ -1174,6 +1168,12 @@
       "injury_status": null
     },
     {
+      "name": "DJ Uiagalelei",
+      "position": "QB",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Dohnte Meyers",
       "position": "WR",
       "team": "CIN",
@@ -1231,7 +1231,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drew Sample",
@@ -1333,6 +1333,12 @@
       "name": "Eli Stowers",
       "position": "TE",
       "team": "PHI",
+      "injury_status": null
+    },
+    {
+      "name": "Elic Ayomanor",
+      "position": "WR",
+      "team": "TEN",
       "injury_status": null
     },
     {
@@ -1519,7 +1525,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Grant Finley",
@@ -1621,7 +1627,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Hunter Luepke",
@@ -3055,7 +3061,7 @@
       "name": "Michael Pittman Jr.",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Michael Trigg",
@@ -3592,12 +3598,6 @@
       "injury_status": null
     },
     {
-      "name": "Samaje Perine",
-      "position": "RB",
-      "team": "CIN",
-      "injury_status": null
-    },
-    {
       "name": "Samori Toure",
       "position": "WR",
       "team": "IND",
@@ -3763,7 +3763,7 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tank Bigsby",
@@ -3886,6 +3886,12 @@
       "injury_status": null
     },
     {
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "team": "LAC",
+      "injury_status": null
+    },
+    {
       "name": "Thomas Fidone II",
       "position": "TE",
       "team": "NYG",
@@ -3938,12 +3944,6 @@
       "position": "WR",
       "team": "DET",
       "injury_status": "IR"
-    },
-    {
-      "name": "Tommy DeVito",
-      "position": "QB",
-      "team": "NE",
-      "injury_status": null
     },
     {
       "name": "Tommy Stevens",
@@ -5160,7 +5160,7 @@
         {
           "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "PIT"
+          "team": null
         },
         {
           "name": "Minnesota Vikings",
@@ -5344,19 +5344,14 @@
       "owner": "HurtsLocker79",
       "players": [
         {
-          "name": "Corey Kiner",
-          "position": "RB",
+          "name": "Tommy DeVito",
+          "position": "QB",
           "team": "NE"
         },
         {
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
-          "name": "DJ Uiagalelei",
-          "position": "QB",
-          "team": "LAC"
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "name": "Denzel Boston",
@@ -5372,6 +5367,11 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "name": "Kyler Murray",
