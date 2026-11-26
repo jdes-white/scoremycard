@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-26T01:13:48.953Z",
+  "generated_at": "2026-11-26T11:37:28.014Z",
   "free_agent_count": 726,
   "free_agents": [
     {
@@ -997,7 +997,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Mills",
@@ -1108,6 +1108,12 @@
       "injury_status": null
     },
     {
+      "name": "Detroit Lions",
+      "position": "DEF",
+      "team": "DET",
+      "injury_status": null
+    },
+    {
       "name": "Devaughn Vele",
       "position": "WR",
       "team": "NO",
@@ -1168,12 +1174,6 @@
       "injury_status": null
     },
     {
-      "name": "DJ Uiagalelei",
-      "position": "QB",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "Dohnte Meyers",
       "position": "WR",
       "team": "CIN",
@@ -1220,6 +1220,12 @@
       "position": "QB",
       "team": "PIT",
       "injury_status": null
+    },
+    {
+      "name": "Drew Lock",
+      "position": "QB",
+      "team": "SEA",
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Ogletree",
@@ -1564,6 +1570,12 @@
       "injury_status": null
     },
     {
+      "name": "Harrison Butker",
+      "position": "K",
+      "team": "KC",
+      "injury_status": null
+    },
+    {
       "name": "Harrison Wallace III",
       "position": "WR",
       "team": "ARI",
@@ -1627,6 +1639,12 @@
       "name": "Ian Wheeler",
       "position": "RB",
       "team": "LAC",
+      "injury_status": null
+    },
+    {
+      "name": "Indianapolis Colts",
+      "position": "DEF",
+      "team": "IND",
       "injury_status": null
     },
     {
@@ -2044,12 +2062,6 @@
       "injury_status": null
     },
     {
-      "name": "Jason Sanders",
-      "position": "K",
-      "team": "NYJ",
-      "injury_status": null
-    },
-    {
       "name": "Jauan Jennings",
       "position": "WR",
       "team": "MIN",
@@ -2299,7 +2311,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Whittington",
@@ -2407,12 +2419,6 @@
       "name": "Julius Chestnut",
       "position": "RB",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "Justice Hill",
-      "position": "RB",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -2683,6 +2689,12 @@
       "name": "Kyle Juszczyk",
       "position": "FB",
       "team": "SF",
+      "injury_status": null
+    },
+    {
+      "name": "Kyle McCord",
+      "position": "QB",
+      "team": "MIA",
       "injury_status": null
     },
     {
@@ -3163,12 +3175,6 @@
       "name": "New York Giants",
       "position": "DEF",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "New York Jets",
-      "position": "DEF",
-      "team": "NYJ",
       "injury_status": null
     },
     {
@@ -4117,7 +4123,7 @@
       "name": "Tyler Higbee",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Huntley",
@@ -4196,12 +4202,6 @@
       "position": "WR",
       "team": "TEN",
       "injury_status": "IR"
-    },
-    {
-      "name": "Washington Commanders",
-      "position": "DEF",
-      "team": "WAS",
-      "injury_status": null
     },
     {
       "name": "Wendell Smallwood",
@@ -4760,11 +4760,6 @@
           "team": "SF"
         },
         {
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC"
-        },
-        {
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
@@ -4773,6 +4768,11 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "name": "Jason Sanders",
+          "position": "K",
+          "team": "NYJ"
         },
         {
           "name": "Jakobi Meyers",
@@ -5250,9 +5250,9 @@
           "team": "JAX"
         },
         {
-          "name": "Indianapolis Colts",
+          "name": "New York Jets",
           "position": "DEF",
-          "team": "IND"
+          "team": "NYJ"
         }
       ]
     },
@@ -5349,14 +5349,14 @@
           "team": "NE"
         },
         {
-          "name": "Kyle McCord",
-          "position": "QB",
-          "team": "MIA"
-        },
-        {
           "name": "Elic Ayomanor",
           "position": "WR",
           "team": "TEN"
+        },
+        {
+          "name": "DJ Uiagalelei",
+          "position": "QB",
+          "team": "LAC"
         },
         {
           "name": "Denzel Boston",
@@ -5379,9 +5379,9 @@
           "team": "MIN"
         },
         {
-          "name": "Drew Lock",
-          "position": "QB",
-          "team": "SEA"
+          "name": "Justice Hill",
+          "position": "RB",
+          "team": "BAL"
         },
         {
           "name": "CeeDee Lamb",
@@ -5419,9 +5419,9 @@
           "team": "BAL"
         },
         {
-          "name": "Detroit Lions",
+          "name": "Washington Commanders",
           "position": "DEF",
-          "team": "DET"
+          "team": "WAS"
         }
       ]
     }
