@@ -1,4 +1,4 @@
-# id|name|pos|team  (generated 2026-11-25T03:03:47.424Z)
+# id|name|pos|team  (generated 2026-11-26T02:16:08.202Z)
 19|Joe Flacco|QB|CIN
 96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
@@ -27,6 +27,7 @@
 2078|Odell Beckham Jr.|WR|MIN
 2118|Eric Ebron|TE|PIT
 2133|Davante Adams|WR|LAR
+2197|Brandin Cooks|WR|SF
 2216|Mike Evans|WR|SF
 2306|Jameis Winston|QB|NYG
 2307|Marcus Mariota|QB|WAS
@@ -95,7 +96,6 @@
 4454|Kendrick Bourne|WR|ARI
 4464|Nick Mullens|QB|JAX
 4490|Wyatt Houston|TE|CAR
-4574|Cooper Rush|QB|TB
 4602|Robert Tonyan|TE|PIT
 4663|Austin Ekeler|RB|WAS
 4683|Aaron Bailey|QB|BAL
@@ -190,7 +190,6 @@
 6540|DeAndre Thompkins|WR|GB
 6588|Tom Kennedy|WR|DET
 6650|Chase McLaughlin|K|TB
-6659|Craig Reynolds|RB|WAS
 6677|Joe Forson|WR|KC
 6699|Gunner Olszewski|WR|NYG
 6768|Tua Tagovailoa|QB|ATL
@@ -202,6 +201,7 @@
 6797|Justin Herbert|QB|LAC
 6798|Jalen Reagor|WR|MIA
 6801|Tee Higgins|WR|CIN
+6803|Brandon Aiyuk|WR|WAS
 6804|Jordan Love|QB|GB
 6806|J.K. Dobbins|RB|DEN
 6813|Jonathan Taylor|RB|IND
@@ -226,7 +226,6 @@
 7042|Tyler Bass|K|BUF
 7048|Benny LeMay|RB|CLE
 7049|Jauan Jennings|WR|MIN
-7050|Josiah Deguara|TE|LAC
 7066|K.J. Osborn|WR|TEN
 7075|Charlie Woerner|TE|ATL
 7083|Tyler Huntley|QB|BAL
@@ -345,6 +344,7 @@
 8188|Tyquan Thornton|WR|KC
 8194|Jashaun Corbin|RB|DAL
 8195|Ronnie Rivers|RB|LAR
+8200|Kevin Austin Jr.|WR|NO
 8204|Bo Melton|WR|GB
 8205|Isiah Pacheco|RB|DET
 8206|Skylar Thompson|QB|BAL
@@ -456,6 +456,7 @@
 11034|Jalen Brooks|WR|ARI
 11056|Jared Wayne|WR|MIA
 11058|Blake Grupe|K|LAR
+11065|Adrian Martinez|QB|SEA
 11068|Mitch Tinsley|WR|CIN
 11082|Ben Sims|TE|SEA
 11113|Joel Wilson|TE|TEN
@@ -466,6 +467,7 @@
 11201|Blake Whiteheart|TE|CLE
 11210|Malik Heath|WR|WAS
 11237|Jacob Saylors|RB|DET
+11245|Patrick Murtagh|TE|NO
 11256|Tyson Bagent|QB|CHI
 11257|Shedrick Jackson|WR|ARI
 11260|Robert Burns|FB|CHI
@@ -551,6 +553,7 @@
 11644|Cody Schrader|RB|DEN
 11646|Jalen Coker|WR|CAR
 11647|Kimani Vidal|RB|LAC
+11648|Kedon Slovis|QB|ARI
 11649|Kendall Milton|RB|CIN
 11650|Luke McCaffrey|WR|WAS
 11651|Isaac Guerendo|RB|SF
@@ -667,7 +670,6 @@
 12658|Jackson Hawes|TE|BUF
 12670|KeAndre Lambert-Smith|WR|LAC
 12688|Cam Miller|QB|GB
-12699|LaJohntay Wester|WR|BAL
 12700|Gavin Bartholomew|TE|MIN
 12705|Graham Mertz|QB|HOU
 12711|Tyler Loop|K|BAL
@@ -691,7 +693,6 @@
 12817|Jake Briningstool|TE|KC
 12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
-12860|Theo Wease Jr.|WR|LAC
 12863|Andrew Armstrong|WR|KC
 12865|AJ Henning|WR|MIA
 12883|Joshua Simon|TE|CAR
@@ -871,8 +872,10 @@
 13827|Tanner Arkin|TE|NE
 13830|Kyle Dixon|WR|NE
 13833|Dominic Zvada|K|NYG
+13861|Daniel Sobkowicz|WR|HOU
 13870|Quentin Moore|TE|WAS
 13890|Michael Briscoe|WR|MIN
+13904|Jacob De Jesus|WR|SEA
 13905|Omari Evans|WR|KC
 13913|Patrick Gurd|TE|LV
 13923|Joshua Pitsenberger|RB|HOU
