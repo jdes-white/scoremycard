@@ -1,18 +1,12 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-26T11:40:46.523Z",
-  "free_agent_count": 758,
+  "generated_at": "2026-11-26T20:40:46.434Z",
+  "free_agent_count": 757,
   "free_agents": [
     {
       "name": "Aaron Bailey",
       "position": "QB",
       "team": "BAL",
-      "injury_status": null
-    },
-    {
-      "name": "Aaron Rodgers",
-      "position": "QB",
-      "team": "PIT",
       "injury_status": null
     },
     {
@@ -319,7 +313,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "Questionable"
+      "injury_status": "IR"
     },
     {
       "name": "Ben VanSumeren",
@@ -679,7 +673,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Casey Washington",
@@ -859,7 +853,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Cole Turner",
@@ -966,12 +960,6 @@
     {
       "name": "Daniel Sobkowicz",
       "position": "WR",
-      "team": "HOU",
-      "injury_status": null
-    },
-    {
-      "name": "Dare Ogunbowale",
-      "position": "RB",
       "team": "HOU",
       "injury_status": null
     },
@@ -1279,7 +1267,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drew Sample",
@@ -1573,7 +1561,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Grant Finley",
@@ -1675,7 +1663,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Hunter Luepke",
@@ -3199,7 +3187,7 @@
       "name": "Michael Pittman Jr.",
       "position": "WR",
       "team": "PIT",
-      "injury_status": "IR"
+      "injury_status": null
     },
     {
       "name": "Michael Trigg",
@@ -3943,7 +3931,7 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tank Bigsby",
@@ -4069,6 +4057,12 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
+      "injury_status": null
+    },
+    {
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "team": "LAC",
       "injury_status": null
     },
     {
