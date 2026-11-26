@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-26T01:28:43.894Z",
+  "generated_at": "2026-11-26T11:49:42.247Z",
   "free_agent_count": 839,
   "free_agents": [
     {
@@ -859,7 +859,7 @@
       "name": "Christian Watson",
       "position": "WR",
       "team": "GB",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "CJ Daniels",
@@ -1135,7 +1135,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Mills",
@@ -2635,7 +2635,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Whittington",
@@ -4771,7 +4771,7 @@
       "name": "Tyler Higbee",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Huntley",
