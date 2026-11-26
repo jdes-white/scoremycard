@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-26T01:17:18.158Z",
+  "generated_at": "2026-11-26T11:40:46.523Z",
   "free_agent_count": 758,
   "free_agents": [
     {
@@ -1039,7 +1039,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Davis Mills",
@@ -2395,7 +2395,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jordan Whittington",
@@ -4309,7 +4309,7 @@
       "name": "Tyler Higbee",
       "position": "TE",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyler Huntley",
