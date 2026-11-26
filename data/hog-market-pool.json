@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-25T16:18:33.208Z",
+  "generated_at": "2026-11-26T01:13:48.953Z",
   "free_agent_count": 726,
   "free_agents": [
     {
@@ -343,13 +343,13 @@
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Brady Boyd",
@@ -367,6 +367,18 @@
       "name": "Brady Russell",
       "position": "RB",
       "team": "SEA",
+      "injury_status": null
+    },
+    {
+      "name": "Brandin Cooks",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
+      "name": "Brandon Aiyuk",
+      "position": "WR",
+      "team": "WAS",
       "injury_status": null
     },
     {
@@ -844,21 +856,9 @@
       "injury_status": null
     },
     {
-      "name": "Cooper Rush",
-      "position": "QB",
-      "team": "TB",
-      "injury_status": null
-    },
-    {
       "name": "Courtland Sutton",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
-    },
-    {
-      "name": "Craig Reynolds",
-      "position": "RB",
-      "team": "WAS",
       "injury_status": null
     },
     {
@@ -922,6 +922,12 @@
       "injury_status": null
     },
     {
+      "name": "Daniel Sobkowicz",
+      "position": "WR",
+      "team": "HOU",
+      "injury_status": null
+    },
+    {
       "name": "Dare Ogunbowale",
       "position": "RB",
       "team": "HOU",
@@ -931,7 +937,7 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Darius Cooper",
@@ -979,7 +985,7 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "David Sills V",
@@ -1219,7 +1225,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Sample",
@@ -1699,7 +1705,7 @@
       "name": "J.K. Dobbins",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Out"
+      "injury_status": "Sus"
     },
     {
       "name": "J'Mari Taylor",
@@ -1819,7 +1825,7 @@
       "name": "Jahan Dotson",
       "position": "WR",
       "team": "ATL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jahdae Walker",
@@ -1903,7 +1909,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Jalen Morton",
@@ -2239,7 +2245,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jonathon Brooks",
@@ -2386,12 +2392,6 @@
       "injury_status": null
     },
     {
-      "name": "Josiah Deguara",
-      "position": "TE",
-      "team": "LAC",
-      "injury_status": null
-    },
-    {
       "name": "JP Richardson",
       "position": "WR",
       "team": "CHI",
@@ -2522,6 +2522,12 @@
       "position": "RB",
       "team": "LAC",
       "injury_status": "Questionable"
+    },
+    {
+      "name": "Kedon Slovis",
+      "position": "QB",
+      "team": "ARI",
+      "injury_status": null
     },
     {
       "name": "Keleki Latu",
@@ -2695,12 +2701,6 @@
       "name": "Kylen Granson",
       "position": "TE",
       "team": "TEN",
-      "injury_status": null
-    },
-    {
-      "name": "LaJohntay Wester",
-      "position": "WR",
-      "team": "BAL",
       "injury_status": null
     },
     {
@@ -3121,7 +3121,7 @@
       "name": "Myles Price",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Myles White",
@@ -3187,7 +3187,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Nick Mullens",
@@ -3247,7 +3247,7 @@
       "name": "Noah Gray",
       "position": "TE",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Noah Thomas",
@@ -3412,6 +3412,12 @@
       "injury_status": null
     },
     {
+      "name": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "injury_status": null
+    },
+    {
       "name": "Raheim Sanders",
       "position": "RB",
       "team": "CLE",
@@ -3433,7 +3439,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Ray Davis",
@@ -3445,7 +3451,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Reggie Virgil",
@@ -3535,7 +3541,7 @@
       "name": "Roschon Johnson",
       "position": "RB",
       "team": "CHI",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Ryan Fitzgerald",
@@ -3703,7 +3709,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Spencer Rattler",
@@ -3751,7 +3757,7 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tank Bigsby",
@@ -3871,12 +3877,6 @@
       "name": "Theo Johnson",
       "position": "TE",
       "team": "NYG",
-      "injury_status": null
-    },
-    {
-      "name": "Theo Wease Jr.",
-      "position": "WR",
-      "team": "LAC",
       "injury_status": null
     },
     {
@@ -4039,7 +4039,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Treyton Welch",
@@ -4081,7 +4081,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Tyjae Spears",
@@ -4261,7 +4261,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Wyatt Houston",
@@ -4783,11 +4783,6 @@
           "name": "Trevor Lawrence",
           "position": "QB",
           "team": "JAX"
-        },
-        {
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "name": "Jameson Williams",
