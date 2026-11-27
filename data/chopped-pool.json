@@ -1,6 +1,6 @@
 {
   "league_id": "1390614263638265856",
-  "generated_at": "2026-11-27T03:26:52.173Z",
+  "generated_at": "2026-11-27T15:59:55.175Z",
   "free_agent_count": 838,
   "free_agents": [
     {
@@ -2197,7 +2197,7 @@
       "name": "Jalen Royals",
       "position": "WR",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Tolbert",
@@ -3793,7 +3793,7 @@
       "name": "Parker Washington",
       "position": "WR",
       "team": "JAX",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Pat Bryant",
