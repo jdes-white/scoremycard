@@ -1,6 +1,6 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-26T20:40:46.434Z",
+  "generated_at": "2026-11-27T03:21:37.404Z",
   "free_agent_count": 757,
   "free_agents": [
     {
@@ -349,7 +349,7 @@
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Bo Melton",
@@ -724,12 +724,6 @@
       "injury_status": null
     },
     {
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "team": "WAS",
-      "injury_status": null
-    },
-    {
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
@@ -925,7 +919,7 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Damon Bankston",
@@ -997,7 +991,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "David Martin-Robinson",
@@ -1471,7 +1465,7 @@
       "name": "Feleipe Franks",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Fernando Mendoza",
@@ -1519,7 +1513,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Garrett Scantling",
@@ -1741,7 +1735,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Isiah Pacheco",
@@ -2626,6 +2620,12 @@
       "injury_status": null
     },
     {
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team": "SF",
+      "injury_status": null
+    },
+    {
       "name": "Keleki Latu",
       "position": "TE",
       "team": "BUF",
@@ -3037,7 +3037,7 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Marvin Mims Jr.",
@@ -3235,7 +3235,7 @@
       "name": "Mitchell Evans",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Mitchell Trubisky",
@@ -3337,7 +3337,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Nick Mullens",
@@ -3397,7 +3397,7 @@
       "name": "Noah Gray",
       "position": "TE",
       "team": "KC",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Noah Thomas",
@@ -3595,7 +3595,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Ray Davis",
@@ -3871,7 +3871,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Skyler Howard",
@@ -4135,7 +4135,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Tory Horton",
@@ -4285,7 +4285,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "IR"
+      "injury_status": "Questionable"
     },
     {
       "name": "Tyler Conklin",
@@ -5179,11 +5179,6 @@
           "team": "DEN"
         },
         {
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
@@ -5207,6 +5202,11 @@
           "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC"
+        },
+        {
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         },
         {
           "name": "Parker Washington",
