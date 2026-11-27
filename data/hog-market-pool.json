@@ -1,6 +1,6 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-27T03:19:50.613Z",
+  "generated_at": "2026-11-27T15:42:32.561Z",
   "free_agent_count": 726,
   "free_agents": [
     {
@@ -1963,7 +1963,7 @@
       "name": "Jalen Royals",
       "position": "WR",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Tolbert",
