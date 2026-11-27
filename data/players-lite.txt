@@ -1,6 +1,5 @@
-# id|name|pos|team  (generated 2026-11-26T02:16:08.202Z)
+# id|name|pos|team  (generated 2026-11-27T02:16:09.969Z)
 19|Joe Flacco|QB|CIN
-96|Aaron Rodgers|QB|PIT
 138|Ben Roethlisberger|QB|PIT
 260|Josh Johnson|QB|ARI
 421|Matthew Stafford|QB|LAR
@@ -99,7 +98,6 @@
 4602|Robert Tonyan|TE|PIT
 4663|Austin Ekeler|RB|WAS
 4683|Aaron Bailey|QB|BAL
-4718|Dare Ogunbowale|RB|HOU
 4744|Barrett Burns|TE|BAL
 4866|Saquon Barkley|RB|PHI
 4881|Lamar Jackson|QB|BAL
@@ -693,6 +691,7 @@
 12817|Jake Briningstool|TE|KC
 12829|Coleman Owen|WR|GB
 12848|Josh Kelly|WR|HOU
+12860|Theo Wease Jr.|WR|LAC
 12863|Andrew Armstrong|WR|KC
 12865|AJ Henning|WR|MIA
 12883|Joshua Simon|TE|CAR
