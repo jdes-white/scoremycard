@@ -1,7 +1,7 @@
 {
   "league_id": "1387685374553251840",
-  "generated_at": "2026-11-27T03:21:37.404Z",
-  "free_agent_count": 757,
+  "generated_at": "2026-11-27T15:47:30.377Z",
+  "free_agent_count": 758,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -2017,7 +2017,7 @@
       "name": "Jalen Royals",
       "position": "WR",
       "team": "KC",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Jalen Tolbert",
@@ -3454,6 +3454,12 @@
       "injury_status": null
     },
     {
+      "name": "Pat Bryant",
+      "position": "WR",
+      "team": "DEN",
+      "injury_status": null
+    },
+    {
       "name": "Patrick Gurd",
       "position": "TE",
       "team": "LV",
@@ -4854,11 +4860,6 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "name": "Pat Bryant",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "name": "Ollie Gordon II",
