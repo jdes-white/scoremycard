@@ -1,7 +1,7 @@
 {
   "league_id": "1311306094580080640",
-  "generated_at": "2026-11-27T15:42:32.561Z",
-  "free_agent_count": 726,
+  "generated_at": "2026-11-28T00:46:04.202Z",
+  "free_agent_count": 725,
   "free_agents": [
     {
       "name": "Aaron Bailey",
@@ -427,7 +427,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Doubtful"
     },
     {
       "name": "Brennan Presley",
@@ -445,7 +445,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Brevyn Spann-Ford",
@@ -889,7 +889,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Damon Bankston",
@@ -1219,19 +1219,19 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Drew Sample",
@@ -1321,7 +1321,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Eli Raridon",
@@ -1849,7 +1849,7 @@
       "name": "Jahan Dotson",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jahdae Walker",
@@ -1933,7 +1933,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Jalen Morton",
@@ -2023,7 +2023,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jared Wiley",
@@ -2281,7 +2281,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Doubtful"
+      "injury_status": "Out"
     },
     {
       "name": "Jordan Hudson",
@@ -2317,7 +2317,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Jordan Whittington",
@@ -2467,7 +2467,7 @@
       "name": "Kaden Wetjen",
       "position": "WR",
       "team": "PIT",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Kaleb Johnson",
@@ -2509,7 +2509,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kaytron Allen",
@@ -2533,7 +2533,7 @@
       "name": "Keaton Mitchell",
       "position": "RB",
       "team": "LAC",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Kedon Slovis",
@@ -2785,7 +2785,7 @@
       "name": "Lil'Jordan Humphrey",
       "position": "WR",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Los Angeles Chargers",
@@ -2888,12 +2888,6 @@
       "position": "RB",
       "team": "DAL",
       "injury_status": "IR"
-    },
-    {
-      "name": "Malik Heath",
-      "position": "WR",
-      "team": "WAS",
-      "injury_status": null
     },
     {
       "name": "Malik McClain",
@@ -3139,7 +3133,7 @@
       "name": "Myles Price",
       "position": "WR",
       "team": "MIN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Myles White",
@@ -3253,7 +3247,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Noah Gray",
@@ -3577,7 +3571,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "injury_status": null
+      "injury_status": "Out"
     },
     {
       "name": "Sam Hartman",
@@ -3877,7 +3871,7 @@
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
-      "injury_status": null
+      "injury_status": "Questionable"
     },
     {
       "name": "Theo Johnson",
@@ -4045,7 +4039,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Treyton Welch",
@@ -4105,7 +4099,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "injury_status": "Questionable"
+      "injury_status": null
     },
     {
       "name": "Tyler Conklin",
@@ -4243,7 +4237,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Will Pauling",
@@ -4321,7 +4315,7 @@
       "name": "Zachariah Branch",
       "position": "WR",
       "team": "ATL",
-      "injury_status": "Questionable"
+      "injury_status": "Out"
     },
     {
       "name": "Zaire Mitchell-Paden",
